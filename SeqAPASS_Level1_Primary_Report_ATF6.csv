@@ -1,0 +1,915 @@
+Data Version,NCBI Accession,Protein Count,Taxonomic Group,Filtered Taxonomic Group,Scientific Name,Common Name,Protein Name,BLASTp Bitscore,Ortholog Candidate,Ortholog Count,Cut-off,Percent Similarity,Susceptibility Prediction,Analysis Completed,Eukaryote,ECOTOX
+5,NP_031374.2,1802968,Mammalia,Mammalia,Homo sapiens,Human,cyclic AMP-dependent transcription factor ATF-6 alpha,1380.16,Y,121,32.35,100,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_001174215.1,171847,Mammalia,Mammalia,Pan troglodytes,Chimpanzee,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X3,1369.76,Y,121,32.35,99.25,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_003824605.1,51215,Mammalia,Mammalia,Pan paniscus,Pygmy chimpanzee,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1369.76,Y,121,32.35,99.25,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_018881402.2,52117,Mammalia,Mammalia,Gorilla gorilla gorilla,Western lowland gorilla,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1364.36,Y,121,32.35,98.86,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_024106970.1,141140,Mammalia,Mammalia,Pongo abelii,Sumatran orangutan,cyclic AMP-dependent transcription factor ATF-6 alpha,1355.89,Y,121,32.35,98.24,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030679915.1,51631,Mammalia,Mammalia,Nomascus leucogenys,Northern white-cheeked gibbon,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1349.34,Y,121,32.35,97.77,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_033055690.1,63302,Mammalia,Mammalia,Trachypithecus francoisi,Francois's langur,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1348.18,Y,121,32.35,97.68,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_025244054.1,52581,Mammalia,Mammalia,Theropithecus gelada,Gelada,cyclic AMP-dependent transcription factor ATF-6 alpha,1348.18,Y,121,32.35,97.68,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_032017042.1,54502,Mammalia,Mammalia,Hylobates moloch,Silvery gibbon,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1348.18,Y,121,32.35,97.68,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,EHH15458.1,175489,Mammalia,Mammalia,Macaca mulatta,Rhesus monkey,hypothetical protein EGK_01548,1347.41,Y,121,32.35,97.63,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,EHH50478.1,97446,Mammalia,Mammalia,Macaca fascicularis,Crab-eating macaque,hypothetical protein EGM_01312,1347.41,Y,121,32.35,97.63,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_011922865.1,66421,Mammalia,Mammalia,Cercocebus atys,Sooty mangabey,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,1347.03,Y,121,32.35,97.6,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_024653858.1,68519,Mammalia,Mammalia,Macaca nemestrina,Pig-tailed macaque,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1345.87,Y,121,32.35,97.52,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_007974563.1,62219,Mammalia,Mammalia,Chlorocebus sabaeus,Green monkey,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1344.33,Y,121,32.35,97.4,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_003893029.1,73457,Mammalia,Mammalia,Papio anubis,Olive baboon,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1343.56,Y,121,32.35,97.35,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_011808370.1,38676,Mammalia,Mammalia,Colobus angolensis palliatus,Angolan colobus,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,1343.56,Y,121,32.35,97.35,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_010371917.1,53902,Mammalia,Mammalia,Rhinopithecus roxellana,Golden snub-nosed monkey,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X3,1342.02,Y,121,32.35,97.24,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_011851495.1,38457,Mammalia,Mammalia,Mandrillus leucophaeus,Drill,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,1341.25,Y,121,32.35,97.18,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_032147477.1,62479,Mammalia,Mammalia,Sapajus apella,Tufted capuchin,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1333.55,Y,121,32.35,96.62,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_017821909.1,47726,Mammalia,Mammalia,Callithrix jacchus,White-tufted-ear marmoset,PREDICTED: LOW QUALITY PROTEIN: cyclic AMP-dependent transcription factor ATF-6 alpha,1332.39,Y,121,32.35,96.54,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_017370568.1,53173,Mammalia,Mammalia,Cebus capucinus imitator,White-faced sapajou,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,1331.24,Y,121,32.35,96.46,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_003943429.1,36294,Mammalia,Mammalia,Saimiri boliviensis boliviensis,Bolivian squirrel monkey,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1328.15,Y,121,32.35,96.23,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_023496083.1,67727,Mammalia,Mammalia,Equus caballus,Horse,"cyclic AMP-dependent transcription factor ATF-6 alpha, partial",1263.83,Y,121,32.35,91.57,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_020730673.1,48218,Mammalia,Mammalia,Odocoileus virginianus texanus,White-tailed deer,cyclic AMP-dependent transcription factor ATF-6 alpha,1245.72,Y,121,32.35,90.26,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_014696627.1,42730,Mammalia,Mammalia,Equus asinus,Ass,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1244.57,Y,121,32.35,90.18,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_025143173.1,60996,Mammalia,Mammalia,Bubalus bubalis,Water buffalo,cyclic AMP-dependent transcription factor ATF-6 alpha,1240.33,Y,121,32.35,89.87,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_025747849.1,46265,Mammalia,Mammalia,Callorhinus ursinus,Northern fur seal,"cyclic AMP-dependent transcription factor ATF-6 alpha, partial",1238.4,Y,121,32.35,89.73,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_027960523.1,40113,Mammalia,Mammalia,Eumetopias jubatus,Steller sea lion,cyclic AMP-dependent transcription factor ATF-6 alpha,1238.02,Y,121,32.35,89.7,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_005903875.1,68301,Mammalia,Mammalia,Bos mutus,Wild yak,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,1235.32,Y,121,32.35,89.51,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_032701389.1,48403,Mammalia,Mammalia,Lontra canadensis,Northern American river otter,cyclic AMP-dependent transcription factor ATF-6 alpha,1234.17,Y,121,32.35,89.42,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_026373157.1,43159,Mammalia,Mammalia,Ursus arctos horribilis,Brown bear,"cyclic AMP-dependent transcription factor ATF-6 alpha, partial",1234.17,Y,121,32.35,89.42,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_021554132.1,28446,Mammalia,Mammalia,Neomonachus schauinslandi,Hawaiian monk seal,cyclic AMP-dependent transcription factor ATF-6 alpha,1233.01,Y,121,32.35,89.34,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_027383277.1,54423,Mammalia,Mammalia,Bos indicus x Bos taurus,Hybrid cattle,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1229.54,Y,121,32.35,89.09,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_019813677.1,37725,Mammalia,Mammalia,Bos indicus,Zebu cattle,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,1228.39,Y,121,32.35,89,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_020945172.1,81816,Mammalia,Mammalia,Sus scrofa,Pig,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X3,1225.31,Y,121,32.35,88.78,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_004403509.1,31381,Mammalia,Mammalia,Odobenus rosmarus divergens,Pacific walrus,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,1223.76,Y,121,32.35,88.67,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_008535132.1,38537,Mammalia,Mammalia,Equus przewalskii,Przewalski's horse,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,1222.22,Y,121,32.35,88.56,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012040410.1,51033,Mammalia,Mammalia,Ovis aries,Sheep,cyclic AMP-dependent transcription factor ATF-6 alpha,1221.45,Y,121,32.35,88.5,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_023972599.1,51261,Mammalia,Mammalia,Physeter catodon,Sperm whale,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X4,1212.98,Y,121,32.35,87.89,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_004751560.1,48578,Mammalia,Mammalia,Mustela putorius furo,Domestic ferret,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,1211.05,Y,121,32.35,87.75,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_004424879.1,33628,Mammalia,Mammalia,Ceratotherium simum simum,Southern white rhinoceros,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1210.67,Y,121,32.35,87.72,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_024845644.1,133369,Mammalia,Mammalia,Bos taurus,Cattle,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1210.28,Y,121,32.35,87.69,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_031791384.1,55377,Mammalia,Mammalia,Piliocolobus tephrosceles,Ugandan red Colobus,cyclic AMP-dependent transcription factor ATF-6 alpha,1209.9,Y,121,32.35,87.66,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_010852987.1,35574,Mammalia,Mammalia,Bison bison bison,American bison,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1207.97,Y,121,32.35,87.52,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_031292650.1,86205,Mammalia,Mammalia,Camelus dromedarius,Arabian camel,"cyclic AMP-dependent transcription factor ATF-6 alpha, partial",1207.59,Y,121,32.35,87.5,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_006173206.2,74403,Mammalia,Mammalia,Camelus ferus,Wild Bactrian camel,"cyclic AMP-dependent transcription factor ATF-6 alpha, partial",1207.59,Y,121,32.35,87.5,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_007935959.1,25532,Mammalia,Mammalia,Orycteropus afer afer,Aardvark,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,1206.43,Y,121,32.35,87.41,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022364631.1,36593,Mammalia,Mammalia,Enhydra lutris kenyoni,Sea otter,cyclic AMP-dependent transcription factor ATF-6 alpha,1206.05,Y,121,32.35,87.38,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_032173457.1,60642,Mammalia,Mammalia,Mustela erminea,Ermine,cyclic AMP-dependent transcription factor ATF-6 alpha,1204.89,Y,121,32.35,87.3,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_006219282.2,44301,Mammalia,Mammalia,Vicugna pacos,Alpaca,"cyclic AMP-dependent transcription factor ATF-6 alpha, partial",1202.96,Y,121,32.35,87.16,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VTJ68237.1,42055,Mammalia,Mammalia,Marmota monax,Woodchuck,Hypothetical predicted protein,1187.94,Y,121,32.35,86.07,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_015347407.1,31063,Mammalia,Mammalia,Marmota marmota marmota,Alpine marmot,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1187.94,Y,121,32.35,86.07,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_005398384.1,45556,Mammalia,Mammalia,Chinchilla lanigera,Long-tailed chinchilla,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,1187.17,Y,121,32.35,86.02,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_004385804.1,37488,Mammalia,Mammalia,Trichechus manatus latirostris,Florida manatee,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1186.79,Y,121,32.35,85.99,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_027778285.1,37707,Mammalia,Mammalia,Marmota flaviventris,Yellow-bellied marmot,cyclic AMP-dependent transcription factor ATF-6 alpha,1185.24,Y,121,32.35,85.88,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_028019738.1,37624,Mammalia,Mammalia,Balaenoptera acutorostrata scammoni,Minke whale,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X3,1184.47,Y,121,32.35,85.82,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_008263758.2,48644,Mammalia,Mammalia,Oryctolagus cuniculus,Rabbit,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,1182.55,Y,121,32.35,85.68,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_024607401.1,38185,Mammalia,Mammalia,Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,cyclic AMP-dependent transcription factor ATF-6 alpha,1182.16,Y,121,32.35,85.65,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_029083763.1,65846,Mammalia,Mammalia,Monodon monoceros,Narwhal,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,1180.24,Y,121,32.35,85.51,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_010952159.1,29233,Mammalia,Mammalia,Camelus bactrianus,Bactrian camel,PREDICTED: LOW QUALITY PROTEIN: cyclic AMP-dependent transcription factor ATF-6 alpha,1179.85,Y,121,32.35,85.49,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_033711832.1,56999,Mammalia,Mammalia,Tursiops truncatus,Common bottlenose dolphin,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1177.54,Y,121,32.35,85.32,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_019321317.1,58569,Mammalia,Mammalia,Panthera pardus,Leopard,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1173.69,Y,121,32.35,85.04,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_025783598.1,23618,Mammalia,Mammalia,Puma concolor,Puma,cyclic AMP-dependent transcription factor ATF-6 alpha,1171.76,Y,121,32.35,84.9,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VFV34178.1,31243,Mammalia,Mammalia,Lynx pardinus,Spanish lynx,cyclic amp-dependent transcription,1170.22,Y,121,32.35,84.79,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_023103364.1,57491,Mammalia,Mammalia,Felis catus,Domestic cat,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1170.22,Y,121,32.35,84.79,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030158394.1,42103,Mammalia,Mammalia,Lynx canadensis,Canada lynx,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1170.22,Y,121,32.35,84.79,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_010615316.1,67687,Mammalia,Mammalia,Fukomys damarensis,Damara mole-rat,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1165.6,Y,121,32.35,84.45,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_004865212.1,82643,Mammalia,Mammalia,Heterocephalus glaber,Naked mole-rat,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X4,1163.67,Y,121,32.35,84.31,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012886152.1,29399,Mammalia,Mammalia,Dipodomys ordii,Ord's kangaroo rat,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1162.13,Y,121,32.35,84.2,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_026930882.1,56435,Mammalia,Mammalia,Acinonyx jubatus,Cheetah,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1162.13,Y,121,32.35,84.2,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_545777.3,67615,Mammalia,Mammalia,Canis lupus familiaris,Dog,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,1161.36,Y,121,32.35,84.15,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_025847029.1,38429,Mammalia,Mammalia,Vulpes vulpes,Red fox,cyclic AMP-dependent transcription factor ATF-6 alpha,1159.82,Y,121,32.35,84.04,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012372095.1,42496,Mammalia,Mammalia,Octodon degus,Degu,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1155.58,Y,121,32.35,83.73,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_004589350.1,26023,Mammalia,Mammalia,Ochotona princeps,American pika,PREDICTED: LOW QUALITY PROTEIN: cyclic AMP-dependent transcription factor ATF-6 alpha,1148.65,Y,121,32.35,83.23,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_008571782.1,32194,Mammalia,Mammalia,Galeopterus variegatus,Sunda flying lemur,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,1147.88,Y,121,32.35,83.17,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_003506926.2,162753,Mammalia,Mammalia,Cricetulus griseus,Chinese hamster,cyclic AMP-dependent transcription factor ATF-6 alpha,1142.1,Y,121,32.35,82.75,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_028720165.1,42174,Mammalia,Mammalia,Peromyscus leucopus,White-footed mouse,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1128.62,Y,121,32.35,81.77,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_004479757.1,38736,Mammalia,Mammalia,Dasypus novemcinctus,Nine-banded armadillo,cyclic AMP-dependent transcription factor ATF-6 alpha,1128.24,Y,121,32.35,81.75,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_031244773.1,54476,Mammalia,Mammalia,Mastomys coucha,Southern multimammate mouse,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1127.46,Y,121,32.35,81.69,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_029791589.1,43342,Mammalia,Mammalia,Suricata suricatta,Meerkat,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1120.15,Y,121,32.35,81.16,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TEA32921.1,19920,Mammalia,Mammalia,Sousa chinensis,Indo-pacific humpbacked dolphin,"hypothetical protein DBR06_SOUSAS17010014, partial",1119.76,Y,121,32.35,81.13,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_029409926.1,49227,Mammalia,Mammalia,Nannospalax galili,Upper Galilee mountains blind mole rat,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1119.38,Y,121,32.35,81.11,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_021083628.1,38204,Mammalia,Mammalia,Mesocricetus auratus,Golden hamster,cyclic AMP-dependent transcription factor ATF-6 alpha,1114.75,Y,121,32.35,80.77,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_034364798.1,41654,Mammalia,Mammalia,Arvicanthis niloticus,African grass rat,cyclic AMP-dependent transcription factor ATF-6 alpha,1114.37,Y,121,32.35,80.74,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_032770485.1,36141,Mammalia,Mammalia,Rattus rattus,Black rat,LOW QUALITY PROTEIN: cyclic AMP-dependent transcription factor ATF-6 alpha,1108.21,Y,121,32.35,80.3,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_016048153.1,29615,Mammalia,Mammalia,Erinaceus europaeus,Western European hedgehog,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,1106.66,Y,121,32.35,80.18,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_028637664.1,38191,Mammalia,Mammalia,Grammomys surdaster,African thicket rats,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1106.66,Y,121,32.35,80.18,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,NP_001100666.1,151095,Mammalia,Mammalia,Rattus norvegicus,Norway rat,cyclic AMP-dependent transcription factor ATF-6 alpha,1106.28,Y,121,32.35,80.16,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_021015021.1,47700,Mammalia,Mammalia,Mus caroli,Ryukyu mouse,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X4,1105.89,Y,121,32.35,80.13,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_021054150.1,42365,Mammalia,Mammalia,Mus pahari,Shrew mouse,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1100.5,Y,121,32.35,79.74,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_032949513.1,48727,Mammalia,Mammalia,Rhinolophus ferrumequinum,Greater horseshoe bat,cyclic AMP-dependent transcription factor ATF-6 alpha,1085.09,Y,121,32.35,78.62,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_033265667.1,59479,Mammalia,Mammalia,Orcinus orca,Killer whale,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1083.55,Y,121,32.35,78.51,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030703314.1,54641,Mammalia,Mammalia,Globicephala melas,Long-finned pilot whale,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1083.55,Y,121,32.35,78.51,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_026955038.1,54700,Mammalia,Mammalia,Lagenorhynchus obliquidens,Pacific white-sided dolphin,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1081.24,Y,121,32.35,78.34,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF0882315.1,17459,Mammalia,Mammalia,Crocuta crocuta,Spotted hyena,"ATF6A factor, partial",1078.16,Y,121,32.35,78.12,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_008151381.1,50025,Mammalia,Mammalia,Eptesicus fuscus,Big brown bat,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1073.15,Y,121,32.35,77.76,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_015419036.1,48716,Mammalia,Mammalia,Myotis davidii,Common bats,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,1068.91,Y,121,32.35,77.45,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_020036907.1,37572,Mammalia,Mammalia,Castor canadensis,American beaver,cyclic AMP-dependent transcription factor ATF-6 alpha,1023.85,Y,121,32.35,74.18,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_026237248.1,36482,Mammalia,Mammalia,Urocitellus parryii,Arctic ground squirrel,cyclic AMP-dependent transcription factor ATF-6 alpha,988.79,Y,121,32.35,71.64,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_013202387.1,37992,Mammalia,Mammalia,Microtus ochrogaster,Prairie vole,cyclic AMP-dependent transcription factor ATF-6 alpha,928.32,Y,121,32.35,67.26,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_021260678.1,43411,Aves,Aves,Numida meleagris,Helmeted guineafowl,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,753.82,Y,121,32.35,54.62,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_025899553.1,21536,Aves,Aves,Nothoprocta perdicaria,Tinamous,cyclic AMP-dependent transcription factor ATF-6 alpha,739.18,Y,121,32.35,53.56,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_014730174.1,26793,Aves,Aves,Sturnus vulgaris,Common starling,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,681.79,Y,121,32.35,49.4,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAB0390941.1,20274,Mammalia,Mammalia,Balaenoptera physalus,Fin whale,hypothetical protein E2I00_010052,503.44,Y,121,32.35,36.48,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_032884283.1,38957,Chondrichthyes,Chondrichthyes,Amblyraja radiata,Thorny skate,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,492.27,Y,121,32.35,35.67,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_023662256.1,55295,Actinopteri,Actinopteri,Paramormyrops kingsleyae,Elephantfishes,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,446.43,Y,121,32.35,32.35,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_002731971.1,22970,Enteropneusta,Enteropneusta,Saccoglossus kowalevskii,Acorn worms,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha-like,239.58,Y,121,32.35,17.36,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022236968.1,39087,Merostomata,Merostomata,Limulus polyphemus,Atlantic horseshoe crab,cyclic AMP-dependent transcription factor ATF-6 alpha-like isoform X4,230.34,Y,121,32.35,16.69,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_023708963.1,59780,Insecta,Insecta,Cryptotermes secundus,Powder-post termites,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,189.12,Y,121,32.35,13.7,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012341632.1,18894,Insecta,Insecta,Apis florea,Little honeybee,uncharacterized protein LOC100865732 isoform X2,178.72,Y,121,32.35,12.95,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,RZC35870.1,15282,Insecta,Insecta,Asbolus verrucosus,Darkling ground beetles,"cyclic AMP-dependent transcription factor ATF-6 beta, partial",174.48,Y,121,32.35,12.64,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012219217.1,21807,Insecta,Insecta,Linepithema humile,Argentine ant,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,166.01,Y,121,32.35,12.03,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_018378482.1,40046,Insecta,Insecta,Trachymyrmex cornetzi,"Wasps, ants, and bees",PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,157.53,Y,121,32.35,11.41,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,EFN66359.1,38868,Insecta,Insecta,Camponotus floridanus,Florida carpenter ant,Cyclic AMP-dependent transcription factor ATF-6 alpha,157.15,Y,121,32.35,11.39,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_013183487.1,18524,Insecta,Insecta,Amyelois transitella,Snout moths,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,141.35,Y,121,32.35,10.24,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,CAB3399690.1,15165,Chromadorea,Chromadorea,Caenorhabditis bovis,Roundworms,unnamed protein product,73.94,Y,121,32.35,5.36,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_013714424.1,188805,Magnoliopsida,Magnoliopsida,Brassica napus,Rape,ABSCISIC ACID-INSENSITIVE 5-like protein 7 isoform X1,60.46,Y,121,32.35,4.38,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF2582532.1,216447,Magnoliopsida,Magnoliopsida,Brassica cretica,Mustard family,hypothetical protein F2Q68_00003164,57.38,Y,121,32.35,4.16,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012571062.1,36743,Magnoliopsida,Magnoliopsida,Cicer arietinum,Chickpea,ABSCISIC ACID-INSENSITIVE 5-like protein 2,54.3,Y,121,32.35,3.93,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TYI65440.1,102430,Magnoliopsida,Magnoliopsida,Gossypium mustelinum,Mallow family,hypothetical protein E1A91_D09G158500v1,53.53,Y,121,32.35,3.88,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_031491620.1,60024,Magnoliopsida,Magnoliopsida,Nymphaea colorata,Water-lilies,bZIP transcription factor 23-like isoform X1,51.6,Y,121,32.35,3.74,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,ABE73184.1,261,Magnoliopsida,Magnoliopsida,Avena fatua,Grass family,"ABA response element binding factor, partial",50.45,Y,121,32.35,3.66,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_027467746.1,59271,Mammalia,Mammalia,Zalophus californianus,California sea lion,cyclic AMP-dependent transcription factor ATF-6 alpha,1235.32,N,121,32.35,89.51,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012624065.1,59986,Mammalia,Mammalia,Microcebus murinus,Gray mouse lemur,cyclic AMP-dependent transcription factor ATF-6 alpha,1232.24,N,121,32.35,89.28,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_017902036.1,46853,Mammalia,Mammalia,Capra hircus,Goat,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,1221.45,N,121,32.35,88.5,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_032278275.1,45571,Mammalia,Mammalia,Phoca vitulina,Harbor seal,cyclic AMP-dependent transcription factor ATF-6 alpha,1219.53,N,121,32.35,88.36,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_011224366.3,73097,Mammalia,Mammalia,Ailuropoda melanoleuca,Giant panda,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1218.76,N,121,32.35,88.31,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_006873497.1,25292,Mammalia,Mammalia,Chrysochloris asiatica,Cape golden mole,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,1214.13,N,121,32.35,87.97,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_008683969.1,29099,Mammalia,Mammalia,Ursus maritimus,Polar bear,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,1205.66,N,121,32.35,87.36,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_004688161.1,29269,Mammalia,Mammalia,Condylura cristata,Star-nosed mole,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1195.65,N,121,32.35,86.63,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_013004706.1,49128,Mammalia,Mammalia,Cavia porcellus,Domestic guinea pig,cyclic AMP-dependent transcription factor ATF-6 alpha,1194.1,N,121,32.35,86.52,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_003785809.1,33085,Mammalia,Mammalia,Otolemur garnettii,Small-eared galago,cyclic AMP-dependent transcription factor ATF-6 alpha,1194.1,N,121,32.35,86.52,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_007093110.1,29960,Mammalia,Mammalia,Panthera tigris altaica,Amur tiger,"PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha, partial",1191.41,N,121,32.35,86.32,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_032495635.1,52297,Mammalia,Mammalia,Phocoena sinus,Vaquita,cyclic AMP-dependent transcription factor ATF-6 alpha,1178.31,N,121,32.35,85.37,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022421272.1,50906,Mammalia,Mammalia,Delphinapterus leucas,Beluga whale,cyclic AMP-dependent transcription factor ATF-6 alpha,1177.16,N,121,32.35,85.29,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_023409988.1,41868,Mammalia,Mammalia,Loxodonta africana,African savanna elephant,cyclic AMP-dependent transcription factor ATF-6 alpha,1160.98,N,121,32.35,84.12,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_025276642.1,62990,Mammalia,Mammalia,Canis lupus dingo,Dingo,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,1157.9,N,121,32.35,83.9,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_006142326.1,59499,Mammalia,Mammalia,Tupaia chinensis,Chinese tree shrew,cyclic AMP-dependent transcription factor ATF-6 alpha,1134.4,N,121,32.35,82.19,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,BAC29389.1,312727,Mammalia,Mammalia,Mus musculus,House mouse,"unnamed protein product, partial",1124.38,N,121,32.35,81.47,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_006994502.1,45652,Mammalia,Mammalia,Peromyscus maniculatus bairdii,Prairie deer mouse,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1124,N,121,32.35,81.44,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030743650.1,24942,Mammalia,Mammalia,Echinops telfairi,Small Madagascar hedgehog,cyclic AMP-dependent transcription factor ATF-6 alpha,1111.67,N,121,32.35,80.55,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_016065948.1,29863,Mammalia,Mammalia,Miniopterus natalensis,Common bats,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,1110.52,N,121,32.35,80.46,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_019516237.1,46123,Mammalia,Mammalia,Hipposideros armiger,Great roundleaf bat,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1098.96,N,121,32.35,79.63,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_006887498.1,25292,Mammalia,Mammalia,Elephantulus edwardii,Cape elephant shrew,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha-like,1097.8,N,121,32.35,79.54,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_014384027.1,60290,Mammalia,Mammalia,Myotis brandtii,Brandt's bat,"PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha, partial",1066.99,N,121,32.35,77.31,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_024435749.1,30697,Mammalia,Mammalia,Desmodus rotundus,Common vampire bat,cyclic AMP-dependent transcription factor ATF-6 alpha,1032.71,N,121,32.35,74.83,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_015985190.1,49042,Mammalia,Mammalia,Rousettus aegyptiacus,Egyptian rousette,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,1025,N,121,32.35,74.27,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_024899642.1,59370,Mammalia,Mammalia,Pteropus alecto,Black flying fox,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1011.52,N,121,32.35,73.29,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_023377250.1,43865,Mammalia,Mammalia,Pteropus vampyrus,Large flying fox,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,1011.52,N,121,32.35,73.29,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_020844292.1,47241,Mammalia,Mammalia,Phascolarctos cinereus,Koala,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,998.42,N,121,32.35,72.34,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_028359258.1,33129,Mammalia,Mammalia,Phyllostomus discolor,Pale spear-nosed bat,cyclic AMP-dependent transcription factor ATF-6 alpha,996.88,N,121,32.35,72.23,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_007480719.1,51248,Mammalia,Mammalia,Monodelphis domestica,Gray short-tailed opossum,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,993.42,N,121,32.35,71.98,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_031792648.1,46282,Mammalia,Mammalia,Sarcophilus harrisii,Tasmanian devil,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X3,984.94,N,121,32.35,71.36,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_027724216.1,42715,Mammalia,Mammalia,Vombatus ursinus,Common wombat,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,981.47,N,121,32.35,71.11,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012805274.1,25743,Mammalia,Mammalia,Jaculus jaculus,Lesser Egyptian jerboa,PREDICTED: LOW QUALITY PROTEIN: cyclic AMP-dependent transcription factor ATF-6 alpha,881.32,N,121,32.35,63.86,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_008059576.1,33251,Mammalia,Mammalia,Carlito syrichta,Philippine tarsier,cyclic AMP-dependent transcription factor ATF-6 alpha,859.75,N,121,32.35,62.29,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF4021111.1,19274,Mammalia,Mammalia,Cervus hanglu yarkandensis,Yarkand deer,hypothetical protein G4228_013848,851.28,N,121,32.35,61.68,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_032660814.1,44376,Testudines,Testudines,Chelonoidis abingdonii,Abingdon island giant tortoise,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,833.56,N,121,32.35,60.4,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_026511105.1,34211,Testudines,Testudines,Terrapene carolina triunguis,Three-toed box turtle,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,824.31,N,121,32.35,59.73,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_005310787.3,46668,Testudines,Testudines,Chrysemys picta bellii,Western painted turtle,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,818.53,N,121,32.35,59.31,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012324332.2,48088,Mammalia,Mammalia,Aotus nancymaae,Ma's night monkey,cyclic AMP-dependent transcription factor ATF-6 alpha,813.91,N,121,32.35,58.97,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030429719.1,50866,Testudines,Testudines,Gopherus evgoodei,Goodes thornscrub tortoise,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X3,805.82,N,121,32.35,58.39,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_019386260.1,28975,Crocodylia,Crocodylia,Crocodylus porosus,Australian saltwater crocodile,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,804.67,N,121,32.35,58.3,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_019342105.1,74703,Crocodylia,Crocodylia,Alligator mississippiensis,American alligator,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,801.2,N,121,32.35,58.05,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_027758747.1,34050,Aves,Aves,Empidonax traillii,Willow flycatcher,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,781.56,N,121,32.35,56.63,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_031451639.1,28886,Aves,Aves,Phasianus colchicus,Ring-necked pheasant,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,778.47,N,121,32.35,56.4,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_010579277.1,25371,Aves,Aves,Haliaeetus leucocephalus,Bald eagle,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,778.09,N,121,32.35,56.38,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_019329209.1,32685,Aves,Aves,Aptenodytes forsteri,Emperor penguin,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,776.55,N,121,32.35,56.27,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,EOA95789.1,58659,Aves,Aves,Anas platyrhynchos,Mallard,"Cyclic AMP-dependent transcription factor ATF-6 alpha, partial",776.55,N,121,32.35,56.27,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009073001.1,28124,Aves,Aves,Acanthisitta chloris,Rifleman,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,775.78,N,121,32.35,56.21,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_027674485.1,47903,Testudines,Testudines,Chelonia mydas,Green sea turtle,cyclic AMP-dependent transcription factor ATF-6 alpha,775.39,N,121,32.35,56.18,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_029887576.1,48151,Aves,Aves,Aquila chrysaetos chrysaetos,Golden eagle,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,775.39,N,121,32.35,56.18,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_032048398.1,27801,Aves,Aves,Aythya fuligula,Tufted duck,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,774.24,N,121,32.35,56.1,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_014798977.1,30957,Aves,Aves,Calidris pugnax,Ruff,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,772.31,N,121,32.35,55.96,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030311299.1,42950,Aves,Aves,Calypte anna,Anna's hummingbird,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,771.93,N,121,32.35,55.93,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009504210.1,26171,Aves,Aves,Phalacrocorax carbo,Great cormorant,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,768.84,N,121,32.35,55.71,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_025979178.1,31573,Aves,Aves,Dromaius novaehollandiae,Emu,cyclic AMP-dependent transcription factor ATF-6 alpha,767.69,N,121,32.35,55.62,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_027514346.1,39234,Aves,Aves,Corapipo altera,White-ruffed manakin,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,766.53,N,121,32.35,55.54,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009460798.1,31488,Aves,Aves,Nipponia nippon,Crested ibis,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,766.15,N,121,32.35,55.51,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_027550440.1,39505,Aves,Aves,Neopelma chrysocephalum,Saffron-crested tyrant-manakin,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,765.76,N,121,32.35,55.48,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030808965.1,28938,Aves,Aves,Camarhynchus parvulus,Tanagers,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,765.76,N,121,32.35,55.48,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_032552301.1,35608,Aves,Aves,Chiroxiphia lanceolata,Lance-tailed manakin,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,764.61,N,121,32.35,55.4,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_013045611.1,31835,Aves,Aves,Anser cygnoides domesticus,Swan goose,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,763.45,N,121,32.35,55.32,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_027569113.1,42564,Aves,Aves,Pipra filicauda,Wire-tailed manakin,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,763.45,N,121,32.35,55.32,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_017671383.1,36875,Aves,Aves,Lepidothrix coronata,Blue-crowned manakin,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,763.07,N,121,32.35,55.29,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_010304592.1,28015,Aves,Aves,Balearica regulorum gibbericeps,East African grey crowned-crane,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,761.91,N,121,32.35,55.2,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_028941630.1,29281,Aves,Aves,Antrostomus carolinensis,Chuck-will's-widow,"cyclic AMP-dependent transcription factor ATF-6 alpha, partial",761.52,N,121,32.35,55.18,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_025050165.1,43349,Crocodylia,Crocodylia,Alligator sinensis,Chinese alligator,cyclic AMP-dependent transcription factor ATF-6 alpha,760.75,N,121,32.35,55.12,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009891108.1,30750,Aves,Aves,Charadrius vociferus,Killdeer,PREDICTED: LOW QUALITY PROTEIN: cyclic AMP-dependent transcription factor ATF-6 alpha,760.37,N,121,32.35,55.09,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_031973205.1,42323,Aves,Aves,Corvus moneduloides,New Caledonian crow,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,758.44,N,121,32.35,54.95,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_422208.3,70279,Aves,Aves,Gallus gallus,Chicken,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,758.06,N,121,32.35,54.93,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_010290930.1,28630,Aves,Aves,Phaethon lepturus,White-tailed tropicbird,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,756.13,N,121,32.35,54.79,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_010407609.1,29602,Aves,Aves,Corvus cornix cornix,Hooded crow,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,755.36,N,121,32.35,54.73,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_015724952.1,41600,Aves,Aves,Coturnix japonica,Japanese quail,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,755.36,N,121,32.35,54.73,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_023787616.1,31622,Aves,Aves,Cyanistes caeruleus,Blue tit,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,754.98,N,121,32.35,54.7,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_027654005.1,30432,Aves,Aves,Falco cherrug,Saker falcon,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,754.59,N,121,32.35,54.67,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009580798.1,28173,Aves,Aves,Fulmarus glacialis,Northern fulmar,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,753.44,N,121,32.35,54.59,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030352422.1,43730,Aves,Aves,Strigops habroptila,Kakapo,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,753.05,N,121,32.35,54.56,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_017585179.1,43283,Aves,Aves,Corvus brachyrhynchos,American crow,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,753.05,N,121,32.35,54.56,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009643621.1,29746,Aves,Aves,Egretta garzetta,Little egret,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,751.12,N,121,32.35,54.42,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_010074191.1,27088,Aves,Aves,Pterocles gutturalis,Yellow-throated sandgrouse,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,750.36,N,121,32.35,54.37,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009703297.1,27846,Aves,Aves,Cariama cristata,Red-legged seriema,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,749.2,N,121,32.35,54.28,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_026710091.1,27794,Aves,Aves,Athene cunicularia,Burrowing owl,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,748.04,N,121,32.35,54.2,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_028936640.1,43718,Mammalia,Mammalia,Ornithorhynchus anatinus,Platypus,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X3,747.27,N,121,32.35,54.14,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_033919770.1,29293,Aves,Aves,Melopsittacus undulatus,Budgerigar,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,746.12,N,121,32.35,54.06,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009318875.1,29764,Aves,Aves,Pygoscelis adeliae,Adelie penguin,PREDICTED: LOW QUALITY PROTEIN: cyclic AMP-dependent transcription factor ATF-6 alpha,743.04,N,121,32.35,53.84,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_014436169.1,39116,Testudines,Testudines,Pelodiscus sinensis,Chinese soft-shelled turtle,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,742.26,N,121,32.35,53.78,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_014113079.1,27656,Aves,Aves,Pseudopodoces humilis,Tibetan ground-tit,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,741.88,N,121,32.35,53.75,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009989687.1,28596,Aves,Aves,Tauraco erythrolophus,Red-crested turaco,PREDICTED: LOW QUALITY PROTEIN: cyclic AMP-dependent transcription factor ATF-6 alpha,741.11,N,121,32.35,53.7,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_019357561.1,27379,Crocodylia,Crocodylia,Gavialis gangeticus,Gharial,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,740.34,N,121,32.35,53.64,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_029818131.1,37344,Aves,Aves,Manacus vitellinus,Golden-collared manakin,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,739.57,N,121,32.35,53.59,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_021401642.1,43980,Aves,Aves,Lonchura striata domestica,Bengalese finch,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,739.57,N,121,32.35,53.59,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009998186.1,29270,Aves,Aves,Chaetura pelagica,Chimney swift,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,739.57,N,121,32.35,53.59,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_010713988.2,30531,Aves,Aves,Meleagris gallopavo,Turkey,LOW QUALITY PROTEIN: cyclic AMP-dependent transcription factor ATF-6 alpha,739.18,N,121,32.35,53.56,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009668032.1,39517,Aves,Aves,Struthio camelus australis,African ostrich,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,738.41,N,121,32.35,53.5,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_005493664.1,26676,Aves,Aves,Zonotrichia albicollis,White-throated sparrow,cyclic AMP-dependent transcription factor ATF-6 alpha,736.49,N,121,32.35,53.36,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009937567.1,27865,Aves,Aves,Opisthocomus hoazin,Hoatzin,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,736.49,N,121,32.35,53.36,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_027637691.1,31320,Aves,Aves,Falco peregrinus,Peregrine falcon,cyclic AMP-dependent transcription factor ATF-6 alpha,735.33,N,121,32.35,53.28,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_015471214.1,39768,Aves,Aves,Parus major,Great Tit,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,734.95,N,121,32.35,53.25,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_033007116.1,39483,Lepidosauria,Lepidosauria,Lacerta agilis,Sand lizard,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,734.56,N,121,32.35,53.22,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030917525.1,20676,Aves,Aves,Geospiza fortis,Medium ground-finch,cyclic AMP-dependent transcription factor ATF-6 alpha,734.56,N,121,32.35,53.22,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,OPJ77167.1,24828,Aves,Aves,Patagioenas fasciata monilis,Band-tailed pigeon,cyclic AMP-dependent transcription factor ATF-6 alpha isoform A,734.56,N,121,32.35,53.22,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009554068.1,30535,Aves,Aves,Cuculus canorus,Common cuckoo,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,734.18,N,121,32.35,53.19,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_005498875.1,50999,Aves,Aves,Columba livia,Rock pigeon,LOW QUALITY PROTEIN: cyclic AMP-dependent transcription factor ATF-6 alpha,733.79,N,121,32.35,53.17,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009097815.1,30517,Aves,Aves,Serinus canaria,Common canary,cyclic AMP-dependent transcription factor ATF-6 alpha,733.02,N,121,32.35,53.11,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,RMC08327.1,34999,Aves,Aves,Hirundo rustica rustica,Barn swallow,hypothetical protein DUI87_14568,731.1,N,121,32.35,52.97,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KFZ49108.1,11722,Aves,Aves,Podiceps cristatus,Great crested grebe,"Cyclic AMP-dependent transcription factor ATF-6 alpha, partial",731.1,N,121,32.35,52.97,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030135656.2,45272,Aves,Aves,Taeniopygia guttata,Zebra finch,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,726.09,N,121,32.35,52.61,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_025944956.1,37668,Aves,Aves,Apteryx rowi,Okarito brown kiwi,"cyclic AMP-dependent transcription factor ATF-6 alpha, partial",725.32,N,121,32.35,52.55,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_010203816.1,26938,Aves,Aves,Colius striatus,Speckled mousebird,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,720.69,N,121,32.35,52.22,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_006738836.1,40460,Mammalia,Mammalia,Leptonychotes weddellii,Weddell seal,cyclic AMP-dependent transcription factor ATF-6 alpha,720.31,N,121,32.35,52.19,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_010015456.1,27852,Aves,Aves,Nestor notabilis,Kea,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,718.77,N,121,32.35,52.08,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_032854499.1,32983,Aves,Aves,Tyto alba alba,Barn owl,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,718.38,N,121,32.35,52.05,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_032923948.1,35444,Aves,Aves,Catharus ustulatus,Swainson's thrush,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,716.07,N,121,32.35,51.88,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009907424.1,29119,Aves,Aves,Picoides pubescens,Downy woodpecker,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,711.84,N,121,32.35,51.58,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_020654161.1,38806,Lepidosauria,Lepidosauria,Pogona vitticeps,Central bearded dragon,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,710.29,N,121,32.35,51.46,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_013816710.1,22840,Aves,Aves,Apteryx mantelli mantelli,North Island brown kiwi,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X4,705.29,N,121,32.35,51.1,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_026542716.1,31322,Lepidosauria,Lepidosauria,Notechis scutatus,Mainland tiger snake,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,704.13,N,121,32.35,51.02,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_034265683.1,41491,Lepidosauria,Lepidosauria,Pantherophis guttatus,Colubrid snakes,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,703.36,N,121,32.35,50.96,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_032082248.1,30930,Lepidosauria,Lepidosauria,Thamnophis elegans,Western terrestrial garter snake,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,703.36,N,121,32.35,50.96,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_026559157.1,31817,Lepidosauria,Lepidosauria,Pseudonaja textilis,Eastern brown snake,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,701.43,N,121,32.35,50.82,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KFV47757.1,11512,Aves,Aves,Tyto alba,Barn owl,"Cyclic AMP-dependent transcription factor ATF-6 alpha, partial",701.05,N,121,32.35,50.79,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_017525069.1,41999,Mammalia,Mammalia,Manis javanica,Malayan pangolin,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,697.2,N,121,32.35,50.52,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TRZ12511.1,22656,Aves,Aves,Zosterops borbonicus,White-eyes,hypothetical protein HGM15179_014600,696.81,N,121,32.35,50.49,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_015279338.1,24674,Lepidosauria,Lepidosauria,Gekko japonicus,Geckos,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,691.42,N,121,32.35,50.1,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,ETE65260.1,18686,Lepidosauria,Lepidosauria,Ophiophagus hannah,King cobra,"Cyclic AMP-dependent transcription factor ATF-6 alpha, partial",689.11,N,121,32.35,49.93,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_029473489.1,49320,Amphibia,Amphibia,Rhinatrema bivittatum,Two-lined caecilian,cyclic AMP-dependent transcription factor ATF-6 alpha,686.03,N,121,32.35,49.71,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_016155835.1,26767,Aves,Aves,Ficedula albicollis,Collared flycatcher,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,683.33,N,121,32.35,49.51,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_033816574.1,50058,Amphibia,Amphibia,Geotrypetes seraphini,Gabon caecilian,cyclic AMP-dependent transcription factor ATF-6 alpha,679.48,N,121,32.35,49.23,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_015687496.1,23979,Lepidosauria,Lepidosauria,Protobothrops mucrosquamatus,Chinese habu,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,677.55,N,121,32.35,49.09,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_005994123.1,34488,Coelacanthimorpha,Coelacanthimorpha,Latimeria chalumnae,Coelacanth,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,662.14,N,121,32.35,47.98,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009484446.1,28643,Aves,Aves,Pelecanus crispus,Dalmatian pelican,"PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha, partial",647.12,N,121,32.35,46.89,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_003219889.1,35701,Lepidosauria,Lepidosauria,Anolis carolinensis,Green anole,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,645.2,N,121,32.35,46.75,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_018114278.1,129541,Amphibia,Amphibia,Xenopus laevis,African clawed frog,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha-like isoform X1,631.71,N,121,32.35,45.77,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_021502785.1,39112,Mammalia,Mammalia,Meriones unguiculatus,Mongolian gerbil,"cyclic AMP-dependent transcription factor ATF-6 alpha-like, partial",622.85,N,121,32.35,45.13,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF4800763.1,18372,Aves,Aves,Turdus rufiventris,Rufous-bellied thrush,hypothetical protein TURU_040480,619.39,N,121,32.35,44.88,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KFQ86268.1,12119,Aves,Aves,Phoenicopterus ruber ruber,American flamingo,"Cyclic AMP-dependent transcription factor ATF-6 alpha, partial",615.92,N,121,32.35,44.63,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_002933826.2,122817,Amphibia,Amphibia,Xenopus tropicalis,Tropical clawed frog,cyclic AMP-dependent transcription factor ATF-6 alpha,614.76,N,121,32.35,44.54,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009956924.1,28860,Aves,Aves,Leptosomus discolor,Cuckoo roller,"PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha-like, partial",614.76,N,121,32.35,44.54,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,GCF47740.1,26796,Lepidosauria,Lepidosauria,Paroedura picta,Geckos,hypothetical protein parPi_0007852,608.99,N,121,32.35,44.12,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009913766.1,30417,Aves,Aves,Haliaeetus albicilla,White-tailed eagle,"PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha, partial",606.67,N,121,32.35,43.96,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030061824.1,37122,Amphibia,Amphibia,Microcaecilia unicolor,Caecilians,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,600.13,N,121,32.35,43.48,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_007438211.1,32857,Lepidosauria,Lepidosauria,Python bivittatus,Burmese python,"cyclic AMP-dependent transcription factor ATF-6 alpha, partial",595.89,N,121,32.35,43.18,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_018428689.1,24943,Amphibia,Amphibia,Nanorana parkeri,Frogs and toads,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,591.65,N,121,32.35,42.87,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_033884559.1,88734,Actinopteri,Actinopteri,Acipenser ruthenus,Sterlet,cyclic AMP-dependent transcription factor ATF-6 alpha-like,587.41,N,121,32.35,42.56,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_015210575.1,41861,Actinopteri,Actinopteri,Lepisosteus oculatus,Spotted gar,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,586.64,N,121,32.35,42.51,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,OXB57819.1,17163,Aves,Aves,Callipepla squamata,Scaled quail,"hypothetical protein ASZ78_000177, partial",586.26,N,121,32.35,42.48,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_010131297.1,27261,Aves,Aves,Buceros rhinoceros silvestris,Rhinoceros hornbill,"PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha, partial",578.94,N,121,32.35,41.95,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,OXB84199.1,17219,Aves,Aves,Colinus virginianus,Northern bobwhite,"hypothetical protein H355_007082, partial",577.01,N,121,32.35,41.81,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_008939554.1,26799,Aves,Aves,Merops nubicus,Carmine bee-eater,"PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha, partial",576.24,N,121,32.35,41.75,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_028666980.1,35767,Cladistia,Cladistia,Erpetoichthys calabaricus,Reedfish,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,556.6,N,121,32.35,40.33,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PKU42782.1,23022,Aves,Aves,Limosa lapponica baueri,Bar-tailed godwit,cyclic amp-dependent transcription factor atf-6 alpha,537.72,N,121,32.35,38.96,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012690840.2,43039,Actinopteri,Actinopteri,Clupea harengus,Atlantic herring,cyclic AMP-dependent transcription factor ATF-6 alpha,510.38,N,121,32.35,36.98,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_010125276.1,26966,Aves,Aves,Chlamydotis macqueenii,Macqueen's bustard,"PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha, partial",509.22,N,121,32.35,36.9,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF4099642.1,24824,Actinopteri,Actinopteri,Onychostoma macrolepis,Carps and others,hypothetical protein G5714_019768,503.44,N,121,32.35,36.48,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_016354888.1,68487,Actinopteri,Actinopteri,Sinocyclocheilus anshuiensis,Carps and others,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha-like,503.06,N,121,32.35,36.45,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,RXN06300.1,37694,Actinopteri,Actinopteri,Labeo rohita,Rohu,cyclic AMP-dependent transcription factor ATF-6 alpha,501.52,N,121,32.35,36.34,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,ROL43477.1,23904,Actinopteri,Actinopteri,Anabarilius grahami,Carps and others,Cyclic AMP-dependent transcription factor ATF-6 alpha,501.13,N,121,32.35,36.31,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AKZ87017.1,2012,Actinopteri,Actinopteri,Ctenopharyngodon idella,Grass carp,activating transcription factor 6 protein,500.75,N,121,32.35,36.28,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_017579223.1,44448,Actinopteri,Actinopteri,Pygocentrus nattereri,Red-bellied piranha,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,497.28,N,121,32.35,36.03,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_016391552.1,68581,Actinopteri,Actinopteri,Sinocyclocheilus rhinocerous,Carps and others,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha-like,495.74,N,121,32.35,35.92,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_007901155.1,32969,Chondrichthyes,Chondrichthyes,Callorhinchus milii,Elephant shark,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,493.43,N,121,32.35,35.75,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_016148847.1,67438,Actinopteri,Actinopteri,Sinocyclocheilus grahami,Carps and others,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha-like isoform X2,493.04,N,121,32.35,35.72,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_026146657.1,98570,Actinopteri,Actinopteri,Carassius auratus,Goldfish,cyclic AMP-dependent transcription factor ATF-6 alpha-like,491.5,N,121,32.35,35.61,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,GCC30436.1,33620,Chondrichthyes,Chondrichthyes,Chiloscyllium punctatum,Brownbanded bambooshark,hypothetical protein,486.88,N,121,32.35,35.28,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_034566638.1,38814,Actinopteri,Actinopteri,Notolabrus celidotus,New Zealand spotty,cyclic AMP-dependent transcription factor ATF-6 alpha,486.49,N,121,32.35,35.25,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_033937108.1,37990,Actinopteri,Actinopteri,Pseudochaenichthys georgianus,South Georgia icefish,cyclic AMP-dependent transcription factor ATF-6 alpha,480.71,N,121,32.35,34.83,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_034079478.1,45845,Actinopteri,Actinopteri,Gymnodraco acuticeps,Antarctic dragonfishes,cyclic AMP-dependent transcription factor ATF-6 alpha,479.94,N,121,32.35,34.77,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_028977232.2,59380,Actinopteri,Actinopteri,Esox lucius,Northern pike,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X3,478.02,N,121,32.35,34.64,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_027010054.1,47806,Actinopteri,Actinopteri,Tachysurus fulvidraco,Yellow catfish,cyclic AMP-dependent transcription factor ATF-6 alpha,475.71,N,121,32.35,34.47,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_018609089.1,72410,Actinopteri,Actinopteri,Scleropages formosus,Asian bonytongue,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,474.55,N,121,32.35,34.38,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_017311381.1,51421,Actinopteri,Actinopteri,Ictalurus punctatus,Channel catfish,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,474.17,N,121,32.35,34.36,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_021460477.1,124308,Actinopteri,Actinopteri,Oncorhynchus mykiss,Rainbow trout,cyclic AMP-dependent transcription factor ATF-6 alpha,474.17,N,121,32.35,34.36,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_029285103.1,37868,Actinopteri,Actinopteri,Cottoperca gobio,Thornfishes,LOW QUALITY PROTEIN: cyclic AMP-dependent transcription factor ATF-6 alpha,473.4,N,121,32.35,34.3,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAB5539621.1,66299,Actinopteri,Actinopteri,Pangasianodon hypophthalmus,Striped catfish,hypothetical protein PHYPO_G00091150,473.01,N,121,32.35,34.27,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TRY98886.1,35332,Actinopteri,Actinopteri,Danionella translucida,Carps and others,hypothetical protein DNTS_026547,469.93,N,121,32.35,34.05,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_031641327.1,89411,Actinopteri,Actinopteri,Oncorhynchus kisutch,Coho salmon,cyclic AMP-dependent transcription factor ATF-6 alpha,469.54,N,121,32.35,34.02,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_008334680.1,39993,Actinopteri,Actinopteri,Cynoglossus semilaevis,Tongue sole,cyclic AMP-dependent transcription factor ATF-6 alpha,468.39,N,121,32.35,33.94,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_029564080.1,88602,Actinopteri,Actinopteri,Salmo trutta,River trout,cyclic AMP-dependent transcription factor ATF-6 alpha,465.31,N,121,32.35,33.71,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_028300617.1,43562,Actinopteri,Actinopteri,Gouania willdenowi,Blunt-snouted clingfish,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,464.92,N,121,32.35,33.69,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022615183.1,32874,Actinopteri,Actinopteri,Seriola dumerili,Greater amberjack,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,463.77,N,121,32.35,33.6,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_020462760.1,40888,Actinopteri,Actinopteri,Monopterus albus,Swamp eel,cyclic AMP-dependent transcription factor ATF-6 alpha,462.61,N,121,32.35,33.52,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_034002225.1,41268,Actinopteri,Actinopteri,Trematomus bernacchii,Emerald rockcod,cyclic AMP-dependent transcription factor ATF-6 alpha,461.84,N,121,32.35,33.46,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_013978944.1,111551,Actinopteri,Actinopteri,Salmo salar,Atlantic salmon,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,461.07,N,121,32.35,33.41,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF4082457.1,24479,Actinopteri,Actinopteri,Ameiurus melas,Black bullhead,hypothetical protein AMELA_G00151300,460.69,N,121,32.35,33.38,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012720270.1,38839,Actinopteri,Actinopteri,Fundulus heteroclitus,Mummichog,cyclic AMP-dependent transcription factor ATF-6 alpha,459.91,N,121,32.35,33.32,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_026886422.1,37845,Actinopteri,Actinopteri,Electrophorus electricus,Electric eel,LOW QUALITY PROTEIN: cyclic AMP-dependent transcription factor ATF-6 alpha,459.14,N,121,32.35,33.27,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030627071.1,30134,Actinopteri,Actinopteri,Chanos chanos,Milkfish,cyclic AMP-dependent transcription factor ATF-6 alpha,459.14,N,121,32.35,33.27,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_033478385.1,43071,Actinopteri,Actinopteri,Epinephelus lanceolatus,Giant grouper,cyclic AMP-dependent transcription factor ATF-6 alpha,458.76,N,121,32.35,33.24,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_029905301.1,38160,Actinopteri,Actinopteri,Myripristis murdjan,Pinecone soldierfish,cyclic AMP-dependent transcription factor ATF-6 alpha,458.37,N,121,32.35,33.21,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022059500.1,36647,Actinopteri,Actinopteri,Acanthochromis polyacanthus,Spiny chromis,cyclic AMP-dependent transcription factor ATF-6 alpha,457.22,N,121,32.35,33.13,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_023263777.1,38822,Actinopteri,Actinopteri,Seriola lalandi dorsalis,Yellowtail amberjack,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,456.83,N,121,32.35,33.1,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_031174097.1,47978,Actinopteri,Actinopteri,Sander lucioperca,Pike-perch,cyclic AMP-dependent transcription factor ATF-6 alpha,456.06,N,121,32.35,33.04,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF1385781.1,24537,Actinopteri,Actinopteri,Perca fluviatilis,European perch,hypothetical protein PFLUV_G00111340,454.91,N,121,32.35,32.96,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_026161179.1,42444,Actinopteri,Actinopteri,Mastacembelus armatus,Zig-zag eel,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,453.37,N,121,32.35,32.85,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_013858408.1,35358,Actinopteri,Actinopteri,Austrofundulus limnaeus,New World rivulines,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,452.98,N,121,32.35,32.82,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF0042193.1,53722,Actinopteri,Actinopteri,Scophthalmus maximus,Turbot,hypothetical protein F2P81_005725,449.9,N,121,32.35,32.6,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,NP_001103989.1,87478,Actinopteri,Actinopteri,Danio rerio,Zebrafish,cyclic AMP-dependent transcription factor ATF-6 alpha,449.51,N,121,32.35,32.57,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030583304.1,41124,Actinopteri,Actinopteri,Archocentrus centrarchus,Flier cichlid,cyclic AMP-dependent transcription factor ATF-6 alpha,449.51,N,121,32.35,32.57,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_003974164.2,49042,Actinopteri,Actinopteri,Takifugu rubripes,Torafugu,cyclic AMP-dependent transcription factor ATF-6 alpha,447.2,N,121,32.35,32.4,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_034386015.1,38023,Actinopteri,Actinopteri,Cyclopterus lumpus,Lumpfish,cyclic AMP-dependent transcription factor ATF-6 alpha,446.82,N,121,32.35,32.37,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_028442963.1,65046,Actinopteri,Actinopteri,Perca flavescens,Yellow perch,cyclic AMP-dependent transcription factor ATF-6 alpha,446.43,N,121,32.35,32.35,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_029938604.1,39283,Actinopteri,Actinopteri,Salarias fasciatus,Jewelled blenny,LOW QUALITY PROTEIN: cyclic AMP-dependent transcription factor ATF-6 alpha-like,445.66,N,121,32.35,32.29,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TWW57843.1,29416,Actinopteri,Actinopteri,Takifugu flavidus,Sansaifugu,Cyclic AMP-dependent transcription factor ATF-6 alpha,445.28,N,121,32.35,32.26,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_027882428.1,47114,Actinopteri,Actinopteri,Xiphophorus couchianus,Monterrey platyfish,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,444.51,N,121,32.35,32.21,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030290044.1,54063,Actinopteri,Actinopteri,Sparus aurata,Gilthead seabream,cyclic AMP-dependent transcription factor ATF-6 alpha,444.12,N,121,32.35,32.18,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_031719844.1,41910,Actinopteri,Actinopteri,Anarrhichthys ocellatus,Wolf-eel,cyclic AMP-dependent transcription factor ATF-6 alpha,443.74,N,121,32.35,32.15,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_020503261.1,36730,Actinopteri,Actinopteri,Labrus bergylta,Ballan wrasse,cyclic AMP-dependent transcription factor ATF-6 alpha,442.96,N,121,32.35,32.1,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_032427562.1,46432,Actinopteri,Actinopteri,Xiphophorus hellerii,Green swordtail,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,442.96,N,121,32.35,32.1,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF3823072.1,19789,Mammalia,Mammalia,Mirounga leonina,Southern elephant seal,"hypothetical protein GH733_010508, partial",441.04,N,121,32.35,31.96,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_023195320.1,43733,Actinopteri,Actinopteri,Xiphophorus maculatus,Southern platyfish,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,441.04,N,121,32.35,31.96,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_008405229.1,45397,Actinopteri,Actinopteri,Poecilia reticulata,Guppy,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,440.65,N,121,32.35,31.93,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_004613942.1,24062,Mammalia,Mammalia,Sorex araneus,European shrew,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,439.5,N,121,32.35,31.84,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_003440077.1,63355,Actinopteri,Actinopteri,Oreochromis niloticus,Nile tilapia,cyclic AMP-dependent transcription factor ATF-6 alpha,438.34,N,121,32.35,31.76,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TKS74532.1,28544,Actinopteri,Actinopteri,Collichthys lucidus,Big head croaker,Cyclic AMP-dependent transcription factor ATF-6 alpha,438.34,N,121,32.35,31.76,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_031592478.1,34822,Actinopteri,Actinopteri,Oreochromis aureus,Blue tilapia,cyclic AMP-dependent transcription factor ATF-6 alpha,438.34,N,121,32.35,31.76,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_010728529.3,94424,Actinopteri,Actinopteri,Larimichthys crocea,Large yellow croaker,cyclic AMP-dependent transcription factor ATF-6 alpha,438.34,N,121,32.35,31.76,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_029003874.1,49247,Actinopteri,Actinopteri,Betta splendens,Siamese fighting fish,cyclic AMP-dependent transcription factor ATF-6 alpha,437.19,N,121,32.35,31.68,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PWA20896.1,19596,Actinopteri,Actinopteri,Gambusia affinis,Western mosquitofish,hypothetical protein CCH79_00007219,437.19,N,121,32.35,31.68,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_014914594.1,47231,Actinopteri,Actinopteri,Poecilia latipinna,Sailfin molly,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,436.03,N,121,32.35,31.59,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_007558775.1,49655,Actinopteri,Actinopteri,Poecilia formosa,Amazon molly,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,435.65,N,121,32.35,31.56,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_029988690.1,42348,Actinopteri,Actinopteri,Sphaeramia orbicularis,Orbiculate cardinalfish,cyclic AMP-dependent transcription factor ATF-6 alpha,435.26,N,121,32.35,31.54,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030229393.1,46937,Actinopteri,Actinopteri,Gadus morhua,Atlantic cod,cyclic AMP-dependent transcription factor ATF-6 alpha,435.26,N,121,32.35,31.54,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_014840846.1,47806,Actinopteri,Actinopteri,Poecilia mexicana,Shortfin molly,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,435.26,N,121,32.35,31.54,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF2984709.1,15084,Aves,Aves,Melospiza melodia maxima,Song sparrow,"hypothetical protein EK904_003576, partial",434.11,N,121,32.35,31.45,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_029356553.1,38275,Actinopteri,Actinopteri,Echeneis naucrates,Live sharksucker,cyclic AMP-dependent transcription factor ATF-6 alpha,433.72,N,121,32.35,31.43,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_015251814.1,36660,Actinopteri,Actinopteri,Cyprinodon variegatus,Sheepshead minnow,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,431.41,N,121,32.35,31.26,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_034438540.1,47299,Actinopteri,Actinopteri,Hippoglossus hippoglossus,Atlantic halibut,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X3,431.41,N,121,32.35,31.26,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_005920939.1,45052,Actinopteri,Actinopteri,Haplochromis burtoni,Burton's mouthbrooder,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,430.25,N,121,32.35,31.17,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_028259090.1,41003,Actinopteri,Actinopteri,Parambassis ranga,Indian glassy fish,cyclic AMP-dependent transcription factor ATF-6 alpha,429.87,N,121,32.35,31.15,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_020387880.1,27961,Chondrichthyes,Chondrichthyes,Rhincodon typus,Whale shark,cyclic AMP-dependent transcription factor ATF-6 alpha-like,429.87,N,121,32.35,31.15,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_026202116.1,40551,Actinopteri,Actinopteri,Anabas testudineus,Climbing perch,cyclic AMP-dependent transcription factor ATF-6 alpha,429.48,N,121,32.35,31.12,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_004555080.2,46436,Actinopteri,Actinopteri,Maylandia zebra,Zebra mbuna,cyclic AMP-dependent transcription factor ATF-6 alpha,429.48,N,121,32.35,31.12,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_024134221.1,42773,Actinopteri,Actinopteri,Oryzias melastigma,Indian medaka,cyclic AMP-dependent transcription factor ATF-6 alpha,429.1,N,121,32.35,31.09,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KFP52516.1,11453,Aves,Aves,Cathartes aura,Turkey vulture,"Cyclic AMP-dependent transcription factor ATF-6 alpha, partial",428.71,N,121,32.35,31.06,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_026013508.1,52755,Actinopteri,Actinopteri,Astatotilapia calliptera,Eastern happy,cyclic AMP-dependent transcription factor ATF-6 alpha,428.71,N,121,32.35,31.06,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_017262942.1,43259,Actinopteri,Actinopteri,Kryptolebias marmoratus,Mangrove rivulus,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,427.94,N,121,32.35,31.01,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_015826932.1,37068,Actinopteri,Actinopteri,Nothobranchius furzeri,Turquoise killifish,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,423.7,N,121,32.35,30.7,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,ALS35222.1,200,Actinopteri,Actinopteri,Acanthogobius hasta,Javeline goby,activating transcription factor 6 alpha,422.94,N,121,32.35,30.64,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_018522935.1,45606,Actinopteri,Actinopteri,Lates calcarifer,Barramundi perch,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,422.55,N,121,32.35,30.62,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_020788881.1,25367,Actinopteri,Actinopteri,Boleophthalmus pectinirostris,Great blue-spotted mudskipper,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,421.01,N,121,32.35,30.5,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_008291453.1,31742,Actinopteri,Actinopteri,Stegastes partitus,Bicolor damselfish,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,418.31,N,121,32.35,30.31,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_034035544.1,36362,Actinopteri,Actinopteri,Thalassophryne amazonica,Poison toadfishes,cyclic AMP-dependent transcription factor ATF-6 alpha,414.46,N,121,32.35,30.03,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,NP_001265830.1,47277,Actinopteri,Actinopteri,Oryzias latipes,Japanese medaka,cyclic AMP-dependent transcription factor ATF-6 alpha,409.45,N,121,32.35,29.67,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAA0708497.1,24328,Actinopteri,Actinopteri,Triplophysa tibetana,Plateau loaches,Cyclic AMP-dependent transcription factor ATF-6 alpha,407.91,N,121,32.35,29.56,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_019936446.1,37762,Actinopteri,Actinopteri,Paralichthys olivaceus,Japanese flounder,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,405.22,N,121,32.35,29.36,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_013766550.1,38742,Actinopteri,Actinopteri,Pundamilia nyererei,Cichlids,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,402.9,N,121,32.35,29.19,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_023133309.1,39307,Actinopteri,Actinopteri,Amphiprion ocellaris,Clown anemonefish,"cyclic AMP-dependent transcription factor ATF-6 alpha-like, partial",394.05,N,121,32.35,28.55,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_019752228.1,42020,Actinopteri,Actinopteri,Hippocampus comes,Tiger tail seahorse,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,392.12,N,121,32.35,28.41,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_033821221.1,27064,Actinopteri,Actinopteri,Periophthalmus magnuspinnatus,Gobies,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,390.19,N,121,32.35,28.27,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TSW21791.1,17264,Actinopteri,Actinopteri,Bagarius yarrelli,Goonch,Cyclic AMP-dependent transcription factor ATF-6 alpha,389.42,N,121,32.35,28.22,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_028823705.1,50097,Actinopteri,Actinopteri,Denticeps clupeoides,Denticle herring,cyclic AMP-dependent transcription factor ATF-6 alpha,381.72,N,121,32.35,27.66,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,GCB71082.1,27742,Chondrichthyes,Chondrichthyes,Scyliorhinus torazame,Cloudy catshark,hypothetical protein,378.64,N,121,32.35,27.43,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KFQ39865.1,29427,Aves,Aves,Mesitornis unicolor,Brown roatelo,"Cyclic AMP-dependent transcription factor ATF-6 alpha, partial",374.4,N,121,32.35,27.13,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_032382970.1,64529,Actinopteri,Actinopteri,Etheostoma spectabile,Orangethroat darter,LOW QUALITY PROTEIN: cyclic AMP-dependent transcription factor ATF-6 alpha-like,374.01,N,121,32.35,27.1,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KFW07069.1,27328,Aves,Aves,Eurypyga helias,Sunbittern,"Cyclic AMP-dependent transcription factor ATF-6 alpha, partial",373.24,N,121,32.35,27.04,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_023832743.1,60777,Actinopteri,Actinopteri,Salvelinus alpinus,Arctic char,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,358.61,N,121,32.35,25.98,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_029498252.1,69381,Actinopteri,Actinopteri,Oncorhynchus nerka,Sockeye salmon,cyclic AMP-dependent transcription factor ATF-6 alpha-like isoform X3,356.3,N,121,32.35,25.82,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KQK74651.1,16224,Aves,Aves,Amazona aestiva,Blue-fronted amazon,cyclic AMP-dependent transcription factor ATF-6 alpha,356.3,N,121,32.35,25.82,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_006800556.1,31419,Actinopteri,Actinopteri,Neolamprologus brichardi,Lyretail cichlid,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha-like,349.36,N,121,32.35,25.31,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TNN42191.1,68294,Actinopteri,Actinopteri,Liparis tanakae,Tanaka's snailfish,Cyclic AMP-dependent transcription factor ATF-6 alpha,345.12,N,121,32.35,25.01,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TNM88050.1,20156,Actinopteri,Actinopteri,Takifugu bimaculatus,Puffers,hypothetical protein fugu_006271,341.66,N,121,32.35,24.75,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_024291158.1,73754,Actinopteri,Actinopteri,Oncorhynchus tshawytscha,Chinook salmon,cyclic AMP-dependent transcription factor ATF-6 alpha-like isoform X3,340.89,N,121,32.35,24.7,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_028575776.1,51188,Lepidosauria,Lepidosauria,Podarcis muralis,Common wall lizard,cyclic AMP-dependent transcription factor ATF-6 beta isoform X2,321.63,N,121,32.35,23.3,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_010219249.1,31367,Aves,Aves,Tinamus guttatus,White-throated tinamou,"PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha-like, partial",321.24,N,121,32.35,23.28,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_005339015.1,38807,Mammalia,Mammalia,Ictidomys tridecemlineatus,Thirteen-lined ground squirrel,cyclic AMP-dependent transcription factor ATF-6 beta isoform X1,299.29,N,121,32.35,21.68,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,OWK13116.1,19267,Mammalia,Mammalia,Cervus elaphus hippelaphus,Red deer,"ATF6B, partial",296.2,N,121,32.35,21.46,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,OBS60116.1,24505,Mammalia,Mammalia,Neotoma lepida,Desert woodrat,hypothetical protein A6R68_08743,287.35,N,121,32.35,20.82,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,CAB1351101.1,41735,Actinopteri,Actinopteri,Coregonus sp. 'balchen',Whitefishes,"unnamed protein product, partial",284.65,N,121,32.35,20.62,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_032802693.1,40468,Hyperoartia,Hyperoartia,Petromyzon marinus,Sea lamprey,cyclic AMP-dependent transcription factor ATF-6 beta-like,281.18,N,121,32.35,20.37,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF3706933.1,22726,Actinopteri,Actinopteri,Channa argus,Northern snakehead,Cyclic AMP-dependent transcription factor ATF-6 beta,279.64,N,121,32.35,20.26,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_013919144.1,25639,Lepidosauria,Lepidosauria,Thamnophis sirtalis,Colubrid snakes,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 beta,262.31,N,121,32.35,19.01,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022522240.1,42865,Actinopteri,Actinopteri,Astyanax mexicanus,Mexican tetra,cyclic AMP-dependent transcription factor ATF-6 alpha,257.3,N,121,32.35,18.64,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,RVE67094.1,21529,Actinopteri,Actinopteri,Oryzias javanicus,Javanese ricefish,hypothetical protein OJAV_G00113830,256.91,N,121,32.35,18.61,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_019643657.1,35240,Leptocardii,Leptocardii,Branchiostoma belcheri,Belcher's lancelet,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 beta-like,242.66,N,121,32.35,17.58,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_002600273.1,29682,Leptocardii,Leptocardii,Branchiostoma floridae,Florida lancelet,hypothetical protein BRAFLDRAFT_118275,236.11,N,121,32.35,17.11,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022085410.1,33296,Asteroidea,Asteroidea,Acanthaster planci,Crown-of-thorns starfish,cyclic AMP-dependent transcription factor ATF-6 beta-like,222.63,N,121,32.35,16.13,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_023221763.1,35601,Arachnida,Arachnida,Centruroides sculpturatus,Bark scorpion,cyclic AMP-dependent transcription factor ATF-6 alpha-like isoform X1,218.39,N,121,32.35,15.82,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_033642873.1,24292,Asteroidea,Asteroidea,Asterias rubens,European starfish,cyclic AMP-dependent transcription factor ATF-6 beta-like,218.01,N,121,32.35,15.8,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_013385780.1,41479,Lingulata,Lingulata,Lingula anatina,Lampshells,cyclic AMP-dependent transcription factor ATF-6 beta-like,215.31,N,121,32.35,15.6,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,GBN45958.1,279008,Arachnida,Arachnida,Araneus ventricosus,Orb weavers,Cyclic AMP-dependent transcription factor ATF-6 alpha,211.46,N,121,32.35,15.32,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,ELT91969.1,32034,Polychaeta,Polychaeta,Capitella teleta,Capitella sp. MKJ-2016,hypothetical protein CAPTEDRAFT_216503,207.99,N,121,32.35,15.07,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_029835349.1,54103,Arachnida,Arachnida,Ixodes scapularis,Black-legged tick,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,204.53,N,121,32.35,14.82,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009065480.1,47713,Gastropoda,Gastropoda,Lottia gigantea,Owl limpet,hypothetical protein LOTGIDRAFT_236404,202.99,N,121,32.35,14.71,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KZS22017.1,55132,Branchiopoda,Branchiopoda,Daphnia magna,Common water fleas,putative Atf6,200.68,N,121,32.35,14.54,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_793757.2,40378,Echinoidea,Echinoidea,Strongylocentrotus purpuratus,Purple sea urchin,cyclic AMP-dependent transcription factor ATF-6 beta isoform X2,199.9,N,121,32.35,14.48,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_034235080.1,27539,Insecta,Insecta,Thrips palmi,True thrips,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,198.75,N,121,32.35,14.4,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_015918317.1,27786,Arachnida,Arachnida,Parasteatoda tepidariorum,Common house spider,cyclic AMP-dependent transcription factor ATF-6 alpha,197.21,N,121,32.35,14.29,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_033096940.1,32797,Crinoidea,Crinoidea,Anneissia japonica,Crinoids,cyclic AMP-dependent transcription factor ATF-6 alpha-like,196.82,N,121,32.35,14.26,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_018570019.1,20920,Insecta,Insecta,Anoplophora glabripennis,Asian longhorned beetle,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,190.27,N,121,32.35,13.79,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_021924682.1,44814,Insecta,Insecta,Zootermopsis nevadensis,Damp wood termites,cyclic AMP-dependent transcription factor ATF-6 alpha,187.58,N,121,32.35,13.59,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_019872481.1,17651,Insecta,Insecta,Aethina tumida,Small hive beetle,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha-like,187.58,N,121,32.35,13.59,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_031568550.1,27085,Anthozoa,Anthozoa,Actinia tenebrosa,Australian red waratah sea anemone,cyclic AMP-dependent transcription factor ATF-6 beta-like,186.81,N,121,32.35,13.54,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TRY64109.1,16351,Hexanauplia,Hexanauplia,Tigriopus californicus,Tidepool copepod,hypothetical protein TCAL_00352,183.73,N,121,32.35,13.31,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022193147.1,26528,Insecta,Insecta,Nilaparvata lugens,Brown planthopper,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,183.34,N,121,32.35,13.28,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_011314148.1,18958,Insecta,Insecta,Fopius arisanus,"Wasps, ants, and bees",PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,182.96,N,121,32.35,13.26,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_015517795.1,16016,Insecta,Insecta,Neodiprion lecontei,Redheaded pine sawfly,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,182.57,N,121,32.35,13.23,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_033732658.1,40008,Bivalvia,Bivalvia,Pecten maximus,Scallops,cyclic AMP-dependent transcription factor ATF-6 beta-like,182.19,N,121,32.35,13.2,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_033228150.1,25334,Insecta,Insecta,Belonocnema treatae,Oak gall wasps,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,181.03,N,121,32.35,13.12,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_015429341.1,23639,Insecta,Insecta,Dufourea novaeangliae,Bees,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,180.26,N,121,32.35,13.06,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_026279651.1,40708,Insecta,Insecta,Frankliniella occidentalis,Western flower thrips,cyclic AMP-dependent transcription factor ATF-6 beta,180.26,N,121,32.35,13.06,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PSN41901.1,30150,Insecta,Insecta,Blattella germanica,German cockroach,hypothetical protein C0J52_06801,179.87,N,121,32.35,13.03,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_018331405.1,22237,Insecta,Insecta,Agrilus planipennis,Emerald ash borer,cyclic AMP-dependent transcription factor ATF-6 alpha,178.72,N,121,32.35,12.95,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AYM00394.1,59967,Malacostraca,Malacostraca,Penaeus vannamei,Pacific white shrimp,activating transcription factor 6 alpha,177.95,N,121,32.35,12.89,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_029187555.1,35597,Anthozoa,Anthozoa,Acropora millepora,Staghorn corals,cyclic AMP-dependent transcription factor ATF-6 beta-like isoform X1,177.18,N,121,32.35,12.84,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_032675121.1,29187,Insecta,Insecta,Odontomachus brunneus,"Wasps, ants, and bees",uncharacterized protein LOC116845962 isoform X3,177.18,N,121,32.35,12.84,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_033339020.1,22393,Insecta,Insecta,Megalopta genalis,Sweat bees,cyclic AMP-dependent transcription factor ATF-6 alpha-like isoform X2,176.79,N,121,32.35,12.81,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KOX67685.1,14307,Insecta,Insecta,Melipona quadrifasciata,Stingless bees,Cyclic AMP-dependent transcription factor ATF-6 alpha,176.79,N,121,32.35,12.81,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_026669739.1,23322,Insecta,Insecta,Ceratina calcarata,Carpenter bees,cyclic AMP-dependent transcription factor ATF-6 alpha,176.79,N,121,32.35,12.81,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_017782435.1,19616,Insecta,Insecta,Nicrophorus vespilloides,Sexton beetles,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 beta,176.02,N,121,32.35,12.75,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_021375264.1,64377,Bivalvia,Bivalvia,Mizuhopecten yessoensis,Yesso scallop,cyclic AMP-dependent transcription factor ATF-6 beta-like isoform X2,174.87,N,121,32.35,12.67,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012253892.1,22153,Insecta,Insecta,Athalia rosae,Coleseed sawfly,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,174.87,N,121,32.35,12.67,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_031848384.1,25323,Insecta,Insecta,Nomia melanderi,Alkali bee,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,173.33,N,121,32.35,12.56,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KRT86182.1,8838,Insecta,Insecta,Oryctes borbonicus,"Rhinoceros beetles, hercules beetles & elephant beetles",hypothetical protein AMK59_1190,172.94,N,121,32.35,12.53,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VEN62932.1,31374,Insecta,Insecta,Callosobruchus maculatus,Cowpea weevil,unnamed protein product,172.94,N,121,32.35,12.53,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_001628996.1,60011,Anthozoa,Anthozoa,Nematostella vectensis,Starlet sea anemone,cyclic AMP-dependent transcription factor ATF-6 beta,171.78,N,121,32.35,12.45,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,RZF37968.1,18432,Insecta,Insecta,Laodelphax striatellus,Small brown planthopper,hypothetical protein LSTR_LSTR005468,171.78,N,121,32.35,12.45,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_014601005.1,19304,Insecta,Insecta,Polistes canadensis,Paper wasps,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,170.63,N,121,32.35,12.36,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_026295500.1,26782,Insecta,Insecta,Apis mellifera,Honey bee,uncharacterized protein LOC412432 isoform X2,169.86,N,121,32.35,12.31,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_033304874.1,24024,Insecta,Insecta,Bombus bifarius,Bumble bees,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X3,169.09,N,121,32.35,12.25,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_033353515.1,24081,Insecta,Insecta,Bombus vosnesenskii,Bumble bees,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X3,169.09,N,121,32.35,12.25,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_033184540.1,24326,Insecta,Insecta,Bombus vancouverensis nearcticus,Bumble bees,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X3,169.09,N,121,32.35,12.25,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012152170.1,26086,Insecta,Insecta,Megachile rotundata,Alfalfa leafcutting bee,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X5,168.32,N,121,32.35,12.2,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_008201619.1,42295,Insecta,Insecta,Tribolium castaneum,Red flour beetle,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 beta,167.93,N,121,32.35,12.17,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012175867.1,22376,Insecta,Insecta,Bombus terrestris,Buff-tailed bumblebee,cyclic AMP-dependent transcription factor ATF-6 alpha,167.93,N,121,32.35,12.17,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF2902110.1,27570,Insecta,Insecta,Ignelater luminosus,Click beetles,hypothetical protein ILUMI_04073,167.55,N,121,32.35,12.14,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012238088.1,24525,Insecta,Insecta,Bombus impatiens,Common eastern bumble bee,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X3,167.16,N,121,32.35,12.11,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_029049880.1,24844,Insecta,Insecta,Osmia bicornis bicornis,Red mason bee,cyclic AMP-dependent transcription factor ATF-6 alpha,167.16,N,121,32.35,12.11,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030746092.1,23713,Insecta,Insecta,Sitophilus oryzae,Rice weevil,cyclic AMP-dependent transcription factor ATF-6 beta,167.16,N,121,32.35,12.11,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012278203.1,19714,Insecta,Insecta,Orussus abietinus,Parasitic wood wasps,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,166.78,N,121,32.35,12.08,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_028525681.1,21840,Insecta,Insecta,Apis cerana,Asiatic honeybee,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,166.39,N,121,32.35,12.06,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_011636695.1,19250,Insecta,Insecta,Pogonomyrmex barbatus,Red harvester ant,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,166.39,N,121,32.35,12.06,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PBC25193.1,10309,Insecta,Insecta,Apis cerana cerana,Asiatic honeybee,Cyclic AMP-dependent transcription factor ATF-6 alpha,166.01,N,121,32.35,12.03,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_014476653.1,22420,Insecta,Insecta,Dinoponera quadriceps,"Wasps, ants, and bees",PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,166.01,N,121,32.35,12.03,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_014254653.1,24331,Insecta,Insecta,Cimex lectularius,Bed bug,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,165.62,N,121,32.35,12,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_001605766.1,33927,Insecta,Insecta,Nasonia vitripennis,Jewel wasp,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,165.62,N,121,32.35,12,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_006611932.1,20390,Insecta,Insecta,Apis dorsata,Giant honeybee,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,165.24,N,121,32.35,11.97,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,OAD57031.1,26943,Insecta,Insecta,Eufriesea mexicana,Orchid bees,"Cyclic AMP-dependent transcription factor ATF-6 alpha, partial",164.85,N,121,32.35,11.94,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_034194359.1,25969,Insecta,Insecta,Osmia lignaria,Orchard mason bee,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,164.47,N,121,32.35,11.92,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022326406.1,60512,Bivalvia,Bivalvia,Crassostrea virginica,Eastern oyster,cyclic AMP-dependent transcription factor ATF-6 alpha-like,164.47,N,121,32.35,11.92,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,OXU27613.1,16087,Insecta,Insecta,Trichomalopsis sarcophagae,"Wasps, ants, and bees",hypothetical protein TSAR_013463,164.08,N,121,32.35,11.89,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022131125.1,19658,Insecta,Insecta,Pieris rapae,Cabbage white,uncharacterized protein LOC111004404 isoform X1,164.08,N,121,32.35,11.89,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_015174134.1,20990,Insecta,Insecta,Polistes dominula,European paper wasp,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,164.08,N,121,32.35,11.89,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KOC65921.1,25093,Insecta,Insecta,Habropoda laboriosa,Digger bees,"Cyclic AMP-dependent transcription factor ATF-6 alpha, partial",163.31,N,121,32.35,11.83,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_028407813.1,28760,Anthozoa,Anthozoa,Dendronephthya gigantea,Soft corals,cyclic AMP-dependent transcription factor ATF-6 alpha-like isoform X2,163.31,N,121,32.35,11.83,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_011159871.1,25598,Insecta,Insecta,Solenopsis invicta,Red fire ant,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,162.93,N,121,32.35,11.8,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012535043.1,23264,Insecta,Insecta,Monomorium pharaonis,Pharaoh ant,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,162.54,N,121,32.35,11.78,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,EFN85214.1,41890,Insecta,Insecta,Harpegnathos saltator,Jerdon's jumping ant,Cyclic AMP-dependent transcription factor ATF-6 alpha,162.54,N,121,32.35,11.78,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_018906125.1,29011,Insecta,Insecta,Bemisia tabaci,Sweet potato whitefly,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,162.16,N,121,32.35,11.75,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_024945772.1,32236,Insecta,Insecta,Cephus cinctus,Wheat stem sawfly,cyclic AMP-dependent transcription factor ATF-6 alpha,161.77,N,121,32.35,11.72,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_011352101.2,53796,Insecta,Insecta,Ooceraea biroi,Clonal raider ant,cyclic AMP-dependent transcription factor ATF-6 alpha,161.77,N,121,32.35,11.72,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022900185.1,21694,Insecta,Insecta,Onthophagus taurus,Dung beetles & tumblebugs,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,161.77,N,121,32.35,11.72,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_031636985.1,24972,Insecta,Insecta,Contarinia nasturtii,Swede midge,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,161.38,N,121,32.35,11.69,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_011500637.1,12848,Insecta,Insecta,Ceratosolen solmsi marchali,Fig wasps,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,158.3,N,121,32.35,11.47,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_029673511.1,22522,Insecta,Insecta,Formica exsecta,"Wasps, ants, and bees",cyclic AMP-dependent transcription factor ATF-6 alpha,158.3,N,121,32.35,11.47,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_023030391.1,20099,Insecta,Insecta,Leptinotarsa decemlineata,Colorado potato beetle,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,157.92,N,121,32.35,11.44,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,MBV94640.1,11098,Mammalia,Mammalia,Eschrichtius robustus,Grey whale,Cyclic AMP-dependent transcription factor ATF-6 beta,157.53,N,121,32.35,11.41,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_024871282.1,27309,Insecta,Insecta,Temnothorax curvispinosus,"Wasps, ants, and bees",cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,156.76,N,121,32.35,11.36,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TGZ45833.1,13122,Insecta,Insecta,Temnothorax longispinosus,"Wasps, ants, and bees",Cyclic AMP-dependent transcription factor ATF-6 alpha,156.38,N,121,32.35,11.33,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_034301772.1,63743,Bivalvia,Bivalvia,Crassostrea gigas,Pacific oyster,cyclic AMP-dependent transcription factor ATF-6 beta-like,155.99,N,121,32.35,11.3,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_025113432.1,62092,Gastropoda,Gastropoda,Pomacea canaliculata,Mesogastropoda,cyclic AMP-dependent transcription factor ATF-6 beta-like,155.99,N,121,32.35,11.3,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_015108545.1,19520,Insecta,Insecta,Diachasma alloeum,"Wasps, ants, and bees",cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,155.99,N,121,32.35,11.3,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_018310464.1,33373,Insecta,Insecta,Trachymyrmex zeteki,"Wasps, ants, and bees",PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,155.99,N,121,32.35,11.3,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KYN33070.1,35683,Insecta,Insecta,Trachymyrmex septentrionalis,"Wasps, ants, and bees",Cyclic AMP-dependent transcription factor ATF-6 alpha,155.61,N,121,32.35,11.27,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012057530.1,10762,Insecta,Insecta,Atta cephalotes,Leaf cutting ants,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,155.61,N,121,32.35,11.27,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_031332355.1,48187,Insecta,Insecta,Photinus pyralis,Common eastern firefly,cyclic AMP-dependent transcription factor ATF-6 alpha,155.22,N,121,32.35,11.25,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012935030.1,28801,Gastropoda,Gastropoda,Aplysia californica,California sea hare,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 beta-like isoform X2,155.22,N,121,32.35,11.25,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_018045672.1,31131,Insecta,Insecta,Atta colombica,Leaf cutting ants,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,154.84,N,121,32.35,11.22,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_014272663.1,26429,Insecta,Insecta,Halyomorpha halys,Brown marmorated stink bug,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X3,154.45,N,121,32.35,11.19,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_029640795.1,26163,Cephalopoda,Cephalopoda,Octopus vulgaris,Common octopus,cyclic AMP-dependent transcription factor ATF-6 alpha-like,154.45,N,121,32.35,11.19,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_029168229.1,24986,Insecta,Insecta,Nylanderia fulva,"Wasps, ants, and bees",cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,153.68,N,121,32.35,11.13,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_020297769.1,23521,Insecta,Insecta,Pseudomyrmex gracilis,"Wasps, ants, and bees",cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,152.53,N,121,32.35,11.05,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,EGI61364.1,34244,Insecta,Insecta,Acromyrmex echinatior,Panamanian leafcutter ant,Cyclic AMP-dependent transcription factor ATF-6 alpha,152.53,N,121,32.35,11.05,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_026466712.1,22186,Insecta,Insecta,Ctenocephalides felis,Cat flea,uncharacterized protein LOC113370252,152.14,N,121,32.35,11.02,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_011686363.1,24351,Insecta,Insecta,Wasmannia auropunctata,Little fire ant,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,151.75,N,121,32.35,11,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_014790269.1,62924,Cephalopoda,Cephalopoda,Octopus bimaculoides,Cephalopods,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha-like isoform X1,151.75,N,121,32.35,11,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PIK35608.1,30778,Holothuroidea,Holothuroidea,Apostichopus japonicus,Japanese sea cucumber,putative cyclic AMP-dependent transcription factor ATF-6 alpha,150.98,N,121,32.35,10.94,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_001656926.2,49405,Insecta,Insecta,Aedes aegypti,Yellow fever mosquito,cyclic AMP-dependent transcription factor ATF-6 alpha,150.21,N,121,32.35,10.88,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_029713342.1,59061,Insecta,Insecta,Aedes albopictus,Asian tiger mosquito,cyclic AMP-dependent transcription factor ATF-6 alpha-like,150.21,N,121,32.35,10.88,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_019757416.1,49511,Insecta,Insecta,Dendroctonus ponderosae,Mountain pine beetle,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,149.83,N,121,32.35,10.86,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_018403884.1,31479,Insecta,Insecta,Cyphomyrmex costatus,"Wasps, ants, and bees",PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,149.83,N,121,32.35,10.86,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_552696.3,28139,Insecta,Insecta,Anopheles gambiae str. PEST,African malaria mosquito,"AGAP008832-PA, partial",149.44,N,121,32.35,10.83,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PCG80162.1,19089,Insecta,Insecta,Heliothis virescens,Tobacco budworm,hypothetical protein B5V51_10865,149.44,N,121,32.35,10.83,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_028137637.1,28182,Insecta,Insecta,Diabrotica virgifera virgifera,Western corn rootworm,cyclic AMP-dependent transcription factor ATF-6 beta,147.9,N,121,32.35,10.72,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_008555482.1,18603,Insecta,Insecta,Microplitis demolitor,"Wasps, ants, and bees",PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,147.9,N,121,32.35,10.72,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF0751540.1,32310,Insecta,Insecta,Aphis craccivora,Cowpea aphid,"cyclic AMP-dependent transcription factor ATF-6 alpha isoform X3, partial",147.52,N,121,32.35,10.69,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_025409672.1,21321,Insecta,Insecta,Sipha flava,Yellow sugarcane aphid,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,147.52,N,121,32.35,10.69,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022823085.1,25340,Insecta,Insecta,Spodoptera litura,Owlet moths,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,147.13,N,121,32.35,10.66,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_026323630.1,20440,Insecta,Insecta,Hyposmocoma kahamanoa,Cosmet moths,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,145.59,N,121,32.35,10.55,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_026728659.1,24061,Insecta,Insecta,Trichoplusia ni,Cabbage looper,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,145.21,N,121,32.35,10.52,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,RVE53267.1,16608,Insecta,Insecta,Chilo suppressalis,Striped riceborer,hypothetical protein evm_002100,144.82,N,121,32.35,10.49,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_025190466.1,19134,Insecta,Insecta,Melanaphis sacchari,Aphids,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X3,144.82,N,121,32.35,10.49,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_027846453.1,19374,Insecta,Insecta,Aphis gossypii,Cotton aphid,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,144.44,N,121,32.35,10.47,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAE9521862.1,18677,Insecta,Insecta,Aphis glycines,Soybean aphid,hypothetical protein AGLY_017744,144.44,N,121,32.35,10.47,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_014231575.1,21179,Insecta,Insecta,Trichogramma pretiosum,Trichogrammid wasps,uncharacterized protein LOC106655604 isoform X2,143.28,N,121,32.35,10.38,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PZC79822.1,40199,Insecta,Insecta,Helicoverpa armigera,Cotton bollworm,hypothetical protein B5X24_HaOG215811,142.51,N,121,32.35,10.33,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_013166816.1,39488,Insecta,Insecta,Papilio xuthus,Asian swallowtail,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,142.12,N,121,32.35,10.3,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,CAB3255426.1,38602,Insecta,Insecta,Arctia plantaginis,Tiger moths,unnamed protein product,139.43,N,121,32.35,10.1,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_026804718.1,19570,Insecta,Insecta,Rhopalosiphum maidis,Corn leaf aphid,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,139.04,N,121,32.35,10.07,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_028033494.1,19920,Insecta,Insecta,Bombyx mandarina,Wild silkworm,cyclic AMP-dependent transcription factor ATF-6 beta,138.66,N,121,32.35,10.05,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_028176960.1,24619,Insecta,Insecta,Ostrinia furnacalis,Asian corn borer,cyclic AMP-dependent transcription factor ATF-6 alpha,138.66,N,121,32.35,10.05,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_004928618.1,28455,Insecta,Insecta,Bombyx mori,Domestic silkworm,cyclic AMP-dependent transcription factor ATF-6 beta isoform X2,138.66,N,121,32.35,10.05,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KRZ87069.1,18432,Enoplea,Enoplea,Trichinella sp. T8,Roundworms,Cyclic AMP-dependent transcription factor ATF-6 alpha,138.27,N,121,32.35,10.02,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KRX78290.1,19492,Enoplea,Enoplea,Trichinella sp. T6,Roundworms,Cyclic AMP-dependent transcription factor ATF-6 alpha,137.89,N,121,32.35,9.99,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KRX53720.1,18540,Enoplea,Enoplea,Trichinella sp. T9,Roundworms,Cyclic AMP-dependent transcription factor ATF-6 alpha,137.5,N,121,32.35,9.96,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF3422823.1,11133,Insecta,Insecta,Frieseomelitta varia,Stingless bees,hypothetical protein E2986_13164,137.12,N,121,32.35,9.93,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022169788.1,24372,Insecta,Insecta,Myzus persicae,Green peach aphid,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,135.96,N,121,32.35,9.85,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KRX28115.1,17020,Enoplea,Enoplea,Trichinella nelsoni,Roundworms,TBC1 domain family member 13,135.96,N,121,32.35,9.85,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KRX39403.1,18644,Enoplea,Enoplea,Trichinella murrelli,Trichinella sp. T5,TBC1 domain family member 13,135.58,N,121,32.35,9.82,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KRY66619.1,81560,Enoplea,Enoplea,Trichinella pseudospiralis,Roundworms,"Cyclic AMP-dependent transcription factor ATF-6 alpha, partial",135.19,N,121,32.35,9.8,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_014204499.1,17495,Insecta,Insecta,Copidosoma floridanum,"Wasps, ants, and bees",cyclic AMP-dependent transcription factor ATF-6 alpha,134.81,N,121,32.35,9.77,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KRZ61290.1,27811,Enoplea,Enoplea,Trichinella nativa,Roundworms,TBC1 domain family member 13,134.42,N,121,32.35,9.74,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KRY57135.1,20888,Enoplea,Enoplea,Trichinella britovi,Roundworms,TBC1 domain family member 13,134.03,N,121,32.35,9.71,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030035012.1,23019,Insecta,Insecta,Manduca sexta,Tobacco hornworm,uncharacterized protein LOC115450972 isoform X2,133.65,N,121,32.35,9.68,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KRY11270.1,19506,Enoplea,Enoplea,Trichinella patagoniensis,Trichinella sp. SJK-2011,TBC1 domain family member 13,133.65,N,121,32.35,9.68,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KRY32924.1,35911,Enoplea,Enoplea,Trichinella spiralis,Roundworms,TBC1 domain family member 13,132.88,N,121,32.35,9.63,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,RNA19965.1,52949,Monogononta,Monogononta,Brachionus plicatilis,Rotifers,cyclic AMP-dependent transcription factor ATF-6 beta,130.95,N,121,32.35,9.49,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_011191311.1,24719,Insecta,Insecta,Zeugodacus cucurbitae,Melon fly,cyclic AMP-dependent transcription factor ATF-6 alpha,130.18,N,121,32.35,9.43,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KRZ03552.1,19285,Enoplea,Enoplea,Trichinella zimbabwensis,Roundworms,"TBC1 domain family member 13, partial",130.18,N,121,32.35,9.43,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_014091699.1,19286,Insecta,Insecta,Bactrocera oleae,Olive fruit fly,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,129.8,N,121,32.35,9.4,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_011567590.1,23000,Insecta,Insecta,Plutella xylostella,Diamondback moth,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha-like isoform X1,129.41,N,121,32.35,9.38,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_018782716.1,22766,Insecta,Insecta,Bactrocera latifrons,Fruit flies,PREDICTED: probable basic-leucine zipper transcription factor J,129.41,N,121,32.35,9.38,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_033247015.1,33734,Insecta,Insecta,Drosophila miranda,Fruit flies,cyclic AMP-dependent transcription factor ATF-6 alpha,128.26,N,121,32.35,9.29,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022227210.1,26945,Insecta,Insecta,Drosophila obscura,Fruit flies,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X1,128.26,N,121,32.35,9.29,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_023944461.1,21983,Insecta,Insecta,Bicyclus anynana,Squinting bush brown,cyclic AMP-dependent transcription factor ATF-6 beta,127.87,N,121,32.35,9.27,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_001352340.3,29521,Insecta,Insecta,Drosophila pseudoobscura,Fruit flies,uncharacterized protein LOC4811771 isoform X1,127.49,N,121,32.35,9.24,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KRZ76197.1,16253,Enoplea,Enoplea,Trichinella papuae,Roundworms,TBC1 domain family member 13,127.49,N,121,32.35,9.24,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_026764288.1,20703,Insecta,Insecta,Galleria mellonella,Greater wax moth,cyclic AMP-dependent transcription factor ATF-6 alpha,126.72,N,121,32.35,9.18,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,EDW38794.1,37444,Insecta,Insecta,Drosophila persimilis,Fruit flies,GL22941,126.72,N,121,32.35,9.18,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KFB42990.1,19894,Insecta,Insecta,Anopheles sinensis,Mosquitos,AGAP008832-PA-like protein,126.33,N,121,32.35,9.15,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_032513364.1,34980,Insecta,Insecta,Danaus plexippus plexippus,Monarch butterfly,LOW QUALITY PROTEIN: uncharacterized protein LOC116767228,125.18,N,121,32.35,9.07,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_034140457.1,40506,Insecta,Insecta,Drosophila guanche,Fruit flies,cyclic AMP-dependent transcription factor ATF-6 alpha,124.79,N,121,32.35,9.04,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_011202058.1,23528,Insecta,Insecta,Bactrocera dorsalis,Oriental fruit fly,uncharacterized protein LOC105225350,124.41,N,121,32.35,9.01,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030385262.1,19868,Insecta,Insecta,Scaptodrosophila lebanonensis,Pomace flies,cyclic AMP-dependent transcription factor ATF-6 alpha,124.41,N,121,32.35,9.01,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,EDW74483.2,34285,Insecta,Insecta,Drosophila willistoni,Fruit flies,"uncharacterized protein Dwil_GK21942, partial",124.02,N,121,32.35,8.99,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAB7495820.1,14632,Malacostraca,Malacostraca,Armadillidium nasatum,Pillbugs,Cyclic AMP-dependent transcription factor ATF-6 alpha,120.94,N,121,32.35,8.76,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_001865736.1,38591,Insecta,Insecta,Culex quinquefasciatus,Southern house mosquito,conserved hypothetical protein,120.17,N,121,32.35,8.71,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,CAB3363843.1,31082,Insecta,Insecta,Cloeon dipterum,Small minnow mayflies,Hypothetical predicted protein,119.01,N,121,32.35,8.62,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TKR72219.1,36673,Chromadorea,Chromadorea,Steinernema carpocapsae,Steinernema sp. LE-2017,hypothetical protein L596_019705,118.63,N,121,32.35,8.6,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KHJ43468.1,38519,Enoplea,Enoplea,Trichuris suis,Pig whipworm,LIM domain protein,116.32,N,121,32.35,8.43,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_020714878.1,23782,Insecta,Insecta,Ceratitis capitata,Mediterranean fruit fly,cyclic AMP-dependent transcription factor ATF-6 alpha isoform X2,115.16,N,121,32.35,8.34,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_020912332.1,53890,Anthozoa,Anthozoa,Exaiptasia pallida,Sea anemones,cyclic AMP-dependent transcription factor ATF-6 alpha,115.16,N,121,32.35,8.34,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_013144247.1,17824,Insecta,Insecta,Papilio polytes,Common Mormon,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,111.31,N,121,32.35,8.06,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022786879.1,57612,Anthozoa,Anthozoa,Stylophora pistillata,Stony corals,cyclic AMP-dependent transcription factor ATF-6 beta-like isoform X1,109,N,121,32.35,7.9,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012555897.1,23139,Hydrozoa,Hydrozoa,Hydra vulgaris,Hydras,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 beta-like isoform X2,108.23,N,121,32.35,7.84,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,RMX39219.1,51030,Anthozoa,Anthozoa,Pocillopora damicornis,Cauliflower coral,hypothetical protein pdam_00016189,106.3,N,121,32.35,7.7,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF0306956.1,28245,Hexanauplia,Hexanauplia,Amphibalanus amphitrite,Acorn barnacles,Cyclic AMP-dependent transcription factor ATF-6 beta,105.53,N,121,32.35,7.65,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_002109415.1,23209,Trichoplacidae,Trichoplacidae,Trichoplax adhaerens,Placozoans,hypothetical protein TRIADDRAFT_53424,105.14,N,121,32.35,7.62,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_001970863.2,42797,Insecta,Insecta,Drosophila erecta,Fruit flies,uncharacterized protein LOC6541903 isoform X2,101.68,N,121,32.35,7.37,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VVD02568.1,20058,Insecta,Insecta,Leptidea sinapis,"White, yellow and sulphur butterflies",unnamed protein product,101.29,N,121,32.35,7.34,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,MPC24898.1,99902,Malacostraca,Malacostraca,Portunus trituberculatus,Swimming crab,Cyclic AMP-dependent transcription factor ATF-6 alpha,100.52,N,121,32.35,7.28,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_016026006.1,69950,Insecta,Insecta,Drosophila simulans,Fruit flies,uncharacterized protein Dsimw501_GD17476,100.14,N,121,32.35,7.26,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,OQR72068.1,14365,Arachnida,Arachnida,Tropilaelaps mercedesae,Mites and ticks,Cyclic AMP-dependent transcription factor ATF-6 alpha-like,99.75,N,121,32.35,7.23,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022643762.1,30441,Arachnida,Arachnida,Varroa destructor,Honeybee mite,cyclic AMP-dependent transcription factor ATF-6 beta-like isoform X1,98.98,N,121,32.35,7.17,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022695363.1,26233,Arachnida,Arachnida,Varroa jacobsoni,Mites and ticks,cyclic AMP-dependent transcription factor ATF-6 beta-like,98.98,N,121,32.35,7.17,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_017106487.1,23646,Insecta,Insecta,Drosophila bipectinata,Fruit flies,"PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha, partial",97.83,N,121,32.35,7.09,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,CAB3263365.1,9702,Ascidiacea,Ascidiacea,Phallusia mammillata,Warty sea squirt,uncharacterized protein LOC778962,92.43,N,121,32.35,6.7,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_011294567.1,22176,Insecta,Insecta,Musca domestica,House fly,PREDICTED: uncharacterized protein LOC101891499 isoform X2,92.43,N,121,32.35,6.7,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_013114018.1,22827,Insecta,Insecta,Stomoxys calcitrans,Stable fly,PREDICTED: uncharacterized protein LOC106091877,92.05,N,121,32.35,6.67,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_017478151.1,34625,Insecta,Insecta,Rhagoletis zephyria,Snowberry fruit fly,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha,91.28,N,121,32.35,6.61,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_023295745.1,33825,Insecta,Insecta,Lucilia cuprina,Australian sheep blowfly,putative GPI-anchored protein pfl2,90.12,N,121,32.35,6.53,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,NP_995745.1,112827,Insecta,Insecta,Drosophila melanogaster,Fruit fly,"Atf6, isoform C",87.43,N,121,32.35,6.33,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_014759182.1,45606,Insecta,Insecta,Drosophila ananassae,Fruit flies,probable basic-leucine zipper transcription factor D isoform X1,87.43,N,121,32.35,6.33,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_014369401.1,33325,Insecta,Insecta,Papilio machaon,Common yellow swallowtail,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 beta-like,87.43,N,121,32.35,6.33,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_002123408.4,23440,Ascidiacea,Ascidiacea,Ciona intestinalis,Vase tunicate,LOW QUALITY PROTEIN: uncharacterized protein LOC778962,86.27,N,121,32.35,6.25,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAE9435495.1,22833,Insecta,Insecta,Apolygus lucorum,Plant bugs,hypothetical protein GE061_18090,85.5,N,121,32.35,6.19,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_027198421.1,13039,Arachnida,Arachnida,Dermatophagoides pteronyssinus,European house dust mite,homeobox protein 4-like,85.5,N,121,32.35,6.19,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_001987094.1,35106,Insecta,Insecta,Drosophila grimshawi,Fruit flies,uncharacterized protein LOC6560291,85.11,N,121,32.35,6.17,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,CRK92670.1,22648,Insecta,Insecta,Clunio marinus,Nonbiting midges,"CLUMA_CG006311, isoform A",85.11,N,121,32.35,6.17,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_014665249.1,20794,Priapulimorpha,Priapulimorpha,Priapulus caudatus,Priapulids,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha-like isoform X1,81.26,N,121,32.35,5.89,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030573924.1,20257,Insecta,Insecta,Drosophila novamexicana,Fruit flies,uncharacterized protein LOC115772098,81.26,N,121,32.35,5.89,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_002050015.2,44776,Insecta,Insecta,Drosophila virilis,Fruit flies,probable basic-leucine zipper transcription factor J,80.88,N,121,32.35,5.86,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_023171858.2,21595,Insecta,Insecta,Drosophila hydei,Fruit flies,uncharacterized protein LOC111600126,80.11,N,121,32.35,5.8,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_017958632.1,35897,Insecta,Insecta,Drosophila navojoa,Fruit flies,uncharacterized protein LOC108652938,79.34,N,121,32.35,5.75,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_017865492.1,20062,Insecta,Insecta,Drosophila arizonae,Fruit flies,PREDICTED: uncharacterized protein LOC108615491,79.34,N,121,32.35,5.75,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_002005817.1,42659,Insecta,Insecta,Drosophila mojavensis,Fruit flies,uncharacterized protein LOC6579944,77.8,N,121,32.35,5.64,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AFJ24797.1,1629,Rhabditophora,Rhabditophora,Schmidtea mediterranea,Freshwater planarian,"ATFl1, partial",77.41,N,121,32.35,5.61,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,NP_510094.1,70847,Chromadorea,Chromadorea,Caenorhabditis elegans,Roundworm,BZIP domain-containing protein,77.41,N,121,32.35,5.61,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_024502783.1,24982,Chromadorea,Chromadorea,Strongyloides ratti,Roundworms,Basic-leucine zipper domain-containing protein,76.64,N,121,32.35,5.55,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_034102917.1,23268,Insecta,Insecta,Drosophila albomicans,Fruit flies,uncharacterized protein LOC117567197,76.26,N,121,32.35,5.53,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VBB27282.1,10213,Chromadorea,Chromadorea,Acanthocheilonema viteae,Roundworms,unnamed protein product,76.26,N,121,32.35,5.53,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_034477520.1,19612,Insecta,Insecta,Drosophila innubila,Fruit flies,uncharacterized protein LOC117784032,75.87,N,121,32.35,5.5,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,ODM99762.1,20400,Collembola,Collembola,Orchesella cincta,Slender springtails,Cyclic AMP-dependent transcription factor ATF-6 beta,75.48,N,121,32.35,5.47,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_013092675.1,37571,Gastropoda,Gastropoda,Biomphalaria glabrata,Bloodfluke planorb,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha-like,75.1,N,121,32.35,5.44,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_033152319.1,24100,Insecta,Insecta,Drosophila mauritiana,Fruit flies,uncharacterized protein LOC117135882,74.33,N,121,32.35,5.39,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,OTF80585.1,15267,Arachnida,Arachnida,Euroglyphus maynei,House-dust mites,"Cyclic AMP-dependent transcription factor ATF-6 alpha-like protein, partial",73.94,N,121,32.35,5.36,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_018014058.1,32118,Malacostraca,Malacostraca,Hyalella azteca,"Beach hoppers, scuds and well shrimps",PREDICTED: cell wall protein DAN4-like,73.94,N,121,32.35,5.36,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_003101188.1,141982,Chromadorea,Chromadorea,Caenorhabditis remanei,Roundworms,CRE-ATF-6 protein,73.94,N,121,32.35,5.36,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VDM97081.1,11025,Chromadorea,Chromadorea,Thelazia callipaeda,Thelaziosis nematode,unnamed protein product,73.17,N,121,32.35,5.3,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,EGT46755.1,31595,Chromadorea,Chromadorea,Caenorhabditis brenneri,Caenorhabditis n. sp. CB5161,hypothetical protein CAEBREN_13846,72.79,N,121,32.35,5.27,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,OZG22043.1,25622,Chromadorea,Chromadorea,Caenorhabditis latens,Caenorhabditis sp. 23 KK-2011,"hypothetical protein FL83_03394, partial",72.4,N,121,32.35,5.25,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VDN50780.1,11204,Chromadorea,Chromadorea,Dracunculus medinensis,Guinea worm,unnamed protein product,72.4,N,121,32.35,5.25,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VDK77455.1,10063,Chromadorea,Chromadorea,Litomosoides sigmodontis,Roundworms,unnamed protein product,71.25,N,121,32.35,5.16,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_021967931.1,54770,Collembola,Collembola,Folsomia candida,Smooth springtails,cyclic AMP-dependent transcription factor ATF-6 beta-like isoform X1,70.86,N,121,32.35,5.13,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009011586.1,46878,Clitellata,Clitellata,Helobdella robusta,Leeches,hypothetical protein HELRODRAFT_183756,69.71,N,121,32.35,5.05,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_033150755.1,31259,Insecta,Insecta,Drosophila busckii,Fruit flies,uncharacterized protein LOC117135036,69.32,N,121,32.35,5.02,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KHN80562.1,38973,Chromadorea,Chromadorea,Toxocara canis,Dog roundworm,Cyclic AMP-dependent transcription factor ATF-6 beta,68.55,N,121,32.35,4.97,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,CDQ05610.1,43408,Chromadorea,Chromadorea,Brugia malayi,Agent of lymphatic filariasis,"BMA-ATF-6, isoform a",68.17,N,121,32.35,4.94,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VDN89541.1,14700,Chromadorea,Chromadorea,Brugia pahangi,Roundworms,unnamed protein product,68.17,N,121,32.35,4.94,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,ETN63072.1,10783,Insecta,Insecta,Anopheles darlingi,American malaria mosquito,hypothetical protein AND_005225,65.86,N,121,32.35,4.77,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_010507592.1,107790,Magnoliopsida,Magnoliopsida,Camelina sativa,False flax,PREDICTED: ABSCISIC ACID-INSENSITIVE 5-like protein 7 isoform X1,65.47,N,121,32.35,4.74,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VDO32955.1,15878,Chromadorea,Chromadorea,Brugia timori,Roundworms,unnamed protein product,64.7,N,121,32.35,4.69,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,EJW83447.1,32680,Chromadorea,Chromadorea,Wuchereria bancrofti,Agent of lymphatic filariasis,hypothetical protein WUBG_05641,64.7,N,121,32.35,4.69,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,RUS21108.1,9490,Endogonomycetes,Endogonomycetes,Endogone sp. FLAS-F59071,Eucaryotes,hypothetical protein BC937DRAFT_93613,63.93,N,121,32.35,4.63,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_018492326.1,62483,Magnoliopsida,Magnoliopsida,Raphanus sativus,Radish,PREDICTED: ABSCISIC ACID-INSENSITIVE 5-like protein 7 isoform X3,63.54,N,121,32.35,4.6,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_034575518.1,91347,Magnoliopsida,Magnoliopsida,Setaria viridis,Grass family,bZIP transcription factor 23,62,N,121,32.35,4.49,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PAA75789.1,49034,Rhabditophora,Rhabditophora,Macrostomum lignano,Flatworms,hypothetical protein BOX15_Mlig031235g3,62,N,121,32.35,4.49,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_004954029.1,79371,Magnoliopsida,Magnoliopsida,Setaria italica,Foxtail millet,bZIP transcription factor 23,62,N,121,32.35,4.49,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_002645241.1,42510,Chromadorea,Chromadorea,Caenorhabditis briggsae,Caenorhabditis briggsae AF16,C. briggsae CBR-ATF-6 protein,61.62,N,121,32.35,4.46,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,BAN15747.1,493,Magnoliopsida,Magnoliopsida,Dianthus caryophyllus,Clove pink,ABA responsive element binding factor,61.23,N,121,32.35,4.44,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_019849789.1,24202,Demospongiae,Demospongiae,Amphimedon queenslandica,Reniera sp. JGI-2005,PREDICTED: cyclic AMP-dependent transcription factor ATF-6 alpha-like,60.85,N,121,32.35,4.41,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VAI61511.1,190753,Magnoliopsida,Magnoliopsida,Triticum turgidum subsp. durum,Durum wheat,unnamed protein product,60.85,N,121,32.35,4.41,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AIL01834.1,22309,Magnoliopsida,Magnoliopsida,Triticum aestivum,Bread wheat,bZIP transcription factor B,60.85,N,121,32.35,4.41,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_004352825.1,29958,Longamoebia,Longamoebia,Acanthamoeba castellanii str. Neff,Acanthamoeba sp. ATCC 30011,bZIP transcription factor domain containing protein,60.85,N,121,32.35,4.41,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_024197986.1,90472,Magnoliopsida,Magnoliopsida,Rosa chinensis,China rose,ABSCISIC ACID-INSENSITIVE 5-like protein 1,60.85,N,121,32.35,4.41,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VDC72155.1,152072,Magnoliopsida,Magnoliopsida,Brassica rapa,Field mustard,unnamed protein product,60.46,N,121,32.35,4.38,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030532289.1,42574,Magnoliopsida,Magnoliopsida,Rhodamnia argentea,Silver malletwood,protein ABSCISIC ACID-INSENSITIVE 5 isoform X2,60.46,N,121,32.35,4.38,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,CAA7030749.1,48819,Magnoliopsida,Magnoliopsida,Microthlaspi erraticum,Mustard family,unnamed protein product,60.08,N,121,32.35,4.35,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_020197149.1,55658,Magnoliopsida,Magnoliopsida,Aegilops tauschii subsp. tauschii,Grass family,ABSCISIC ACID-INSENSITIVE 5-like protein 5 isoform X1,60.08,N,121,32.35,4.35,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAE8814045.1,55931,Magnoliopsida,Magnoliopsida,Hordeum vulgare,Barley,bZIP transcription factor,59.69,N,121,32.35,4.32,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_015688745.1,27521,Magnoliopsida,Magnoliopsida,Oryza brachyantha,Malo sina,PREDICTED: ABSCISIC ACID-INSENSITIVE 5-like protein 5,59.69,N,121,32.35,4.32,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AKT95175.1,1594,Magnoliopsida,Magnoliopsida,Oryza sativa f. spontanea,Rice,OsbZIP23,59.69,N,121,32.35,4.32,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PDM64944.1,25367,Chromadorea,Chromadorea,Pristionchus pacificus,Roundworms,GTPase activator protein,59.69,N,121,32.35,4.32,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,EAY87653.1,43808,Magnoliopsida,Magnoliopsida,Oryza sativa Indica Group,Long-grained rice,hypothetical protein OsI_09065,59.31,N,121,32.35,4.3,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012838720.1,61619,Magnoliopsida,Magnoliopsida,Erythranthe guttata,Spotted monkey flower,PREDICTED: ABSCISIC ACID-INSENSITIVE 5-like protein 5,59.31,N,121,32.35,4.3,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_006297700.1,65548,Magnoliopsida,Magnoliopsida,Capsella rubella,Mustard family,ABSCISIC ACID-INSENSITIVE 5-like protein 7 isoform X1,59.31,N,121,32.35,4.3,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PIC19555.1,44576,Chromadorea,Chromadorea,Caenorhabditis nigoni,Caenorhabditis sp. 9 JU1325,hypothetical protein B9Z55_025063,59.31,N,121,32.35,4.3,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_015876269.1,44231,Magnoliopsida,Magnoliopsida,Ziziphus jujuba,Common jujube,ABSCISIC ACID-INSENSITIVE 5-like protein 2,59.31,N,121,32.35,4.3,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AIL01832.1,1304,Magnoliopsida,Magnoliopsida,Aegilops tauschii,Grass family,bZIP transcription factor,59.31,N,121,32.35,4.3,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AEF32521.1,165,Magnoliopsida,Magnoliopsida,Elymus repens,Wild rye,"stress-related bZIP transcription factor, partial",59.31,N,121,32.35,4.3,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF3434303.1,25043,Magnoliopsida,Magnoliopsida,Rhamnella rubrinervis,Buckthorn family,hypothetical protein FNV43_RR25406,59.31,N,121,32.35,4.3,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAD4981887.1,46478,Magnoliopsida,Magnoliopsida,Mikania micrantha,Bittervine,hypothetical protein E3N88_18558,59.31,N,121,32.35,4.3,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,EEE57861.1,281548,Magnoliopsida,Magnoliopsida,Oryza sativa Japonica Group,Japanese rice,hypothetical protein OsJ_08504,59.31,N,121,32.35,4.3,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AIL01831.1,812,Magnoliopsida,Magnoliopsida,Aegilops speltoides,Grass family,bZIP transcription factor,59.31,N,121,32.35,4.3,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VDD45757.1,63068,Magnoliopsida,Magnoliopsida,Brassica oleracea,Wild cabbage,unnamed protein product,59.31,N,121,32.35,4.3,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAB8089051.1,44519,Magnoliopsida,Magnoliopsida,Oryza sativa,Rice,hypothetical protein EE612_013867,59.31,N,121,32.35,4.3,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AKT95174.1,2572,Magnoliopsida,Magnoliopsida,Oryza rufipogon,Common wild rice,bZIP23,59.31,N,121,32.35,4.3,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AIL01830.1,24970,Magnoliopsida,Magnoliopsida,Triticum urartu,Grass family,bZIP transcription factor,59.31,N,121,32.35,4.3,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,THU68745.1,32876,Magnoliopsida,Magnoliopsida,Musa balbisiana,Balbis banana,hypothetical protein C4D60_Mb08t07090,58.92,N,121,32.35,4.27,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_025799480.1,81468,Magnoliopsida,Magnoliopsida,Panicum hallii,Panicgrasses,bZIP transcription factor 23,58.92,N,121,32.35,4.27,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PKI38526.1,116536,Magnoliopsida,Magnoliopsida,Punica granatum,Pomegranate,hypothetical protein CRG98_041091,58.92,N,121,32.35,4.27,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TEY79157.1,53315,Magnoliopsida,Magnoliopsida,Salvia splendens,Bonfire salvia,ABA responsive element binding factor,58.92,N,121,32.35,4.27,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF0931307.1,48576,Magnoliopsida,Magnoliopsida,Oryza meyeriana var. granulata,Grass family,hypothetical protein E2562_002646,58.92,N,121,32.35,4.27,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PUZ77783.1,42251,Magnoliopsida,Magnoliopsida,Panicum hallii var. hallii,Panicgrasses,hypothetical protein GQ55_1G401600,58.92,N,121,32.35,4.27,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,APZ88645.1,178,Magnoliopsida,Magnoliopsida,Bambusa emeiensis,Bamboos,transcription factor bZIP3,58.92,N,121,32.35,4.27,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PWA69369.1,67418,Magnoliopsida,Magnoliopsida,Artemisia annua,Sweet wormwood,basic-leucine zipper (bZIP) transcription factor family protein,58.92,N,121,32.35,4.27,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,OEL23094.1,26468,Magnoliopsida,Magnoliopsida,Dichanthelium oligosanthes,Rosette grass,ABSCISIC ACID-INSENSITIVE 5-like protein 7,58.92,N,121,32.35,4.27,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,NP_001189934.1,278493,Magnoliopsida,Magnoliopsida,Arabidopsis thaliana,Thale cress,ABRE binding factor 4,58.92,N,121,32.35,4.27,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_020696018.1,63579,Magnoliopsida,Magnoliopsida,Dendrobium catenatum,Orchid family,bZIP transcription factor TRAB1-like,58.92,N,121,32.35,4.27,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,RYQ86535.1,282105,Magnoliopsida,Magnoliopsida,Arachis hypogaea,Peanut,hypothetical protein Ahy_B10g106203,58.54,N,121,32.35,4.24,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_010683741.1,62104,Magnoliopsida,Magnoliopsida,Beta vulgaris subsp. vulgaris,Swiss chard,PREDICTED: protein ABSCISIC ACID-INSENSITIVE 5,58.54,N,121,32.35,4.24,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,RKO87370.1,12167,Chytridiomycetes,Chytridiomycetes,Blyttiomyces helicus,Eucaryotes,hypothetical protein BDK51DRAFT_39513,58.54,N,121,32.35,4.24,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_020887150.1,73620,Magnoliopsida,Magnoliopsida,Arabidopsis lyrata subsp. lyrata,Lyrate rockcress,ABSCISIC ACID-INSENSITIVE 5-like protein 7 isoform X1,58.54,N,121,32.35,4.24,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_024317370.1,91358,Magnoliopsida,Magnoliopsida,Brachypodium distachyon,Stiff brome,bZIP transcription factor 23 isoform X2,58.54,N,121,32.35,4.24,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KNA18374.1,58081,Magnoliopsida,Magnoliopsida,Spinacia oleracea,Spinach,hypothetical protein SOVF_071310,58.54,N,121,32.35,4.24,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AED99724.1,388,Magnoliopsida,Magnoliopsida,Thinopyrum elongatum,Tall wheatgrass,"stress-related bZIP transcription factor, partial",58.54,N,121,32.35,4.24,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,RLM78209.1,56038,Magnoliopsida,Magnoliopsida,Panicum miliaceum,Broom millet,ABSCISIC ACID-INSENSITIVE 5-like protein 7,58.54,N,121,32.35,4.24,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AFP33245.1,88653,Magnoliopsida,Magnoliopsida,Sorghum bicolor,Sorghum,ABA responsive element binding factor 1,58.15,N,121,32.35,4.21,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_021992515.1,131144,Magnoliopsida,Magnoliopsida,Helianthus annuus,Common sunflower,protein ABSCISIC ACID-INSENSITIVE 5-like,58.15,N,121,32.35,4.21,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_010554496.1,41269,Magnoliopsida,Magnoliopsida,Tarenaya hassleriana,Spider flower,PREDICTED: ABSCISIC ACID-INSENSITIVE 5-like protein 4 isoform X1,58.15,N,121,32.35,4.21,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_023734750.1,84298,Magnoliopsida,Magnoliopsida,Lactuca sativa,Cultivated lettuce,protein ABSCISIC ACID-INSENSITIVE 5,58.15,N,121,32.35,4.21,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAA0031711.1,73951,Magnoliopsida,Magnoliopsida,Cucumis melo var. makuwa,Muskmelon,ABSCISIC ACID-INSENSITIVE 5-like protein 2 isoform X2,58.15,N,121,32.35,4.21,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VZI25424.1,22428,Cestoda,Cestoda,Sparganum proliferum,Tapeworms,unnamed protein product,58.15,N,121,32.35,4.21,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009411954.1,47852,Magnoliopsida,Magnoliopsida,Musa acuminata subsp. malaccensis,Wild Malaysian banana,PREDICTED: protein ABSCISIC ACID-INSENSITIVE 5-like,57.77,N,121,32.35,4.19,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VDL45165.1,30634,Cestoda,Cestoda,Hymenolepis diminuta,Rat tapeworm,unnamed protein product,57.77,N,121,32.35,4.19,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,GEW02653.1,936139,Magnoliopsida,Magnoliopsida,Tanacetum cinerariifolium,Pyrethrum,protein abscisic acid-insensitive 5,57.77,N,121,32.35,4.19,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_019153069.1,51549,Magnoliopsida,Magnoliopsida,Ipomoea nil,Japanese morning glory,PREDICTED: protein ABSCISIC ACID-INSENSITIVE 5,57.77,N,121,32.35,4.19,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_008456645.1,30403,Magnoliopsida,Magnoliopsida,Cucumis melo,Muskmelon,PREDICTED: ABSCISIC ACID-INSENSITIVE 5-like protein 2 isoform X2,57.77,N,121,32.35,4.19,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030453704.1,38162,Magnoliopsida,Magnoliopsida,Syzygium oleosum,Myrtle family,protein ABSCISIC ACID-INSENSITIVE 5 isoform X2,57.77,N,121,32.35,4.19,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_016181801.1,57730,Magnoliopsida,Magnoliopsida,Arachis ipaensis,Pea family,ABSCISIC ACID-INSENSITIVE 5-like protein 2,57.38,N,121,32.35,4.16,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_013586368.1,56626,Magnoliopsida,Magnoliopsida,Brassica oleracea var. oleracea,Wild cabbage,PREDICTED: ABSCISIC ACID-INSENSITIVE 5-like protein 7,57.38,N,121,32.35,4.16,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_024981673.1,65086,Magnoliopsida,Magnoliopsida,Cynara cardunculus var. scolymus,Artichoke,protein ABSCISIC ACID-INSENSITIVE 5,57.38,N,121,32.35,4.16,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AFZ45968.1,277,Magnoliopsida,Magnoliopsida,Brassica oleracea var. capitata,Cabbage,ABA insensitve 5-like protein,57.38,N,121,32.35,4.16,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PPD90411.1,181853,Magnoliopsida,Magnoliopsida,Gossypium barbadense,Sea-island cotton,hypothetical protein GOBAR_DD12644,57.38,N,121,32.35,4.16,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_004140925.1,53824,Magnoliopsida,Magnoliopsida,Cucumis sativus,Cucumber,ABSCISIC ACID-INSENSITIVE 5-like protein 2,57.38,N,121,32.35,4.16,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,NP_001234596.1,42215,Magnoliopsida,Magnoliopsida,Solanum lycopersicum,Tomato,ABA-response element binding factor AREB1,57.38,N,121,32.35,4.16,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022962025.1,43958,Magnoliopsida,Magnoliopsida,Cucurbita moschata,Crookneck pumpkin,ABSCISIC ACID-INSENSITIVE 5-like protein 5 isoform X2,57.38,N,121,32.35,4.16,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AMQ13156.1,24,Magnoliopsida,Magnoliopsida,Oxytropis ochrocephala,Pea family,bZIP transcription factor,57.38,N,121,32.35,4.16,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022133799.1,29132,Magnoliopsida,Magnoliopsida,Momordica charantia,Bitter melon,ABSCISIC ACID-INSENSITIVE 5-like protein 2,57.38,N,121,32.35,4.16,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022996661.1,43076,Magnoliopsida,Magnoliopsida,Cucurbita maxima,Winter squash,ABSCISIC ACID-INSENSITIVE 5-like protein 5 isoform X2,57.38,N,121,32.35,4.16,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_023545866.1,43519,Magnoliopsida,Magnoliopsida,Cucurbita pepo subsp. pepo,Vegetable marrow,ABSCISIC ACID-INSENSITIVE 5-like protein 5 isoform X2,57.38,N,121,32.35,4.16,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,GBG68320.1,35735,Charophyceae,Charophyceae,Chara braunii,Charophytes,hypothetical protein CBR_g2865,57.38,N,121,32.35,4.16,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,POI32300.1,18020,Aves,Aves,Bambusicola thoracicus,Chinese bamboo-partridge,hypothetical protein CIB84_003948,57,N,121,32.35,4.13,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_027065617.1,67899,Magnoliopsida,Magnoliopsida,Coffea arabica,Coffee,protein ABSCISIC ACID-INSENSITIVE 5-like isoform X1,57,N,121,32.35,4.13,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,BAJ94534.1,27012,Magnoliopsida,Magnoliopsida,Hordeum vulgare subsp. vulgare,Domesticated barley,predicted protein,57,N,121,32.35,4.13,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_031128132.1,42130,Magnoliopsida,Magnoliopsida,Ipomoea triloba,Trilobed morning glory,protein ABSCISIC ACID-INSENSITIVE 5,57,N,121,32.35,4.13,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012066490.1,60890,Magnoliopsida,Magnoliopsida,Jatropha curcas,Spurge family,protein ABSCISIC ACID-INSENSITIVE 5,57,N,121,32.35,4.13,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,CDS28532.1,12407,Cestoda,Cestoda,Hymenolepis microstoma,Tapeworms,cyclic AMP dependent transcription factor ATF 6,57,N,121,32.35,4.13,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,CDP15406.1,26235,Magnoliopsida,Magnoliopsida,Coffea canephora,Robusta coffee,unnamed protein product,57,N,121,32.35,4.13,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_019455297.1,86190,Magnoliopsida,Magnoliopsida,Lupinus angustifolius,Narrow-leaved blue lupine,PREDICTED: protein ABSCISIC ACID-INSENSITIVE 5-like,57,N,121,32.35,4.13,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AFA37978.1,167,Magnoliopsida,Magnoliopsida,Solanum torvum,Berenjena cimarrona,ABA responsive element-binding protein,57,N,121,32.35,4.13,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_010049460.1,99738,Magnoliopsida,Magnoliopsida,Eucalyptus grandis,Rose gum,PREDICTED: protein ABSCISIC ACID-INSENSITIVE 5 isoform X2,57,N,121,32.35,4.13,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,RXH76281.1,98198,Magnoliopsida,Magnoliopsida,Malus domestica,Apple,hypothetical protein DVH24_019169,57,N,121,32.35,4.13,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_027173628.1,38188,Magnoliopsida,Magnoliopsida,Coffea eugenioides,Coffee,LOW QUALITY PROTEIN: protein ABSCISIC ACID-INSENSITIVE 5,56.61,N,121,32.35,4.1,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,ESQ53500.1,63221,Magnoliopsida,Magnoliopsida,Eutrema salsugineum,Saltwater cress,hypothetical protein EUTSA_v10025822mg,56.61,N,121,32.35,4.1,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_024352214.1,36472,Cestoda,Cestoda,Echinococcus granulosus,Tapeworms,putative basic-leucine zipper transcription factor D,56.61,N,121,32.35,4.1,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AQL01170.1,274486,Magnoliopsida,Magnoliopsida,Zea mays,Maize,Putative bZIP transcription factor superfamily protein,56.61,N,121,32.35,4.1,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TMW92675.1,26603,Magnoliopsida,Magnoliopsida,Solanum chilense,Nightshade family,hypothetical protein EJD97_012705,56.61,N,121,32.35,4.1,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VDK39116.1,10493,Cestoda,Cestoda,Taenia asiatica,Asian tapeworm,unnamed protein product,56.61,N,121,32.35,4.1,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_015074141.1,38413,Magnoliopsida,Magnoliopsida,Solanum pennellii,Nightshade family,ABSCISIC ACID-INSENSITIVE 5-like protein 5,56.61,N,121,32.35,4.1,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAE8682099.1,83006,Magnoliopsida,Magnoliopsida,Hibiscus syriacus,Rose-of-Sharon,ABSCISIC ACID-INSENSITIVE 5-like protein 2,56.61,N,121,32.35,4.1,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VDM30557.1,11737,Cestoda,Cestoda,Hydatigera taeniaeformis,Tapeworms,unnamed protein product,56.61,N,121,32.35,4.1,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_007460578.1,27194,Mammalia,Mammalia,Lipotes vexillifer,Yangtze River dolphin,PREDICTED: cyclic AMP-responsive element-binding protein 3-like protein 3 isoform X1,56.61,N,121,32.35,4.1,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,CDI97392.1,11445,Cestoda,Cestoda,Echinococcus multilocularis,Tapeworms,cyclic AMP dependent transcription factor ATF 6,56.61,N,121,32.35,4.1,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_021296747.1,27754,Magnoliopsida,Magnoliopsida,Herrania umbratica,Mallow family,ABSCISIC ACID-INSENSITIVE 5-like protein 2,56.61,N,121,32.35,4.1,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,NP_001274925.1,42397,Magnoliopsida,Magnoliopsida,Solanum tuberosum,Potato,ABRE binding factor,56.61,N,121,32.35,4.1,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VDD77215.1,10609,Cestoda,Cestoda,Mesocestoides corti,Tapeworms,unnamed protein product,56.61,N,121,32.35,4.1,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TQD83332.1,46129,Magnoliopsida,Magnoliopsida,Malus baccata,Shan jing zi,hypothetical protein C1H46_031119,56.61,N,121,32.35,4.1,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,RAL48766.1,18285,Magnoliopsida,Magnoliopsida,Cuscuta australis,Dodders,hypothetical protein DM860_001086,56.23,N,121,32.35,4.07,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VDD89304.1,12969,Chromadorea,Chromadorea,Enterobius vermicularis,Human pinworm,unnamed protein product,56.23,N,121,32.35,4.07,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_028772558.1,57575,Magnoliopsida,Magnoliopsida,Prosopis alba,Algarrobo blanco,ABSCISIC ACID-INSENSITIVE 5-like protein 5,56.23,N,121,32.35,4.07,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,CBY33210.1,31306,Appendicularia,Appendicularia,Oikopleura dioica,Appendicularians,unnamed protein product,56.23,N,121,32.35,4.07,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AHA43415.1,457,Magnoliopsida,Magnoliopsida,Solanum nigrum,Black nightshade,AREB-like protein,56.23,N,121,32.35,4.07,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_021728659.1,63613,Magnoliopsida,Magnoliopsida,Chenopodium quinoa,Quinoa,protein ABSCISIC ACID-INSENSITIVE 5,56.23,N,121,32.35,4.07,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AVV65714.1,65,Magnoliopsida,Magnoliopsida,Solanum ochranthum,Nightshade family,"ABA-responsive element binding protein, partial",56.23,N,121,32.35,4.07,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_015947046.1,53103,Magnoliopsida,Magnoliopsida,Arachis duranensis,Pea family,ABSCISIC ACID-INSENSITIVE 5-like protein 2,56.23,N,121,32.35,4.07,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,RWR75804.1,26602,Magnoliopsida,Magnoliopsida,Cinnamomum micranthum f. kanehirae,Laurel family,ABSCISIC ACID-INSENSITIVE 5-like protein 2,55.84,N,121,32.35,4.05,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,RLV63625.1,19058,Aves,Aves,Erythrura gouldiae,Gouldian finch,hypothetical protein DV515_00018084,55.84,N,121,32.35,4.05,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,OAF70590.1,8724,Rhopaluridae,Rhopaluridae,Intoshia linei,Metazoans,hypothetical protein A3Q56_01686,55.84,N,121,32.35,4.05,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PIA28282.1,41241,Magnoliopsida,Magnoliopsida,Aquilegia coerulea,Rocky Mountain columbine,hypothetical protein AQUCO_07200142v1,55.84,N,121,32.35,4.05,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009339236.1,47528,Magnoliopsida,Magnoliopsida,Pyrus x bretschneideri,Chinese white pear,PREDICTED: ABSCISIC ACID-INSENSITIVE 5-like protein 2 isoform X2,55.84,N,121,32.35,4.05,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KZM96207.1,76865,Magnoliopsida,Magnoliopsida,Daucus carota subsp. sativus,Carrot,hypothetical protein DCAR_019449,55.84,N,121,32.35,4.05,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAB2607781.1,43070,Magnoliopsida,Magnoliopsida,Pyrus ussuriensis x Pyrus communis,Pears,protein ABSCISIC ACID-INSENSITIVE 5-like,55.84,N,121,32.35,4.05,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAA8516710.1,36374,Magnoliopsida,Magnoliopsida,Nyssa sinensis,Eudicots,hypothetical protein F0562_016784,55.84,N,121,32.35,4.05,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VVA98204.1,28827,Magnoliopsida,Magnoliopsida,Arabis nemorensis,Rockcress,unnamed protein product,55.84,N,121,32.35,4.05,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,CDH51801.1,13397,Mucoromycetes,Mucoromycetes,Lichtheimia corymbifera JMRC:FSU:9682,Pin moulds,hypothetical protein RO3G_01696,55.84,N,121,32.35,4.05,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,OLY82381.1,8231,Harpellomycetes,Harpellomycetes,Smittium mucronatum,Eucaryotes,Cyclic AMP-responsive element-binding protein 1,55.45,N,121,32.35,4.02,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,ORY93507.1,11133,Mucoromycetes,Mucoromycetes,Syncephalastrum racemosum,Pin moulds,hypothetical protein BCR43DRAFT_497051,55.45,N,121,32.35,4.02,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_016993760.1,24128,Insecta,Insecta,Drosophila takahashii,Fruit flies,"PREDICTED: LOW QUALITY PROTEIN: uncharacterized protein LOC108055071, partial",55.45,N,121,32.35,4.02,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_026455869.1,135861,Magnoliopsida,Magnoliopsida,Papaver somniferum,Opium poppy,bZIP transcription factor TRAB1-like,55.45,N,121,32.35,4.02,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PSR89863.1,33099,Magnoliopsida,Magnoliopsida,Actinidia chinensis var. chinensis,Chinese gooseberry family,ABSCISIC ACID-INSENSITIVE 5-like protein,55.45,N,121,32.35,4.02,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_028108328.1,78529,Magnoliopsida,Magnoliopsida,Camellia sinensis,Black tea,protein ABSCISIC ACID-INSENSITIVE 5 isoform X2,55.45,N,121,32.35,4.02,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_004293073.2,31485,Magnoliopsida,Magnoliopsida,Fragaria vesca subsp. vesca,Wild strawberry,PREDICTED: ABSCISIC ACID-INSENSITIVE 5-like protein 1,55.45,N,121,32.35,4.02,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_027363242.1,40271,Magnoliopsida,Magnoliopsida,Abrus precatorius,Indian licorice,protein ABSCISIC ACID-INSENSITIVE 5,55.45,N,121,32.35,4.02,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAB5526688.1,30192,Magnoliopsida,Magnoliopsida,Salix brachista,Willows,hypothetical protein DKX38_020535,55.45,N,121,32.35,4.02,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,EOY08226.1,75449,Magnoliopsida,Magnoliopsida,Theobroma cacao,Cacao,"Basic-leucine zipper transcription factor family protein, putative isoform 3",55.45,N,121,32.35,4.02,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AGA16542.1,53,Magnoliopsida,Magnoliopsida,Sisymbrium officinale,Mustard family,"bZIP transcription factor ABI5, partial",55.45,N,121,32.35,4.02,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,ABG90380.1,251,Magnoliopsida,Magnoliopsida,Caragana korshinskii,Pea family,bZIP transcription factor,55.07,N,121,32.35,3.99,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PON42446.1,37309,Magnoliopsida,Magnoliopsida,Parasponia andersonii,Hemp family,Basic-leucine zipper transcription factor,55.07,N,121,32.35,3.99,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,QEO19176.1,927,Magnoliopsida,Magnoliopsida,Cymbidium ensifolium,Orchid family,putative ABSCISIC ACID-INSENSITIVE 5-like protein 2 isoform X1,55.07,N,121,32.35,3.99,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_021624437.1,85759,Magnoliopsida,Magnoliopsida,Manihot esculenta,Cassava,protein ABSCISIC ACID-INSENSITIVE 5,55.07,N,121,32.35,3.99,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,ADM47611.1,541,Echinoidea,Echinoidea,Paracentrotus lividus,Common urchin,Creb3L3,55.07,N,121,32.35,3.99,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VDQ09834.1,22241,Trematoda,Trematoda,Trichobilharzia regenti,Bird nasal schistosome,unnamed protein product,55.07,N,121,32.35,3.99,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PIA17300.1,7341,Kickxellomycetes,Kickxellomycetes,Coemansia reversa NRRL 1564,Eucaryotes,hypothetical protein COEREDRAFT_80640,55.07,N,121,32.35,3.99,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_007136688.1,68974,Magnoliopsida,Magnoliopsida,Phaseolus vulgaris,French bean,hypothetical protein PHAVU_009G065500g,55.07,N,121,32.35,3.99,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022745322.1,63217,Magnoliopsida,Magnoliopsida,Durio zibethinus,Durian,LOW QUALITY PROTEIN: ABSCISIC ACID-INSENSITIVE 5-like protein 2,55.07,N,121,32.35,3.99,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,RCI03147.1,14041,Mucoromycetes,Mucoromycetes,Rhizopus stolonifer,Pin moulds,hypothetical protein CU098_003828,55.07,N,121,32.35,3.99,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF2282643.1,103920,Magnoliopsida,Magnoliopsida,Hevea brasiliensis,Rubber tree,hypothetical protein GH714_043450,55.07,N,121,32.35,3.99,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,RDY07453.1,56039,Magnoliopsida,Magnoliopsida,Mucuna pruriens,Pea family,"Protein ABSCISIC ACID-INSENSITIVE 5, partial",55.07,N,121,32.35,3.99,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_028228673.1,205486,Magnoliopsida,Magnoliopsida,Glycine soja,Wild soybean,ABSCISIC ACID-INSENSITIVE 5-like protein 2,54.68,N,121,32.35,3.96,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,CDS03157.1,11608,Mucoromycetes,Mucoromycetes,Lichtheimia ramosa,Pin moulds,hypothetical protein LRAMOSA00559,54.68,N,121,32.35,3.96,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TKY61994.1,31102,Magnoliopsida,Magnoliopsida,Spatholobus suberectus,Pea family,ABSCISIC ACID-INSENSITIVE 5,54.68,N,121,32.35,3.96,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,OMJ14873.1,23417,Harpellomycetes,Harpellomycetes,Smittium culicis,Eucaryotes,Cyclic AMP-dependent transcription factor ATF-6 alpha,54.68,N,121,32.35,3.96,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,EPB85852.1,12220,Mucoromycetes,Mucoromycetes,Mucor circinelloides 1006PhL,Pin moulds,hypothetical protein HMPREF1544_07351,54.68,N,121,32.35,3.96,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KMZ59056.1,20956,Magnoliopsida,Magnoliopsida,Zostera marina,Monocotyledons,BZIP transcription factor,54.68,N,121,32.35,3.96,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_006432530.2,67067,Magnoliopsida,Magnoliopsida,Citrus clementina,Clementine,ABSCISIC ACID-INSENSITIVE 5-like protein 2,54.68,N,121,32.35,3.96,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_020110098.1,59749,Magnoliopsida,Magnoliopsida,Ananas comosus,Pineapple,G-box-binding factor 4-like,54.68,N,121,32.35,3.96,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,GER32643.1,33479,Magnoliopsida,Magnoliopsida,Striga asiatica,Witchweed,BZIP transcription factor,54.68,N,121,32.35,3.96,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TVU00813.1,55224,Magnoliopsida,Magnoliopsida,Eragrostis curvula,Weeping love grass,hypothetical protein EJB05_53752,54.68,N,121,32.35,3.96,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAA3455203.1,38366,Magnoliopsida,Magnoliopsida,Gossypium australe,Mallow family,protein ABSCISIC ACID-INSENSITIVE 5-like,54.68,N,121,32.35,3.96,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_006471287.1,90845,Magnoliopsida,Magnoliopsida,Citrus sinensis,Sweet orange,ABSCISIC ACID-INSENSITIVE 5-like protein 2,54.68,N,121,32.35,3.96,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_011074426.1,35723,Magnoliopsida,Magnoliopsida,Sesamum indicum,Sesame,bZIP transcription factor 23,54.68,N,121,32.35,3.96,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_006836037.3,59161,Magnoliopsida,Magnoliopsida,Amborella trichopoda,Flowering plants,protein ABSCISIC ACID-INSENSITIVE 5,54.68,N,121,32.35,3.96,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PNY02759.1,64373,Magnoliopsida,Magnoliopsida,Trifolium pratense,Peavine clover,abscisic acid-insensitive 5-like protein,54.68,N,121,32.35,3.96,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAE8098546.1,29596,Magnoliopsida,Magnoliopsida,Carpinus fangiana,Hornbeams,hypothetical protein FH972_016599,54.3,N,121,32.35,3.93,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,CBI28329.3,206540,Magnoliopsida,Magnoliopsida,Vitis vinifera,Wine grape,"unnamed protein product, partial",54.3,N,121,32.35,3.93,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_018805795.1,56065,Magnoliopsida,Magnoliopsida,Juglans regia,English walnut,PREDICTED: ABSCISIC ACID-INSENSITIVE 5-like protein 5 isoform X4,54.3,N,121,32.35,3.93,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,ACI03631.1,35,Insecta,Insecta,Cotesia rubecula,"Wasps, ants, and bees",CREB9 isoform protein,54.3,N,121,32.35,3.93,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,QIM55872.1,365,Magnoliopsida,Magnoliopsida,Morus alba,White mulberry,abscisic acid insensitive 5 protein,54.3,N,121,32.35,3.93,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AFO63281.1,309,Magnoliopsida,Magnoliopsida,Tamarix hispida,Tamarix family,ABF1,54.3,N,121,32.35,3.93,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,EIE90744.1,17425,Mucoromycetes,Mucoromycetes,Rhizopus delemar RA 99-880,Pin moulds,hypothetical protein RO3G_15455,54.3,N,121,32.35,3.93,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_016690506.1,94719,Magnoliopsida,Magnoliopsida,Gossypium hirsutum,Cotton,PREDICTED: protein ABSCISIC ACID-INSENSITIVE 5-like,54.3,N,121,32.35,3.93,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PVU95462.1,6536,Harpellomycetes,Harpellomycetes,Smittium simulii,Eucaryotes,hypothetical protein BB561_001823,54.3,N,121,32.35,3.93,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AEK86263.1,14841,Pinopsida,Pinopsida,Pinus taeda,Loblolly pine,"ABI5-like protein, partial",54.3,N,121,32.35,3.93,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_020583900.1,30068,Magnoliopsida,Magnoliopsida,Phalaenopsis equestris,Moth orchids,ABSCISIC ACID-INSENSITIVE 5-like protein 2,54.3,N,121,32.35,3.93,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PAV63978.1,38237,Chromadorea,Chromadorea,Diploscapter pachys,Roundworms,hypothetical protein WR25_02728,54.3,N,121,32.35,3.93,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,ACI03622.1,29,Insecta,Insecta,Cotesia glomerata,"Wasps, ants, and bees",CREB9 isoform protein,54.3,N,121,32.35,3.93,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,GAV66035.1,36778,Magnoliopsida,Magnoliopsida,Cephalotus follicularis,Eudicots,"bZIP_1 domain-containing protein, partial",53.91,N,121,32.35,3.91,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAB1222563.1,29623,Magnoliopsida,Magnoliopsida,Morella rubra,Chinese arbutus,Protein ABSCISIC ACID-INSENSITIVE 5,53.91,N,121,32.35,3.91,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,QBF67253.1,134,Magnoliopsida,Magnoliopsida,Solanum rostratum,Nightshade family,"abscisic acid-insensitive 5, partial",53.91,N,121,32.35,3.91,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_008778650.1,41494,Magnoliopsida,Magnoliopsida,Phoenix dactylifera,Date palm,ABSCISIC ACID-INSENSITIVE 5-like protein 7,53.91,N,121,32.35,3.91,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_024024804.1,54920,Magnoliopsida,Magnoliopsida,Morus notabilis,Mulberries,protein ABSCISIC ACID-INSENSITIVE 5,53.91,N,121,32.35,3.91,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,OZJ02554.1,5719,Endogonomycetes,Endogonomycetes,Bifiguratus adelaidae,Mucoromycotina sp. AZ0501,hypothetical protein BZG36_04500,53.91,N,121,32.35,3.91,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,OAE20830.1,18563,Marchantiopsida,Marchantiopsida,Marchantia polymorpha subsp. ruderalis,Liverwort,hypothetical protein AXG93_2964s1070,53.91,N,121,32.35,3.91,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_020800265.1,20997,Insecta,Insecta,Drosophila serrata,Fruit flies,probable basic-leucine zipper transcription factor D,53.91,N,121,32.35,3.91,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012485808.1,135414,Magnoliopsida,Magnoliopsida,Gossypium raimondii,Mallow family,PREDICTED: protein ABSCISIC ACID-INSENSITIVE 5-like isoform X2,53.91,N,121,32.35,3.91,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,CAB3474876.1,58998,Magnoliopsida,Magnoliopsida,Digitaria exilis,Grass family,unnamed protein product,53.91,N,121,32.35,3.91,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF1899163.1,85760,Magnoliopsida,Magnoliopsida,Lupinus albus,White lupine,hypothetical protein Lal_00019285,53.91,N,121,32.35,3.91,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TYH54370.1,108937,Magnoliopsida,Magnoliopsida,Gossypium tomentosum,Mallow family,hypothetical protein ES332_D09G163900v1,53.91,N,121,32.35,3.91,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,GAU42194.1,42198,Magnoliopsida,Magnoliopsida,Trifolium subterraneum,Pea family,hypothetical protein TSUD_305390,53.91,N,121,32.35,3.91,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,OMO68303.1,35940,Magnoliopsida,Magnoliopsida,Corchorus olitorius,Nalta jute,hypothetical protein COLO4_29760,53.91,N,121,32.35,3.91,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KZV45169.1,47999,Magnoliopsida,Magnoliopsida,Dorcoceras hygrometricum,African violet family,AREB-like protein,53.53,N,121,32.35,3.88,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,MQM10342.1,56874,Magnoliopsida,Magnoliopsida,Colocasia esculenta,Taro,hypothetical protein,53.53,N,121,32.35,3.88,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF1575589.1,15466,Aves,Aves,Eudyptes moseleyi,Northern rockhopper penguin,"Cyclic AMP-responsive element-binding protein 3-like protein 4, partial",53.53,N,121,32.35,3.88,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,BAJ34494.1,1334,Magnoliopsida,Magnoliopsida,Eutrema halophilum,Mustard family,unnamed protein product,53.53,N,121,32.35,3.88,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PTQ35306.1,25423,Marchantiopsida,Marchantiopsida,Marchantia polymorpha,Liverwort,hypothetical protein MARPO_0072s0050,53.53,N,121,32.35,3.88,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TYH02800.1,94060,Magnoliopsida,Magnoliopsida,Gossypium darwinii,Mallow family,hypothetical protein ES288_A09G169600v1,53.53,N,121,32.35,3.88,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PON83120.1,36146,Magnoliopsida,Magnoliopsida,Trema orientale,Hemp family,Basic-leucine zipper transcription factor,53.53,N,121,32.35,3.88,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,OMO82183.1,29537,Magnoliopsida,Magnoliopsida,Corchorus capsularis,Jute,hypothetical protein CCACVL1_12037,53.53,N,121,32.35,3.88,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAA3681767.1,12923,Trematoda,Trematoda,Paragonimus westermani,Flukes,uncharacterized protein DEA37_0002282,53.53,N,121,32.35,3.88,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,THF99533.1,30313,Magnoliopsida,Magnoliopsida,Camellia sinensis var. sinensis,Black tea,hypothetical protein TEA_002985,53.53,N,121,32.35,3.88,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_017608064.1,80798,Magnoliopsida,Magnoliopsida,Gossypium arboreum,Tree cotton,PREDICTED: protein ABSCISIC ACID-INSENSITIVE 5-like,53.53,N,121,32.35,3.88,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KEH31290.1,159973,Magnoliopsida,Magnoliopsida,Medicago truncatula,Barrel medic,BZIP transcription factor,53.53,N,121,32.35,3.88,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_019250839.1,78338,Magnoliopsida,Magnoliopsida,Nicotiana attenuata,Nightshade family,PREDICTED: protein ABSCISIC ACID-INSENSITIVE 5 isoform X2,53.53,N,121,32.35,3.88,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,OVA15825.1,21905,Magnoliopsida,Magnoliopsida,Macleaya cordata,Poppy family,Basic-leucine zipper domain,53.53,N,121,32.35,3.88,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,QIW91911.1,26,Magnoliopsida,Magnoliopsida,Xerophyta humilis,Monocotyledons,abscisic acid responsive elements-binding factor A,53.14,N,121,32.35,3.85,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,ATP66486.1,574,Magnoliopsida,Magnoliopsida,Rosa hybrid cultivar,Rose family,ABRE binding factor,53.14,N,121,32.35,3.85,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,ORX87150.1,12829,Neocallimastigomycetes,Neocallimastigomycetes,Anaeromyces robustus,Anaeromyces sp. KS-2015,hypothetical protein BCR32DRAFT_289547,53.14,N,121,32.35,3.85,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AZQ19220.1,4410,Magnoliopsida,Magnoliopsida,Populus tomentosa,Chinese white poplar,bZIP transcription factor 6,53.14,N,121,32.35,3.85,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,RTG84840.1,11666,Trematoda,Trematoda,Schistosoma bovis,Blood flukes,uncharacterized protein DC041_0011535,53.14,N,121,32.35,3.85,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_016459063.1,89938,Magnoliopsida,Magnoliopsida,Nicotiana tabacum,Common tobacco,PREDICTED: protein ABSCISIC ACID-INSENSITIVE 5-like isoform X1,53.14,N,121,32.35,3.85,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_011017194.1,50775,Magnoliopsida,Magnoliopsida,Populus euphratica,Euphrates poplar,PREDICTED: bZIP transcription factor TRAB1-like,53.14,N,121,32.35,3.85,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TKS02829.1,33930,Magnoliopsida,Magnoliopsida,Populus alba,Abele,bZIP transcription factor 6 family protein,53.14,N,121,32.35,3.85,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009768885.1,48678,Magnoliopsida,Magnoliopsida,Nicotiana sylvestris,Wood tobacco,PREDICTED: protein ABSCISIC ACID-INSENSITIVE 5 isoform X1,53.14,N,121,32.35,3.85,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_024441287.1,121063,Magnoliopsida,Magnoliopsida,Populus trichocarpa,Black cottonwood,ABSCISIC ACID-INSENSITIVE 5-like protein 5 isoform X1,53.14,N,121,32.35,3.85,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009598935.1,50377,Magnoliopsida,Magnoliopsida,Nicotiana tomentosiformis,Nightshade family,bZIP transcription factor 46-like,53.14,N,121,32.35,3.85,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TXG73621.1,28365,Magnoliopsida,Magnoliopsida,Acer yangbiense,Maple trees,hypothetical protein EZV62_002200,53.14,N,121,32.35,3.85,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_024363128.1,80821,Bryopsida,Bryopsida,Physcomitrium patens,Mosses,ABSCISIC ACID-INSENSITIVE 5-like protein 5 isoform X2,53.14,N,121,32.35,3.85,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012800992.1,20500,Trematoda,Trematoda,Schistosoma haematobium,Blood flukes,Cyclic AMP-dependent transcription factor ATF-6 beta,53.14,N,121,32.35,3.85,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_027915379.1,82173,Magnoliopsida,Magnoliopsida,Vigna unguiculata,Cowpea,protein FD,53.14,N,121,32.35,3.85,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030492683.1,93547,Magnoliopsida,Magnoliopsida,Cannabis sativa,Hemp family,LOW QUALITY PROTEIN: protein ABSCISIC ACID-INSENSITIVE 5,53.14,N,121,32.35,3.85,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,ABF29696.1,70,Magnoliopsida,Magnoliopsida,Populus suaveolens,Mongolian poplar,abscisic acid responsive element-binding protein 2,53.14,N,121,32.35,3.85,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TNN09591.1,37150,Trematoda,Trematoda,Schistosoma japonicum,Blood flukes,"Basic-leucine zipper (BZIP) transcription factor, domain-containing protein isoform 1",53.14,N,121,32.35,3.85,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_020218721.1,89991,Magnoliopsida,Magnoliopsida,Cajanus cajan,Pigeon pea,ABSCISIC ACID-INSENSITIVE 5-like protein 5,53.14,N,121,32.35,3.85,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PHT30481.1,35812,Magnoliopsida,Magnoliopsida,Capsicum baccatum,Peppers,ABSCISIC ACID-INSENSITIVE 5-like protein 5,53.14,N,121,32.35,3.85,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PIO40436.1,30189,Amphibia,Amphibia,Lithobates catesbeianus,American bullfrog,hypothetical protein AB205_0142530,53.14,N,121,32.35,3.85,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAE9458719.1,23547,Magnoliopsida,Magnoliopsida,Rhododendron williamsianum,Heath family,"hypothetical protein C3L33_09365, partial",52.76,N,121,32.35,3.82,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,BBH05165.1,87318,Magnoliopsida,Magnoliopsida,Prunus dulcis,Almond,Basic-leucine zipper transcription factor family protein,52.76,N,121,32.35,3.82,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_020420938.1,80063,Magnoliopsida,Magnoliopsida,Prunus persica,Peach,ABSCISIC ACID-INSENSITIVE 5-like protein 1 isoform X3,52.76,N,121,32.35,3.82,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,GAY39785.1,38076,Magnoliopsida,Magnoliopsida,Citrus unshiu,Satsuma orange,hypothetical protein CUMW_047100,52.76,N,121,32.35,3.82,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PHU20796.1,35088,Magnoliopsida,Magnoliopsida,Capsicum chinense,Scotch bonnet,ABSCISIC ACID-INSENSITIVE 5-like protein 5,52.76,N,121,32.35,3.82,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_009166380.1,43605,Trematoda,Trematoda,Opisthorchis viverrini,Southeast Asian liver fluke,hypothetical protein T265_03597,52.76,N,121,32.35,3.82,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022631457.1,42274,Magnoliopsida,Magnoliopsida,Vigna radiata var. radiata,Mung bean,protein FD-like,52.76,N,121,32.35,3.82,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_002965670.1,80537,Lycopodiopsida,Lycopodiopsida,Selaginella moellendorffii,Spike mosses,ABSCISIC ACID-INSENSITIVE 5-like protein 4,52.76,N,121,32.35,3.82,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,ABP88226.1,174805,Magnoliopsida,Magnoliopsida,Glycine max,Soybean,"transcription factor bZIP71, partial",52.76,N,121,32.35,3.82,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,RJW69404.1,28618,Trematoda,Trematoda,Clonorchis sinensis,Oriental liver fluke,"cAMP-responsive element modulator, partial",52.37,N,121,32.35,3.79,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PIN25696.1,30254,Magnoliopsida,Magnoliopsida,Handroanthus impetiginosus,Trumpet creeper family,hypothetical protein CDL12_01575,52.37,N,121,32.35,3.79,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_008228533.1,30079,Magnoliopsida,Magnoliopsida,Prunus mume,Japanese apricot,PREDICTED: ABSCISIC ACID-INSENSITIVE 5-like protein 1,52.37,N,121,32.35,3.79,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF1802300.1,11928,Mucoromycetes,Mucoromycetes,Mucor lusitanicus,Pin moulds,hypothetical protein FB192DRAFT_1377384,52.37,N,121,32.35,3.79,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PKA58473.1,21949,Magnoliopsida,Magnoliopsida,Apostasia shenzhenica,Orchid family,Abscisic acid-insensitive 5-like protein 5,52.37,N,121,32.35,3.79,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,TGZ59561.1,20942,Trematoda,Trematoda,Opisthorchis felineus,Cat liver fluke,hypothetical protein CRM22_009035,52.37,N,121,32.35,3.79,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF0974212.1,14171,Vahlkampfiidae,Vahlkampfiidae,Naegleria fowleri,Brain-eating amoeba,hypothetical protein FDP41_006822,52.37,N,121,32.35,3.79,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_021829719.1,35825,Magnoliopsida,Magnoliopsida,Prunus avium,Sweet cherry,ABSCISIC ACID-INSENSITIVE 5-like protein 1,52.37,N,121,32.35,3.79,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KYQ88229.1,10262,Eumycetozoa,Eumycetozoa,Tieghemostelium lacteum,Dictyostelid cellular slime molds,putative basic-leucine zipper transcription factor,52.37,N,121,32.35,3.79,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AOZ56990.1,426,Magnoliopsida,Magnoliopsida,Citrullus lanatus,Wild melon,bZIP1,52.37,N,121,32.35,3.79,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_017023419.1,22493,Insecta,Insecta,Drosophila kikkawai,Fruit flies,"PREDICTED: uncharacterized protein LOC108075473, partial",51.99,N,121,32.35,3.77,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,EPS63836.1,17827,Magnoliopsida,Magnoliopsida,Genlisea aurea,Eudicots,"hypothetical protein M569_10951, partial",51.99,N,121,32.35,3.77,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_012756985.1,25369,Eumycetozoa,Eumycetozoa,Acytostelium subglobosum LB1,Dictyostelid cellular slime molds,"hypothetical protein SAMD00019534_022330, partial",51.99,N,121,32.35,3.77,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,ORY82603.1,6725,Taphrinomycetes,Taphrinomycetes,Protomyces lactucaedebilis,Ascomycetes,hypothetical protein BCR37DRAFT_379612,51.99,N,121,32.35,3.77,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,SAL99443.1,14980,Mucoromycetes,Mucoromycetes,Absidia glauca,Pin moulds,hypothetical protein,51.99,N,121,32.35,3.77,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_015582076.2,60616,Magnoliopsida,Magnoliopsida,Ricinus communis,Castor bean,protein FD,51.99,N,121,32.35,3.77,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAA0194029.1,11875,Trematoda,Trematoda,Fasciolopsis buski,Flukes,hypothetical protein FBUS_01482,51.99,N,121,32.35,3.77,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF3968998.1,34531,Magnoliopsida,Magnoliopsida,Castanea mollissima,Chinese chestnut,hypothetical protein CMV_007175,51.99,N,121,32.35,3.77,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_016562137.1,156634,Magnoliopsida,Magnoliopsida,Capsicum annuum,Peppers,PREDICTED: protein FD,51.99,N,121,32.35,3.77,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_022884813.1,58256,Magnoliopsida,Magnoliopsida,Olea europaea var. sylvestris,Wild olive,bZIP transcription factor 46-like,51.99,N,121,32.35,3.77,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_010244710.1,38763,Magnoliopsida,Magnoliopsida,Nelumbo nucifera,Sacred lotus,PREDICTED: protein ABSCISIC ACID-INSENSITIVE 5-like,51.99,N,121,32.35,3.77,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,ADL62859.1,672,Magnoliopsida,Magnoliopsida,Prunus armeniaca,Apricot,abscisic acid insensitive,51.6,N,121,32.35,3.74,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,OBZ86381.1,11980,Mucoromycetes,Mucoromycetes,Choanephora cucurbitarum,Pin moulds,Transcriptional activator hacA,51.6,N,121,32.35,3.74,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_031267152.1,41381,Magnoliopsida,Magnoliopsida,Pistacia vera,Pistachio,ABSCISIC ACID-INSENSITIVE 5-like protein 5,51.6,N,121,32.35,3.74,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,ORX57963.1,11139,Mucoromycetes,Mucoromycetes,Hesseltinella vesiculosa,Pin moulds,hypothetical protein DM01DRAFT_1343896,51.6,N,121,32.35,3.74,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,ONK71249.1,64926,Magnoliopsida,Magnoliopsida,Asparagus officinalis,Garden asparagus,uncharacterized protein A4U43_C04F6460,51.6,N,121,32.35,3.74,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PQQ12979.1,41183,Magnoliopsida,Magnoliopsida,Prunus yedoensis var. nudiflora,Cheju native flowering cherry,hypothetical protein Pyn_36643,51.6,N,121,32.35,3.74,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_005835278.1,49636,Cryptophyceae,Cryptophyceae,Guillardia theta CCMP2712,Cryptomonads,hypothetical protein GUITHDRAFT_162446,51.6,N,121,32.35,3.74,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_021908440.1,27151,Magnoliopsida,Magnoliopsida,Carica papaya,Papaya,protein ABSCISIC ACID-INSENSITIVE 5 isoform X2,51.6,N,121,32.35,3.74,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_030945585.1,53236,Magnoliopsida,Magnoliopsida,Quercus lobata,Valley oak,basic leucine zipper 4,51.6,N,121,32.35,3.74,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AQS22754.1,285,Magnoliopsida,Magnoliopsida,Eleocharis dulcis,Chinese water-chestnut,"protein ABSCISIC ACID-INSENSITIVE 5-like protein, partial",51.6,N,121,32.35,3.74,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_010927395.1,44179,Magnoliopsida,Magnoliopsida,Elaeis guineensis,African oil palm,bZIP transcription factor 12 isoform X3,51.6,N,121,32.35,3.74,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VDL77928.1,22832,Chromadorea,Chromadorea,Nippostrongylus brasiliensis,Roundworms,unnamed protein product,51.22,N,121,32.35,3.71,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,OAD03319.1,11667,Mucoromycetes,Mucoromycetes,Mucor lusitanicus CBS 277.49,Pin moulds,basic-leucine zipper transcription factor,51.22,N,121,32.35,3.71,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,CAR63705.1,10796,Chromadorea,Chromadorea,Angiostrongylus cantonensis,Rat lungworm,"putative CREB Homolog family member, partial",50.83,N,121,32.35,3.68,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,PIO71432.1,25764,Chromadorea,Chromadorea,Teladorsagia circumcincta,Roundworms,bZIP transcription factor,50.83,N,121,32.35,3.68,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_023900300.1,59826,Magnoliopsida,Magnoliopsida,Quercus suber,Cork oak,basic leucine zipper 4-like,50.45,N,121,32.35,3.66,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,XP_017435304.1,72102,Magnoliopsida,Magnoliopsida,Vigna angularis,Adzuki bean,PREDICTED: G-box-binding factor 4-like,50.06,N,121,32.35,3.63,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,BAT86809.1,31219,Magnoliopsida,Magnoliopsida,Vigna angularis var. angularis,Adzuki bean,hypothetical protein VIGAN_05012400,50.06,N,121,32.35,3.63,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,BAL61091.1,687,Magnoliopsida,Magnoliopsida,Diospyros kaki,Kaki persimmon,"putative basic leucine-zipper transcription factor fragment, partial",49.68,N,121,32.35,3.6,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF1652522.1,13983,Aves,Aves,Aptenodytes patagonicus,King penguin,"Cyclic AMP-responsive element-binding protein 3-like protein 3, partial",49.29,N,121,32.35,3.57,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF1422074.1,15371,Aves,Aves,Spheniscus humboldti,Humboldt's penguin,"Cyclic AMP-responsive element-binding protein 3-like protein 3, partial",49.29,N,121,32.35,3.57,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF1654515.1,12893,Aves,Aves,Eudyptes chrysocome,Rockhopper penguin,"Cyclic AMP-responsive element-binding protein 3-like protein 4, partial",49.29,N,121,32.35,3.57,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF1527668.1,12813,Aves,Aves,Eudyptes sclateri,Erect-crested penguin,"Cyclic AMP-responsive element-binding protein 3-like protein 3, partial",49.29,N,121,32.35,3.57,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF1431795.1,15574,Aves,Aves,Spheniscus magellanicus,Magellanic penguin,"Cyclic AMP-responsive element-binding protein 3-like protein 3, partial",49.29,N,121,32.35,3.57,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF1606156.1,17574,Aves,Aves,Eudyptes pachyrhynchus,Fiordland penguin,"Cyclic AMP-responsive element-binding protein 3-like protein 3, partial",49.29,N,121,32.35,3.57,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF1500590.1,15007,Aves,Aves,Eudyptula novaehollandiae,Australian little penguin,"Cyclic AMP-responsive element-binding protein 3-like protein 3, partial",49.29,N,121,32.35,3.57,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF1541474.1,15475,Aves,Aves,Eudyptula minor,Little blue penguin,"Cyclic AMP-responsive element-binding protein 3-like protein 3, partial",49.29,N,121,32.35,3.57,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF1636351.1,12980,Aves,Aves,Eudyptes filholi,Southern rockhopper penguin,"Cyclic AMP-responsive element-binding protein 3-like protein 3, partial",49.29,N,121,32.35,3.57,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF1513180.1,15152,Aves,Aves,Eudyptula albosignata,White-flippered penguin,"Cyclic AMP-responsive element-binding protein 3-like protein 3, partial",49.29,N,121,32.35,3.57,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF3777485.1,25456,Magnoliopsida,Magnoliopsida,Nymphaea thermarum,Water-lilies,ABSCISIC ACID-INSENSITIVE 5-like protein 5,49.29,N,121,32.35,3.57,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF1566437.1,15781,Aves,Aves,Eudyptes schlegeli,Royal penguin,"Cyclic AMP-responsive element-binding protein 3-like protein 3, partial",49.29,N,121,32.35,3.57,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF1502784.1,14555,Aves,Aves,Megadyptes antipodes antipodes,Yellow-eyed penguin,"Cyclic AMP-responsive element-binding protein 3-like protein 3, partial",49.29,N,121,32.35,3.57,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,ABD96938.1,200,Magnoliopsida,Magnoliopsida,Tarenaya spinosa,Eudicots,hypothetical protein,49.29,N,121,32.35,3.57,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,AFK48693.1,9345,Magnoliopsida,Magnoliopsida,Lotus japonicus,Pea family,unknown,49.29,N,121,32.35,3.57,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KPM09965.1,10855,Arachnida,Arachnida,Sarcoptes scabiei,Mites and ticks,cAMP-responsive element modulator-like protein,48.91,N,121,32.35,3.54,N,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF1446183.1,15059,Aves,Aves,Pygoscelis papua,Gentoo penguin,"Cyclic AMP-responsive element-binding protein 3-like protein 3, partial",48.52,N,121,32.35,3.52,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,KAF1662211.1,15573,Aves,Aves,Eudyptes robustus,Snares penguin,"Cyclic AMP-responsive element-binding protein 3-like protein 4, partial",48.14,N,121,32.35,3.49,Y,2020 08 29 02:53:37,Y,Explore in ECOTOX
+5,VDM52421.1,13409,Chromadorea,Chromadorea,Angiostrongylus costaricensis,American rat lungworm,unnamed protein product,48.14,N,121,32.35,3.49,N,2020 08 29 02:53:37,Y,Explore in ECOTOX

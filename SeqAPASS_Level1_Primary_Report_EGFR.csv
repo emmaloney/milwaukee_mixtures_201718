@@ -1,0 +1,769 @@
+Data Version,NCBI Accession,Protein Count,Taxonomic Group,Filtered Taxonomic Group,Scientific Name,Common Name,Protein Name,BLASTp Bitscore,Ortholog Candidate,Ortholog Count,Cut-off,Percent Similarity,Susceptibility Prediction,Analysis Completed,Eukaryote,ECOTOX
+5,P00533.2,1802968,Mammalia,Mammalia,Homo sapiens,Human,RecName: Full=Epidermal growth factor receptor; AltName: Full=Proto-oncogene c-ErbB-1; AltName: Full=Receptor tyrosine-protein kinase erbB-1; Flags: Precursor,2523.43,Y,302,32.64,100,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_519102.3,171847,Mammalia,Mammalia,Pan troglodytes,Chimpanzee,epidermal growth factor receptor isoform X1,2518.81,Y,302,32.64,99.82,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_030868665.1,52117,Mammalia,Mammalia,Gorilla gorilla gorilla,Western lowland gorilla,epidermal growth factor receptor isoform X1,2517.27,Y,302,32.64,99.76,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_005549616.1,97446,Mammalia,Mammalia,Macaca fascicularis,Crab-eating macaque,PREDICTED: epidermal growth factor receptor isoform X1,2508.79,Y,302,32.64,99.42,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_007979471.1,62219,Mammalia,Mammalia,Chlorocebus sabaeus,Green monkey,PREDICTED: epidermal growth factor receptor,2508.79,Y,302,32.64,99.42,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_014988922.2,175489,Mammalia,Mammalia,Macaca mulatta,Rhesus monkey,epidermal growth factor receptor isoform X1,2508.79,Y,302,32.64,99.42,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_025233944.1,52581,Mammalia,Mammalia,Theropithecus gelada,Gelada,epidermal growth factor receptor isoform X1,2508.41,Y,302,32.64,99.4,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_003896012.1,73457,Mammalia,Mammalia,Papio anubis,Olive baboon,epidermal growth factor receptor isoform X1,2508.41,Y,302,32.64,99.4,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_011920795.1,66421,Mammalia,Mammalia,Cercocebus atys,Sooty mangabey,PREDICTED: epidermal growth factor receptor isoform X2,2508.41,Y,302,32.64,99.4,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_011758798.1,68519,Mammalia,Mammalia,Macaca nemestrina,Pig-tailed macaque,epidermal growth factor receptor isoform X1,2507.64,Y,302,32.64,99.37,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_023087807.1,55377,Mammalia,Mammalia,Piliocolobus tephrosceles,Ugandan red Colobus,epidermal growth factor receptor isoform X1,2507.25,Y,302,32.64,99.36,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_024105212.1,141140,Mammalia,Mammalia,Pongo abelii,Sumatran orangutan,epidermal growth factor receptor isoform X1,2505.32,Y,302,32.64,99.28,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017717628.1,49687,Mammalia,Mammalia,Rhinopithecus bieti,Black snub-nosed monkey,PREDICTED: epidermal growth factor receptor isoform X1,2504.17,Y,302,32.64,99.24,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_010378850.1,53902,Mammalia,Mammalia,Rhinopithecus roxellana,Golden snub-nosed monkey,LOW QUALITY PROTEIN: epidermal growth factor receptor,2504.17,Y,302,32.64,99.24,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_030651630.1,51631,Mammalia,Mammalia,Nomascus leucogenys,Northern white-cheeked gibbon,epidermal growth factor receptor isoform X1,2503.4,Y,302,32.64,99.21,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_033050392.1,63302,Mammalia,Mammalia,Trachypithecus francoisi,Francois's langur,epidermal growth factor receptor isoform X1,2503.4,Y,302,32.64,99.21,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_008967087.1,51215,Mammalia,Mammalia,Pan paniscus,Pygmy chimpanzee,epidermal growth factor receptor isoform X1,2412.11,Y,302,32.64,95.59,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_011822163.1,38457,Mammalia,Mammalia,Mandrillus leucophaeus,Drill,PREDICTED: epidermal growth factor receptor,2403.25,Y,302,32.64,95.24,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_011781089.1,38676,Mammalia,Mammalia,Colobus angolensis palliatus,Angolan colobus,PREDICTED: epidermal growth factor receptor,2400.55,Y,302,32.64,95.13,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032613916.1,54502,Mammalia,Mammalia,Hylobates moloch,Silvery gibbon,epidermal growth factor receptor,2394.77,Y,302,32.64,94.9,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_020030883.1,37572,Mammalia,Mammalia,Castor canadensis,American beaver,epidermal growth factor receptor isoform X1,2345.85,Y,302,32.64,92.96,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AKZ42272.1,507,Mammalia,Mammalia,Castor fiber,Eurasian beaver,epidermal growth factor receptor,2341.61,Y,302,32.64,92.79,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_010585451.1,41868,Mammalia,Mammalia,Loxodonta africana,African savanna elephant,epidermal growth factor receptor isoform X1,2323.12,Y,302,32.64,92.06,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_026268000.1,36482,Mammalia,Mammalia,Urocitellus parryii,Arctic ground squirrel,epidermal growth factor receptor,2313.49,Y,302,32.64,91.68,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_012504239.1,28331,Mammalia,Mammalia,Propithecus coquereli,Coquerel's sifaka,PREDICTED: epidermal growth factor receptor isoform X3,2310.03,Y,302,32.64,91.54,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032100071.1,62479,Mammalia,Mammalia,Sapajus apella,Tufted capuchin,epidermal growth factor receptor isoform X2,2298.47,Y,302,32.64,91.09,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017371912.1,53173,Mammalia,Mammalia,Cebus capucinus imitator,White-faced sapajou,PREDICTED: epidermal growth factor receptor,2297.7,Y,302,32.64,91.05,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_012969065.1,38204,Mammalia,Mammalia,Mesocricetus auratus,Golden hamster,epidermal growth factor receptor isoform X1,2294.23,Y,302,32.64,90.92,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017830696.1,47726,Mammalia,Mammalia,Callithrix jacchus,White-tufted-ear marmoset,PREDICTED: epidermal growth factor receptor,2293.46,Y,302,32.64,90.89,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_027243884.1,162753,Mammalia,Mammalia,Cricetulus griseus,Chinese hamster,epidermal growth factor receptor isoform X1,2292.31,Y,302,32.64,90.84,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_023494835.1,67727,Mammalia,Mammalia,Equus caballus,Horse,epidermal growth factor receptor isoform X1,2288.07,Y,302,32.64,90.67,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_019306584.1,58569,Mammalia,Mammalia,Panthera pardus,Leopard,PREDICTED: epidermal growth factor receptor isoform X1,2280.75,Y,302,32.64,90.38,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015345596.1,31063,Mammalia,Mammalia,Marmota marmota marmota,Alpine marmot,PREDICTED: LOW QUALITY PROTEIN: epidermal growth factor receptor,2279.21,Y,302,32.64,90.32,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_026901766.1,56435,Mammalia,Mammalia,Acinonyx jubatus,Cheetah,epidermal growth factor receptor,2278.83,Y,302,32.64,90.31,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_012423491.1,31381,Mammalia,Mammalia,Odobenus rosmarus divergens,Pacific walrus,PREDICTED: epidermal growth factor receptor isoform X1,2278.83,Y,302,32.64,90.31,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_025779072.1,23618,Mammalia,Mammalia,Puma concolor,Puma,epidermal growth factor receptor,2278.44,Y,302,32.64,90.29,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_030163546.1,42103,Mammalia,Mammalia,Lynx canadensis,Canada lynx,epidermal growth factor receptor isoform X1,2278.44,Y,302,32.64,90.29,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_006929148.1,57491,Mammalia,Mammalia,Felis catus,Domestic cat,epidermal growth factor receptor isoform X1,2278.44,Y,302,32.64,90.29,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_012631046.1,59986,Mammalia,Mammalia,Microcebus murinus,Gray mouse lemur,epidermal growth factor receptor isoform X4,2278.44,Y,302,32.64,90.29,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_013208961.1,37992,Mammalia,Mammalia,Microtus ochrogaster,Prairie vole,epidermal growth factor receptor isoform X1,2275.74,Y,302,32.64,90.18,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_006148980.1,59499,Mammalia,Mammalia,Tupaia chinensis,Chinese tree shrew,epidermal growth factor receptor,2275.36,Y,302,32.64,90.17,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_027964718.1,40113,Mammalia,Mammalia,Eumetopias jubatus,Steller sea lion,epidermal growth factor receptor isoform X1,2273.82,Y,302,32.64,90.11,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_027428940.1,59271,Mammalia,Mammalia,Zalophus californianus,California sea lion,epidermal growth factor receptor isoform X1,2273.82,Y,302,32.64,90.11,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032160785.1,60642,Mammalia,Mammalia,Mustela erminea,Ermine,epidermal growth factor receptor,2273.05,Y,302,32.64,90.08,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,NP_997538.1,312727,Mammalia,Mammalia,Mus musculus,House mouse,epidermal growth factor receptor isoform 1 precursor,2272.28,Y,302,32.64,90.05,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_004739433.1,48578,Mammalia,Mammalia,Mustela putorius furo,Domestic ferret,PREDICTED: epidermal growth factor receptor,2271.89,Y,302,32.64,90.03,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_012891421.1,29399,Mammalia,Mammalia,Dipodomys ordii,Ord's kangaroo rat,PREDICTED: epidermal growth factor receptor,2271.51,Y,302,32.64,90.02,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032730878.1,48403,Mammalia,Mammalia,Lontra canadensis,Northern American river otter,epidermal growth factor receptor,2271.51,Y,302,32.64,90.02,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_026357385.1,43159,Mammalia,Mammalia,Ursus arctos horribilis,Brown bear,epidermal growth factor receptor isoform X1,2270.74,Y,302,32.64,89.99,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_021031116.1,47700,Mammalia,Mammalia,Mus caroli,Ryukyu mouse,epidermal growth factor receptor isoform X1,2270.35,Y,302,32.64,89.97,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032286522.1,45571,Mammalia,Mammalia,Phoca vitulina,Harbor seal,epidermal growth factor receptor,2269.97,Y,302,32.64,89.96,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_021066267.1,42365,Mammalia,Mammalia,Mus pahari,Shrew mouse,epidermal growth factor receptor,2269.2,Y,302,32.64,89.93,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_034364753.1,41654,Mammalia,Mammalia,Arvicanthis niloticus,African grass rat,epidermal growth factor receptor,2268.43,Y,302,32.64,89.89,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_021559426.1,28446,Mammalia,Mammalia,Neomonachus schauinslandi,Hawaiian monk seal,epidermal growth factor receptor isoform X1,2266.89,Y,302,32.64,89.83,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_012806743.1,25743,Mammalia,Mammalia,Jaculus jaculus,Lesser Egyptian jerboa,PREDICTED: epidermal growth factor receptor,2266.5,Y,302,32.64,89.82,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_031198747.1,54476,Mammalia,Mammalia,Mastomys coucha,Southern multimammate mouse,epidermal growth factor receptor,2262.26,Y,302,32.64,89.65,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_008532280.1,38537,Mammalia,Mammalia,Equus przewalskii,Przewalski's horse,"PREDICTED: LOW QUALITY PROTEIN: epidermal growth factor receptor, partial",2258.8,Y,302,32.64,89.51,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_027805186.1,37707,Mammalia,Mammalia,Marmota flaviventris,Yellow-bellied marmot,epidermal growth factor receptor isoform X1,2255.33,Y,302,32.64,89.38,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015844047.1,45652,Mammalia,Mammalia,Peromyscus maniculatus bairdii,Prairie deer mouse,PREDICTED: epidermal growth factor receptor isoform X1,2247.63,Y,302,32.64,89.07,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_004839898.1,82643,Mammalia,Mammalia,Heterocephalus glaber,Naked mole-rat,epidermal growth factor receptor isoform X1,2245.31,Y,302,32.64,88.98,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_028743255.1,42174,Mammalia,Mammalia,Peromyscus leucopus,White-footed mouse,epidermal growth factor receptor isoform X1,2244.93,Y,302,32.64,88.96,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_008260065.1,48644,Mammalia,Mammalia,Oryctolagus cuniculus,Rabbit,PREDICTED: epidermal growth factor receptor isoform X1,2244.93,Y,302,32.64,88.96,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,ADT91284.1,151095,Mammalia,Mammalia,Rattus norvegicus,Norway rat,epidermal growth factor receptor,2244.93,Y,302,32.64,88.96,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_004384022.3,37488,Mammalia,Mammalia,Trichechus manatus latirostris,Florida manatee,epidermal growth factor receptor isoform X1,2242.23,Y,302,32.64,88.86,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF0879843.1,17459,Mammalia,Mammalia,Crocuta crocuta,Spotted hyena,"EGFR factor, partial",2240.69,Y,302,32.64,88.8,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_019508571.1,46123,Mammalia,Mammalia,Hipposideros armiger,Great roundleaf bat,PREDICTED: epidermal growth factor receptor isoform X1,2239.92,Y,302,32.64,88.76,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032772044.1,36141,Mammalia,Mammalia,Rattus rattus,Black rat,epidermal growth factor receptor,2239.92,Y,302,32.64,88.76,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_025305356.1,62990,Mammalia,Mammalia,Canis lupus dingo,Dingo,epidermal growth factor receptor,2234.53,Y,302,32.64,88.55,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_008701798.1,29099,Mammalia,Mammalia,Ursus maritimus,Polar bear,PREDICTED: epidermal growth factor receptor,2222.59,Y,302,32.64,88.08,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015398711.1,29960,Mammalia,Mammalia,Panthera tigris altaica,Amur tiger,"PREDICTED: epidermal growth factor receptor, partial",2217.58,Y,302,32.64,87.88,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_025708941.1,46265,Mammalia,Mammalia,Callorhinus ursinus,Northern fur seal,epidermal growth factor receptor isoform X2,2211.8,Y,302,32.64,87.65,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_003465863.2,49128,Mammalia,Mammalia,Cavia porcellus,Domestic guinea pig,epidermal growth factor receptor,2202.56,Y,302,32.64,87.28,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_022373961.1,36593,Mammalia,Mammalia,Enhydra lutris kenyoni,Sea otter,epidermal growth factor receptor isoform X1,2195.62,Y,302,32.64,87.01,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,NP_999172.1,81816,Mammalia,Mammalia,Sus scrofa,Pig,epidermal growth factor receptor precursor,2194.08,Y,302,32.64,86.95,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032944079.1,48727,Mammalia,Mammalia,Rhinolophus ferrumequinum,Greater horseshoe bat,epidermal growth factor receptor isoform X1,2189.46,Y,302,32.64,86.77,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_021590297.1,38807,Mammalia,Mammalia,Ictidomys tridecemlineatus,Thirteen-lined ground squirrel,epidermal growth factor receptor,2187.92,Y,302,32.64,86.7,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_023562685.1,42496,Mammalia,Mammalia,Octodon degus,Degu,epidermal growth factor receptor,2183.3,Y,302,32.64,86.52,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_014957685.2,51033,Mammalia,Mammalia,Ovis aries,Sheep,epidermal growth factor receptor,2180.22,Y,302,32.64,86.4,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017922533.1,46853,Mammalia,Mammalia,Capra hircus,Goat,PREDICTED: epidermal growth factor receptor,2177.52,Y,302,32.64,86.29,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_025128865.1,60996,Mammalia,Mammalia,Bubalus bubalis,Water buffalo,LOW QUALITY PROTEIN: epidermal growth factor receptor,2173.28,Y,302,32.64,86.12,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_016053775.1,29863,Mammalia,Mammalia,Miniopterus natalensis,Common bats,PREDICTED: epidermal growth factor receptor isoform X1,2171.74,Y,302,32.64,86.06,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_002696936.2,133369,Mammalia,Mammalia,Bos taurus,Cattle,epidermal growth factor receptor,2164.04,Y,302,32.64,85.76,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_027379076.1,54423,Mammalia,Mammalia,Bos indicus x Bos taurus,Hybrid cattle,epidermal growth factor receptor,2162.5,Y,302,32.64,85.7,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_019839912.1,37725,Mammalia,Mammalia,Bos indicus,Zebu cattle,PREDICTED: epidermal growth factor receptor,2159.8,Y,302,32.64,85.59,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015976470.1,49042,Mammalia,Mammalia,Rousettus aegyptiacus,Egyptian rousette,PREDICTED: epidermal growth factor receptor,2159.41,Y,302,32.64,85.57,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_007463741.1,27194,Mammalia,Mammalia,Lipotes vexillifer,Yangtze River dolphin,PREDICTED: epidermal growth factor receptor isoform X1,2157.49,Y,302,32.64,85.5,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_010840455.1,35574,Mammalia,Mammalia,Bison bison bison,American bison,PREDICTED: epidermal growth factor receptor,2154.79,Y,302,32.64,85.39,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_023970904.2,51261,Mammalia,Mammalia,Physeter catodon,Sperm whale,epidermal growth factor receptor isoform X2,2149.4,Y,302,32.64,85.18,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,MXQ89052.1,68301,Mammalia,Mammalia,Bos mutus,Wild yak,hypothetical protein,2144.78,Y,302,32.64,84.99,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_012861453.1,24942,Mammalia,Mammalia,Echinops telfairi,Small Madagascar hedgehog,epidermal growth factor receptor,2144.39,Y,302,32.64,84.98,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_027692981.1,42715,Mammalia,Mammalia,Vombatus ursinus,Common wombat,epidermal growth factor receptor isoform X1,2144.39,Y,302,32.64,84.98,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_020836941.1,47241,Mammalia,Mammalia,Phascolarctos cinereus,Koala,epidermal growth factor receptor isoform X1,2143.62,Y,302,32.64,84.95,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_019063145.1,67687,Mammalia,Mammalia,Fukomys damarensis,Damara mole-rat,epidermal growth factor receptor isoform X1,2139.77,Y,302,32.64,84.8,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AIC80891.1,996,Mammalia,Mammalia,Bos grunniens,Domestic yak,epidermal growth factor receptor,2135.92,Y,302,32.64,84.64,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_031812944.1,46282,Mammalia,Mammalia,Sarcophilus harrisii,Tasmanian devil,epidermal growth factor receptor isoform X1,2124.75,Y,302,32.64,84.2,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_004283056.1,59479,Mammalia,Mammalia,Orcinus orca,Killer whale,epidermal growth factor receptor isoform X2,2123.21,Y,302,32.64,84.14,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_026979908.1,54700,Mammalia,Mammalia,Lagenorhynchus obliquidens,Pacific white-sided dolphin,epidermal growth factor receptor isoform X2,2120.51,Y,302,32.64,84.03,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032499708.1,52297,Mammalia,Mammalia,Phocoena sinus,Vaquita,epidermal growth factor receptor isoform X1,2120.12,Y,302,32.64,84.02,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_033718674.1,56999,Mammalia,Mammalia,Tursiops truncatus,Common bottlenose dolphin,epidermal growth factor receptor isoform X2,2118.97,Y,302,32.64,83.97,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_030727166.1,54641,Mammalia,Mammalia,Globicephala melas,Long-finned pilot whale,epidermal growth factor receptor isoform X1,2117.43,Y,302,32.64,83.91,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_007535281.1,29615,Mammalia,Mammalia,Erinaceus europaeus,Western European hedgehog,PREDICTED: epidermal growth factor receptor,2114.35,Y,302,32.64,83.79,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_031300868.1,86205,Mammalia,Mammalia,Camelus dromedarius,Arabian camel,LOW QUALITY PROTEIN: epidermal growth factor receptor,2113.96,Y,302,32.64,83.77,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_029090286.1,65846,Mammalia,Mammalia,Monodon monoceros,Narwhal,epidermal growth factor receptor isoform X1,2112.81,Y,302,32.64,83.73,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_022448878.1,50906,Mammalia,Mammalia,Delphinapterus leucas,Beluga whale,epidermal growth factor receptor isoform X1,2110.49,Y,302,32.64,83.64,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,TEA31057.1,19920,Mammalia,Mammalia,Sousa chinensis,Indo-pacific humpbacked dolphin,"hypothetical protein DBR06_SOUSAS9610118, partial",2105.1,Y,302,32.64,83.42,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_007500445.1,51248,Mammalia,Mammalia,Monodelphis domestica,Gray short-tailed opossum,PREDICTED: epidermal growth factor receptor isoform X1,2090.85,Y,302,32.64,82.86,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_028917874.1,43718,Mammalia,Mammalia,Ornithorhynchus anatinus,Platypus,epidermal growth factor receptor isoform X1,2082.76,Y,302,32.64,82.54,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_007187724.1,37624,Mammalia,Mammalia,Balaenoptera acutorostrata scammoni,Minke whale,epidermal growth factor receptor isoform X1,2076.6,Y,302,32.64,82.29,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_028381307.1,33129,Mammalia,Mammalia,Phyllostomus discolor,Pale spear-nosed bat,epidermal growth factor receptor isoform X1,2065.43,Y,302,32.64,81.85,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,ARH02600.1,682,Mammalia,Mammalia,Notamacropus eugenii,Tammar wallaby,"EGFR, partial",2056.18,Y,302,32.64,81.48,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAB0379025.1,26177,Mammalia,Mammalia,Muntiacus reevesi,Reeves' muntjac,hypothetical protein FD755_010603,1986.46,Y,302,32.64,78.72,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAB0363827.1,25799,Mammalia,Mammalia,Muntiacus muntjak,Muntjak,hypothetical protein FD754_007983,1984.53,Y,302,32.64,78.64,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_030407287.1,50866,Testudines,Testudines,Gopherus evgoodei,Goodes thornscrub tortoise,epidermal growth factor receptor isoform X1,1964.12,Y,302,32.64,77.84,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,OPJ76083.1,24828,Aves,Aves,Patagioenas fasciata monilis,Band-tailed pigeon,epidermal growth factor receptor isoform B,1964.12,Y,302,32.64,77.84,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_029863856.1,48151,Aves,Aves,Aquila chrysaetos chrysaetos,Golden eagle,epidermal growth factor receptor isoform X1,1961.42,Y,302,32.64,77.73,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_021241139.1,43411,Aves,Aves,Numida meleagris,Helmeted guineafowl,epidermal growth factor receptor,1958.73,Y,302,32.64,77.62,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_014802468.1,30957,Aves,Aves,Calidris pugnax,Ruff,PREDICTED: epidermal growth factor receptor isoform X1,1957.96,Y,302,32.64,77.59,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_027307116.1,58659,Aves,Aves,Anas platyrhynchos,Mallard,epidermal growth factor receptor isoform X1,1955.26,Y,302,32.64,77.48,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_013052873.1,31835,Aves,Aves,Anser cygnoides domesticus,Swan goose,PREDICTED: epidermal growth factor receptor isoform X1,1954.1,Y,302,32.64,77.44,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_031455233.1,28886,Aves,Aves,Phasianus colchicus,Ring-necked pheasant,epidermal growth factor receptor isoform X1,1953.72,Y,302,32.64,77.42,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032649373.1,44376,Testudines,Testudines,Chelonoidis abingdonii,Abingdon island giant tortoise,epidermal growth factor receptor isoform X1,1952.95,Y,302,32.64,77.39,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_027739067.1,34050,Aves,Aves,Empidonax traillii,Willow flycatcher,epidermal growth factor receptor isoform X1,1952.95,Y,302,32.64,77.39,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFV10548.1,27088,Aves,Aves,Pterocles gutturalis,Yellow-throated sandgrouse,"Epidermal growth factor receptor, partial",1950.25,Y,302,32.64,77.29,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032921444.1,35444,Aves,Aves,Catharus ustulatus,Swainson's thrush,epidermal growth factor receptor isoform X1,1949.87,Y,302,32.64,77.27,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015474161.1,39768,Aves,Aves,Parus major,Great Tit,epidermal growth factor receptor isoform X1,1949.1,Y,302,32.64,77.24,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFW08818.1,28173,Aves,Aves,Fulmarus glacialis,Northern fulmar,"Epidermal growth factor receptor, partial",1948.71,Y,302,32.64,77.22,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_005519152.1,27656,Aves,Aves,Pseudopodoces humilis,Tibetan ground-tit,PREDICTED: epidermal growth factor receptor,1948.71,Y,302,32.64,77.22,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_027531603.1,39505,Aves,Aves,Neopelma chrysocephalum,Saffron-crested tyrant-manakin,epidermal growth factor receptor isoform X1,1948.33,Y,302,32.64,77.21,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_027570838.1,42564,Aves,Aves,Pipra filicauda,Wire-tailed manakin,epidermal growth factor receptor isoform X1,1948.33,Y,302,32.64,77.21,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFP67643.1,27846,Aves,Aves,Cariama cristata,Red-legged seriema,"Epidermal growth factor receptor, partial",1947.55,Y,302,32.64,77.18,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,TFK03250.1,21661,Testudines,Testudines,Platysternon megacephalum,Big-headed turtle,protein SMG7,1947.55,Y,302,32.64,77.18,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFQ30509.1,26799,Aves,Aves,Merops nubicus,Carmine bee-eater,"Epidermal growth factor receptor, partial",1947.17,Y,302,32.64,77.16,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_021387155.1,43980,Aves,Aves,Lonchura striata domestica,Bengalese finch,epidermal growth factor receptor isoform X1,1946.78,Y,302,32.64,77.15,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_002196468.2,45272,Aves,Aves,Taeniopygia guttata,Zebra finch,epidermal growth factor receptor isoform X1,1946.4,Y,302,32.64,77.13,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032037482.1,27801,Aves,Aves,Aythya fuligula,Tufted duck,LOW QUALITY PROTEIN: epidermal growth factor receptor,1946.4,Y,302,32.64,77.13,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_027511683.1,39234,Aves,Aves,Corapipo altera,White-ruffed manakin,epidermal growth factor receptor isoform X1,1946.4,Y,302,32.64,77.13,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032537879.1,35608,Aves,Aves,Chiroxiphia lanceolata,Lance-tailed manakin,epidermal growth factor receptor isoform X1,1946.4,Y,302,32.64,77.13,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017677347.1,36875,Aves,Aves,Lepidothrix coronata,Blue-crowned manakin,PREDICTED: epidermal growth factor receptor isoform X1,1946.01,Y,302,32.64,77.12,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_009092161.1,30517,Aves,Aves,Serinus canaria,Common canary,epidermal growth factor receptor isoform X3,1945.24,Y,302,32.64,77.09,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFO59253.1,43283,Aves,Aves,Corvus brachyrhynchos,American crow,"Epidermal growth factor receptor, partial",1945.24,Y,302,32.64,77.09,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_009896664.1,29119,Aves,Aves,Picoides pubescens,Downy woodpecker,PREDICTED: epidermal growth factor receptor,1944.86,Y,302,32.64,77.07,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_009463096.1,31488,Aves,Aves,Nipponia nippon,Crested ibis,PREDICTED: epidermal growth factor receptor,1944.47,Y,302,32.64,77.06,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFV18065.1,28596,Aves,Aves,Tauraco erythrolophus,Red-crested turaco,"Epidermal growth factor receptor, partial",1944.09,Y,302,32.64,77.04,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFO87175.1,27261,Aves,Aves,Buceros rhinoceros silvestris,Rhinoceros hornbill,"Epidermal growth factor receptor, partial",1943.7,Y,302,32.64,77.03,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_014140372.2,30432,Aves,Aves,Falco cherrug,Saker falcon,epidermal growth factor receptor isoform X1,1943.7,Y,302,32.64,77.03,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_005487036.1,26676,Aves,Aves,Zonotrichia albicollis,White-throated sparrow,epidermal growth factor receptor isoform X1,1943.32,Y,302,32.64,77.01,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFW92958.1,26171,Aves,Aves,Phalacrocorax carbo,Great cormorant,"Epidermal growth factor receptor, partial",1943.32,Y,302,32.64,77.01,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFQ70884.1,28630,Aves,Aves,Phaethon lepturus,White-tailed tropicbird,"Epidermal growth factor receptor, partial",1942.93,Y,302,32.64,77,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015710376.1,41600,Aves,Aves,Coturnix japonica,Japanese quail,epidermal growth factor receptor isoform X1,1942.55,Y,302,32.64,76.98,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFO12560.1,28015,Aves,Aves,Balearica regulorum gibbericeps,East African grey crowned-crane,"Epidermal growth factor receptor, partial",1942.16,Y,302,32.64,76.97,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFW78804.1,37344,Aves,Aves,Manacus vitellinus,Golden-collared manakin,"Epidermal growth factor receptor, partial",1942.16,Y,302,32.64,76.97,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFQ27231.1,29427,Aves,Aves,Mesitornis unicolor,Brown roatelo,"Epidermal growth factor receptor, partial",1941.78,Y,302,32.64,76.95,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFU93668.1,29270,Aves,Aves,Chaetura pelagica,Chimney swift,"Epidermal growth factor receptor, partial",1941.78,Y,302,32.64,76.95,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_030799562.1,28938,Aves,Aves,Camarhynchus parvulus,Tanagers,epidermal growth factor receptor isoform X1,1941.78,Y,302,32.64,76.95,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_009566793.1,30535,Aves,Aves,Cuculus canorus,Common cuckoo,PREDICTED: epidermal growth factor receptor,1941.01,Y,302,32.64,76.92,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KQK85145.1,16224,Aves,Aves,Amazona aestiva,Blue-fronted amazon,epidermal growth factor receptor,1941.01,Y,302,32.64,76.92,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFQ85965.1,12119,Aves,Aves,Phoenicopterus ruber ruber,American flamingo,"Epidermal growth factor receptor, partial",1940.24,Y,302,32.64,76.89,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFM00769.1,32685,Aves,Aves,Aptenodytes forsteri,Emperor penguin,"Epidermal growth factor receptor, partial",1939.85,Y,302,32.64,76.87,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_026509866.1,34211,Testudines,Testudines,Terrapene carolina triunguis,Three-toed box turtle,epidermal growth factor receptor-like,1938.7,Y,302,32.64,76.83,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_009677691.1,39517,Aves,Aves,Struthio camelus australis,African ostrich,PREDICTED: epidermal growth factor receptor isoform X1,1937.54,Y,302,32.64,76.78,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFP90569.1,26553,Aves,Aves,Apaloderma vittatum,Bar-tailed trogon,"Epidermal growth factor receptor, partial",1936.77,Y,302,32.64,76.75,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_009941364.1,27865,Aves,Aves,Opisthocomus hoazin,Hoatzin,PREDICTED: LOW QUALITY PROTEIN: epidermal growth factor receptor,1936,Y,302,32.64,76.72,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_009948357.1,28860,Aves,Aves,Leptosomus discolor,Cuckoo roller,PREDICTED: epidermal growth factor receptor,1936,Y,302,32.64,76.72,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFW61080.1,29764,Aves,Aves,Pygoscelis adeliae,Adelie penguin,"Epidermal growth factor receptor, partial",1934.07,Y,302,32.64,76.64,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFZ57716.1,29281,Aves,Aves,Antrostomus carolinensis,Chuck-will's-widow,"Epidermal growth factor receptor, partial",1934.07,Y,302,32.64,76.64,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_019394845.1,28975,Crocodylia,Crocodylia,Crocodylus porosus,Australian saltwater crocodile,PREDICTED: epidermal growth factor receptor,1932.15,Y,302,32.64,76.57,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_010213790.1,31367,Aves,Aves,Tinamus guttatus,White-throated tinamou,PREDICTED: epidermal growth factor receptor,1927.14,Y,302,32.64,76.37,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_009643062.1,29746,Aves,Aves,Egretta garzetta,Little egret,PREDICTED: LOW QUALITY PROTEIN: epidermal growth factor receptor,1923.29,Y,302,32.64,76.22,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF4803863.1,18372,Aves,Aves,Turdus rufiventris,Rufous-bellied thrush,Epidermal growth factor receptor,1919.44,Y,302,32.64,76.06,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KGL96809.1,30750,Aves,Aves,Charadrius vociferus,Killdeer,"Epidermal growth factor receptor, partial",1918.66,Y,302,32.64,76.03,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_019141063.2,29602,Aves,Aves,Corvus cornix cornix,Hooded crow,epidermal growth factor receptor isoform X1,1906.72,Y,302,32.64,75.56,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_031959927.1,42323,Aves,Aves,Corvus moneduloides,New Caledonian crow,epidermal growth factor receptor isoform X1,1905.57,Y,302,32.64,75.52,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_025892988.1,21536,Aves,Aves,Nothoprocta perdicaria,Tinamous,epidermal growth factor receptor isoform X2,1904.41,Y,302,32.64,75.47,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_025058109.1,43349,Crocodylia,Crocodylia,Alligator sinensis,Chinese alligator,epidermal growth factor receptor isoform X1,1901.33,Y,302,32.64,75.35,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_025977181.1,31573,Aves,Aves,Dromaius novaehollandiae,Emu,epidermal growth factor receptor isoform X1,1900.95,Y,302,32.64,75.33,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_014743130.1,26793,Aves,Aves,Sturnus vulgaris,Common starling,PREDICTED: epidermal growth factor receptor,1898.63,Y,302,32.64,75.24,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032842910.1,32983,Aves,Aves,Tyto alba alba,Barn owl,epidermal growth factor receptor isoform X1,1894.78,Y,302,32.64,75.09,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_030916719.1,20676,Aves,Aves,Geospiza fortis,Medium ground-finch,epidermal growth factor receptor,1894.4,Y,302,32.64,75.07,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,RMC05437.1,34999,Aves,Aves,Hirundo rustica rustica,Barn swallow,hypothetical protein DUI87_18629,1870.51,Y,302,32.64,74.13,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_027639396.1,31320,Aves,Aves,Falco peregrinus,Peregrine falcon,epidermal growth factor receptor,1838.16,Y,302,32.64,72.84,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_025019314.1,32857,Lepidosauria,Lepidosauria,Python bivittatus,Burmese python,epidermal growth factor receptor isoform X1,1815.82,Y,302,32.64,71.96,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_034272392.1,41491,Lepidosauria,Lepidosauria,Pantherophis guttatus,Colubrid snakes,epidermal growth factor receptor isoform X1,1810.81,Y,302,32.64,71.76,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_028605740.1,51188,Lepidosauria,Lepidosauria,Podarcis muralis,Common wall lizard,epidermal growth factor receptor isoform X1,1801.56,Y,302,32.64,71.39,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_008111109.1,35701,Lepidosauria,Lepidosauria,Anolis carolinensis,Green anole,PREDICTED: epidermal growth factor receptor,1800.79,Y,302,32.64,71.36,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_033020765.1,39483,Lepidosauria,Lepidosauria,Lacerta agilis,Sand lizard,epidermal growth factor receptor isoform X1,1798.1,Y,302,32.64,71.26,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032094057.1,30930,Lepidosauria,Lepidosauria,Thamnophis elegans,Western terrestrial garter snake,epidermal growth factor receptor isoform X1,1796.17,Y,302,32.64,71.18,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_020654068.1,38806,Lepidosauria,Lepidosauria,Pogona vitticeps,Central bearded dragon,epidermal growth factor receptor,1791.16,Y,302,32.64,70.98,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_026538599.1,31322,Lepidosauria,Lepidosauria,Notechis scutatus,Mainland tiger snake,epidermal growth factor receptor isoform X1,1789.62,Y,302,32.64,70.92,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_026558075.1,31817,Lepidosauria,Lepidosauria,Pseudonaja textilis,Eastern brown snake,epidermal growth factor receptor,1777.68,Y,302,32.64,70.45,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFQ00606.1,30417,Aves,Aves,Haliaeetus albicilla,White-tailed eagle,"Epidermal growth factor receptor, partial",1757.65,Y,302,32.64,69.65,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015415172.1,48716,Mammalia,Mammalia,Myotis davidii,Common bats,PREDICTED: epidermal growth factor receptor,1733.38,Y,302,32.64,68.69,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_024418711.1,30697,Mammalia,Mammalia,Desmodus rotundus,Common vampire bat,epidermal growth factor receptor,1716.44,Y,302,32.64,68.02,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_033856343.1,88734,Actinopteri,Actinopteri,Acipenser ruthenus,Sterlet,epidermal growth factor receptor-like isoform X1,1710.66,Y,302,32.64,67.79,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_033786194.1,50058,Amphibia,Amphibia,Geotrypetes seraphini,Gabon caecilian,epidermal growth factor receptor isoform X1,1709.12,Y,302,32.64,67.73,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015209959.1,41861,Actinopteri,Actinopteri,Lepisosteus oculatus,Spotted gar,PREDICTED: epidermal growth factor receptor isoform X1,1694.48,Y,302,32.64,67.15,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_030059649.1,37122,Amphibia,Amphibia,Microcaecilia unicolor,Caecilians,epidermal growth factor receptor isoform X1,1693.71,Y,302,32.64,67.12,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_012314500.1,48088,Mammalia,Mammalia,Aotus nancymaae,Ma's night monkey,epidermal growth factor receptor,1657.11,Y,302,32.64,65.67,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,CBH29723.1,423,Amphibia,Amphibia,Notophthalmus viridescens,Eastern newt,epidermal growth factor receptor erbB1,1656.34,Y,302,32.64,65.64,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_028646730.1,35767,Cladistia,Cladistia,Erpetoichthys calabaricus,Reedfish,epidermal growth factor receptor,1618.59,Y,302,32.64,64.14,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_002939960.3,122817,Amphibia,Amphibia,Xenopus tropicalis,Tropical clawed frog,epidermal growth factor receptor,1614.74,Y,302,32.64,63.99,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_018426886.1,24943,Amphibia,Amphibia,Nanorana parkeri,Frogs and toads,PREDICTED: epidermal growth factor receptor-like,1613.2,Y,302,32.64,63.93,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_018123025.1,129541,Amphibia,Amphibia,Xenopus laevis,African clawed frog,PREDICTED: epidermal growth factor receptor,1611.66,Y,302,32.64,63.87,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_007895818.1,32969,Chondrichthyes,Chondrichthyes,Callorhinchus milii,Elephant shark,PREDICTED: epidermal growth factor receptor isoform X1,1610.51,Y,302,32.64,63.82,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_009806760.1,26724,Aves,Aves,Gavia stellata,Red-throated loon,"PREDICTED: epidermal growth factor receptor, partial",1610.12,Y,302,32.64,63.81,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,GCC22550.1,33620,Chondrichthyes,Chondrichthyes,Chiloscyllium punctatum,Brownbanded bambooshark,hypothetical protein,1564.28,Y,302,32.64,61.99,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_020382969.1,27961,Chondrichthyes,Chondrichthyes,Rhincodon typus,Whale shark,"LOW QUALITY PROTEIN: epidermal growth factor receptor-like, partial",1543.48,Y,302,32.64,61.17,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_030629454.1,30134,Actinopteri,Actinopteri,Chanos chanos,Milkfish,epidermal growth factor receptor-like,1537.32,Y,302,32.64,60.92,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_023663224.1,55295,Actinopteri,Actinopteri,Paramormyrops kingsleyae,Elephantfishes,epidermal growth factor receptor-like,1531.15,Y,302,32.64,60.68,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_016368304.1,68581,Actinopteri,Actinopteri,Sinocyclocheilus rhinocerous,Carps and others,PREDICTED: epidermal growth factor receptor-like isoform X2,1525.76,Y,302,32.64,60.46,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_030016650.1,42348,Actinopteri,Actinopteri,Sphaeramia orbicularis,Orbiculate cardinalfish,epidermal growth factor receptor,1525.38,Y,302,32.64,60.45,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_026062579.1,98570,Actinopteri,Actinopteri,Carassius auratus,Goldfish,epidermal growth factor receptor-like isoform X2,1523.45,Y,302,32.64,60.37,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_020791654.1,25367,Actinopteri,Actinopteri,Boleophthalmus pectinirostris,Great blue-spotted mudskipper,epidermal growth factor receptor,1522.68,Y,302,32.64,60.34,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF4116769.1,24824,Actinopteri,Actinopteri,Onychostoma macrolepis,Carps and others,hypothetical protein G5714_001322,1517.67,Y,302,32.64,60.14,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_030607436.1,41124,Actinopteri,Actinopteri,Archocentrus centrarchus,Flier cichlid,LOW QUALITY PROTEIN: epidermal growth factor receptor-like,1516.52,Y,302,32.64,60.1,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_026168624.1,42444,Actinopteri,Actinopteri,Mastacembelus armatus,Zig-zag eel,epidermal growth factor receptor,1514.21,Y,302,32.64,60.01,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_029581141.1,88602,Actinopteri,Actinopteri,Salmo trutta,River trout,epidermal growth factor receptor-like,1514.21,Y,302,32.64,60.01,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,GCB61697.1,27742,Chondrichthyes,Chondrichthyes,Scyliorhinus torazame,Cloudy catshark,hypothetical protein,1513.43,Y,302,32.64,59.98,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_014047241.1,111551,Actinopteri,Actinopteri,Salmo salar,Atlantic salmon,PREDICTED: epidermal growth factor receptor-like isoform X1,1512.28,Y,302,32.64,59.93,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_023865731.1,60777,Actinopteri,Actinopteri,Salvelinus alpinus,Arctic char,epidermal growth factor receptor,1510.74,Y,302,32.64,59.87,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032906398.1,38957,Chondrichthyes,Chondrichthyes,Amblyraja radiata,Thorny skate,epidermal growth factor receptor isoform X1,1510.35,Y,302,32.64,59.85,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_028284140.1,41003,Actinopteri,Actinopteri,Parambassis ranga,Indian glassy fish,epidermal growth factor receptor isoform X2,1509.97,Y,302,32.64,59.84,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_020318613.2,89411,Actinopteri,Actinopteri,Oncorhynchus kisutch,Coho salmon,epidermal growth factor receptor-like isoform X1,1509.97,Y,302,32.64,59.84,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_016333600.1,68487,Actinopteri,Actinopteri,Sinocyclocheilus anshuiensis,Carps and others,PREDICTED: epidermal growth factor receptor-like isoform X1,1509.58,Y,302,32.64,59.82,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_023259120.1,38822,Actinopteri,Actinopteri,Seriola lalandi dorsalis,Yellowtail amberjack,epidermal growth factor receptor,1509.2,Y,302,32.64,59.81,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_029479240.1,69381,Actinopteri,Actinopteri,Oncorhynchus nerka,Sockeye salmon,epidermal growth factor receptor-like,1509.2,Y,302,32.64,59.81,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_031150321.1,47978,Actinopteri,Actinopteri,Sander lucioperca,Pike-perch,epidermal growth factor receptor,1508.81,Y,302,32.64,59.79,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_024247072.1,73754,Actinopteri,Actinopteri,Oncorhynchus tshawytscha,Chinook salmon,epidermal growth factor receptor-like,1508.04,Y,302,32.64,59.76,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_021444809.1,124308,Actinopteri,Actinopteri,Oncorhynchus mykiss,Rainbow trout,epidermal growth factor receptor-like,1508.04,Y,302,32.64,59.76,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_021167986.1,38839,Actinopteri,Actinopteri,Fundulus heteroclitus,Mummichog,epidermal growth factor receptor,1507.27,Y,302,32.64,59.73,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_022614026.1,32874,Actinopteri,Actinopteri,Seriola dumerili,Greater amberjack,epidermal growth factor receptor,1506.5,Y,302,32.64,59.7,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,RXN35320.1,37694,Actinopteri,Actinopteri,Labeo rohita,Rohu,epidermal growth factor receptor-like isoform X1,1504.96,Y,302,32.64,59.64,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF1383726.1,24537,Actinopteri,Actinopteri,Perca fluviatilis,European perch,hypothetical protein PFLUV_G00134830,1504.58,Y,302,32.64,59.62,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_034559685.1,38814,Actinopteri,Actinopteri,Notolabrus celidotus,New Zealand spotty,epidermal growth factor receptor isoform X2,1503.42,Y,302,32.64,59.58,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032386889.1,64529,Actinopteri,Actinopteri,Etheostoma spectabile,Orangethroat darter,epidermal growth factor receptor,1502.26,Y,302,32.64,59.53,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017557988.1,44448,Actinopteri,Actinopteri,Pygocentrus nattereri,Red-bellied piranha,PREDICTED: epidermal growth factor receptor,1502.26,Y,302,32.64,59.53,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_008296250.1,31742,Actinopteri,Actinopteri,Stegastes partitus,Bicolor damselfish,PREDICTED: epidermal growth factor receptor-like isoform X2,1501.88,Y,302,32.64,59.52,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_008332625.1,39993,Actinopteri,Actinopteri,Cynoglossus semilaevis,Tongue sole,epidermal growth factor receptor,1501.88,Y,302,32.64,59.52,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_030258084.1,54063,Actinopteri,Actinopteri,Sparus aurata,Gilthead seabream,epidermal growth factor receptor,1501.49,Y,302,32.64,59.5,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_034038301.1,36362,Actinopteri,Actinopteri,Thalassophryne amazonica,Poison toadfishes,epidermal growth factor receptor,1501.11,Y,302,32.64,59.49,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_019203476.1,63355,Actinopteri,Actinopteri,Oreochromis niloticus,Nile tilapia,epidermal growth factor receptor isoform X1,1500.34,Y,302,32.64,59.46,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_018531818.1,45606,Actinopteri,Actinopteri,Lates calcarifer,Barramundi perch,PREDICTED: epidermal growth factor receptor,1499.18,Y,302,32.64,59.41,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_029309336.1,37868,Actinopteri,Actinopteri,Cottoperca gobio,Thornfishes,epidermal growth factor receptor-like,1498.41,Y,302,32.64,59.38,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_028448509.1,65046,Actinopteri,Actinopteri,Perca flavescens,Yellow perch,epidermal growth factor receptor,1498.03,Y,302,32.64,59.36,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_029379943.1,38275,Actinopteri,Actinopteri,Echeneis naucrates,Live sharksucker,epidermal growth factor receptor,1496.49,Y,302,32.64,59.3,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF3699471.1,22726,Actinopteri,Actinopteri,Channa argus,Northern snakehead,Epidermal growth factor receptor,1495.33,Y,302,32.64,59.26,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_033838479.1,27064,Actinopteri,Actinopteri,Periophthalmus magnuspinnatus,Gobies,LOW QUALITY PROTEIN: epidermal growth factor receptor,1494.56,Y,302,32.64,59.23,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_010727531.3,94424,Actinopteri,Actinopteri,Larimichthys crocea,Large yellow croaker,epidermal growth factor receptor,1493.79,Y,302,32.64,59.2,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_026229733.1,40551,Actinopteri,Actinopteri,Anabas testudineus,Climbing perch,"epidermal growth factor receptor a (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)",1493.4,Y,302,32.64,59.18,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_033506664.1,43071,Actinopteri,Actinopteri,Epinephelus lanceolatus,Giant grouper,epidermal growth factor receptor,1493.4,Y,302,32.64,59.18,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,TKS79692.1,28544,Actinopteri,Actinopteri,Collichthys lucidus,Big head croaker,Epidermal growth factor receptor,1493.4,Y,302,32.64,59.18,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_006792182.1,31419,Actinopteri,Actinopteri,Neolamprologus brichardi,Lyretail cichlid,PREDICTED: epidermal growth factor receptor-like,1492.63,Y,302,32.64,59.15,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_005742625.1,38742,Actinopteri,Actinopteri,Pundamilia nyererei,Cichlids,PREDICTED: epidermal growth factor receptor,1492.25,Y,302,32.64,59.14,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_024129350.1,42773,Actinopteri,Actinopteri,Oryzias melastigma,Indian medaka,epidermal growth factor receptor,1492.25,Y,302,32.64,59.14,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_013884663.1,35358,Actinopteri,Actinopteri,Austrofundulus limnaeus,New World rivulines,PREDICTED: epidermal growth factor receptor,1492.25,Y,302,32.64,59.14,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_033993237.1,41268,Actinopteri,Actinopteri,Trematomus bernacchii,Emerald rockcod,epidermal growth factor receptor isoform X2,1491.86,Y,302,32.64,59.12,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_034412013.1,38023,Actinopteri,Actinopteri,Cyclopterus lumpus,Lumpfish,epidermal growth factor receptor,1491.48,Y,302,32.64,59.11,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017281543.1,43259,Actinopteri,Actinopteri,Kryptolebias marmoratus,Mangrove rivulus,epidermal growth factor receptor,1491.09,Y,302,32.64,59.09,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_004079471.1,47277,Actinopteri,Actinopteri,Oryzias latipes,Japanese medaka,epidermal growth factor receptor,1490.32,Y,302,32.64,59.06,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_019967682.1,37762,Actinopteri,Actinopteri,Paralichthys olivaceus,Japanese flounder,PREDICTED: epidermal growth factor receptor,1489.94,Y,302,32.64,59.04,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_029930485.1,38160,Actinopteri,Actinopteri,Myripristis murdjan,Pinecone soldierfish,epidermal growth factor receptor-like,1488.78,Y,302,32.64,59,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AWP03906.1,53722,Actinopteri,Actinopteri,Scophthalmus maximus,Turbot,putative epidermal growth factor receptor-like,1487.63,Y,302,32.64,58.95,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AAI63725.1,87478,Actinopteri,Actinopteri,Danio rerio,Zebrafish,Epidermal growth factor receptor,1486.86,Y,302,32.64,58.92,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_014187570.1,45052,Actinopteri,Actinopteri,Haplochromis burtoni,Burton's mouthbrooder,PREDICTED: epidermal growth factor receptor,1485.7,Y,302,32.64,58.88,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_023133606.1,39307,Actinopteri,Actinopteri,Amphiprion ocellaris,Clown anemonefish,epidermal growth factor receptor isoform X2,1481.85,Y,302,32.64,58.72,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_020490870.1,36730,Actinopteri,Actinopteri,Labrus bergylta,Ballan wrasse,epidermal growth factor receptor,1481.46,Y,302,32.64,58.71,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_026802017.1,66299,Actinopteri,Actinopteri,Pangasianodon hypophthalmus,Striped catfish,epidermal growth factor receptor,1479.92,Y,302,32.64,58.65,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015225408.1,36660,Actinopteri,Actinopteri,Cyprinodon variegatus,Sheepshead minnow,PREDICTED: epidermal growth factor receptor,1479.15,Y,302,32.64,58.62,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_031418769.1,43039,Actinopteri,Actinopteri,Clupea harengus,Atlantic herring,epidermal growth factor receptor-like,1478.77,Y,302,32.64,58.6,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_034090635.1,45845,Actinopteri,Actinopteri,Gymnodraco acuticeps,Antarctic dragonfishes,epidermal growth factor receptor,1478,Y,302,32.64,58.57,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_010884916.2,59380,Actinopteri,Actinopteri,Esox lucius,Northern pike,epidermal growth factor receptor,1476.46,Y,302,32.64,58.51,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,TNM98508.1,20156,Actinopteri,Actinopteri,Takifugu bimaculatus,Puffers,hypothetical protein fugu_014754,1475.3,Y,302,32.64,58.46,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_003975413.2,49042,Actinopteri,Actinopteri,Takifugu rubripes,Torafugu,epidermal growth factor receptor,1474.53,Y,302,32.64,58.43,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_031721041.1,41910,Actinopteri,Actinopteri,Anarrhichthys ocellatus,Wolf-eel,epidermal growth factor receptor-like,1473.76,Y,302,32.64,58.4,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_007548665.1,49655,Actinopteri,Actinopteri,Poecilia formosa,Amazon molly,PREDICTED: epidermal growth factor receptor,1472.6,Y,302,32.64,58.36,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_014853781.1,47806,Actinopteri,Actinopteri,Poecilia mexicana,Shortfin molly,PREDICTED: epidermal growth factor receptor,1470.29,Y,302,32.64,58.27,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032421622.1,46432,Actinopteri,Actinopteri,Xiphophorus hellerii,Green swordtail,epidermal growth factor receptor,1468.37,Y,302,32.64,58.19,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_033960240.1,37990,Actinopteri,Actinopteri,Pseudochaenichthys georgianus,South Georgia icefish,epidermal growth factor receptor,1468.37,Y,302,32.64,58.19,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_008432777.1,45397,Actinopteri,Actinopteri,Poecilia reticulata,Guppy,PREDICTED: epidermal growth factor receptor,1467.6,Y,302,32.64,58.16,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,QAV54762.1,2012,Actinopteri,Actinopteri,Ctenopharyngodon idella,Grass carp,epidermal growth factor receptor protein,1466.83,Y,302,32.64,58.13,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_034468485.1,47299,Actinopteri,Actinopteri,Hippoglossus hippoglossus,Atlantic halibut,epidermal growth factor receptor,1466.83,Y,302,32.64,58.13,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_005799983.1,43733,Actinopteri,Actinopteri,Xiphophorus maculatus,Southern platyfish,epidermal growth factor receptor isoform X1,1466.83,Y,302,32.64,58.13,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017351196.1,51421,Actinopteri,Actinopteri,Ictalurus punctatus,Channel catfish,PREDICTED: epidermal growth factor receptor,1465.67,Y,302,32.64,58.08,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_027876628.1,47114,Actinopteri,Actinopteri,Xiphophorus couchianus,Monterrey platyfish,epidermal growth factor receptor isoform X1,1465.29,Y,302,32.64,58.07,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAA0718960.1,24328,Actinopteri,Actinopteri,Triplophysa tibetana,Plateau loaches,Epidermal growth factor receptor,1461.43,Y,302,32.64,57.91,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_019734647.1,42020,Actinopteri,Actinopteri,Hippocampus comes,Tiger tail seahorse,PREDICTED: epidermal growth factor receptor,1460.66,Y,302,32.64,57.88,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_014889813.1,47231,Actinopteri,Actinopteri,Poecilia latipinna,Sailfin molly,"PREDICTED: epidermal growth factor receptor, partial",1460.66,Y,302,32.64,57.88,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_018964245.1,116951,Actinopteri,Actinopteri,Cyprinus carpio,Common carp,PREDICTED: LOW QUALITY PROTEIN: epidermal growth factor receptor-like,1460.66,Y,302,32.64,57.88,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AAP55673.1,35,Actinopteri,Actinopteri,Xiphophorus xiphidium,Swordtail platyfish,epidermal growth factor receptor,1459.51,Y,302,32.64,57.84,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF4076377.1,24479,Actinopteri,Actinopteri,Ameiurus melas,Black bullhead,hypothetical protein AMELA_G00213610,1437.94,Y,302,32.64,56.98,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_028988079.1,49247,Actinopteri,Actinopteri,Betta splendens,Siamese fighting fish,epidermal growth factor receptor,1436.01,Y,302,32.64,56.91,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_014385835.1,60290,Mammalia,Mammalia,Myotis brandtii,Brandt's bat,PREDICTED: LOW QUALITY PROTEIN: epidermal growth factor receptor,1431,Y,302,32.64,56.71,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_028832044.1,50097,Actinopteri,Actinopteri,Denticeps clupeoides,Denticle herring,epidermal growth factor receptor-like,1422.91,Y,302,32.64,56.39,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_028328150.1,43562,Actinopteri,Actinopteri,Gouania willdenowi,Blunt-snouted clingfish,epidermal growth factor receptor-like,1395.95,Y,302,32.64,55.32,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_027021898.1,47806,Actinopteri,Actinopteri,Tachysurus fulvidraco,Yellow catfish,LOW QUALITY PROTEIN: epidermal growth factor receptor,1363.21,Y,302,32.64,54.02,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_016092907.1,67438,Actinopteri,Actinopteri,Sinocyclocheilus grahami,Carps and others,PREDICTED: epidermal growth factor receptor-like isoform X1,1335.86,Y,302,32.64,52.94,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_031582193.1,34822,Actinopteri,Actinopteri,Oreochromis aureus,Blue tilapia,melanoma receptor tyrosine-protein kinase-like,1334.7,Y,302,32.64,52.89,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_030204589.1,46937,Actinopteri,Actinopteri,Gadus morhua,Atlantic cod,melanoma receptor tyrosine-protein kinase-like isoform X1,1325.46,Y,302,32.64,52.53,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,TWW73767.1,29416,Actinopteri,Actinopteri,Takifugu flavidus,Sansaifugu,Epidermal growth factor receptor,1316.21,Y,302,32.64,52.16,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_022076694.1,36647,Actinopteri,Actinopteri,Acanthochromis polyacanthus,Spiny chromis,melanoma receptor tyrosine-protein kinase-like,1291.17,Y,302,32.64,51.17,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,CAG07098.1,28632,Actinopteri,Actinopteri,Tetraodon nigroviridis,Spotted green pufferfish,"unnamed protein product, partial",1286.55,Y,302,32.64,50.98,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,CAA34770.2,1,Actinopteri,Actinopteri,Xiphophorus sp.,Livebearers,receptor tyrosine kiase preprotein,1233.78,Y,302,32.64,48.89,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,MBV98391.1,11098,Mammalia,Mammalia,Eschrichtius robustus,Grey whale,Epidermal growth factor receptor,823.54,Y,302,32.64,32.64,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,OXB74339.1,17219,Aves,Aves,Colinus virginianus,Northern bobwhite,hypothetical protein H355_014552,755.36,Y,302,32.64,29.93,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_004438430.1,33628,Mammalia,Mammalia,Ceratotherium simum simum,Southern white rhinoceros,PREDICTED: epidermal growth factor receptor isoform X1,2284.99,N,302,32.64,90.55,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_006861927.1,25292,Mammalia,Mammalia,Chrysochloris asiatica,Cape golden mole,PREDICTED: epidermal growth factor receptor,2248.01,N,302,32.64,89.09,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_012661369.1,33085,Mammalia,Mammalia,Otolemur garnettii,Small-eared galago,epidermal growth factor receptor isoform X1,2235.68,N,302,32.64,88.6,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_008063855.1,33251,Mammalia,Mammalia,Carlito syrichta,Philippine tarsier,epidermal growth factor receptor,2233.37,N,302,32.64,88.51,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_010330053.1,36294,Mammalia,Mammalia,Saimiri boliviensis boliviensis,Bolivian squirrel monkey,PREDICTED: epidermal growth factor receptor,2229.52,N,302,32.64,88.35,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_007939420.1,25532,Mammalia,Mammalia,Orycteropus afer afer,Aardvark,PREDICTED: epidermal growth factor receptor,2226.44,N,302,32.64,88.23,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_014685768.1,42730,Mammalia,Mammalia,Equus asinus,Ass,PREDICTED: epidermal growth factor receptor isoform X1,2218.74,N,302,32.64,87.93,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VFV23050.1,31243,Mammalia,Mammalia,Lynx pardinus,Spanish lynx,epidermal growth factor receptor,2210.26,N,302,32.64,87.59,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_029782234.1,43342,Mammalia,Mammalia,Suricata suricatta,Meerkat,epidermal growth factor receptor,2203.33,N,302,32.64,87.31,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_004694569.1,29269,Mammalia,Mammalia,Condylura cristata,Star-nosed mole,PREDICTED: epidermal growth factor receptor isoform X1,2201.4,N,302,32.64,87.24,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_006900257.1,25292,Mammalia,Mammalia,Elephantulus edwardii,Cape elephant shrew,PREDICTED: epidermal growth factor receptor-like,2194.85,N,302,32.64,86.98,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_022260872.1,67615,Mammalia,Mammalia,Canis lupus familiaris,Dog,epidermal growth factor receptor,2168.66,N,302,32.64,85.94,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_025862449.1,38429,Mammalia,Mammalia,Vulpes vulpes,Red fox,epidermal growth factor receptor,2161.73,N,302,32.64,85.67,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_005396934.2,45556,Mammalia,Mammalia,Chinchilla lanigera,Long-tailed chinchilla,PREDICTED: epidermal growth factor receptor,2147.86,N,302,32.64,85.12,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_006218226.1,44301,Mammalia,Mammalia,Vicugna pacos,Alpaca,LOW QUALITY PROTEIN: epidermal growth factor receptor,2120.89,N,302,32.64,84.05,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_004601854.1,24062,Mammalia,Mammalia,Sorex araneus,European shrew,PREDICTED: epidermal growth factor receptor,2101.63,N,302,32.64,83.28,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_010951593.1,29233,Mammalia,Mammalia,Camelus bactrianus,Bactrian camel,PREDICTED: epidermal growth factor receptor,2086.23,N,302,32.64,82.67,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF4024207.1,19274,Mammalia,Mammalia,Cervus hanglu yarkandensis,Yarkand deer,hypothetical protein G4228_015999,2070.82,N,302,32.64,82.06,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_024620127.1,38185,Mammalia,Mammalia,Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,epidermal growth factor receptor isoform X1,2056.95,N,302,32.64,81.51,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_005287378.1,46668,Testudines,Testudines,Chrysemys picta bellii,Western painted turtle,epidermal growth factor receptor isoform X1,1960.65,N,302,32.64,77.7,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_023445846.1,38736,Mammalia,Mammalia,Dasypus novemcinctus,Nine-banded armadillo,"epidermal growth factor receptor, partial",1957.57,N,302,32.64,77.58,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_010711419.1,30531,Aves,Aves,Meleagris gallopavo,Turkey,epidermal growth factor receptor isoform X1,1951.02,N,302,32.64,77.32,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_033925692.1,29293,Aves,Aves,Melopsittacus undulatus,Budgerigar,epidermal growth factor receptor isoform X1,1949.87,N,302,32.64,77.27,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,RLW11512.1,19058,Aves,Aves,Erythrura gouldiae,Gouldian finch,hypothetical protein DV515_00001811,1946.4,N,302,32.64,77.13,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,NP_990828.2,70279,Aves,Aves,Gallus gallus,Chicken,epidermal growth factor receptor precursor,1944.47,N,302,32.64,77.06,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_007059425.1,47903,Testudines,Testudines,Chelonia mydas,Green sea turtle,epidermal growth factor receptor isoform X1,1922.52,N,302,32.64,76.19,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_030301527.1,42950,Aves,Aves,Calypte anna,Anna's hummingbird,epidermal growth factor receptor isoform X2,1907.11,N,302,32.64,75.58,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_013223811.1,50999,Aves,Aves,Columba livia,Rock pigeon,epidermal growth factor receptor isoform X1,1906.34,N,302,32.64,75.55,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_013811172.1,22840,Aves,Aves,Apteryx mantelli mantelli,North Island brown kiwi,PREDICTED: epidermal growth factor receptor,1904.41,N,302,32.64,75.47,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_025931074.1,37668,Aves,Aves,Apteryx rowi,Okarito brown kiwi,epidermal growth factor receptor,1904.41,N,302,32.64,75.47,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_023775272.1,31622,Aves,Aves,Cyanistes caeruleus,Blue tit,epidermal growth factor receptor isoform X1,1902.49,N,302,32.64,75.39,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_026699683.1,27794,Aves,Aves,Athene cunicularia,Burrowing owl,epidermal growth factor receptor isoform X2,1901.72,N,302,32.64,75.36,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_016152023.1,26767,Aves,Aves,Ficedula albicollis,Collared flycatcher,PREDICTED: epidermal growth factor receptor,1901.33,N,302,32.64,75.35,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_010580114.1,25371,Aves,Aves,Haliaeetus leucocephalus,Bald eagle,PREDICTED: epidermal growth factor receptor,1894.78,N,302,32.64,75.09,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,TRZ18393.1,22656,Aves,Aves,Zosterops borbonicus,White-eyes,hypothetical protein HGM15179_008700,1893.63,N,302,32.64,75.04,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_019364651.1,27379,Crocodylia,Crocodylia,Gavialis gangeticus,Gharial,PREDICTED: epidermal growth factor receptor,1885.92,N,302,32.64,74.74,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_025040968.1,39116,Testudines,Testudines,Pelodiscus sinensis,Chinese soft-shelled turtle,epidermal growth factor receptor isoform X1,1862.43,N,302,32.64,73.81,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_028015425.1,50025,Mammalia,Mammalia,Eptesicus fuscus,Big brown bat,epidermal growth factor receptor,1860.11,N,302,32.64,73.71,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015668285.1,23979,Lepidosauria,Lepidosauria,Protobothrops mucrosquamatus,Chinese habu,epidermal growth factor receptor isoform X1,1763.43,N,302,32.64,69.88,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_029445429.1,49320,Amphibia,Amphibia,Rhinatrema bivittatum,Two-lined caecilian,epidermal growth factor receptor isoform X1,1751.87,N,302,32.64,69.42,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,PKU41373.1,23022,Aves,Aves,Limosa lapponica baueri,Bar-tailed godwit,hypothetical protein llap_8323,1689.86,N,302,32.64,66.97,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_013909332.1,25639,Lepidosauria,Lepidosauria,Thamnophis sirtalis,Colubrid snakes,PREDICTED: epidermal growth factor receptor,1673.68,N,302,32.64,66.33,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_019338871.1,74703,Crocodylia,Crocodylia,Alligator mississippiensis,American alligator,PREDICTED: epidermal growth factor receptor,1563.13,N,302,32.64,61.94,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_018613223.2,72410,Actinopteri,Actinopteri,Scleropages formosus,Asian bonytongue,epidermal growth factor receptor isoform X2,1542.32,N,302,32.64,61.12,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VTJ63521.1,42055,Mammalia,Mammalia,Marmota monax,Woodchuck,Hypothetical predicted protein,1526.15,N,302,32.64,60.48,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_010150739.1,27328,Aves,Aves,Eurypyga helias,Sunbittern,"PREDICTED: epidermal growth factor receptor, partial",1524.61,N,302,32.64,60.42,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032332259.1,74403,Mammalia,Mammalia,Camelus ferus,Wild Bactrian camel,LOW QUALITY PROTEIN: epidermal growth factor receptor,1522.29,N,302,32.64,60.33,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_023379631.1,43865,Mammalia,Mammalia,Pteropus vampyrus,Large flying fox,epidermal growth factor receptor-like,1520.37,N,302,32.64,60.25,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_022534414.1,42865,Actinopteri,Actinopteri,Astyanax mexicanus,Mexican tetra,epidermal growth factor receptor-like,1517.67,N,302,32.64,60.14,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_021482070.1,39112,Mammalia,Mammalia,Meriones unguiculatus,Mongolian gerbil,epidermal growth factor receptor,1506.89,N,302,32.64,59.72,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,QIE08811.1,719,Actinopteri,Actinopteri,Siniperca chuatsi,Mandarin fish,epidermal growth factor receptor,1505.73,N,302,32.64,59.67,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_004542932.1,46436,Actinopteri,Actinopteri,Maylandia zebra,Zebra mbuna,epidermal growth factor receptor,1485.32,N,302,32.64,58.86,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_026004577.1,52755,Actinopteri,Actinopteri,Astatotilapia calliptera,Eastern happy,epidermal growth factor receptor-like,1485.32,N,302,32.64,58.86,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015812137.1,37068,Actinopteri,Actinopteri,Nothobranchius furzeri,Turquoise killifish,PREDICTED: epidermal growth factor receptor isoform X1,1481.46,N,302,32.64,58.71,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_029971941.1,39283,Actinopteri,Actinopteri,Salarias fasciatus,Jewelled blenny,epidermal growth factor receptor-like,1477.61,N,302,32.64,58.56,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,RVE68555.1,21529,Actinopteri,Actinopteri,Oryzias javanicus,Javanese ricefish,hypothetical protein OJAV_G00092820,1415.59,N,302,32.64,56.1,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_026886449.1,37845,Actinopteri,Actinopteri,Electrophorus electricus,Electric eel,epidermal growth factor receptor,1405.96,N,302,32.64,55.72,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_024902585.1,59370,Mammalia,Mammalia,Pteropus alecto,Black flying fox,epidermal growth factor receptor,1394.02,N,302,32.64,55.24,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_008587569.1,32194,Mammalia,Mammalia,Galeopterus variegatus,Sunda flying lemur,"PREDICTED: epidermal growth factor receptor-like, partial",1390.17,N,302,32.64,55.09,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFQ62822.1,28643,Aves,Aves,Pelecanus crispus,Dalmatian pelican,"Epidermal growth factor receptor, partial",1332.78,N,302,32.64,52.82,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_023603823.1,43977,Mammalia,Mammalia,Myotis lucifugus,Little brown bat,epidermal growth factor receptor,1316.98,N,302,32.64,52.19,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015277177.1,24674,Lepidosauria,Lepidosauria,Gekko japonicus,Geckos,"PREDICTED: epidermal growth factor receptor, partial",1284.24,N,302,32.64,50.89,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_020444348.1,40888,Actinopteri,Actinopteri,Monopterus albus,Swamp eel,melanoma receptor tyrosine-protein kinase-like,1276.92,N,302,32.64,50.6,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_034511000.1,73097,Mammalia,Mammalia,Ailuropoda melanoleuca,Giant panda,receptor tyrosine-protein kinase erbB-4 isoform X5,1273.07,N,302,32.64,50.45,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_029425780.1,49227,Mammalia,Mammalia,Nannospalax galili,Upper Galilee mountains blind mole rat,receptor tyrosine-protein kinase erbB-4 isoform X4,1271.53,N,302,32.64,50.39,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF1506134.1,14555,Aves,Aves,Megadyptes antipodes antipodes,Yellow-eyed penguin,"Receptor tyrosine-protein kinase erbB-4, partial",1271.53,N,302,32.64,50.39,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF1498631.1,15007,Aves,Aves,Eudyptula novaehollandiae,Australian little penguin,"Receptor tyrosine-protein kinase erbB-4, partial",1269.6,N,302,32.64,50.31,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF1580627.1,15466,Aves,Aves,Eudyptes moseleyi,Northern rockhopper penguin,"Receptor tyrosine-protein kinase erbB-4, partial",1269.6,N,302,32.64,50.31,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF1613496.1,14636,Aves,Aves,Eudyptes chrysolophus,Macaroni penguin,"Receptor tyrosine-protein kinase erbB-4, partial",1269.22,N,302,32.64,50.3,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF1407301.1,15371,Aves,Aves,Spheniscus humboldti,Humboldt's penguin,"Receptor tyrosine-protein kinase erbB-4, partial",1269.22,N,302,32.64,50.3,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF1545728.1,15152,Aves,Aves,Eudyptula albosignata,White-flippered penguin,"Receptor tyrosine-protein kinase erbB-4, partial",1269.22,N,302,32.64,50.3,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF1634674.1,12980,Aves,Aves,Eudyptes filholi,Southern rockhopper penguin,"Receptor tyrosine-protein kinase erbB-4, partial",1269.22,N,302,32.64,50.3,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF1440557.1,14261,Aves,Aves,Spheniscus demersus,Jackass penguin,"Receptor tyrosine-protein kinase erbB-4, partial",1269.22,N,302,32.64,50.3,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF1559318.1,15475,Aves,Aves,Eudyptula minor,Little blue penguin,"Receptor tyrosine-protein kinase erbB-4, partial",1269.22,N,302,32.64,50.3,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF1532430.1,12813,Aves,Aves,Eudyptes sclateri,Erect-crested penguin,"Receptor tyrosine-protein kinase erbB-4, partial",1269.22,N,302,32.64,50.3,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF1414231.1,15574,Aves,Aves,Spheniscus magellanicus,Magellanic penguin,"Receptor tyrosine-protein kinase erbB-4, partial",1268.83,N,302,32.64,50.28,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF1492082.1,14259,Aves,Aves,Pygoscelis antarcticus,Chinstrap penguin,"Receptor tyrosine-protein kinase erbB-4, partial",1268.45,N,302,32.64,50.27,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF1666614.1,13983,Aves,Aves,Aptenodytes patagonicus,King penguin,"Receptor tyrosine-protein kinase erbB-4, partial",1268.45,N,302,32.64,50.27,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF1634083.1,17574,Aves,Aves,Eudyptes pachyrhynchus,Fiordland penguin,"Receptor tyrosine-protein kinase erbB-4, partial",1266.91,N,302,32.64,50.21,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_028621456.1,38191,Mammalia,Mammalia,Grammomys surdaster,African thicket rats,receptor tyrosine-protein kinase erbB-4 isoform X2,1261.51,N,302,32.64,49.99,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_030343121.1,43730,Aves,Aves,Strigops habroptila,Kakapo,receptor tyrosine-protein kinase erbB-4,1253.43,N,302,32.64,49.67,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032814453.1,40468,Hyperoartia,Hyperoartia,Petromyzon marinus,Sea lamprey,receptor tyrosine-protein kinase erbB-4-like isoform X2,1243.8,N,302,32.64,49.29,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_014342725.1,34488,Coelacanthimorpha,Coelacanthimorpha,Latimeria chalumnae,Coelacanth,PREDICTED: receptor tyrosine-protein kinase erbB-2,1203.35,N,302,32.64,47.69,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_004577301.1,26023,Mammalia,Mammalia,Ochotona princeps,American pika,PREDICTED: receptor tyrosine-protein kinase erbB-4,1202.58,N,302,32.64,47.66,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_020725422.1,48218,Mammalia,Mammalia,Odocoileus virginianus texanus,White-tailed deer,receptor tyrosine-protein kinase erbB-4,1200.65,N,302,32.64,47.58,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AFD33643.1,188,Mammalia,Mammalia,Ursus americanus,American black bear,v-erb-b2 erythroblastic leukemia viral oncogene-like protein 2,1192.56,N,302,32.64,47.26,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AJT55541.1,1008,Mammalia,Mammalia,Sus scrofa domesticus,Domestic pig,v-erb-b2 avian erythroblastic leukemia viral oncogene-like protein 2,1176.77,N,302,32.64,46.63,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFP51417.1,11453,Aves,Aves,Cathartes aura,Turkey vulture,"hypothetical protein N323_02911, partial",1175.23,N,302,32.64,46.57,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,GCF54884.1,26796,Lepidosauria,Lepidosauria,Paroedura picta,Geckos,hypothetical protein parPi_0017063,1169.07,N,302,32.64,46.33,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017504077.1,41999,Mammalia,Mammalia,Manis javanica,Malayan pangolin,PREDICTED: receptor tyrosine-protein kinase erbB-2,1167.14,N,302,32.64,46.25,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_010770960.1,32357,Actinopteri,Actinopteri,Notothenia coriiceps,Black rockcod,PREDICTED: receptor tyrosine-protein kinase erbB-2 isoform X2,1113.21,N,302,32.64,44.11,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_030880152.1,40460,Mammalia,Mammalia,Leptonychotes weddellii,Weddell seal,epidermal growth factor receptor isoform X1,1100.89,N,302,32.64,43.63,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,ROL40986.1,23904,Actinopteri,Actinopteri,Anabarilius grahami,Carps and others,Receptor tyrosine-protein kinase erbB-2,1099.35,N,302,32.64,43.57,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_010009831.1,27852,Aves,Aves,Nestor notabilis,Kea,"PREDICTED: epidermal growth factor receptor-like, partial",1014.6,N,302,32.64,40.21,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,TTC44330.1,17264,Actinopteri,Actinopteri,Bagarius yarrelli,Goonch,Niemann-Pick C1 protein,997.65,N,302,32.64,39.54,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF1650684.1,12893,Aves,Aves,Eudyptes chrysocome,Rockhopper penguin,"Receptor tyrosine-protein kinase erbB-4, partial",967.61,N,302,32.64,38.34,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFP87418.1,28124,Aves,Aves,Acanthisitta chloris,Rifleman,"hypothetical protein N310_13526, partial",922.92,N,302,32.64,36.57,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_010195618.1,26938,Aves,Aves,Colius striatus,Speckled mousebird,"PREDICTED: LOW QUALITY PROTEIN: receptor tyrosine-protein kinase erbB-3-like, partial",922.54,N,302,32.64,36.56,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,TNN65645.1,68294,Actinopteri,Actinopteri,Liparis tanakae,Tanaka's snailfish,Receptor tyrosine-protein kinase erbB-3,893.26,N,302,32.64,35.4,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,EEC14327.1,54103,Arachnida,Arachnida,Ixodes scapularis,Black-legged tick,"epidermal growth factor receptor, putative, partial",870.92,N,302,32.64,34.51,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_022190386.1,26528,Insecta,Insecta,Nilaparvata lugens,Brown planthopper,"epidermal growth factor receptor, partial",838.18,N,302,32.64,33.22,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,CAB1315031.1,41735,Actinopteri,Actinopteri,Coregonus sp. 'balchen',Whitefishes,unnamed protein product,800.82,N,302,32.64,31.74,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_013383051.1,41479,Lingulata,Lingulata,Lingula anatina,Lampshells,epidermal growth factor receptor isoform X4,787.33,N,302,32.64,31.2,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_010119918.1,26966,Aves,Aves,Chlamydotis macqueenii,Macqueen's bustard,PREDICTED: epidermal growth factor receptor-like,775.39,N,302,32.64,30.73,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF1567639.1,15573,Aves,Aves,Eudyptes robustus,Snares penguin,"Receptor tyrosine-protein kinase erbB-4, partial",774.24,N,302,32.64,30.68,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_029164859.1,24986,Insecta,Insecta,Nylanderia fulva,"Wasps, ants, and bees",epidermal growth factor receptor isoform X2,749.58,N,302,32.64,29.7,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,TGZ56271.1,13122,Insecta,Insecta,Temnothorax longispinosus,"Wasps, ants, and bees",Receptor protein-tyrosine kinase,729.94,N,302,32.64,28.93,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,CAB3243195.1,9702,Ascidiacea,Ascidiacea,Phallusia mammillata,Warty sea squirt,receptor tyrosine-protein kinase erbB-4,726.47,N,302,32.64,28.79,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,OXB59044.1,17163,Aves,Aves,Callipepla squamata,Scaled quail,hypothetical protein ASZ78_006955,712.99,N,302,32.64,28.25,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,OBS63710.1,24505,Mammalia,Mammalia,Neotoma lepida,Desert woodrat,"hypothetical protein A6R68_07751, partial",697.2,N,302,32.64,27.63,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,NIG58534.1,4395,Mammalia,Mammalia,Pontoporia blainvillei,Franciscana,epidermal growth factor receptor isoform X2,694.89,N,302,32.64,27.54,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,ETE60407.1,18686,Lepidosauria,Lepidosauria,Ophiophagus hannah,King cobra,Epidermal growth factor receptor,687.95,N,302,32.64,27.26,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,TRY88828.1,35332,Actinopteri,Actinopteri,Danionella translucida,Carps and others,"hypothetical protein DNTS_033076, partial",674.09,N,302,32.64,26.71,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_018671335.1,23440,Ascidiacea,Ascidiacea,Ciona intestinalis,Vase tunicate,epidermal growth factor receptor isoform X7,667.54,N,302,32.64,26.45,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,PIO31668.1,30189,Amphibia,Amphibia,Lithobates catesbeianus,American bullfrog,hypothetical protein AB205_0128710,664.46,N,302,32.64,26.33,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFV53083.1,11512,Aves,Aves,Tyto alba,Barn owl,"Receptor tyrosine-protein kinase erbB-4, partial",653.67,N,302,32.64,25.9,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_009012819.1,46878,Clitellata,Clitellata,Helobdella robusta,Leeches,hypothetical protein HELRODRAFT_109845,631.33,N,302,32.64,25.02,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_033104828.1,32797,Crinoidea,Crinoidea,Anneissia japonica,Crinoids,receptor tyrosine-protein kinase erbB-4-like,619.39,N,302,32.64,24.55,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF2983977.1,15084,Aves,Aves,Melospiza melodia maxima,Song sparrow,hypothetical protein EK904_005336,595.89,N,302,32.64,23.61,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,PWA32047.1,19596,Actinopteri,Actinopteri,Gambusia affinis,Western mosquitofish,hypothetical protein CCH79_00020389,548.89,N,302,32.64,21.75,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAB0406427.1,20274,Mammalia,Mammalia,Balaenoptera physalus,Fin whale,hypothetical protein E2I00_005804,544.27,N,302,32.64,21.57,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_006813566.1,22970,Enteropneusta,Enteropneusta,Saccoglossus kowalevskii,Acorn worms,PREDICTED: receptor tyrosine-protein kinase erbB-4-like,511.92,N,302,32.64,20.29,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,OWK02880.1,19267,Mammalia,Mammalia,Cervus elaphus hippelaphus,Red deer,hypothetical protein Celaphus_00010187,508.45,N,302,32.64,20.15,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF3816871.1,19789,Mammalia,Mammalia,Mirounga leonina,Southern elephant seal,hypothetical protein GH733_014219,503.44,N,302,32.64,19.95,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AIA98700.1,96,Bivalvia,Bivalvia,Pinctada imbricata,Akoya pearl oyster,epithelial growth factor receptor,498.82,N,302,32.64,19.77,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_021342564.1,64377,Bivalvia,Bivalvia,Mizuhopecten yessoensis,Yesso scallop,epidermal growth factor receptor-like isoform X2,496.51,N,302,32.64,19.68,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_014616413.1,19304,Insecta,Insecta,Polistes canadensis,Paper wasps,PREDICTED: epidermal growth factor receptor isoform X2,495.35,N,302,32.64,19.63,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_033729061.1,40008,Bivalvia,Bivalvia,Pecten maximus,Scallops,epidermal growth factor receptor-like isoform X2,494.97,N,302,32.64,19.61,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_003708039.1,26086,Insecta,Insecta,Megachile rotundata,Alfalfa leafcutting bee,PREDICTED: epidermal growth factor receptor isoform X1,494.58,N,302,32.64,19.6,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_033329684.1,22393,Insecta,Insecta,Megalopta genalis,Sweat bees,epidermal growth factor receptor isoform X2,493.81,N,302,32.64,19.57,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015185381.1,20990,Insecta,Insecta,Polistes dominula,European paper wasp,PREDICTED: epidermal growth factor receptor isoform X2,493.81,N,302,32.64,19.57,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017793565.1,25093,Insecta,Insecta,Habropoda laboriosa,Digger bees,PREDICTED: epidermal growth factor receptor,492.27,N,302,32.64,19.51,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_027237826.1,59967,Malacostraca,Malacostraca,Penaeus vannamei,Pacific white shrimp,LOW QUALITY PROTEIN: epidermal growth factor receptor-like,492.27,N,302,32.64,19.51,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032689785.1,29187,Insecta,Insecta,Odontomachus brunneus,"Wasps, ants, and bees",epidermal growth factor receptor,490.73,N,302,32.64,19.45,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_019617953.1,35240,Leptocardii,Leptocardii,Branchiostoma belcheri,Belcher's lancelet,PREDICTED: epidermal growth factor receptor-like isoform X8,490.35,N,302,32.64,19.43,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_029679924.1,22522,Insecta,Insecta,Formica exsecta,"Wasps, ants, and bees",epidermal growth factor receptor,489.57,N,302,32.64,19.4,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_006619989.1,20390,Insecta,Insecta,Apis dorsata,Giant honeybee,epidermal growth factor receptor isoform X3,488.42,N,302,32.64,19.36,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017892734.1,23322,Insecta,Insecta,Ceratina calcarata,Carpenter bees,epidermal growth factor receptor isoform X3,488.03,N,302,32.64,19.34,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,OAD53778.1,26943,Insecta,Insecta,Eufriesea mexicana,Orchid bees,Epidermal growth factor receptor,487.65,N,302,32.64,19.32,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_021924576.1,44814,Insecta,Insecta,Zootermopsis nevadensis,Damp wood termites,epidermal growth factor receptor isoform X3,487.65,N,302,32.64,19.32,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_001602830.2,33927,Insecta,Insecta,Nasonia vitripennis,Jewel wasp,epidermal growth factor receptor isoform X3,486.88,N,302,32.64,19.29,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_028520433.1,21840,Insecta,Insecta,Apis cerana,Asiatic honeybee,epidermal growth factor receptor isoform X3,486.49,N,302,32.64,19.28,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_014471187.1,22420,Insecta,Insecta,Dinoponera quadriceps,"Wasps, ants, and bees",PREDICTED: epidermal growth factor receptor isoform X1,486.49,N,302,32.64,19.28,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAA0190933.1,32118,Malacostraca,Malacostraca,Hyalella azteca,"Beach hoppers, scuds and well shrimps",hypothetical protein HAZT_HAZT005602,486.11,N,302,32.64,19.26,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KOX72629.1,14307,Insecta,Insecta,Melipona quadrifasciata,Stingless bees,Epidermal growth factor receptor,485.72,N,302,32.64,19.25,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,P0CY46.1,26782,Insecta,Insecta,Apis mellifera,Honey bee,RecName: Full=Epidermal growth factor receptor; Short=Egfr,485.34,N,302,32.64,19.23,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_003698328.1,18894,Insecta,Insecta,Apis florea,Little honeybee,LOW QUALITY PROTEIN: epidermal growth factor receptor,484.57,N,302,32.64,19.2,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_034255202.1,27539,Insecta,Insecta,Thrips palmi,True thrips,epidermal growth factor receptor isoform X1,484.18,N,302,32.64,19.19,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_011153368.1,41890,Insecta,Insecta,Harpegnathos saltator,Jerdon's jumping ant,epidermal growth factor receptor isoform X2,483.41,N,302,32.64,19.16,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_029038689.1,24844,Insecta,Insecta,Osmia bicornis bicornis,Red mason bee,epidermal growth factor receptor isoform X1,483.03,N,302,32.64,19.14,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KZS10602.1,55132,Branchiopoda,Branchiopoda,Daphnia magna,Common water fleas,putative Epidermal growth factor receptor,483.03,N,302,32.64,19.14,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_033192116.1,24326,Insecta,Insecta,Bombus vancouverensis nearcticus,Bumble bees,epidermal growth factor receptor isoform X2,482.64,N,302,32.64,19.13,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_012242434.1,24525,Insecta,Insecta,Bombus impatiens,Common eastern bumble bee,epidermal growth factor receptor isoform X2,482.64,N,302,32.64,19.13,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_033316965.1,24024,Insecta,Insecta,Bombus bifarius,Bumble bees,epidermal growth factor receptor isoform X2,482.64,N,302,32.64,19.13,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_033349454.1,24081,Insecta,Insecta,Bombus vosnesenskii,Bumble bees,epidermal growth factor receptor isoform X2,482.64,N,302,32.64,19.13,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_012269847.1,22153,Insecta,Insecta,Athalia rosae,Coleseed sawfly,epidermal growth factor receptor isoform X1,481.87,N,302,32.64,19.1,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015515202.1,16016,Insecta,Insecta,Neodiprion lecontei,Redheaded pine sawfly,PREDICTED: epidermal growth factor receptor,481.49,N,302,32.64,19.08,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,RWS00090.1,19015,Arachnida,Arachnida,Dinothrombium tinctorium,Velvet mites,"epidermal growth factor receptor-like protein, partial",481.49,N,302,32.64,19.08,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015606689.1,32236,Insecta,Insecta,Cephus cinctus,Wheat stem sawfly,epidermal growth factor receptor isoform X2,480.71,N,302,32.64,19.05,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_027197744.1,13039,Arachnida,Arachnida,Dermatophagoides pteronyssinus,European house dust mite,epidermal growth factor receptor-like isoform X2,480.33,N,302,32.64,19.03,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,CEG62429.1,30150,Insecta,Insecta,Blattella germanica,German cockroach,Epidermal growth factor receptor,480.33,N,302,32.64,19.03,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAE8736622.1,40708,Insecta,Insecta,Frankliniella occidentalis,Western flower thrips,Epidermal Growth Factor Receptor,479.94,N,302,32.64,19.02,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_002432344.1,21849,Insecta,Insecta,Pediculus humanus corporis,Human body louse,"Epidermal growth factor receptor precursor, putative",479.56,N,302,32.64,19,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_034195887.1,25969,Insecta,Insecta,Osmia lignaria,Orchard mason bee,epidermal growth factor receptor isoform X3,479.56,N,302,32.64,19,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_022103993.1,33296,Asteroidea,Asteroidea,Acanthaster planci,Crown-of-thorns starfish,epidermal growth factor receptor-like isoform X3,479.17,N,302,32.64,18.99,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KZC03931.1,23639,Insecta,Insecta,Dufourea novaeangliae,Bees,Epidermal growth factor receptor,478.79,N,302,32.64,18.97,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_033629326.1,24292,Asteroidea,Asteroidea,Asterias rubens,European starfish,epidermal growth factor receptor-like isoform X4,478.79,N,302,32.64,18.97,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF2365960.1,25903,Malacostraca,Malacostraca,Trinorchestia longiramus,"Beach hoppers, scuds and well shrimps",Growth factor receptor domain 4,478.4,N,302,32.64,18.96,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_030830509.1,40378,Echinoidea,Echinoidea,Strongylocentrotus purpuratus,Purple sea urchin,receptor tyrosine-protein kinase erbB-4 isoform X2,478.4,N,302,32.64,18.96,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_031346859.1,48187,Insecta,Insecta,Photinus pyralis,Common eastern firefly,epidermal growth factor receptor,478.02,N,302,32.64,18.94,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_023221875.1,35601,Arachnida,Arachnida,Centruroides sculpturatus,Bark scorpion,epidermal growth factor receptor-like isoform X2,477.25,N,302,32.64,18.91,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,PRD31769.1,22873,Arachnida,Arachnida,Trichonephila clavipes,Eight-eyed spiders,Egfr,476.48,N,302,32.64,18.88,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_022258333.1,39087,Merostomata,Merostomata,Limulus polyphemus,Atlantic horseshoe crab,epidermal growth factor receptor-like,476.09,N,302,32.64,18.87,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,QDF63598.1,42,Insecta,Insecta,Polyrhachis vicina,Edible Chinese black ant,epidermal growth factor receptor,476.09,N,302,32.64,18.87,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_012164707.1,22376,Insecta,Insecta,Bombus terrestris,Buff-tailed bumblebee,epidermal growth factor receptor isoform X2,475.32,N,302,32.64,18.84,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_022328411.1,60512,Bivalvia,Bivalvia,Crassostrea virginica,Eastern oyster,epidermal growth factor receptor-like isoform X4,475.32,N,302,32.64,18.84,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_011504481.1,12848,Insecta,Insecta,Ceratosolen solmsi marchali,Fig wasps,PREDICTED: LOW QUALITY PROTEIN: epidermal growth factor receptor,474.94,N,302,32.64,18.82,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,EGI67610.1,34244,Insecta,Insecta,Acromyrmex echinatior,Panamanian leafcutter ant,Epidermal growth factor receptor,474.94,N,302,32.64,18.82,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,CAB3382971.1,31082,Insecta,Insecta,Cloeon dipterum,Small minnow mayflies,Hypothetical predicted protein,473.4,N,302,32.64,18.76,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_011877333.1,26316,Insecta,Insecta,Vollenhovia emeryi,"Wasps, ants, and bees",PREDICTED: epidermal growth factor receptor isoform X1,472.24,N,302,32.64,18.71,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_031838619.1,25323,Insecta,Insecta,Nomia melanderi,Alkali bee,epidermal growth factor receptor isoform X2,472.24,N,302,32.64,18.71,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_011636902.1,19250,Insecta,Insecta,Pogonomyrmex barbatus,Red harvester ant,epidermal growth factor receptor isoform X2,471.86,N,302,32.64,18.7,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAE9425883.1,22833,Insecta,Insecta,Apolygus lucorum,Plant bugs,hypothetical protein GE061_08731,471.86,N,302,32.64,18.7,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,EFN60989.1,38868,Insecta,Insecta,Camponotus floridanus,Florida carpenter ant,"Epidermal growth factor receptor, partial",471.86,N,302,32.64,18.7,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017488840.1,34625,Insecta,Insecta,Rhagoletis zephyria,Snowberry fruit fly,"PREDICTED: epidermal growth factor receptor-like, partial",471.08,N,302,32.64,18.67,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_012281956.1,19714,Insecta,Insecta,Orussus abietinus,Parasitic wood wasps,epidermal growth factor receptor isoform X4,470.7,N,302,32.64,18.65,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_029640658.1,26163,Cephalopoda,Cephalopoda,Octopus vulgaris,Common octopus,epidermal growth factor receptor-like isoform X2,470.31,N,302,32.64,18.64,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KOF97432.1,62924,Cephalopoda,Cephalopoda,Octopus bimaculoides,Cephalopods,"hypothetical protein OCBIM_220295011mg, partial",470.31,N,302,32.64,18.64,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_018340981.1,35683,Insecta,Insecta,Trachymyrmex septentrionalis,"Wasps, ants, and bees",PREDICTED: epidermal growth factor receptor isoform X2,469.93,N,302,32.64,18.62,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AXK69510.1,239,Bivalvia,Bivalvia,Sinonovacula constricta,Chinese razor clam,epidermal growth factor receptor 1b,469.54,N,302,32.64,18.61,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_018323147.1,22237,Insecta,Insecta,Agrilus planipennis,Emerald ash borer,epidermal growth factor receptor isoform X2,469.54,N,302,32.64,18.61,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_012521746.1,23264,Insecta,Insecta,Monomorium pharaonis,Pharaoh ant,epidermal growth factor receptor,469.16,N,302,32.64,18.59,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_023339339.1,30614,Hexanauplia,Hexanauplia,Eurytemora affinis,Copepods,epidermal growth factor receptor-like isoform X2,469.16,N,302,32.64,18.59,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,NP_001292285.1,63743,Bivalvia,Bivalvia,Crassostrea gigas,Pacific oyster,epidermal growth factor receptor precursor,468.77,N,302,32.64,18.58,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_025990712.1,25598,Insecta,Insecta,Solenopsis invicta,Red fire ant,epidermal growth factor receptor isoform X1,468,N,302,32.64,18.55,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,EZA60762.1,53796,Insecta,Insecta,Ooceraea biroi,Clonal raider ant,Epidermal growth factor receptor,467.62,N,302,32.64,18.53,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_012229050.1,21807,Insecta,Insecta,Linepithema humile,Argentine ant,PREDICTED: LOW QUALITY PROTEIN: epidermal growth factor receptor,466.46,N,302,32.64,18.49,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_018049850.1,31131,Insecta,Insecta,Atta colombica,Leaf cutting ants,PREDICTED: epidermal growth factor receptor isoform X2,466.08,N,302,32.64,18.47,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_012063960.1,10762,Insecta,Insecta,Atta cephalotes,Leaf cutting ants,PREDICTED: epidermal growth factor receptor,465.69,N,302,32.64,18.45,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_033224420.1,25334,Insecta,Insecta,Belonocnema treatae,Oak gall wasps,epidermal growth factor receptor-like isoform X2,465.69,N,302,32.64,18.45,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_020278883.1,23521,Insecta,Insecta,Pseudomyrmex gracilis,"Wasps, ants, and bees",epidermal growth factor receptor isoform X2,465.69,N,302,32.64,18.45,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KMQ95520.1,18322,Insecta,Insecta,Lasius niger,"Wasps, ants, and bees",epidermal growth factor receptor-like protein,465.31,N,302,32.64,18.44,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,ALV82499.1,20099,Insecta,Insecta,Leptinotarsa decemlineata,Colorado potato beetle,Egfr,465.31,N,302,32.64,18.44,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_014300449.1,18603,Insecta,Insecta,Microplitis demolitor,"Wasps, ants, and bees",PREDICTED: epidermal growth factor receptor isoform X2,464.54,N,302,32.64,18.41,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015781013.1,16232,Arachnida,Arachnida,Tetranychus urticae,Two-spotted spider mite,epidermal growth factor receptor,464.15,N,302,32.64,18.39,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_014252272.1,24331,Insecta,Insecta,Cimex lectularius,Bed bug,epidermal growth factor receptor isoform X3,463.77,N,302,32.64,18.38,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,PIK53840.1,30778,Holothuroidea,Holothuroidea,Apostichopus japonicus,Japanese sea cucumber,putative receptor tyrosine-protein kinase erbB-4 isoform X5,463.77,N,302,32.64,18.38,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_026462284.1,22186,Insecta,Insecta,Ctenocephalides felis,Cat flea,epidermal growth factor receptor-like,463.77,N,302,32.64,18.38,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_026745943.1,24061,Insecta,Insecta,Trichoplusia ni,Cabbage looper,epidermal growth factor receptor isoform X3,463.77,N,302,32.64,18.38,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_021943728.1,54770,Collembola,Collembola,Folsomia candida,Smooth springtails,epidermal growth factor receptor-like,463.38,N,302,32.64,18.36,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_018566463.1,20920,Insecta,Insecta,Anoplophora glabripennis,Asian longhorned beetle,epidermal growth factor receptor isoform X1,462.61,N,302,32.64,18.33,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_014284376.1,26429,Insecta,Insecta,Halyomorpha halys,Brown marmorated stink bug,epidermal growth factor receptor,462.23,N,302,32.64,18.32,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_026317728.1,20440,Insecta,Insecta,Hyposmocoma kahamanoa,Cosmet moths,epidermal growth factor receptor isoform X2,461.84,N,302,32.64,18.3,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_022122356.1,19658,Insecta,Insecta,Pieris rapae,Cabbage white,epidermal growth factor receptor isoform X2,461.84,N,302,32.64,18.3,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_024881831.1,27309,Insecta,Insecta,Temnothorax curvispinosus,"Wasps, ants, and bees",epidermal growth factor receptor isoform X1,461.84,N,302,32.64,18.3,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_026762515.1,20703,Insecta,Insecta,Galleria mellonella,Greater wax moth,epidermal growth factor receptor isoform X2,461.45,N,302,32.64,18.29,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015906602.1,27786,Arachnida,Arachnida,Parasteatoda tepidariorum,Common house spider,epidermal growth factor receptor,461.45,N,302,32.64,18.29,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_021189697.1,40199,Insecta,Insecta,Helicoverpa armigera,Cotton bollworm,epidermal growth factor receptor isoform X3,460.3,N,302,32.64,18.24,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_011298700.1,18958,Insecta,Insecta,Fopius arisanus,"Wasps, ants, and bees",PREDICTED: epidermal growth factor receptor isoform X1,460.3,N,302,32.64,18.24,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_022833121.1,25340,Insecta,Insecta,Spodoptera litura,Owlet moths,epidermal growth factor receptor isoform X2,459.91,N,302,32.64,18.23,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFM71323.1,27105,Arachnida,Arachnida,Stegodyphus mimosarum,Eight-eyed spiders,"Epidermal growth factor receptor, partial",459.91,N,302,32.64,18.23,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KYN07395.1,31479,Insecta,Insecta,Cyphomyrmex costatus,"Wasps, ants, and bees",Epidermal growth factor receptor,459.53,N,302,32.64,18.21,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_028033739.1,19920,Insecta,Insecta,Bombyx mandarina,Wild silkworm,epidermal growth factor receptor isoform X1,458.76,N,302,32.64,18.18,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015119611.1,19520,Insecta,Insecta,Diachasma alloeum,"Wasps, ants, and bees",epidermal growth factor receptor isoform X2,458.37,N,302,32.64,18.16,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_022665324.1,30441,Arachnida,Arachnida,Varroa destructor,Honeybee mite,epidermal growth factor receptor-like,457.99,N,302,32.64,18.15,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,BAG65666.1,339,Insecta,Insecta,Gryllus bimaculatus,Two-spotted cricket,"epidermal growth factor receptor, partial",457.99,N,302,32.64,18.15,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_022704479.1,26233,Arachnida,Arachnida,Varroa jacobsoni,Mites and ticks,epidermal growth factor receptor-like,457.99,N,302,32.64,18.15,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_018493975.2,11978,Arachnida,Arachnida,Galendromus occidentalis,Western predatory mite,epidermal growth factor receptor,457.6,N,302,32.64,18.13,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_030040333.1,23019,Insecta,Insecta,Manduca sexta,Tobacco hornworm,epidermal growth factor receptor isoform X2,457.22,N,302,32.64,18.12,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF2896180.1,27570,Insecta,Insecta,Ignelater luminosus,Click beetles,hypothetical protein ILUMI_09997,457.22,N,302,32.64,18.12,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_011692104.1,24351,Insecta,Insecta,Wasmannia auropunctata,Little fire ant,PREDICTED: epidermal growth factor receptor isoform X1,456.83,N,302,32.64,18.1,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_018309418.1,33373,Insecta,Insecta,Trachymyrmex zeteki,"Wasps, ants, and bees",PREDICTED: epidermal growth factor receptor isoform X3,456.45,N,302,32.64,18.09,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_012936847.1,28801,Gastropoda,Gastropoda,Aplysia californica,California sea hare,PREDICTED: epidermal growth factor receptor-like isoform X1,456.45,N,302,32.64,18.09,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,CAB3226179.1,38602,Insecta,Insecta,Arctia plantaginis,Tiger moths,unnamed protein product,456.06,N,302,32.64,18.07,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KYN21692.1,40046,Insecta,Insecta,Trachymyrmex cornetzi,"Wasps, ants, and bees",Epidermal growth factor receptor,456.06,N,302,32.64,18.07,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_004929799.2,28455,Insecta,Insecta,Bombyx mori,Domestic silkworm,LOW QUALITY PROTEIN: epidermal growth factor receptor,456.06,N,302,32.64,18.07,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,GBN87845.1,279008,Arachnida,Arachnida,Araneus ventricosus,Orb weavers,Epidermal growth factor receptor,456.06,N,302,32.64,18.07,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_018897944.1,29011,Insecta,Insecta,Bemisia tabaci,Sweet potato whitefly,PREDICTED: epidermal growth factor receptor isoform X2,455.68,N,302,32.64,18.06,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_025089197.1,62092,Gastropoda,Gastropoda,Pomacea canaliculata,Mesogastropoda,LOW QUALITY PROTEIN: epidermal growth factor receptor-like,455.68,N,302,32.64,18.06,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VEN45024.1,31374,Insecta,Insecta,Callosobruchus maculatus,Cowpea weevil,unnamed protein product,454.14,N,302,32.64,18,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,RZF49226.1,18432,Insecta,Insecta,Laodelphax striatellus,Small brown planthopper,hypothetical protein LSTR_LSTR010956,454.14,N,302,32.64,18,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,RVE47412.1,16608,Insecta,Insecta,Chilo suppressalis,Striped riceborer,hypothetical protein evm_007922,453.75,N,302,32.64,17.98,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_023160584.2,21595,Insecta,Insecta,Drosophila hydei,Fruit flies,epidermal growth factor receptor isoform X2,453.75,N,302,32.64,17.98,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_034478077.1,19612,Insecta,Insecta,Drosophila innubila,Fruit flies,epidermal growth factor receptor isoform X2,453.37,N,302,32.64,17.97,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_014215341.1,17495,Insecta,Insecta,Copidosoma floridanum,"Wasps, ants, and bees",epidermal growth factor receptor isoform X2,452.98,N,302,32.64,17.95,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_014221045.1,21179,Insecta,Insecta,Trichogramma pretiosum,Trichogrammid wasps,epidermal growth factor receptor isoform X3,452.98,N,302,32.64,17.95,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_019859603.1,24202,Demospongiae,Demospongiae,Amphimedon queenslandica,Reniera sp. JGI-2005,PREDICTED: epidermal growth factor receptor-like,452.6,N,302,32.64,17.94,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_022910850.1,21694,Insecta,Insecta,Onthophagus taurus,Dung beetles & tumblebugs,epidermal growth factor receptor,452.21,N,302,32.64,17.92,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017072854.1,24307,Insecta,Insecta,Drosophila eugracilis,Fruit flies,PREDICTED: epidermal growth factor receptor isoform X2,451.44,N,302,32.64,17.89,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_013179260.1,39488,Insecta,Insecta,Papilio xuthus,Asian swallowtail,PREDICTED: epidermal growth factor receptor isoform X3,451.44,N,302,32.64,17.89,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_016953154.1,22747,Insecta,Insecta,Drosophila biarmipes,Fruit flies,PREDICTED: epidermal growth factor receptor isoform X2,451.44,N,302,32.64,17.89,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_028151965.1,28182,Insecta,Insecta,Diabrotica virgifera virgifera,Western corn rootworm,"epidermal growth factor receptor, partial",451.06,N,302,32.64,17.87,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,RWS29410.1,14705,Arachnida,Arachnida,Leptotrombidium deliense,Scrub typhus mite,"epidermal growth factor receptor-like protein, partial",450.67,N,302,32.64,17.86,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_019866868.1,17651,Insecta,Insecta,Aethina tumida,Small hive beetle,PREDICTED: LOW QUALITY PROTEIN: epidermal growth factor receptor,450.28,N,302,32.64,17.84,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_033153384.1,24100,Insecta,Insecta,Drosophila mauritiana,Fruit flies,epidermal growth factor receptor isoform X2,449.13,N,302,32.64,17.8,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032572738.1,39995,Insecta,Insecta,Drosophila sechellia,Fruit flies,epidermal growth factor receptor isoform X2,449.13,N,302,32.64,17.8,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_314949.3,28139,Insecta,Insecta,Anopheles gambiae str. PEST,African malaria mosquito,"AGAP008819-PA, partial",449.13,N,302,32.64,17.8,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015051898.1,48506,Insecta,Insecta,Drosophila yakuba,Fruit flies,"uncharacterized protein Dyak_GE12201, isoform B",449.13,N,302,32.64,17.8,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_016929213.1,23394,Insecta,Insecta,Drosophila suzukii,Fruit flies,PREDICTED: epidermal growth factor receptor,448.74,N,302,32.64,17.78,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KPJ09202.1,33325,Insecta,Insecta,Papilio machaon,Common yellow swallowtail,Epidermal growth factor receptor,448.74,N,302,32.64,17.78,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017061113.1,23940,Insecta,Insecta,Drosophila ficusphila,Fruit flies,PREDICTED: epidermal growth factor receptor isoform X2,448.36,N,302,32.64,17.77,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_008191494.1,42295,Insecta,Insecta,Tribolium castaneum,Red flour beetle,PREDICTED: epidermal growth factor receptor isoform X2,447.59,N,302,32.64,17.74,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032591288.1,35106,Insecta,Insecta,Drosophila grimshawi,Fruit flies,epidermal growth factor receptor,447.59,N,302,32.64,17.74,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KRT78532.1,8838,Insecta,Insecta,Oryctes borbonicus,"Rhinoceros beetles, hercules beetles & elephant beetles","protein kinase, partial",447.2,N,302,32.64,17.72,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_026842794.1,37444,Insecta,Insecta,Drosophila persimilis,Fruit flies,epidermal growth factor receptor isoform X2,447.2,N,302,32.64,17.72,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017148221.1,33734,Insecta,Insecta,Drosophila miranda,Fruit flies,epidermal growth factor receptor isoform X2,447.2,N,302,32.64,17.72,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015040530.2,29521,Insecta,Insecta,Drosophila pseudoobscura,Fruit flies,epidermal growth factor receptor isoform X2,447.2,N,302,32.64,17.72,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_013081019.1,37571,Gastropoda,Gastropoda,Biomphalaria glabrata,Bloodfluke planorb,PREDICTED: epidermal growth factor receptor-like isoform X2,446.82,N,302,32.64,17.71,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_001975069.1,42797,Insecta,Insecta,Drosophila erecta,Fruit flies,epidermal growth factor receptor,446.82,N,302,32.64,17.71,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_013139991.1,17824,Insecta,Insecta,Papilio polytes,Common Mormon,PREDICTED: epidermal growth factor receptor,446.43,N,302,32.64,17.69,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015029095.1,44776,Insecta,Insecta,Drosophila virilis,Fruit flies,epidermal growth factor receptor isoform X2,446.05,N,302,32.64,17.68,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KOB73812.1,17113,Insecta,Insecta,Operophtera brumata,Winter moth,putative epidermal growth factor receptor,445.66,N,302,32.64,17.66,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,ODM93593.1,20400,Collembola,Collembola,Orchesella cincta,Slender springtails,Epidermal growth factor receptor,445.66,N,302,32.64,17.66,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_022226428.1,26945,Insecta,Insecta,Drosophila obscura,Fruit flies,epidermal growth factor receptor isoform X2,445.66,N,302,32.64,17.66,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_030557964.1,20257,Insecta,Insecta,Drosophila novamexicana,Fruit flies,epidermal growth factor receptor isoform X2,445.66,N,302,32.64,17.66,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,ENN78324.1,49511,Insecta,Insecta,Dendroctonus ponderosae,Mountain pine beetle,"hypothetical protein YQE_05127, partial",445.66,N,302,32.64,17.66,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,CBY23777.1,31306,Appendicularia,Appendicularia,Oikopleura dioica,Appendicularians,unnamed protein product,445.28,N,302,32.64,17.65,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017837292.1,31259,Insecta,Insecta,Drosophila busckii,Fruit flies,epidermal growth factor receptor isoform X2,445.28,N,302,32.64,17.65,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_013189331.1,18524,Insecta,Insecta,Amyelois transitella,Snout moths,PREDICTED: epidermal growth factor receptor isoform X2,444.89,N,302,32.64,17.63,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,PCG72920.1,19089,Insecta,Insecta,Heliothis virescens,Tobacco budworm,hypothetical protein B5V51_333,444.12,N,302,32.64,17.6,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_028173757.1,24619,Insecta,Insecta,Ostrinia furnacalis,Asian corn borer,epidermal growth factor receptor,444.12,N,302,32.64,17.6,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VVC94258.1,20058,Insecta,Insecta,Leptidea sinapis,"White, yellow and sulphur butterflies",unnamed protein product,444.12,N,302,32.64,17.6,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_004537503.1,23782,Insecta,Insecta,Ceratitis capitata,Mediterranean fruit fly,epidermal growth factor receptor,443.74,N,302,32.64,17.58,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017960010.1,35897,Insecta,Insecta,Drosophila navojoa,Fruit flies,epidermal growth factor receptor isoform X2,443.35,N,302,32.64,17.57,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,OQR78284.1,14365,Arachnida,Arachnida,Tropilaelaps mercedesae,Mites and ticks,epidermal growth factor receptor-like,443.35,N,302,32.64,17.57,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_018786814.1,22766,Insecta,Insecta,Bactrocera latifrons,Fruit flies,PREDICTED: epidermal growth factor receptor,442.96,N,302,32.64,17.55,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017007834.1,24128,Insecta,Insecta,Drosophila takahashii,Fruit flies,PREDICTED: epidermal growth factor receptor isoform X2,442.58,N,302,32.64,17.54,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_030753509.1,23713,Insecta,Insecta,Sitophilus oryzae,Rice weevil,epidermal growth factor receptor isoform X2,442.19,N,302,32.64,17.52,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_011196267.1,24719,Insecta,Insecta,Zeugodacus cucurbitae,Melon fly,epidermal growth factor receptor isoform X2,441.43,N,302,32.64,17.49,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017865541.1,20062,Insecta,Insecta,Drosophila arizonae,Fruit flies,PREDICTED: epidermal growth factor receptor isoform X2,441.43,N,302,32.64,17.49,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_011198656.1,23528,Insecta,Insecta,Bactrocera dorsalis,Oriental fruit fly,epidermal growth factor receptor isoform X1,441.43,N,302,32.64,17.49,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_034141896.1,40506,Insecta,Insecta,Drosophila guanche,Fruit flies,epidermal growth factor receptor isoform X2,441.43,N,302,32.64,17.49,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_030369011.1,19868,Insecta,Insecta,Scaptodrosophila lebanonensis,Pomace flies,epidermal growth factor receptor isoform X2,441.04,N,302,32.64,17.48,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,CAC35008.1,9603,Insecta,Insecta,Anopheles gambiae,African malaria mosquito,"putative epidermal growth factor receptor, partial",441.04,N,302,32.64,17.48,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015019225.1,42659,Insecta,Insecta,Drosophila mojavensis,Fruit flies,epidermal growth factor receptor isoform X2,441.04,N,302,32.64,17.48,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_023937801.1,21983,Insecta,Insecta,Bicyclus anynana,Squinting bush brown,epidermal growth factor receptor,440.65,N,302,32.64,17.46,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_008184754.1,31402,Insecta,Insecta,Acyrthosiphon pisum,Pea aphid,epidermal growth factor receptor isoform X3,440.27,N,302,32.64,17.45,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032526538.1,34980,Insecta,Insecta,Danaus plexippus plexippus,Monarch butterfly,epidermal growth factor receptor isoform X1,439.88,N,302,32.64,17.43,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017767953.1,19616,Insecta,Insecta,Nicrophorus vespilloides,Sexton beetles,PREDICTED: epidermal growth factor receptor isoform X2,439.88,N,302,32.64,17.43,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_014763444.1,45606,Insecta,Insecta,Drosophila ananassae,Fruit flies,epidermal growth factor receptor isoform X2,439.5,N,302,32.64,17.42,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_014102428.1,19286,Insecta,Insecta,Bactrocera oleae,Olive fruit fly,PREDICTED: epidermal growth factor receptor,439.11,N,302,32.64,17.4,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_013119135.1,22827,Insecta,Insecta,Stomoxys calcitrans,Stable fly,PREDICTED: epidermal growth factor receptor isoform X2,438.73,N,302,32.64,17.39,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017087202.1,23646,Insecta,Insecta,Drosophila bipectinata,Fruit flies,PREDICTED: epidermal growth factor receptor isoform X2,437.96,N,302,32.64,17.36,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017123249.1,24328,Insecta,Insecta,Drosophila elegans,Fruit flies,PREDICTED: epidermal growth factor receptor isoform X2,437.57,N,302,32.64,17.34,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_025425690.1,21321,Insecta,Insecta,Sipha flava,Yellow sugarcane aphid,epidermal growth factor receptor isoform X3,437.57,N,302,32.64,17.34,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_016988123.1,23499,Insecta,Insecta,Drosophila rhopaloa,Fruit flies,PREDICTED: epidermal growth factor receptor isoform X2,437.57,N,302,32.64,17.34,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,EDX08086.1,69950,Insecta,Insecta,Drosophila simulans,Fruit flies,GD11601,437.57,N,302,32.64,17.34,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,3LTF_A,112827,Insecta,Insecta,Drosophila melanogaster,Fruit fly,"Chain A, Crystal Structure Of The Drosophila Epidermal Growth Factor Receptor Ectodomain In Complex With Spitz",437.19,N,302,32.64,17.33,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VVC24281.1,22242,Insecta,Insecta,Cinara cedri,Aphids,Hypothetical protein CINCED_3A011814,436.03,N,302,32.64,17.28,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_026677160.1,25809,Insecta,Insecta,Diaphorina citri,Asian citrus psyllid,epidermal growth factor receptor,434.88,N,302,32.64,17.23,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_025200905.1,19134,Insecta,Insecta,Melanaphis sacchari,Aphids,epidermal growth factor receptor isoform X4,434.11,N,302,32.64,17.2,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_022165292.1,24372,Insecta,Insecta,Myzus persicae,Green peach aphid,epidermal growth factor receptor-like isoform X3,433.72,N,302,32.64,17.19,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_034110950.1,23268,Insecta,Insecta,Drosophila albomicans,Fruit flies,epidermal growth factor receptor isoform X2,432.95,N,302,32.64,17.16,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_026808676.1,19570,Insecta,Insecta,Rhopalosiphum maidis,Corn leaf aphid,epidermal growth factor receptor isoform X3,432.95,N,302,32.64,17.16,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF4527330.1,18567,Insecta,Insecta,Ephemera danica,Common burrower mayflies,hypothetical protein B566_EDAN001107,432.95,N,302,32.64,17.16,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_026500440.1,18776,Insecta,Insecta,Vanessa tameamea,"Tortoiseshells, admirals &c.",epidermal growth factor receptor isoform X2,432.56,N,302,32.64,17.14,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_014677232.1,20794,Priapulimorpha,Priapulimorpha,Priapulus caudatus,Priapulids,PREDICTED: epidermal growth factor receptor-like,432.18,N,302,32.64,17.13,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,ABQ10634.1,1129,Gastropoda,Gastropoda,Lymnaea stagnalis,Great pond snail,epidermal growth factor receptor,432.18,N,302,32.64,17.13,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,EDW72108.2,34285,Insecta,Insecta,Drosophila willistoni,Fruit flies,uncharacterized protein Dwil_GK10766,432.18,N,302,32.64,17.13,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_023305412.1,33825,Insecta,Insecta,Lucilia cuprina,Australian sheep blowfly,epidermal growth factor receptor isoform X2,431.02,N,302,32.64,17.08,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,ETN63066.1,10783,Insecta,Insecta,Anopheles darlingi,American malaria mosquito,epidermal growth factor receptor,430.25,N,302,32.64,17.05,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,OAF71775.1,8724,Rhopaluridae,Rhopaluridae,Intoshia linei,Metazoans,hypothetical protein A3Q56_00456,430.25,N,302,32.64,17.05,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015364846.1,17635,Insecta,Insecta,Diuraphis noxia,Russian wheat aphid,PREDICTED: epidermal growth factor receptor isoform X2,429.87,N,302,32.64,17.04,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,CAB0008622.1,24767,Insecta,Insecta,Nesidiocoris tenuis,Plant bugs,unnamed protein product,427.94,N,302,32.64,16.96,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_027847900.1,19374,Insecta,Insecta,Aphis gossypii,Cotton aphid,LOW QUALITY PROTEIN: epidermal growth factor receptor,427.56,N,302,32.64,16.94,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFB41066.1,19894,Insecta,Insecta,Anopheles sinensis,Mosquitos,AGAP008819-PA-like protein,427.17,N,302,32.64,16.93,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,EAT44302.1,49405,Insecta,Insecta,Aedes aegypti,Yellow fever mosquito,"AAEL004319-PA, partial",426.02,N,302,32.64,16.88,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_020815576.1,20997,Insecta,Insecta,Drosophila serrata,Fruit flies,epidermal growth factor receptor,424.48,N,302,32.64,16.82,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_005174763.1,22176,Insecta,Insecta,Musca domestica,House fly,PREDICTED: epidermal growth factor receptor,423.7,N,302,32.64,16.79,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_017022338.1,22493,Insecta,Insecta,Drosophila kikkawai,Fruit flies,PREDICTED: epidermal growth factor receptor isoform X2,423.7,N,302,32.64,16.79,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_011554159.1,23000,Insecta,Insecta,Plutella xylostella,Diamondback moth,PREDICTED: LOW QUALITY PROTEIN: epidermal growth factor receptor,422.94,N,302,32.64,16.76,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KXJ75973.1,59061,Insecta,Insecta,Aedes albopictus,Asian tiger mosquito,hypothetical protein RP20_CCG010631,419.47,N,302,32.64,16.62,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_031623661.1,24972,Insecta,Insecta,Contarinia nasturtii,Swede midge,epidermal growth factor receptor,418.31,N,302,32.64,16.58,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KRX47275.1,18644,Enoplea,Enoplea,Trichinella murrelli,Trichinella sp. T5,Epidermal growth factor receptor,416.39,N,302,32.64,16.5,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,TRY61849.1,16351,Hexanauplia,Hexanauplia,Tigriopus californicus,Tidepool copepod,hypothetical protein TCAL_03690,415.62,N,302,32.64,16.47,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KRZ62622.1,27811,Enoplea,Enoplea,Trichinella nativa,Roundworms,Epidermal growth factor receptor,415.23,N,302,32.64,16.46,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KRY19561.1,19506,Enoplea,Enoplea,Trichinella patagoniensis,Trichinella sp. SJK-2011,Epidermal growth factor receptor,415.23,N,302,32.64,16.46,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KRX81207.1,19492,Enoplea,Enoplea,Trichinella sp. T6,Roundworms,Epidermal growth factor receptor,414.85,N,302,32.64,16.44,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KRX59122.1,18540,Enoplea,Enoplea,Trichinella sp. T9,Roundworms,Epidermal growth factor receptor,414.46,N,302,32.64,16.42,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KRZ89702.1,18432,Enoplea,Enoplea,Trichinella sp. T8,Roundworms,Epidermal growth factor receptor,414.46,N,302,32.64,16.42,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KRY58164.1,20888,Enoplea,Enoplea,Trichinella britovi,Roundworms,Epidermal growth factor receptor,414.46,N,302,32.64,16.42,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,OTF83614.1,15267,Arachnida,Arachnida,Euroglyphus maynei,House-dust mites,"epidermal growth factor receptor-like protein, partial",409.45,N,302,32.64,16.23,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,CAB3404513.1,15165,Chromadorea,Chromadorea,Caenorhabditis bovis,Roundworms,unnamed protein product,404.83,N,302,32.64,16.04,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_009047765.1,47713,Gastropoda,Gastropoda,Lottia gigantea,Owl limpet,"hypothetical protein LOTGIDRAFT_139618, partial",404.44,N,302,32.64,16.03,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,GAU88257.1,23050,Eutardigrada,Eutardigrada,Ramazzottius varieornatus,Water bears,hypothetical protein RvY_00994-2,402.9,N,302,32.64,15.97,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,OQV21587.1,20953,Eutardigrada,Eutardigrada,Hypsibius dujardini,Water bears,Epidermal growth factor receptor,401.75,N,302,32.64,15.92,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KRZ09108.1,19285,Enoplea,Enoplea,Trichinella zimbabwensis,Roundworms,Epidermal growth factor receptor,398.28,N,302,32.64,15.78,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KRZ30094.1,81560,Enoplea,Enoplea,Trichinella pseudospiralis,Roundworms,Epidermal growth factor receptor,398.28,N,302,32.64,15.78,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KRY34051.1,35911,Enoplea,Enoplea,Trichinella spiralis,Roundworms,Epidermal growth factor receptor,397.9,N,302,32.64,15.77,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF0311758.1,28245,Hexanauplia,Hexanauplia,Amphibalanus amphitrite,Acorn barnacles,Epidermal growth factor receptor,393.27,N,302,32.64,15.58,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KHJ47415.1,38519,Enoplea,Enoplea,Trichuris suis,Pig whipworm,receptor L domain protein,391.35,N,302,32.64,15.51,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KRX21360.1,17020,Enoplea,Enoplea,Trichinella nelsoni,Roundworms,Epidermal growth factor receptor,389.81,N,302,32.64,15.45,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,RZC34186.1,15282,Insecta,Insecta,Asbolus verrucosus,Darkling ground beetles,"Furin-like, Recep L domain, and/or GF recep IV domain containing protein",375.94,N,302,32.64,14.9,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AFM78688.1,219,Gastropoda,Gastropoda,Haliotis diversicolor,Abalones,epidermal growth factor receptor,374.79,N,302,32.64,14.85,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,PAA65721.1,49034,Rhabditophora,Rhabditophora,Macrostomum lignano,Flatworms,hypothetical protein BOX15_Mlig012838g4,357.07,N,302,32.64,14.15,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAB7497303.1,14632,Malacostraca,Malacostraca,Armadillidium nasatum,Pillbugs,Epidermal growth factor receptor,356.3,N,302,32.64,14.12,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_002598544.1,29682,Leptocardii,Leptocardii,Branchiostoma floridae,Florida lancelet,hypothetical protein BRAFLDRAFT_118327,349.75,N,302,32.64,13.86,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VCW70628.1,19820,Mammalia,Mammalia,Gulo gulo,Wolverine,"unnamed protein product, partial",346.28,N,302,32.64,13.72,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_030519057.1,42574,Magnoliopsida,Magnoliopsida,Rhodamnia argentea,Silver malletwood,"epidermal growth factor receptor-like, partial",343.97,N,302,32.64,13.63,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,FAA01100.1,33742,Branchiopoda,Branchiopoda,Daphnia pulex,Common water flea,TPA: epidermal growth factor receptor-like protein,338.19,N,302,32.64,13.4,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_001850827.1,38591,Insecta,Insecta,Culex quinquefasciatus,Southern house mosquito,melanoma receptor tyrosine-protein kinase,331.26,N,302,32.64,13.13,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,CDW54152.1,9847,Enoplea,Enoplea,Trichuris trichiura,Human whipworm,epidermal growth factor receptor,326.63,N,302,32.64,12.94,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AGA95411.1,1629,Rhabditophora,Rhabditophora,Schmidtea mediterranea,Freshwater planarian,"EGFR-5, partial",317,N,302,32.64,12.56,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,TMW40960.1,15898,Insecta,Insecta,Sarcophaga bullata,Grey fleshfly,"hypothetical protein DOY81_013960, partial",312.38,N,302,32.64,12.38,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,BAA81724.2,112,Demospongiae,Demospongiae,Ephydatia fluviatilis,Freshwater sponges,protein tyrosine kinase,306.99,N,302,32.64,12.17,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,BAR87950.1,537,Rhabditophora,Rhabditophora,Dugesia japonica,Flatworms,epidermal growth factor receptor,306.61,N,302,32.64,12.15,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AAB31828.2,17,Mammalia,Mammalia,Cavia sp.,Guinea pigs,"epidermal growth factor-urogastrone receptor, partial",292.74,N,302,32.64,11.6,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,RUS81958.1,23933,Gastropoda,Gastropoda,Elysia chlorotica,Eastern emerald elysia,"hypothetical protein EGW08_010273, partial",291.58,N,302,32.64,11.55,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_018647302.1,26445,Trematoda,Trematoda,Schistosoma mansoni,Blood flukes,"Receptor Tyrosine Kinase,putative",290.04,N,302,32.64,11.49,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,PAV79382.1,38237,Chromadorea,Chromadorea,Diploscapter pachys,Roundworms,hypothetical protein WR25_20620 isoform A,289.27,N,302,32.64,11.46,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,CDJ81869.1,19605,Chromadorea,Chromadorea,Haemonchus contortus,Barber pole worm,EGF receptor and Furin cysteine rich region and Tyrosine protein kinase domain containing protein,287.73,N,302,32.64,11.4,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,EYC21277.1,81567,Chromadorea,Chromadorea,Ancylostoma ceylanicum,Roundworms,hypothetical protein Y032_0020g93,287.35,N,302,32.64,11.39,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_012796111.1,20500,Trematoda,Trematoda,Schistosoma haematobium,Blood flukes,Epidermal growth factor receptor,286.57,N,302,32.64,11.36,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,PDM69729.1,25367,Chromadorea,Chromadorea,Pristionchus pacificus,Roundworms,let-23,286.57,N,302,32.64,11.36,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AAX27836.2,37150,Trematoda,Trematoda,Schistosoma japonicum,Blood flukes,"SJCHGC05493 protein, partial",286.19,N,302,32.64,11.34,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KIH62223.1,27569,Chromadorea,Chromadorea,Ancylostoma duodenale,Roundworms,"receptor L domain protein, partial",282.72,N,302,32.64,11.2,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,EGT58757.1,31595,Chromadorea,Chromadorea,Caenorhabditis brenneri,Caenorhabditis n. sp. CB5161,hypothetical protein CAEBREN_06464,282.34,N,302,32.64,11.19,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,RJW70883.1,28618,Trematoda,Trematoda,Clonorchis sinensis,Oriental liver fluke,"Tyrosine-protein kinase transforming protein erbB, partial",282.34,N,302,32.64,11.19,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VDO79731.1,27549,Chromadorea,Chromadorea,Heligmosomoides polygyrus,Roundworms,unnamed protein product,281.57,N,302,32.64,11.16,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,TGZ63319.1,20942,Trematoda,Trematoda,Opisthorchis felineus,Cat liver fluke,hypothetical protein CRM22_006985,281.18,N,302,32.64,11.14,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KHN76667.1,38973,Chromadorea,Chromadorea,Toxocara canis,Dog roundworm,Receptor tyrosine-protein kinase let-23,279.26,N,302,32.64,11.07,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,CDS29281.2,12407,Cestoda,Cestoda,Hymenolepis microstoma,Tapeworms,epidermal growth factor receptor,277.71,N,302,32.64,11.01,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,NP_001300607.1,70847,Chromadorea,Chromadorea,Caenorhabditis elegans,Roundworm,Receptor protein-tyrosine kinase,277.33,N,302,32.64,10.99,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VDM95483.1,11025,Chromadorea,Chromadorea,Thelazia callipaeda,Thelaziosis nematode,unnamed protein product,276.17,N,302,32.64,10.94,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KPM07575.1,10855,Arachnida,Arachnida,Sarcoptes scabiei,Mites and ticks,epidermal growth factor receptor-like protein 2,275.02,N,302,32.64,10.9,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VUZ47413.1,30634,Cestoda,Cestoda,Hymenolepis diminuta,Rat tapeworm,unnamed protein product,275.02,N,302,32.64,10.9,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,CDS21907.1,36472,Cestoda,Cestoda,Echinococcus granulosus,Tapeworms,epidermal growth factor receptor,273.48,N,302,32.64,10.84,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VDN83972.1,14700,Chromadorea,Chromadorea,Brugia pahangi,Roundworms,unnamed protein product,272.71,N,302,32.64,10.81,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,CAD56486.1,11445,Cestoda,Cestoda,Echinococcus multilocularis,Tapeworms,EGF receptor,272.32,N,302,32.64,10.79,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_020302574.1,30909,Chromadorea,Chromadorea,Loa loa,Eye worm,TK/EGFR protein kinase,271.55,N,302,32.64,10.76,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VDO21741.1,15878,Chromadorea,Chromadorea,Brugia timori,Roundworms,unnamed protein product,270.78,N,302,32.64,10.73,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,THD28126.1,12688,Trematoda,Trematoda,Fasciola hepatica,Liver fluke,Receptor protein-tyrosine kinase,270.4,N,302,32.64,10.72,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VZI16320.1,22428,Cestoda,Cestoda,Sparganum proliferum,Tapeworms,unnamed protein product,270.01,N,302,32.64,10.7,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VDN95949.1,13708,Cestoda,Cestoda,Rodentolepis nana,Tapeworms,unnamed protein product,270.01,N,302,32.64,10.7,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,CDQ05512.1,43408,Chromadorea,Chromadorea,Brugia malayi,Agent of lymphatic filariasis,"Bm8366, isoform d",270.01,N,302,32.64,10.7,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAF1763681.1,141982,Chromadorea,Chromadorea,Caenorhabditis remanei,Roundworms,hypothetical protein GCK72_003626,269.24,N,302,32.64,10.67,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VDK62308.1,13785,Chromadorea,Chromadorea,Onchocerca ochengi,Roundworms,unnamed protein product,268.08,N,302,32.64,10.62,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VDM10988.1,32680,Chromadorea,Chromadorea,Wuchereria bancrofti,Agent of lymphatic filariasis,unnamed protein product,266.93,N,302,32.64,10.58,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,OZC12659.1,24241,Chromadorea,Chromadorea,Onchocerca flexuosa,Roundworms,hypothetical protein X798_00290,265.77,N,302,32.64,10.53,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,RNA35666.1,52949,Monogononta,Monogononta,Brachionus plicatilis,Rotifers,"Epidermal growth factor receptor, partial",264.23,N,302,32.64,10.47,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,PIC43390.1,44576,Chromadorea,Chromadorea,Caenorhabditis nigoni,Caenorhabditis sp. 9 JU1325,hypothetical protein B9Z55_004151,263.08,N,302,32.64,10.43,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VBB28142.1,10213,Chromadorea,Chromadorea,Acanthocheilonema viteae,Roundworms,unnamed protein product,260.77,N,302,32.64,10.33,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_002629690.1,42510,Chromadorea,Chromadorea,Caenorhabditis briggsae,Caenorhabditis briggsae AF16,C. briggsae CBR-LET-23 protein,260,N,302,32.64,10.3,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VDD79757.1,10609,Cestoda,Cestoda,Mesocestoides corti,Tapeworms,unnamed protein product,258.84,N,302,32.64,10.26,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_024503911.1,24982,Chromadorea,Chromadorea,Strongyloides ratti,Roundworms,Receptor tyrosine-protein kinase erbB-3,254.99,N,302,32.64,10.1,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,ANA78441.1,214,Actinopteri,Actinopteri,Plectropomus leopardus,Leopard coralgrouper,"Xmrk, partial",254.99,N,302,32.64,10.1,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_009167582.1,43605,Trematoda,Trematoda,Opisthorchis viverrini,Southeast Asian liver fluke,hypothetical protein T265_04554,254.99,N,302,32.64,10.1,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KJH51164.1,14371,Chromadorea,Chromadorea,Dictyocaulus viviparus,Bovine lungworm,receptor L domain protein,250.75,N,302,32.64,9.94,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VDM58590.1,13409,Chromadorea,Chromadorea,Angiostrongylus costaricensis,American rat lungworm,unnamed protein product,250.37,N,302,32.64,9.92,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KFZ60341.1,11722,Aves,Aves,Podiceps cristatus,Great crested grebe,"hypothetical protein N338_04830, partial",250.37,N,302,32.64,9.92,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VDP65031.1,22260,Trematoda,Trematoda,Schistosoma mattheei,Blood flukes,unnamed protein product,249.98,N,302,32.64,9.91,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VDK73786.1,10063,Chromadorea,Chromadorea,Litomosoides sigmodontis,Roundworms,unnamed protein product,248.82,N,302,32.64,9.86,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VDK32738.1,10493,Cestoda,Cestoda,Taenia asiatica,Asian tapeworm,unnamed protein product,247.28,N,302,32.64,9.8,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAE9549269.1,10997,Chromadorea,Chromadorea,Halicephalobus sp. NKZ332,Roundworms,hypothetical protein FO519_007519,244.2,N,302,32.64,9.68,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,TPP62774.1,13277,Trematoda,Trematoda,Fasciola gigantica,Flukes,Receptor protein-tyrosine kinase,243.43,N,302,32.64,9.65,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,TKR93361.1,36673,Chromadorea,Chromadorea,Steinernema carpocapsae,Steinernema sp. LE-2017,hypothetical protein L596_007833,240.35,N,302,32.64,9.52,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAA3674984.1,12923,Trematoda,Trematoda,Paragonimus westermani,Flukes,epidermal growth factor receptor,237.27,N,302,32.64,9.4,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAA0194177.1,11875,Trematoda,Trematoda,Fasciolopsis buski,Flukes,Epidermal growth factor receptor,233.8,N,302,32.64,9.27,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,MPC22830.1,99902,Malacostraca,Malacostraca,Portunus trituberculatus,Swimming crab,Tyrosine-protein kinase HTK16,233.8,N,302,32.64,9.27,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,BAG55505.1,56,Choanoflagellata,Choanoflagellata,Monosiga ovata,Eucaryotes,"protein tyrosine kinase HTK16, partial",233.42,N,302,32.64,9.25,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AXF35709.1,382,Malacostraca,Malacostraca,Homarus americanus,American lobster,LK,232.65,N,302,32.64,9.22,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,CRK99917.1,22648,Insecta,Insecta,Clunio marinus,Nonbiting midges,"CLUMA_CG013220, isoform A",230.34,N,302,32.64,9.13,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_004344371.2,18911,Filasterea,Filasterea,Capsaspora owczarzaki ATCC 30864,Nuclearia sp. ATCC_30864,ephrin type-A receptor 4a,229.18,N,302,32.64,9.08,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VDL76725.1,22832,Chromadorea,Chromadorea,Nippostrongylus brasiliensis,Roundworms,unnamed protein product,228.41,N,302,32.64,9.05,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,NP_001296681.1,23139,Hydrozoa,Hydrozoa,Hydra vulgaris,Hydras,tyrosine-protein kinase HTK16,227.25,N,302,32.64,9.01,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_013298149.1,38484,Chromadorea,Chromadorea,Necator americanus,Roundworms,receptor L domain protein,226.87,N,302,32.64,8.99,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_015753827.1,34225,Anthozoa,Anthozoa,Acropora digitifera,Staghorn corals,PREDICTED: tyrosine-protein kinase HTK16-like,226.87,N,302,32.64,8.99,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_022797509.1,57612,Anthozoa,Anthozoa,Stylophora pistillata,Stony corals,tyrosine-protein kinase HTK16-like,224.94,N,302,32.64,8.91,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_029186614.1,35597,Anthozoa,Anthozoa,Acropora millepora,Staghorn corals,tyrosine-protein kinase HTK16-like,224.94,N,302,32.64,8.91,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_032240950.1,60011,Anthozoa,Anthozoa,Nematostella vectensis,Starlet sea anemone,tyrosine-protein kinase HTK16-like isoform X1,224.94,N,302,32.64,8.91,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_027046135.1,51030,Anthozoa,Anthozoa,Pocillopora damicornis,Cauliflower coral,tyrosine-protein kinase HTK16-like,224.94,N,302,32.64,8.91,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_020610652.1,32639,Anthozoa,Anthozoa,Orbicella faveolata,Stony corals,tyrosine-protein kinase HTK16-like,224.56,N,302,32.64,8.9,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VDK46521.1,21525,Chromadorea,Chromadorea,Anisakis simplex,Herring worm,unnamed protein product,224.56,N,302,32.64,8.9,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,POI29970.1,18020,Aves,Aves,Bambusicola thoracicus,Chinese bamboo-partridge,"hypothetical protein CIB84_006280, partial",223.79,N,302,32.64,8.87,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,KAE9419275.1,10796,Chromadorea,Chromadorea,Angiostrongylus cantonensis,Rat lungworm,"hypothetical protein Angca_009539, partial",221.86,N,302,32.64,8.79,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,GBP05665.1,96442,Insecta,Insecta,Eumeta japonica,Bagworm moths,Epidermal growth factor receptor,221.48,N,302,32.64,8.78,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_031568891.1,27085,Anthozoa,Anthozoa,Actinia tenebrosa,Australian red waratah sea anemone,tyrosine-protein kinase HTK16-like,221.09,N,302,32.64,8.76,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AAV97963.1,148,Hydrozoa,Hydrozoa,Hydractinia echinata,Hydractinia sp. OM-2002,"protein-tyrosine kinase, partial",220.32,N,302,32.64,8.73,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_004988148.1,23468,Choanoflagellata,Choanoflagellata,Salpingoeca rosetta,Salpingoeca sp. ATCC 50818,TK/SYK protein kinase,220.32,N,302,32.64,8.73,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_020902585.1,53890,Anthozoa,Anthozoa,Exaiptasia pallida,Sea anemones,tyrosine-protein kinase HTK16,219.16,N,302,32.64,8.69,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AAN38839.1,230,Echinoidea,Echinoidea,Lytechinus variegatus,Green sea urchin,focal adhesion kinase,218.39,N,302,32.64,8.65,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,PBC26986.1,10309,Insecta,Insecta,Apis cerana cerana,Asiatic honeybee,Activated CDC42 kinase,216.85,N,302,32.64,8.59,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_028401267.1,28760,Anthozoa,Anthozoa,Dendronephthya gigantea,Soft corals,tyrosine-protein kinase HTK16-like,214.54,N,302,32.64,8.5,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,RXG58550.1,19212,Malacostraca,Malacostraca,Armadillidium vulgare,Common pillbug,"Iron-sulfur cluster assembly enzyme ISCU, mitochondrial",214.16,N,302,32.64,8.49,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AJO68704.1,876,Hyperoartia,Hyperoartia,Lethenteron camtschaticum,Arctic lamprey,spleen tyrosine kinase SYK,213.39,N,302,32.64,8.46,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_023711984.1,59780,Insecta,Insecta,Cryptotermes secundus,Powder-post termites,tyrosine-protein kinase Shark isoform X3,212.62,N,302,32.64,8.43,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VDN09075.1,20032,Cestoda,Cestoda,Dibothriocephalus latus,Broad fish tapeworm,unnamed protein product,211.46,N,302,32.64,8.38,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VDD95050.1,12969,Chromadorea,Chromadorea,Enterobius vermicularis,Human pinworm,unnamed protein product,211.07,N,302,32.64,8.36,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,CAB0028196.1,14108,Insecta,Insecta,Trichogramma brassicae,Trichogrammid wasps,unnamed protein product,207.61,N,302,32.64,8.23,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,RTG84964.1,11666,Trematoda,Trematoda,Schistosoma bovis,Blood flukes,tyrosine-protein kinase shark,206.45,N,302,32.64,8.18,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VDP28680.1,25608,Trematoda,Trematoda,Schistosoma margrebowiei,Blood flukes,unnamed protein product,205.68,N,302,32.64,8.15,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,ELT94628.1,32034,Polychaeta,Polychaeta,Capitella teleta,Capitella sp. MKJ-2016,hypothetical protein CAPTEDRAFT_178598,205.3,N,302,32.64,8.14,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VDN50184.1,11204,Chromadorea,Chromadorea,Dracunculus medinensis,Guinea worm,unnamed protein product,205.3,N,302,32.64,8.14,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AAB30284.1,1523,Mammalia,Mammalia,Mus sp.,Mice,"neural kinase, Nuk=Eph/Elk/Eck family receptor-like tyrosine kinase ",204.53,N,302,32.64,8.11,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AZN18334.1,62,Actinopteri,Actinopteri,Channa argus x Channa maculata,Snakeheads,tyrosine-protein kinase,203.37,N,302,32.64,8.06,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,OXU17504.1,16087,Insecta,Insecta,Trichomalopsis sarcophagae,"Wasps, ants, and bees",hypothetical protein TSAR_014535,202.99,N,302,32.64,8.04,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AAD10845.1,71,Actinopteri,Actinopteri,Tetraodon fluviatilis,Green pufferfish,receptor protein tyrosine kinase,202.22,N,302,32.64,8.01,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AKO22330.1,17,Aves,Aves,Streptopelia risoria,Ringneck dove,"ephrin type-B receptor 2, partial",198.36,N,302,32.64,7.86,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,ALG38206.1,1758,Actinopteri,Actinopteri,Epinephelus coioides,Orange-spotted grouper,tyrosine-protein kinase Syk,198.36,N,302,32.64,7.86,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AAY34266.1,35,Insecta,Insecta,Drosophila prostipennis,Fruit flies,"focal adhesion kinase, partial",196.82,N,302,32.64,7.8,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,ABY40451.1,894,Insecta,Insecta,Drosophila santomea,Fruit flies,"focal adhesion kinase, partial",194.9,N,302,32.64,7.72,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,ABY40450.1,797,Insecta,Insecta,Drosophila teissieri,Fruit flies,"focal adhesion kinase, partial",194.13,N,302,32.64,7.69,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,VDP56937.1,22711,Trematoda,Trematoda,Schistosoma curassoni,Blood flukes,unnamed protein product,192.59,N,302,32.64,7.63,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,XP_002114106.1,23209,Trichoplacidae,Trichoplacidae,Trichoplax adhaerens,Placozoans,"hypothetical protein TRIADDRAFT_27547, partial",192.2,N,302,32.64,7.62,N,2021 06 15 15:06:16,Y,Explore in ECOTOX
+5,AHC98625.1,19,Insecta,Insecta,Limnoporus dissortis,Water striders,"epidermal growth factor receptor, partial",191.04,N,302,32.64,7.57,Y,2021 06 15 15:06:16,Y,Explore in ECOTOX

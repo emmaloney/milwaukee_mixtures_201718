@@ -1,0 +1,305 @@
+Data Version,NCBI Accession,Protein Count,Taxonomic Group,Filtered Taxonomic Group,Scientific Name,Common Name,Protein Name,BLASTp Bitscore,Ortholog Candidate,Ortholog Count,Cut-off,Percent Similarity,Susceptibility Prediction,Analysis Completed,Eukaryote,ECOTOX
+5,Q06432.1,1802968,Mammalia,Mammalia,Homo sapiens,Human,"RecName: Full=Voltage-dependent calcium channel gamma-1 subunit; AltName: Full=Dihydropyridine-sensitive L-type, skeletal muscle calcium channel subunit gamma",462.23,Y,289,45,100,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_001163880.1,171847,Mammalia,Mammalia,Pan troglodytes,Chimpanzee,voltage-dependent calcium channel gamma-1 subunit,461.84,Y,289,45,99.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_004041164.1,52117,Mammalia,Mammalia,Gorilla gorilla gorilla,Western lowland gorilla,voltage-dependent calcium channel gamma-1 subunit,460.3,Y,289,45,99.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_017711320.1,49687,Mammalia,Mammalia,Rhinopithecus bieti,Black snub-nosed monkey,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,457.6,Y,289,45,99,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_010378285.1,53902,Mammalia,Mammalia,Rhinopithecus roxellana,Golden snub-nosed monkey,voltage-dependent calcium channel gamma-1 subunit,457.6,Y,289,45,99,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_025218732.1,52581,Mammalia,Mammalia,Theropithecus gelada,Gelada,voltage-dependent calcium channel gamma-1 subunit,457.6,Y,289,45,99,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_011805165.1,38676,Mammalia,Mammalia,Colobus angolensis palliatus,Angolan colobus,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,457.6,Y,289,45,99,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_002827789.2,141140,Mammalia,Mammalia,Pongo abelii,Sumatran orangutan,voltage-dependent calcium channel gamma-1 subunit,457.6,Y,289,45,99,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_003913373.1,73457,Mammalia,Mammalia,Papio anubis,Olive baboon,voltage-dependent calcium channel gamma-1 subunit,457.6,Y,289,45,99,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_032033374.1,54502,Mammalia,Mammalia,Hylobates moloch,Silvery gibbon,voltage-dependent calcium channel gamma-1 subunit,457.22,Y,289,45,98.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_023067885.2,55377,Mammalia,Mammalia,Piliocolobus tephrosceles,Ugandan red Colobus,voltage-dependent calcium channel gamma-1 subunit,456.06,Y,289,45,98.67,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_011717858.1,68519,Mammalia,Mammalia,Macaca nemestrina,Pig-tailed macaque,voltage-dependent calcium channel gamma-1 subunit,455.68,Y,289,45,98.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_033037808.1,63302,Mammalia,Mammalia,Trachypithecus francoisi,Francois's langur,voltage-dependent calcium channel gamma-1 subunit,455.68,Y,289,45,98.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_001111491.4,175489,Mammalia,Mammalia,Macaca mulatta,Rhesus monkey,voltage-dependent calcium channel gamma-1 subunit,455.68,Y,289,45,98.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_008010226.1,62219,Mammalia,Mammalia,Chlorocebus sabaeus,Green monkey,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,455.68,Y,289,45,98.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,EHH58277.1,97446,Mammalia,Mammalia,Macaca fascicularis,Crab-eating macaque,"hypothetical protein EGM_08084, partial",453.75,Y,289,45,98.17,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_003812403.1,51215,Mammalia,Mammalia,Pan paniscus,Pygmy chimpanzee,voltage-dependent calcium channel gamma-1 subunit,451.06,Y,289,45,97.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_003931857.1,36294,Mammalia,Mammalia,Saimiri boliviensis boliviensis,Bolivian squirrel monkey,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,450.28,Y,289,45,97.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_012309284.1,48088,Mammalia,Mammalia,Aotus nancymaae,Ma's night monkey,voltage-dependent calcium channel gamma-1 subunit,450.28,Y,289,45,97.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_017352792.1,53173,Mammalia,Mammalia,Cebus capucinus imitator,White-faced sapajou,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,449.9,Y,289,45,97.33,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_032097827.1,62479,Mammalia,Mammalia,Sapajus apella,Tufted capuchin,voltage-dependent calcium channel gamma-1 subunit,447.97,Y,289,45,96.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_002748687.1,47726,Mammalia,Mammalia,Callithrix jacchus,White-tufted-ear marmoset,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,447.59,Y,289,45,96.83,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_003268709.1,51631,Mammalia,Mammalia,Nomascus leucogenys,Northern white-cheeked gibbon,voltage-dependent calcium channel gamma-1 subunit,446.82,Y,289,45,96.67,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_003786237.1,33085,Mammalia,Mammalia,Otolemur garnettii,Small-eared galago,voltage-dependent calcium channel gamma-1 subunit,418.31,Y,289,45,90.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_008050777.1,33251,Mammalia,Mammalia,Carlito syrichta,Philippine tarsier,voltage-dependent calcium channel gamma-1 subunit,414.85,Y,289,45,89.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,NP_001075862.1,48644,Mammalia,Mammalia,Oryctolagus cuniculus,Rabbit,voltage-dependent calcium channel gamma-1 subunit,411.38,Y,289,45,89,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_010615104.1,67687,Mammalia,Mammalia,Fukomys damarensis,Damara mole-rat,voltage-dependent calcium channel gamma-1 subunit,410.22,Y,289,45,88.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,EPY86445.1,74403,Mammalia,Mammalia,Camelus ferus,Wild Bactrian camel,voltage-dependent calcium channel gamma-1 subunit-like protein,409.07,Y,289,45,88.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,NP_001038070.1,81816,Mammalia,Mammalia,Sus scrofa,Pig,voltage-dependent calcium channel gamma-1 subunit,409.07,Y,289,45,88.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_005402207.1,45556,Mammalia,Mammalia,Chinchilla lanigera,Long-tailed chinchilla,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,406.37,Y,289,45,87.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_004870316.1,82643,Mammalia,Mammalia,Heterocephalus glaber,Naked mole-rat,voltage-dependent calcium channel gamma-1 subunit,405.6,Y,289,45,87.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_012602874.1,59986,Mammalia,Mammalia,Microcebus murinus,Gray mouse lemur,voltage-dependent calcium channel gamma-1 subunit,404.83,Y,289,45,87.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_012512352.1,28331,Mammalia,Mammalia,Propithecus coquereli,Coquerel's sifaka,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,404.06,Y,289,45,87.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_003465986.1,49128,Mammalia,Mammalia,Cavia porcellus,Domestic guinea pig,voltage-dependent calcium channel gamma-1 subunit,400.21,Y,289,45,86.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_004432732.1,33628,Mammalia,Mammalia,Ceratotherium simum simum,Southern white rhinoceros,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,397.9,Y,289,45,86.08,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_024429212.1,30697,Mammalia,Mammalia,Desmodus rotundus,Common vampire bat,voltage-dependent calcium channel gamma-1 subunit,390.96,Y,289,45,84.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_008536709.1,38537,Mammalia,Mammalia,Equus przewalskii,Przewalski's horse,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,390.19,Y,289,45,84.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_014703504.1,42730,Mammalia,Mammalia,Equus asinus,Ass,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,390.19,Y,289,45,84.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_001499897.1,67727,Mammalia,Mammalia,Equus caballus,Horse,voltage-dependent calcium channel gamma-1 subunit,390.19,Y,289,45,84.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_026262417.1,36482,Mammalia,Mammalia,Urocitellus parryii,Arctic ground squirrel,voltage-dependent calcium channel gamma-1 subunit,390.19,Y,289,45,84.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_005328287.1,38807,Mammalia,Mammalia,Ictidomys tridecemlineatus,Thirteen-lined ground squirrel,voltage-dependent calcium channel gamma-1 subunit,389.81,Y,289,45,84.33,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_032945109.1,48727,Mammalia,Mammalia,Rhinolophus ferrumequinum,Greater horseshoe bat,voltage-dependent calcium channel gamma-1 subunit,389.81,Y,289,45,84.33,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_019493161.1,46123,Mammalia,Mammalia,Hipposideros armiger,Great roundleaf bat,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,389.04,Y,289,45,84.17,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_006146826.1,59499,Mammalia,Mammalia,Tupaia chinensis,Chinese tree shrew,voltage-dependent calcium channel gamma-1 subunit,389.04,Y,289,45,84.17,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,VTJ65719.1,42055,Mammalia,Mammalia,Marmota monax,Woodchuck,Hypothetical predicted protein,388.65,Y,289,45,84.08,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_027802133.1,37707,Mammalia,Mammalia,Marmota flaviventris,Yellow-bellied marmot,voltage-dependent calcium channel gamma-1 subunit,388.65,Y,289,45,84.08,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_028377922.1,33129,Mammalia,Mammalia,Phyllostomus discolor,Pale spear-nosed bat,voltage-dependent calcium channel gamma-1 subunit,387.5,Y,289,45,83.83,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_004593026.1,26023,Mammalia,Mammalia,Ochotona princeps,American pika,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,384.03,Y,289,45,83.08,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_010946949.1,29233,Mammalia,Mammalia,Camelus bactrianus,Bactrian camel,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,381.72,Y,289,45,82.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_010982269.1,86205,Mammalia,Mammalia,Camelus dromedarius,Arabian camel,voltage-dependent calcium channel gamma-1 subunit,381.72,Y,289,45,82.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_022375835.1,36593,Mammalia,Mammalia,Enhydra lutris kenyoni,Sea otter,voltage-dependent calcium channel gamma-1 subunit,379.79,Y,289,45,82.17,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_025745671.1,46265,Mammalia,Mammalia,Callorhinus ursinus,Northern fur seal,voltage-dependent calcium channel gamma-1 subunit,379.41,Y,289,45,82.08,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_027480363.1,59271,Mammalia,Mammalia,Zalophus californianus,California sea lion,voltage-dependent calcium channel gamma-1 subunit,379.41,Y,289,45,82.08,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_032726689.1,48403,Mammalia,Mammalia,Lontra canadensis,Northern American river otter,voltage-dependent calcium channel gamma-1 subunit,379.02,Y,289,45,82,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_020033939.1,37572,Mammalia,Mammalia,Castor canadensis,American beaver,voltage-dependent calcium channel gamma-1 subunit,378.64,Y,289,45,81.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_003997125.1,57491,Mammalia,Mammalia,Felis catus,Domestic cat,voltage-dependent calcium channel gamma-1 subunit,378.64,Y,289,45,81.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_025292497.1,62990,Mammalia,Mammalia,Canis lupus dingo,Dingo,voltage-dependent calcium channel gamma-1 subunit,378.25,Y,289,45,81.83,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_004630093.1,42496,Mammalia,Mammalia,Octodon degus,Degu,voltage-dependent calcium channel gamma-1 subunit,378.25,Y,289,45,81.83,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_006912347.1,59370,Mammalia,Mammalia,Pteropus alecto,Black flying fox,voltage-dependent calcium channel gamma-1 subunit,377.87,Y,289,45,81.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_004749176.1,48578,Mammalia,Mammalia,Mustela putorius furo,Domestic ferret,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,377.48,Y,289,45,81.67,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_025855205.1,38429,Mammalia,Mammalia,Vulpes vulpes,Red fox,voltage-dependent calcium channel gamma-1 subunit,377.1,Y,289,45,81.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_029784445.1,43342,Mammalia,Mammalia,Suricata suricatta,Meerkat,voltage-dependent calcium channel gamma-1 subunit,376.71,Y,289,45,81.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_032177674.1,60642,Mammalia,Mammalia,Mustela erminea,Ermine,voltage-dependent calcium channel gamma-1 subunit,376.33,Y,289,45,81.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_005858748.1,60290,Mammalia,Mammalia,Myotis brandtii,Brandt's bat,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,376.33,Y,289,45,81.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_004415823.1,31381,Mammalia,Mammalia,Odobenus rosmarus divergens,Pacific walrus,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,375.94,Y,289,45,81.33,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_026903670.1,56435,Mammalia,Mammalia,Acinonyx jubatus,Cheetah,voltage-dependent calcium channel gamma-1 subunit,375.56,Y,289,45,81.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_004450103.1,38736,Mammalia,Mammalia,Dasypus novemcinctus,Nine-banded armadillo,voltage-dependent calcium channel gamma-1 subunit,374.79,Y,289,45,81.08,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_034362974.1,41654,Mammalia,Mammalia,Arvicanthis niloticus,African grass rat,voltage-dependent calcium channel gamma-1 subunit,374.79,Y,289,45,81.08,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_015999058.1,49042,Mammalia,Mammalia,Rousettus aegyptiacus,Egyptian rousette,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,374.4,Y,289,45,81,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_027943284.1,40113,Mammalia,Mammalia,Eumetopias jubatus,Steller sea lion,voltage-dependent calcium channel gamma-1 subunit,374.01,Y,289,45,80.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_853551.1,67615,Mammalia,Mammalia,Canis lupus familiaris,Dog,voltage-dependent calcium channel gamma-1 subunit,374.01,Y,289,45,80.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_019322006.1,58569,Mammalia,Mammalia,Panthera pardus,Leopard,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,374.01,Y,289,45,80.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_005350496.1,37992,Mammalia,Mammalia,Microtus ochrogaster,Prairie vole,voltage-dependent calcium channel gamma-1 subunit,373.63,Y,289,45,80.83,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_004655185.1,25743,Mammalia,Mammalia,Jaculus jaculus,Lesser Egyptian jerboa,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,373.24,Y,289,45,80.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_008841419.1,49227,Mammalia,Mammalia,Nannospalax galili,Upper Galilee mountains blind mole rat,voltage-dependent calcium channel gamma-1 subunit,373.24,Y,289,45,80.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_006092490.1,43977,Mammalia,Mammalia,Myotis lucifugus,Little brown bat,voltage-dependent calcium channel gamma-1 subunit,372.47,Y,289,45,80.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_005070048.1,38204,Mammalia,Mammalia,Mesocricetus auratus,Golden hamster,voltage-dependent calcium channel gamma-1 subunit,371.7,Y,289,45,80.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_021034107.1,47700,Mammalia,Mammalia,Mus caroli,Ryukyu mouse,voltage-dependent calcium channel gamma-1 subunit,371.32,Y,289,45,80.33,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_030152614.1,42103,Mammalia,Mammalia,Lynx canadensis,Canada lynx,voltage-dependent calcium channel gamma-1 subunit,371.32,Y,289,45,80.33,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_021496369.1,39112,Mammalia,Mammalia,Meriones unguiculatus,Mongolian gerbil,voltage-dependent calcium channel gamma-1 subunit isoform X1,370.93,Y,289,45,80.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_007185608.1,37624,Mammalia,Mammalia,Balaenoptera acutorostrata scammoni,Minke whale,voltage-dependent calcium channel gamma-1 subunit isoform X1,370.93,Y,289,45,80.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_016060608.1,29863,Mammalia,Mammalia,Miniopterus natalensis,Common bats,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,370.16,Y,289,45,80.08,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,NP_031608.1,312727,Mammalia,Mammalia,Mus musculus,House mouse,voltage-dependent calcium channel gamma-1 subunit,369.78,Y,289,45,80,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_006970539.1,45652,Mammalia,Mammalia,Peromyscus maniculatus bairdii,Prairie deer mouse,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,369.78,Y,289,45,80,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_006886328.1,25292,Mammalia,Mammalia,Elephantulus edwardii,Cape elephant shrew,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,369.39,Y,289,45,79.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_027728471.1,42715,Mammalia,Mammalia,Vombatus ursinus,Common wombat,voltage-dependent calcium channel gamma-1 subunit,369.39,Y,289,45,79.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_021069603.1,42365,Mammalia,Mammalia,Mus pahari,Shrew mouse,voltage-dependent calcium channel gamma-1 subunit,367.85,Y,289,45,79.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_020856589.1,47241,Mammalia,Mammalia,Phascolarctos cinereus,Koala,voltage-dependent calcium channel gamma-1 subunit,367.47,Y,289,45,79.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_003768621.1,46282,Mammalia,Mammalia,Sarcophilus harrisii,Tasmanian devil,voltage-dependent calcium channel gamma-1 subunit,367.47,Y,289,45,79.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_028617060.1,38191,Mammalia,Mammalia,Grammomys surdaster,African thicket rats,voltage-dependent calcium channel gamma-1 subunit,367.08,Y,289,45,79.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_028721147.1,42174,Mammalia,Mammalia,Peromyscus leucopus,White-footed mouse,voltage-dependent calcium channel gamma-1 subunit,366.7,Y,289,45,79.33,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_030362252.1,43730,Aves,Aves,Strigops habroptila,Kakapo,voltage-dependent calcium channel gamma-1 subunit,366.31,Y,289,45,79.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_004374258.1,37488,Mammalia,Mammalia,Trichechus manatus latirostris,Florida manatee,voltage-dependent calcium channel gamma-1 subunit,365.93,Y,289,45,79.17,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_003417345.1,41868,Mammalia,Mammalia,Loxodonta africana,African savanna elephant,voltage-dependent calcium channel gamma-1 subunit,364,Y,289,45,78.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_007957899.1,25532,Mammalia,Mammalia,Orycteropus afer afer,Aardvark,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,363.61,Y,289,45,78.67,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_015263811.1,24674,Lepidosauria,Lepidosauria,Gekko japonicus,Geckos,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,363.23,Y,289,45,78.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_010180276.1,29427,Aves,Aves,Mesitornis unicolor,Brown roatelo,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,362.84,Y,289,45,78.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_003501901.1,162753,Mammalia,Mammalia,Cricetulus griseus,Chinese hamster,voltage-dependent calcium channel gamma-1 subunit,362.84,Y,289,45,78.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_009936684.1,27865,Aves,Aves,Opisthocomus hoazin,Hoatzin,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,362.46,Y,289,45,78.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_009640632.1,29746,Aves,Aves,Egretta garzetta,Little egret,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,361.69,Y,289,45,78.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_014807728.1,30957,Aves,Aves,Calidris pugnax,Ruff,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,360.92,Y,289,45,78.08,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_030317765.1,42950,Aves,Aves,Calypte anna,Anna's hummingbird,voltage-dependent calcium channel gamma-1 subunit,360.53,Y,289,45,78,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_010073607.1,27088,Aves,Aves,Pterocles gutturalis,Yellow-throated sandgrouse,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,360.15,Y,289,45,77.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_033923609.1,29293,Aves,Aves,Melopsittacus undulatus,Budgerigar,voltage-dependent calcium channel gamma-1 subunit,360.15,Y,289,45,77.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_009983264.1,28596,Aves,Aves,Tauraco erythrolophus,Red-crested turaco,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,360.15,Y,289,45,77.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_009868734.1,26553,Aves,Aves,Apaloderma vittatum,Bar-tailed trogon,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,359.76,Y,289,45,77.83,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,PKU42367.1,23022,Aves,Aves,Limosa lapponica baueri,Bar-tailed godwit,voltage-dependent calcium channel gamma-1 hypothetical protein,359.76,Y,289,45,77.83,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,KFV90816.1,27328,Aves,Aves,Eurypyga helias,Sunbittern,"Voltage-dependent calcium channel gamma-1 subunit, partial",359.76,Y,289,45,77.83,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_009693043.1,27846,Aves,Aves,Cariama cristata,Red-legged seriema,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,359.76,Y,289,45,77.83,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_009972251.2,32983,Aves,Aves,Tyto alba alba,Barn owl,voltage-dependent calcium channel gamma-1 subunit,359.38,Y,289,45,77.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,KQK81821.1,16224,Aves,Aves,Amazona aestiva,Blue-fronted amazon,Voltage-dependent calcium channel gamma-1 subunit,359.38,Y,289,45,77.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_009092571.1,30517,Aves,Aves,Serinus canaria,Common canary,voltage-dependent calcium channel gamma-1 subunit,359.38,Y,289,45,77.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_005237579.1,31320,Aves,Aves,Falco peregrinus,Peregrine falcon,voltage-dependent calcium channel gamma-1 subunit,358.99,Y,289,45,77.67,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_009893076.1,30750,Aves,Aves,Charadrius vociferus,Killdeer,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,358.61,Y,289,45,77.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,KFP58548.1,11453,Aves,Aves,Cathartes aura,Turkey vulture,"Voltage-dependent calcium channel gamma-1 subunit, partial",358.61,Y,289,45,77.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_005441253.1,30432,Aves,Aves,Falco cherrug,Saker falcon,voltage-dependent calcium channel gamma-1 subunit,358.61,Y,289,45,77.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_010129687.1,27261,Aves,Aves,Buceros rhinoceros silvestris,Rhinoceros hornbill,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,358.61,Y,289,45,77.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_007666263.1,43718,Mammalia,Mammalia,Ornithorhynchus anatinus,Platypus,voltage-dependent calcium channel gamma-1 subunit,358.22,Y,289,45,77.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_027746172.1,34050,Aves,Aves,Empidonax traillii,Willow flycatcher,voltage-dependent calcium channel gamma-1 subunit,358.22,Y,289,45,77.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,KFW66847.1,29764,Aves,Aves,Pygoscelis adeliae,Adelie penguin,"Voltage-dependent calcium channel gamma-1 subunit, partial",358.22,Y,289,45,77.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,KAF0873633.1,17459,Mammalia,Mammalia,Crocuta crocuta,Spotted hyena,"CCG1 protein, partial",358.22,Y,289,45,77.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_010297110.1,28015,Aves,Aves,Balearica regulorum gibbericeps,East African grey crowned-crane,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,357.84,Y,289,45,77.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,KFZ59022.1,11722,Aves,Aves,Podiceps cristatus,Great crested grebe,"Voltage-dependent calcium channel gamma-1 subunit, partial",357.84,Y,289,45,77.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_027547828.1,39505,Aves,Aves,Neopelma chrysocephalum,Saffron-crested tyrant-manakin,voltage-dependent calcium channel gamma-1 subunit,357.84,Y,289,45,77.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_017508281.1,41999,Mammalia,Mammalia,Manis javanica,Malayan pangolin,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,357.45,Y,289,45,77.33,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_009285986.1,32685,Aves,Aves,Aptenodytes forsteri,Emperor penguin,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,357.07,Y,289,45,77.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_009810315.1,26724,Aves,Aves,Gavia stellata,Red-throated loon,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,356.68,Y,289,45,77.17,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_028568888.1,51188,Lepidosauria,Lepidosauria,Podarcis muralis,Common wall lizard,voltage-dependent calcium channel gamma-1 subunit,356.68,Y,289,45,77.17,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_017667361.1,36875,Aves,Aves,Lepidothrix coronata,Blue-crowned manakin,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,356.68,Y,289,45,77.17,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_009571638.1,28173,Aves,Aves,Fulmarus glacialis,Northern fulmar,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,356.3,Y,289,45,77.08,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_025923307.1,37668,Aves,Aves,Apteryx rowi,Okarito brown kiwi,voltage-dependent calcium channel gamma-1 subunit,355.91,Y,289,45,77,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_025954839.1,31573,Aves,Aves,Dromaius novaehollandiae,Emu,voltage-dependent calcium channel gamma-1 subunit,355.91,Y,289,45,77,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_002198000.2,45272,Aves,Aves,Taeniopygia guttata,Zebra finch,voltage-dependent calcium channel gamma-1 subunit,355.91,Y,289,45,77,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_013808523.1,22840,Aves,Aves,Apteryx mantelli mantelli,North Island brown kiwi,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,355.52,Y,289,45,76.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_010123579.1,26966,Aves,Aves,Chlamydotis macqueenii,Macqueen's bustard,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,355.52,Y,289,45,76.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_010169479.1,29281,Aves,Aves,Antrostomus carolinensis,Chuck-will's-widow,voltage-dependent calcium channel gamma-1 subunit,355.52,Y,289,45,76.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_032994777.1,39483,Lepidosauria,Lepidosauria,Lacerta agilis,Sand lizard,voltage-dependent calcium channel gamma-1 subunit,355.52,Y,289,45,76.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_009951035.1,28860,Aves,Aves,Leptosomus discolor,Cuckoo roller,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,355.14,Y,289,45,76.83,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_009465200.1,31488,Aves,Aves,Nipponia nippon,Crested ibis,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,355.14,Y,289,45,76.83,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_027510492.1,39234,Aves,Aves,Corapipo altera,White-ruffed manakin,voltage-dependent calcium channel gamma-1 subunit,354.75,Y,289,45,76.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_027605527.1,42564,Aves,Aves,Pipra filicauda,Wire-tailed manakin,voltage-dependent calcium channel gamma-1 subunit,354.75,Y,289,45,76.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_006258001.1,74703,Crocodylia,Crocodylia,Alligator mississippiensis,American alligator,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,354.75,Y,289,45,76.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_023794587.1,31622,Aves,Aves,Cyanistes caeruleus,Blue tit,voltage-dependent calcium channel gamma-1 subunit,354.75,Y,289,45,76.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_029870323.1,48151,Aves,Aves,Aquila chrysaetos chrysaetos,Golden eagle,voltage-dependent calcium channel gamma-1 subunit,354.37,Y,289,45,76.67,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,OPJ88511.1,24828,Aves,Aves,Patagioenas fasciata monilis,Band-tailed pigeon,voltage-dependent calcium channel gamma-1 subunit,353.98,Y,289,45,76.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,RMB95301.1,34999,Aves,Aves,Hirundo rustica rustica,Barn swallow,hypothetical protein DUI87_28288,353.98,Y,289,45,76.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_013034351.1,31835,Aves,Aves,Anser cygnoides domesticus,Swan goose,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,353.98,Y,289,45,76.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,TRZ14621.1,22656,Aves,Aves,Zosterops borbonicus,White-eyes,hypothetical protein HGM15179_012503,353.98,Y,289,45,76.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,KAF4798357.1,18372,Aves,Aves,Turdus rufiventris,Rufous-bellied thrush,Voltage-dependent calcium channel gamma-1 subunit,353.98,Y,289,45,76.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,RLV99379.1,19058,Aves,Aves,Erythrura gouldiae,Gouldian finch,hypothetical protein DV515_00009834,353.6,Y,289,45,76.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_010408389.1,29602,Aves,Aves,Corvus cornix cornix,Hooded crow,voltage-dependent calcium channel gamma-1 subunit,353.6,Y,289,45,76.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_008948211.1,26799,Aves,Aves,Merops nubicus,Carmine bee-eater,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,353.6,Y,289,45,76.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_008636883.1,43283,Aves,Aves,Corvus brachyrhynchos,American crow,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,353.6,Y,289,45,76.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_008920058.1,37344,Aves,Aves,Manacus vitellinus,Golden-collared manakin,voltage-dependent calcium channel gamma-1 subunit,353.21,Y,289,45,76.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_005490496.1,26676,Aves,Aves,Zonotrichia albicollis,White-throated sparrow,voltage-dependent calcium channel gamma-1 subunit,353.21,Y,289,45,76.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_005526721.1,27656,Aves,Aves,Pseudopodoces humilis,Tibetan ground-tit,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,353.21,Y,289,45,76.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,KAF2976569.1,15084,Aves,Aves,Melospiza melodia maxima,Song sparrow,hypothetical protein EK904_011369,353.21,Y,289,45,76.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_025902663.1,21536,Aves,Aves,Nothoprocta perdicaria,Tinamous,voltage-dependent calcium channel gamma-1 subunit,352.83,Y,289,45,76.33,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_005425816.1,20676,Aves,Aves,Geospiza fortis,Medium ground-finch,voltage-dependent calcium channel gamma-1 subunit,352.83,Y,289,45,76.33,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_010576904.1,25371,Aves,Aves,Haliaeetus leucocephalus,Bald eagle,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,352.83,Y,289,45,76.33,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_015500933.1,39768,Aves,Aves,Parus major,Great Tit,voltage-dependent calcium channel gamma-1 subunit,352.44,Y,289,45,76.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_014738210.1,26793,Aves,Aves,Sturnus vulgaris,Common starling,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,352.44,Y,289,45,76.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_031984829.1,42323,Aves,Aves,Corvus moneduloides,New Caledonian crow,voltage-dependent calcium channel gamma-1 subunit,352.06,Y,289,45,76.17,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_005016152.1,58659,Aves,Aves,Anas platyrhynchos,Mallard,voltage-dependent calcium channel gamma-1 subunit,352.06,Y,289,45,76.17,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_010218070.1,31367,Aves,Aves,Tinamus guttatus,White-throated tinamou,PREDICTED: voltage-dependent calcium channel gamma-1 subunit isoform X2,351.67,Y,289,45,76.08,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_030818123.1,28938,Aves,Aves,Camarhynchus parvulus,Tanagers,voltage-dependent calcium channel gamma-1 subunit,351.67,Y,289,45,76.08,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_032055300.1,27801,Aves,Aves,Aythya fuligula,Tufted duck,voltage-dependent calcium channel gamma-1 subunit,351.29,Y,289,45,76,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_009562195.1,30535,Aves,Aves,Cuculus canorus,Common cuckoo,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,351.29,Y,289,45,76,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_009511493.1,26171,Aves,Aves,Phalacrocorax carbo,Great cormorant,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,351.29,Y,289,45,76,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_010198117.1,26938,Aves,Aves,Colius striatus,Speckled mousebird,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,350.52,Y,289,45,75.83,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_009076787.1,28124,Aves,Aves,Acanthisitta chloris,Rifleman,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,350.52,Y,289,45,75.83,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_021270959.1,43411,Aves,Aves,Numida meleagris,Helmeted guineafowl,voltage-dependent calcium channel gamma-1 subunit,350.13,Y,289,45,75.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_006017418.1,43349,Crocodylia,Crocodylia,Alligator sinensis,Chinese alligator,voltage-dependent calcium channel gamma-1 subunit,350.13,Y,289,45,75.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_030390872.1,50866,Testudines,Testudines,Gopherus evgoodei,Goodes thornscrub tortoise,voltage-dependent calcium channel gamma-1 subunit,349.75,Y,289,45,75.67,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_006110642.1,39116,Testudines,Testudines,Pelodiscus sinensis,Chinese soft-shelled turtle,voltage-dependent calcium channel gamma-1 subunit,348.98,Y,289,45,75.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_021393064.1,43980,Aves,Aves,Lonchura striata domestica,Bengalese finch,voltage-dependent calcium channel gamma-1 subunit,348.98,Y,289,45,75.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_007055152.1,47903,Testudines,Testudines,Chelonia mydas,Green sea turtle,voltage-dependent calcium channel gamma-1 subunit,348.98,Y,289,45,75.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_026566908.1,31817,Lepidosauria,Lepidosauria,Pseudonaja textilis,Eastern brown snake,voltage-dependent calcium channel gamma-1 subunit,348.98,Y,289,45,75.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_034268539.1,41491,Lepidosauria,Lepidosauria,Pantherophis guttatus,Colubrid snakes,voltage-dependent calcium channel gamma-1 subunit,348.21,Y,289,45,75.33,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_005282989.1,46668,Testudines,Testudines,Chrysemys picta bellii,Western painted turtle,voltage-dependent calcium channel gamma-1 subunit,348.21,Y,289,45,75.33,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_020666853.1,38806,Lepidosauria,Lepidosauria,Pogona vitticeps,Central bearded dragon,voltage-dependent calcium channel gamma-1 subunit,348.21,Y,289,45,75.33,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,KFV83453.1,39517,Aves,Aves,Struthio camelus australis,African ostrich,"Voltage-dependent calcium channel gamma-1 subunit, partial",348.21,Y,289,45,75.33,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_007439085.1,32857,Lepidosauria,Lepidosauria,Python bivittatus,Burmese python,voltage-dependent calcium channel gamma-1 subunit,348.21,Y,289,45,75.33,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_015735018.1,41600,Aves,Aves,Coturnix japonica,Japanese quail,voltage-dependent calcium channel gamma-1 subunit,347.82,Y,289,45,75.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_008114573.1,35701,Lepidosauria,Lepidosauria,Anolis carolinensis,Green anole,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,347.82,Y,289,45,75.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_026716717.1,27794,Aves,Aves,Athene cunicularia,Burrowing owl,voltage-dependent calcium channel gamma-1 subunit,347.82,Y,289,45,75.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_005056227.1,26767,Aves,Aves,Ficedula albicollis,Collared flycatcher,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,347.82,Y,289,45,75.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_032632136.1,44376,Testudines,Testudines,Chelonoidis abingdonii,Abingdon island giant tortoise,voltage-dependent calcium channel gamma-1 subunit,347.44,Y,289,45,75.17,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_026534568.1,31322,Lepidosauria,Lepidosauria,Notechis scutatus,Mainland tiger snake,voltage-dependent calcium channel gamma-1 subunit,347.44,Y,289,45,75.17,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_015672447.1,23979,Lepidosauria,Lepidosauria,Protobothrops mucrosquamatus,Chinese habu,voltage-dependent calcium channel gamma-1 subunit,346.67,Y,289,45,75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,TFK03680.1,21661,Testudines,Testudines,Platysternon megacephalum,Big-headed turtle,putative poly (ADP-ribose) polymerase family member 6,346.67,Y,289,45,75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_003211594.1,30531,Aves,Aves,Meleagris gallopavo,Turkey,voltage-dependent calcium channel gamma-1 subunit,346.67,Y,289,45,75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,POI25955.1,18020,Aves,Aves,Bambusicola thoracicus,Chinese bamboo-partridge,hypothetical protein CIB84_010295,346.28,Y,289,45,74.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,NP_001264935.1,70279,Aves,Aves,Gallus gallus,Chicken,voltage-dependent calcium channel gamma-1 subunit,346.28,Y,289,45,74.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_005513434.1,50999,Aves,Aves,Columba livia,Rock pigeon,voltage-dependent calcium channel gamma-1 subunit,346.28,Y,289,45,74.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,OXB64831.1,17163,Aves,Aves,Callipepla squamata,Scaled quail,"hypothetical protein ASZ78_006569, partial",345.89,Y,289,45,74.83,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_024054106.1,34211,Testudines,Testudines,Terrapene carolina triunguis,Three-toed box turtle,voltage-dependent calcium channel gamma-1 subunit,345.51,Y,289,45,74.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_023675973.1,55295,Actinopteri,Actinopteri,Paramormyrops kingsleyae,Elephantfishes,voltage-dependent calcium channel gamma-1 subunit-like,345.51,Y,289,45,74.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_032932786.1,35444,Aves,Aves,Catharus ustulatus,Swainson's thrush,LOW QUALITY PROTEIN: voltage-dependent calcium channel gamma-1 subunit,345.12,Y,289,45,74.67,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,OXB75575.1,17219,Aves,Aves,Colinus virginianus,Northern bobwhite,hypothetical protein H355_015691,345.12,Y,289,45,74.67,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_029455203.1,49320,Amphibia,Amphibia,Rhinatrema bivittatum,Two-lined caecilian,voltage-dependent calcium channel gamma-1 subunit,342.81,Y,289,45,74.17,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_032064629.1,30930,Lepidosauria,Lepidosauria,Thamnophis elegans,Western terrestrial garter snake,voltage-dependent calcium channel gamma-1 subunit,342.04,Y,289,45,74,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_030637989.1,30134,Actinopteri,Actinopteri,Chanos chanos,Milkfish,voltage-dependent calcium channel gamma-1 subunit-like,340.89,Y,289,45,73.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_001370345.1,51248,Mammalia,Mammalia,Monodelphis domestica,Gray short-tailed opossum,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,339.73,Y,289,45,73.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_017540566.1,44448,Actinopteri,Actinopteri,Pygocentrus nattereri,Red-bellied piranha,PREDICTED: voltage-dependent calcium channel gamma-1 subunit-like,338.19,Y,289,45,73.17,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_026772844.1,66299,Actinopteri,Actinopteri,Pangasianodon hypophthalmus,Striped catfish,voltage-dependent calcium channel gamma-1 subunit,336.65,Y,289,45,72.83,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_026063240.1,98570,Actinopteri,Actinopteri,Carassius auratus,Goldfish,voltage-dependent calcium channel gamma-1 subunit-like,335.5,Y,289,45,72.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_699850.2,87478,Actinopteri,Actinopteri,Danio rerio,Zebrafish,voltage-dependent calcium channel gamma-1 subunit,335.11,Y,289,45,72.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_031454458.1,28886,Aves,Aves,Phasianus colchicus,Ring-necked pheasant,voltage-dependent calcium channel gamma-1 subunit,334.72,Y,289,45,72.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_018966253.1,116951,Actinopteri,Actinopteri,Cyprinus carpio,Common carp,PREDICTED: voltage-dependent calcium channel gamma-1 subunit-like,334.72,Y,289,45,72.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_016312742.1,68487,Actinopteri,Actinopteri,Sinocyclocheilus anshuiensis,Carps and others,PREDICTED: voltage-dependent calcium channel gamma-1 subunit-like,334.72,Y,289,45,72.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,KAF4080098.1,24479,Actinopteri,Actinopteri,Ameiurus melas,Black bullhead,hypothetical protein AMELA_G00166590,334.72,Y,289,45,72.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,TSK62608.1,17264,Actinopteri,Actinopteri,Bagarius yarrelli,Goonch,Voltage-dependent calcium channel gamma-1 subunit,334.72,Y,289,45,72.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_016375095.1,68581,Actinopteri,Actinopteri,Sinocyclocheilus rhinocerous,Carps and others,PREDICTED: voltage-dependent calcium channel gamma-1 subunit-like,334.72,Y,289,45,72.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_026853643.1,37845,Actinopteri,Actinopteri,Electrophorus electricus,Electric eel,voltage-dependent calcium channel gamma-1 subunit-like,334.34,Y,289,45,72.33,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,KAF4115532.1,24824,Actinopteri,Actinopteri,Onychostoma macrolepis,Carps and others,hypothetical protein G5714_003021,333.57,Y,289,45,72.17,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,RXN06697.1,37694,Actinopteri,Actinopteri,Labeo rohita,Rohu,voltage-dependent calcium channel gamma-1 subunit-like protein,333.57,Y,289,45,72.17,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_022528898.1,42865,Actinopteri,Actinopteri,Astyanax mexicanus,Mexican tetra,voltage-dependent calcium channel gamma-1 subunit,332.41,Y,289,45,71.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_017341001.1,51421,Actinopteri,Actinopteri,Ictalurus punctatus,Channel catfish,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,332.41,Y,289,45,71.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,KAA0713157.1,24328,Actinopteri,Actinopteri,Triplophysa tibetana,Plateau loaches,Voltage-dependent calcium channel gamma-1 subunit,332.03,Y,289,45,71.83,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_029015002.1,49247,Actinopteri,Actinopteri,Betta splendens,Siamese fighting fish,voltage-dependent calcium channel gamma-1 subunit-like,332.03,Y,289,45,71.83,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_026989468.1,47806,Actinopteri,Actinopteri,Tachysurus fulvidraco,Yellow catfish,voltage-dependent calcium channel gamma-1 subunit,330.87,Y,289,45,71.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_028824406.1,50097,Actinopteri,Actinopteri,Denticeps clupeoides,Denticle herring,voltage-dependent calcium channel gamma-1 subunit-like,330.49,Y,289,45,71.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_009900973.1,29119,Aves,Aves,Picoides pubescens,Downy woodpecker,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,330.49,Y,289,45,71.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_015250289.1,36660,Actinopteri,Actinopteri,Cyprinodon variegatus,Sheepshead minnow,PREDICTED: voltage-dependent calcium channel gamma-1 subunit-like,330.1,Y,289,45,71.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_030064312.1,37122,Amphibia,Amphibia,Microcaecilia unicolor,Caecilians,voltage-dependent calcium channel gamma-1 subunit,329.72,Y,289,45,71.33,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_028267756.1,41003,Actinopteri,Actinopteri,Parambassis ranga,Indian glassy fish,voltage-dependent calcium channel gamma-1 subunit-like,329.72,Y,289,45,71.33,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_028318798.1,43562,Actinopteri,Actinopteri,Gouania willdenowi,Blunt-snouted clingfish,voltage-dependent calcium channel gamma-1 subunit,329.33,Y,289,45,71.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_034439790.1,47299,Actinopteri,Actinopteri,Hippoglossus hippoglossus,Atlantic halibut,voltage-dependent calcium channel gamma-1 subunit-like,328.56,Y,289,45,71.08,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_018520415.1,45606,Actinopteri,Actinopteri,Lates calcarifer,Barramundi perch,PREDICTED: voltage-dependent calcium channel gamma-1 subunit isoform X1,328.18,Y,289,45,71,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_005736350.1,38742,Actinopteri,Actinopteri,Pundamilia nyererei,Cichlids,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,328.18,Y,289,45,71,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_005942802.1,45052,Actinopteri,Actinopteri,Haplochromis burtoni,Burton's mouthbrooder,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,328.18,Y,289,45,71,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_004539258.1,46436,Actinopteri,Actinopteri,Maylandia zebra,Zebra mbuna,voltage-dependent calcium channel gamma-1 subunit,328.18,Y,289,45,71,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_026026211.1,52755,Actinopteri,Actinopteri,Astatotilapia calliptera,Eastern happy,voltage-dependent calcium channel gamma-1 subunit,328.18,Y,289,45,71,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_017290686.1,43259,Actinopteri,Actinopteri,Kryptolebias marmoratus,Mangrove rivulus,voltage-dependent calcium channel gamma-1 subunit,327.79,Y,289,45,70.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_027140679.1,94424,Actinopteri,Actinopteri,Larimichthys crocea,Large yellow croaker,voltage-dependent calcium channel gamma-1 subunit,327.02,Y,289,45,70.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,TKS91874.1,28544,Actinopteri,Actinopteri,Collichthys lucidus,Big head croaker,Voltage-dependent calcium channel gamma-1 subunit,327.02,Y,289,45,70.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_034567115.1,38814,Actinopteri,Actinopteri,Notolabrus celidotus,New Zealand spotty,voltage-dependent calcium channel gamma-1 subunit-like,327.02,Y,289,45,70.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_003458367.1,63355,Actinopteri,Actinopteri,Oreochromis niloticus,Nile tilapia,voltage-dependent calcium channel gamma-1 subunit,326.63,Y,289,45,70.67,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_031584871.1,34822,Actinopteri,Actinopteri,Oreochromis aureus,Blue tilapia,voltage-dependent calcium channel gamma-1 subunit,326.63,Y,289,45,70.67,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_020794472.1,25367,Actinopteri,Actinopteri,Boleophthalmus pectinirostris,Great blue-spotted mudskipper,voltage-dependent calcium channel gamma-1 subunit-like,326.25,Y,289,45,70.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_030232372.1,46937,Actinopteri,Actinopteri,Gadus morhua,Atlantic cod,voltage-dependent calcium channel gamma-1 subunit-like,325.48,Y,289,45,70.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_012727811.1,38839,Actinopteri,Actinopteri,Fundulus heteroclitus,Mummichog,voltage-dependent calcium channel gamma-1 subunit-like,325.48,Y,289,45,70.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_034076134.1,45845,Actinopteri,Actinopteri,Gymnodraco acuticeps,Antarctic dragonfishes,voltage-dependent calcium channel gamma-1 subunit isoform X1,324.71,Y,289,45,70.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_034395955.1,38023,Actinopteri,Actinopteri,Cyclopterus lumpus,Lumpfish,voltage-dependent calcium channel gamma-1 subunit,324.71,Y,289,45,70.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_033999739.1,41268,Actinopteri,Actinopteri,Trematomus bernacchii,Emerald rockcod,voltage-dependent calcium channel gamma-1 subunit-like,324.71,Y,289,45,70.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_033945650.1,37990,Actinopteri,Actinopteri,Pseudochaenichthys georgianus,South Georgia icefish,voltage-dependent calcium channel gamma-1 subunit-like,324.71,Y,289,45,70.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_020496314.1,36730,Actinopteri,Actinopteri,Labrus bergylta,Ballan wrasse,voltage-dependent calcium channel gamma-1 subunit,324.71,Y,289,45,70.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_013887233.1,35358,Actinopteri,Actinopteri,Austrofundulus limnaeus,New World rivulines,PREDICTED: voltage-dependent calcium channel gamma-1 subunit-like,324.32,Y,289,45,70.17,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_009481042.1,28643,Aves,Aves,Pelecanus crispus,Dalmatian pelican,PREDICTED: voltage-dependent calcium channel gamma-1 subunit isoform X1,323.94,Y,289,45,70.08,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_033480907.1,43071,Actinopteri,Actinopteri,Epinephelus lanceolatus,Giant grouper,voltage-dependent calcium channel gamma-1 subunit-like,323.55,Y,289,45,70,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_015801221.1,37068,Actinopteri,Actinopteri,Nothobranchius furzeri,Turquoise killifish,PREDICTED: voltage-dependent calcium channel gamma-1 subunit-like,323.55,Y,289,45,70,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_028443934.1,65046,Actinopteri,Actinopteri,Perca flavescens,Yellow perch,voltage-dependent calcium channel gamma-1 subunit,323.55,Y,289,45,70,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_030285356.1,54063,Actinopteri,Actinopteri,Sparus aurata,Gilthead seabream,voltage-dependent calcium channel gamma-1 subunit,323.17,Y,289,45,69.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_004066309.2,47277,Actinopteri,Actinopteri,Oryzias latipes,Japanese medaka,voltage-dependent calcium channel gamma-1 subunit,323.17,Y,289,45,69.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_005993780.1,34488,Coelacanthimorpha,Coelacanthimorpha,Latimeria chalumnae,Coelacanth,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,321.63,Y,289,45,69.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,KAF1394997.1,24537,Actinopteri,Actinopteri,Perca fluviatilis,European perch,hypothetical protein PFLUV_G00006930,321.24,Y,289,45,69.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_031145457.1,47978,Actinopteri,Actinopteri,Sander lucioperca,Pike-perch,voltage-dependent calcium channel gamma-1 subunit,320.09,Y,289,45,69.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_016111044.1,67438,Actinopteri,Actinopteri,Sinocyclocheilus grahami,Carps and others,PREDICTED: voltage-dependent calcium channel gamma-1 subunit-like,317.39,Y,289,45,68.67,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,ROL49791.1,23904,Actinopteri,Actinopteri,Anabarilius grahami,Carps and others,Voltage-dependent calcium channel gamma-1 subunit,317.39,Y,289,45,68.67,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_012682944.2,43039,Actinopteri,Actinopteri,Clupea harengus,Atlantic herring,voltage-dependent calcium channel gamma-1 subunit-like,317,Y,289,45,68.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_028675405.1,35767,Cladistia,Cladistia,Erpetoichthys calabaricus,Reedfish,voltage-dependent calcium channel gamma-1 subunit,316.62,Y,289,45,68.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,AWP05904.1,53722,Actinopteri,Actinopteri,Scophthalmus maximus,Turbot,Voltage-dependent calcium channel gamma subunit,315.85,Y,289,45,68.33,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,TNN54177.1,68294,Actinopteri,Actinopteri,Liparis tanakae,Tanaka's snailfish,Voltage-dependent calcium channel gamma-1 subunit,315.85,Y,289,45,68.33,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_033895274.1,88734,Actinopteri,Actinopteri,Acipenser ruthenus,Sterlet,voltage-dependent calcium channel gamma-1 subunit-like,315.46,Y,289,45,68.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_010777586.1,32357,Actinopteri,Actinopteri,Notothenia coriiceps,Black rockcod,PREDICTED: LOW QUALITY PROTEIN: voltage-dependent calcium channel gamma-1 subunit,315.46,Y,289,45,68.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_006635276.1,41861,Actinopteri,Actinopteri,Lepisosteus oculatus,Spotted gar,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,311.61,Y,289,45,67.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_033817957.1,50058,Amphibia,Amphibia,Geotrypetes seraphini,Gabon caecilian,voltage-dependent calcium channel gamma-1 subunit,309.69,Y,289,45,67,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_021414349.1,124308,Actinopteri,Actinopteri,Oncorhynchus mykiss,Rainbow trout,voltage-dependent calcium channel gamma-1 subunit-like,308.53,Y,289,45,66.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_029584587.1,88602,Actinopteri,Actinopteri,Salmo trutta,River trout,voltage-dependent calcium channel gamma-1 subunit-like,307.76,Y,289,45,66.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_031669559.1,89411,Actinopteri,Actinopteri,Oncorhynchus kisutch,Coho salmon,voltage-dependent calcium channel gamma-1 subunit-like,306.99,Y,289,45,66.42,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_010887639.1,59380,Actinopteri,Actinopteri,Esox lucius,Northern pike,voltage-dependent calcium channel gamma-1 subunit,306.22,Y,289,45,66.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_024297882.1,73754,Actinopteri,Actinopteri,Oncorhynchus tshawytscha,Chinook salmon,voltage-dependent calcium channel gamma-1 subunit-like,305.83,Y,289,45,66.17,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_013986838.1,111551,Actinopteri,Actinopteri,Salmo salar,Atlantic salmon,PREDICTED: voltage-dependent calcium channel gamma-1 subunit-like,303.91,Y,289,45,65.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_023869766.1,60777,Actinopteri,Actinopteri,Salvelinus alpinus,Arctic char,voltage-dependent calcium channel gamma-1 subunit-like,303.52,Y,289,45,65.67,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,NP_001091175.1,129541,Amphibia,Amphibia,Xenopus laevis,African clawed frog,"calcium channel, voltage-dependent, gamma subunit 1 L homeolog",303.14,Y,289,45,65.58,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_029480259.1,69381,Actinopteri,Actinopteri,Oncorhynchus nerka,Sockeye salmon,voltage-dependent calcium channel gamma-1 subunit-like,302.75,Y,289,45,65.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,NP_001011035.1,122817,Amphibia,Amphibia,Xenopus tropicalis,Tropical clawed frog,voltage-dependent calcium channel gamma-1 subunit,300.06,Y,289,45,64.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,KAF3852036.1,29423,Actinopteri,Actinopteri,Dissostichus mawsoni,Antarctic toothfish,hypothetical protein F7725_005391,300.06,Y,289,45,64.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,GCC32102.1,33620,Chondrichthyes,Chondrichthyes,Chiloscyllium punctatum,Brownbanded bambooshark,hypothetical protein,298.9,Y,289,45,64.67,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_032900041.1,38957,Chondrichthyes,Chondrichthyes,Amblyraja radiata,Thorny skate,voltage-dependent calcium channel gamma-1 subunit,296.98,Y,289,45,64.25,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,BAB18559.1,30189,Amphibia,Amphibia,Lithobates catesbeianus,American bullfrog,voltage dependent calcium channel gamma subunit,291.97,Y,289,45,63.17,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_018428456.1,24943,Amphibia,Amphibia,Nanorana parkeri,Frogs and toads,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,290.04,Y,289,45,62.75,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_031541748.1,44301,Mammalia,Mammalia,Vicugna pacos,Alpaca,voltage-dependent calcium channel gamma-1 subunit,276.94,Y,289,45,59.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,ETE74127.1,18686,Lepidosauria,Lepidosauria,Ophiophagus hannah,King cobra,"Voltage-dependent calcium channel gamma-1 subunit, partial",253.83,Y,289,45,54.92,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_032833649.1,40468,Hyperoartia,Hyperoartia,Petromyzon marinus,Sea lamprey,voltage-dependent calcium channel gamma-1 subunit,207.99,Y,289,45,45,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_015360258.1,31063,Mammalia,Mammalia,Marmota marmota marmota,Alpine marmot,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,205.68,Y,289,45,44.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_015395750.1,29960,Mammalia,Mammalia,Panthera tigris altaica,Amur tiger,PREDICTED: voltage-dependent calcium channel gamma-1 subunit,179.87,Y,289,45,38.91,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,OQV13879.1,20953,Eutardigrada,Eutardigrada,Hypsibius dujardini,Water bears,hypothetical protein BV898_11877,58.54,Y,289,45,12.66,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_013380907.1,41479,Lingulata,Lingulata,Lingula anatina,Lampshells,uncharacterized protein LOC106152002,54.68,Y,289,45,11.83,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_013907935.1,25639,Lepidosauria,Lepidosauria,Thamnophis sirtalis,Colubrid snakes,PREDICTED: voltage-dependent calcium channel gamma-6 subunit,210.31,N,289,45,45.5,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_010854276.1,35574,Mammalia,Mammalia,Bison bison bison,American bison,PREDICTED: voltage-dependent calcium channel gamma-6 subunit,156.38,N,289,45,33.83,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_025770201.1,23618,Mammalia,Mammalia,Puma concolor,Puma,voltage-dependent calcium channel gamma-6 subunit,102.45,N,289,45,22.16,Y,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,CAB3361916.1,31082,Insecta,Insecta,Cloeon dipterum,Small minnow mayflies,Hypothetical predicted protein,62.77,N,289,45,13.58,N,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_012935879.1,28801,Gastropoda,Gastropoda,Aplysia californica,California sea hare,PREDICTED: uncharacterized protein LOC106011290,58.54,N,289,45,12.66,N,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_023713523.1,59780,Insecta,Insecta,Cryptotermes secundus,Powder-post termites,uncharacterized protein LOC111867693,57,N,289,45,12.33,N,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,GAV01704.1,23050,Eutardigrada,Eutardigrada,Ramazzottius varieornatus,Water bears,hypothetical protein RvY_12372,56.23,N,289,45,12.16,N,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_019614139.1,35240,Leptocardii,Leptocardii,Branchiostoma belcheri,Belcher's lancelet,PREDICTED: voltage-dependent calcium channel gamma-3 subunit-like,56.23,N,289,45,12.16,N,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_029657801.1,26163,Cephalopoda,Cephalopoda,Octopus vulgaris,Common octopus,voltage-dependent calcium channel gamma-5 subunit-like,52.37,N,289,45,11.33,N,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_015439190.1,23639,Insecta,Insecta,Dufourea novaeangliae,Bees,PREDICTED: transmembrane protein 235,52.37,N,289,45,11.33,N,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,GBL78351.1,279008,Arachnida,Arachnida,Araneus ventricosus,Orb weavers,hypothetical protein AVEN_42877_1,51.99,N,289,45,11.25,N,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_015909636.1,27786,Arachnida,Arachnida,Parasteatoda tepidariorum,Common house spider,uncharacterized protein LOC107440992,51.99,N,289,45,11.25,N,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_013787489.1,39087,Merostomata,Merostomata,Limulus polyphemus,Atlantic horseshoe crab,"transmembrane protein 114-like, partial",49.68,N,289,45,10.75,N,2021 04 07 11:21:35,Y,Explore in ECOTOX
+5,XP_021940686.1,44814,Insecta,Insecta,Zootermopsis nevadensis,Damp wood termites,transmembrane protein 114,48.14,N,289,45,10.41,N,2021 04 07 11:21:35,Y,Explore in ECOTOX

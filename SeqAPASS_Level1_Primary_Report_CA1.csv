@@ -1,0 +1,959 @@
+Data Version,NCBI Accession,Protein Count,Taxonomic Group,Filtered Taxonomic Group,Scientific Name,Common Name,Protein Name,BLASTp Bitscore,Ortholog Candidate,Ortholog Count,Cut-off,Percent Similarity,Susceptibility Prediction,Analysis Completed,Eukaryote,ECOTOX
+5,P00915.2,1802968,Mammalia,Mammalia,Homo sapiens,Human,RecName: Full=Carbonic anhydrase 1; AltName: Full=Carbonate dehydratase I; AltName: Full=Carbonic anhydrase B; Short=CAB; AltName: Full=Carbonic anhydrase I; Short=CA-I,542.35,Y,170,41.69,100,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,NP_001182062.1,171847,Mammalia,Mammalia,Pan troglodytes,Chimpanzee,carbonic anhydrase 1,540.04,Y,170,41.69,99.57,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_003831296.1,51215,Mammalia,Mammalia,Pan paniscus,Pygmy chimpanzee,carbonic anhydrase 1 isoform X1,540.04,Y,170,41.69,99.57,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_018887801.1,52117,Mammalia,Mammalia,Gorilla gorilla gorilla,Western lowland gorilla,carbonic anhydrase 1 isoform X1,535.03,Y,170,41.69,98.65,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_003269565.1,51631,Mammalia,Mammalia,Nomascus leucogenys,Northern white-cheeked gibbon,carbonic anhydrase 1 isoform X1,530.02,Y,170,41.69,97.73,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_032615856.1,54502,Mammalia,Mammalia,Hylobates moloch,Silvery gibbon,carbonic anhydrase 1 isoform X1,529.25,Y,170,41.69,97.59,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_007999193.1,62219,Mammalia,Mammalia,Chlorocebus sabaeus,Green monkey,PREDICTED: carbonic anhydrase 1 isoform X2,523.86,Y,170,41.69,96.59,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_011792488.1,38676,Mammalia,Mammalia,Colobus angolensis palliatus,Angolan colobus,PREDICTED: carbonic anhydrase 1 isoform X1,522.32,Y,170,41.69,96.31,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_023083597.1,55377,Mammalia,Mammalia,Piliocolobus tephrosceles,Ugandan red Colobus,carbonic anhydrase 1 isoform X1,521.93,Y,170,41.69,96.24,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_015001152.1,175489,Mammalia,Mammalia,Macaca mulatta,Rhesus monkey,carbonic anhydrase 1,520,Y,170,41.69,95.88,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,EHH64273.1,97446,Mammalia,Mammalia,Macaca fascicularis,Crab-eating macaque,Carbonic anhydrase 1,519.24,Y,170,41.69,95.74,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_011731824.1,68519,Mammalia,Mammalia,Macaca nemestrina,Pig-tailed macaque,carbonic anhydrase 1 isoform X1,518.85,Y,170,41.69,95.67,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_033059407.1,63302,Mammalia,Mammalia,Trachypithecus francoisi,Francois's langur,carbonic anhydrase 1 isoform X1,518.08,Y,170,41.69,95.53,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017705365.1,49687,Mammalia,Mammalia,Rhinopithecus bieti,Black snub-nosed monkey,PREDICTED: carbonic anhydrase 1,516.92,Y,170,41.69,95.31,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_010380051.1,53902,Mammalia,Mammalia,Rhinopithecus roxellana,Golden snub-nosed monkey,carbonic anhydrase 1,516.92,Y,170,41.69,95.31,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_025250178.1,52581,Mammalia,Mammalia,Theropithecus gelada,Gelada,carbonic anhydrase 1 isoform X1,516.54,Y,170,41.69,95.24,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_011851029.1,38457,Mammalia,Mammalia,Mandrillus leucophaeus,Drill,PREDICTED: carbonic anhydrase 1 isoform X1,513.84,Y,170,41.69,94.74,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_011887203.1,66421,Mammalia,Mammalia,Cercocebus atys,Sooty mangabey,PREDICTED: carbonic anhydrase 1,513.46,Y,170,41.69,94.67,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_009211531.2,73457,Mammalia,Mammalia,Papio anubis,Olive baboon,carbonic anhydrase 1,513.46,Y,170,41.69,94.67,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_012326444.1,48088,Mammalia,Mammalia,Aotus nancymaae,Ma's night monkey,carbonic anhydrase 1 isoform X1,494.58,Y,170,41.69,91.19,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_003940540.1,36294,Mammalia,Mammalia,Saimiri boliviensis boliviensis,Bolivian squirrel monkey,PREDICTED: carbonic anhydrase 1 isoform X1,492.66,Y,170,41.69,90.84,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017377298.1,53173,Mammalia,Mammalia,Cebus capucinus imitator,White-faced sapajou,PREDICTED: carbonic anhydrase 1,489.19,Y,170,41.69,90.2,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_029779545.1,43342,Mammalia,Mammalia,Suricata suricatta,Meerkat,carbonic anhydrase 1,484.18,Y,170,41.69,89.28,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_032105952.1,62479,Mammalia,Mammalia,Sapajus apella,Tufted capuchin,carbonic anhydrase 1 isoform X1,483.03,Y,170,41.69,89.06,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_007084379.1,29960,Mammalia,Mammalia,Panthera tigris altaica,Amur tiger,PREDICTED: carbonic anhydrase 1 isoform X1,479.17,Y,170,41.69,88.35,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VTJ65646.1,42055,Mammalia,Mammalia,Marmota monax,Woodchuck,Hypothetical predicted protein,478.02,Y,170,41.69,88.14,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_030160208.1,42103,Mammalia,Mammalia,Lynx canadensis,Canada lynx,carbonic anhydrase 1 isoform X1,477.25,Y,170,41.69,88,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_007954376.1,25532,Mammalia,Mammalia,Orycteropus afer afer,Aardvark,PREDICTED: carbonic anhydrase 1,476.86,Y,170,41.69,87.93,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_003999993.1,57491,Mammalia,Mammalia,Felis catus,Domestic cat,carbonic anhydrase 1,476.86,Y,170,41.69,87.93,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_032277819.1,45571,Mammalia,Mammalia,Phoca vitulina,Harbor seal,carbonic anhydrase 1 isoform X1,476.09,Y,170,41.69,87.78,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_032172692.1,60642,Mammalia,Mammalia,Mustela erminea,Ermine,carbonic anhydrase 1,475.71,Y,170,41.69,87.71,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_021544086.1,28446,Mammalia,Mammalia,Neomonachus schauinslandi,Hawaiian monk seal,carbonic anhydrase 1 isoform X1,474.94,Y,170,41.69,87.57,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_004393812.1,31381,Mammalia,Mammalia,Odobenus rosmarus divergens,Pacific walrus,PREDICTED: carbonic anhydrase 1 isoform X1,474.94,Y,170,41.69,87.57,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_027803066.1,37707,Mammalia,Mammalia,Marmota flaviventris,Yellow-bellied marmot,carbonic anhydrase 1,474.94,Y,170,41.69,87.57,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VFV31288.1,31243,Mammalia,Mammalia,Lynx pardinus,Spanish lynx,carbonic anhydrase 1,474.55,Y,170,41.69,87.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_025778480.1,23618,Mammalia,Mammalia,Puma concolor,Puma,carbonic anhydrase 1 isoform X1,474.17,Y,170,41.69,87.43,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_005328683.1,38807,Mammalia,Mammalia,Ictidomys tridecemlineatus,Thirteen-lined ground squirrel,carbonic anhydrase 1,473.78,Y,170,41.69,87.36,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_012665780.1,33085,Mammalia,Mammalia,Otolemur garnettii,Small-eared galago,carbonic anhydrase 1,473.78,Y,170,41.69,87.36,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VCW66274.1,19820,Mammalia,Mammalia,Gulo gulo,Wolverine,unnamed protein product,473.4,Y,170,41.69,87.29,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_027966937.1,40113,Mammalia,Mammalia,Eumetopias jubatus,Steller sea lion,carbonic anhydrase 1,473.01,Y,170,41.69,87.22,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_008063407.1,33251,Mammalia,Mammalia,Carlito syrichta,Philippine tarsier,carbonic anhydrase 1 isoform X1,473.01,Y,170,41.69,87.22,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_027455928.1,59271,Mammalia,Mammalia,Zalophus californianus,California sea lion,carbonic anhydrase 1 isoform X2,473.01,Y,170,41.69,87.22,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_004767019.1,48578,Mammalia,Mammalia,Mustela putorius furo,Domestic ferret,PREDICTED: carbonic anhydrase 1,471.47,Y,170,41.69,86.93,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_025726576.1,46265,Mammalia,Mammalia,Callorhinus ursinus,Northern fur seal,carbonic anhydrase 1,471.08,Y,170,41.69,86.86,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_032725134.1,48403,Mammalia,Mammalia,Lontra canadensis,Northern American river otter,carbonic anhydrase 1 isoform X1,470.7,Y,170,41.69,86.79,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,NP_001138643.1,67615,Mammalia,Mammalia,Canis lupus familiaris,Dog,carbonic anhydrase 1,470.7,Y,170,41.69,86.79,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_025289460.1,62990,Mammalia,Mammalia,Canis lupus dingo,Dingo,carbonic anhydrase 1,470.7,Y,170,41.69,86.79,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_022357991.1,36593,Mammalia,Mammalia,Enhydra lutris kenyoni,Sea otter,carbonic anhydrase 1 isoform X1,470.31,Y,170,41.69,86.72,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_026239832.1,36482,Mammalia,Mammalia,Urocitellus parryii,Arctic ground squirrel,carbonic anhydrase 1,469.93,Y,170,41.69,86.65,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_025870607.1,38429,Mammalia,Mammalia,Vulpes vulpes,Red fox,carbonic anhydrase 1 isoform X1,469.16,Y,170,41.69,86.51,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_006153920.1,59499,Mammalia,Mammalia,Tupaia chinensis,Chinese tree shrew,carbonic anhydrase 1,468.77,Y,170,41.69,86.43,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_026351128.1,43159,Mammalia,Mammalia,Ursus arctos horribilis,Brown bear,carbonic anhydrase 1,467.23,Y,170,41.69,86.15,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_003408420.1,41868,Mammalia,Mammalia,Loxodonta africana,African savanna elephant,carbonic anhydrase 1,466.08,Y,170,41.69,85.94,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_034524152.1,73097,Mammalia,Mammalia,Ailuropoda melanoleuca,Giant panda,carbonic anhydrase 1,466.08,Y,170,41.69,85.94,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014651325.1,33628,Mammalia,Mammalia,Ceratotherium simum simum,Southern white rhinoceros,PREDICTED: carbonic anhydrase 1,465.31,Y,170,41.69,85.8,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_032466564.1,52297,Mammalia,Mammalia,Phocoena sinus,Vaquita,carbonic anhydrase 1,464.92,Y,170,41.69,85.72,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF0877497.1,17459,Mammalia,Mammalia,Crocuta crocuta,Spotted hyena,"CAH1 anhydrase, partial",464.54,Y,170,41.69,85.65,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_010950241.1,29233,Mammalia,Mammalia,Camelus bactrianus,Bactrian camel,PREDICTED: carbonic anhydrase 1,464.54,Y,170,41.69,85.65,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_032325892.1,74403,Mammalia,Mammalia,Camelus ferus,Wild Bactrian camel,carbonic anhydrase 1,464.54,Y,170,41.69,85.65,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_029078762.1,65846,Mammalia,Mammalia,Monodon monoceros,Narwhal,carbonic anhydrase 1 isoform X1,463.77,Y,170,41.69,85.51,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_024587167.1,38185,Mammalia,Mammalia,Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,carbonic anhydrase 1,463.38,Y,170,41.69,85.44,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_007461791.1,27194,Mammalia,Mammalia,Lipotes vexillifer,Yangtze River dolphin,PREDICTED: carbonic anhydrase 1,463,Y,170,41.69,85.37,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_031297265.1,86205,Mammalia,Mammalia,Camelus dromedarius,Arabian camel,carbonic anhydrase 1,462.61,Y,170,41.69,85.3,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFO24298.1,67687,Mammalia,Mammalia,Fukomys damarensis,Damara mole-rat,Carbonic anhydrase 1,462.61,Y,170,41.69,85.3,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_022410744.1,50906,Mammalia,Mammalia,Delphinapterus leucas,Beluga whale,carbonic anhydrase 1,461.45,Y,170,41.69,85.08,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_007180197.1,37624,Mammalia,Mammalia,Balaenoptera acutorostrata scammoni,Minke whale,carbonic anhydrase 1,461.07,Y,170,41.69,85.01,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_020144498.1,59986,Mammalia,Mammalia,Microcebus murinus,Gray mouse lemur,carbonic anhydrase 1,461.07,Y,170,41.69,85.01,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,EHB00480.1,82643,Mammalia,Mammalia,Heterocephalus glaber,Naked mole-rat,Carbonic anhydrase 1,459.53,Y,170,41.69,84.73,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_007117558.1,51261,Mammalia,Mammalia,Physeter catodon,Sperm whale,carbonic anhydrase 1,459.53,Y,170,41.69,84.73,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014694618.1,42730,Mammalia,Mammalia,Equus asinus,Ass,PREDICTED: carbonic anhydrase 1,459.14,Y,170,41.69,84.66,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_030695092.1,54641,Mammalia,Mammalia,Globicephala melas,Long-finned pilot whale,carbonic anhydrase 1,458.37,Y,170,41.69,84.52,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_004330691.1,56999,Mammalia,Mammalia,Tursiops truncatus,Common bottlenose dolphin,carbonic anhydrase 1,458.37,Y,170,41.69,84.52,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TEA28657.1,19920,Mammalia,Mammalia,Sousa chinensis,Indo-pacific humpbacked dolphin,hypothetical protein DBR06_SOUSAS33210007,458.37,Y,170,41.69,84.52,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_026945552.1,54700,Mammalia,Mammalia,Lagenorhynchus obliquidens,Pacific white-sided dolphin,carbonic anhydrase 1,458.37,Y,170,41.69,84.52,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_004276202.1,59479,Mammalia,Mammalia,Orcinus orca,Killer whale,carbonic anhydrase 1,458.37,Y,170,41.69,84.52,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_004656971.1,25743,Mammalia,Mammalia,Jaculus jaculus,Lesser Egyptian jerboa,PREDICTED: carbonic anhydrase 1 isoform X1,457.99,Y,170,41.69,84.45,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_006202423.1,44301,Mammalia,Mammalia,Vicugna pacos,Alpaca,LOW QUALITY PROTEIN: carbonic anhydrase 1,456.45,Y,170,41.69,84.16,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_001488605.1,67727,Mammalia,Mammalia,Equus caballus,Horse,carbonic anhydrase 1,455.68,Y,170,41.69,84.02,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_008541410.1,38537,Mammalia,Mammalia,Equus przewalskii,Przewalski's horse,PREDICTED: carbonic anhydrase 1,455.68,Y,170,41.69,84.02,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_015341207.1,31063,Mammalia,Mammalia,Marmota marmota marmota,Alpine marmot,PREDICTED: carbonic anhydrase 1-like,455.68,Y,170,41.69,84.02,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_020038348.1,37572,Mammalia,Mammalia,Castor canadensis,American beaver,carbonic anhydrase 1,453.75,Y,170,41.69,83.66,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_005381799.1,45556,Mammalia,Mammalia,Chinchilla lanigera,Long-tailed chinchilla,PREDICTED: carbonic anhydrase 1,453.75,Y,170,41.69,83.66,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,NP_001101130.1,151095,Mammalia,Mammalia,Rattus norvegicus,Norway rat,carbonic anhydrase 1,451.82,Y,170,41.69,83.31,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_032754595.1,36141,Mammalia,Mammalia,Rattus rattus,Black rat,carbonic anhydrase 1,448.74,Y,170,41.69,82.74,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_008835124.1,49227,Mammalia,Mammalia,Nannospalax galili,Upper Galilee mountains blind mole rat,carbonic anhydrase 1,448.36,Y,170,41.69,82.67,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_006880574.1,25292,Mammalia,Mammalia,Elephantulus edwardii,Cape elephant shrew,PREDICTED: carbonic anhydrase 1,447.2,Y,170,41.69,82.46,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_003735015.1,47726,Mammalia,Mammalia,Callithrix jacchus,White-tufted-ear marmoset,PREDICTED: LOW QUALITY PROTEIN: carbonic anhydrase 1,445.28,Y,170,41.69,82.1,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_012867883.1,29399,Mammalia,Mammalia,Dipodomys ordii,Ord's kangaroo rat,PREDICTED: carbonic anhydrase 1,444.12,Y,170,41.69,81.89,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_028622374.1,38191,Mammalia,Mammalia,Grammomys surdaster,African thicket rats,carbonic anhydrase 1,442.19,Y,170,41.69,81.53,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AAA37354.1,312727,Mammalia,Mammalia,Mus musculus,House mouse,carbonic anhydrase I,441.43,Y,170,41.69,81.39,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_034372884.1,41654,Mammalia,Mammalia,Arvicanthis niloticus,African grass rat,carbonic anhydrase 1 isoform X1,441.04,Y,170,41.69,81.32,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017196917.1,48644,Mammalia,Mammalia,Oryctolagus cuniculus,Rabbit,PREDICTED: carbonic anhydrase 1,440.27,Y,170,41.69,81.18,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAB0362108.1,25799,Mammalia,Mammalia,Muntiacus muntjak,Muntjak,hypothetical protein FD754_006264,439.5,Y,170,41.69,81.04,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAB0371793.1,26177,Mammalia,Mammalia,Muntiacus reevesi,Reeves' muntjac,hypothetical protein FD755_016731,439.5,Y,170,41.69,81.04,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_021515916.1,39112,Mammalia,Mammalia,Meriones unguiculatus,Mongolian gerbil,carbonic anhydrase 1 isoform X1,438.73,Y,170,41.69,80.89,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_031232226.1,54476,Mammalia,Mammalia,Mastomys coucha,Southern multimammate mouse,carbonic anhydrase 1,437.96,Y,170,41.69,80.75,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_005361894.1,37992,Mammalia,Mammalia,Microtus ochrogaster,Prairie vole,carbonic anhydrase 1 isoform X1,437.57,Y,170,41.69,80.68,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_003498645.1,162753,Mammalia,Mammalia,Cricetulus griseus,Chinese hamster,carbonic anhydrase 1,437.57,Y,170,41.69,80.68,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_004588148.1,26023,Mammalia,Mammalia,Ochotona princeps,American pika,PREDICTED: carbonic anhydrase 1 isoform X1,437.19,Y,170,41.69,80.61,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_028741012.1,42174,Mammalia,Mammalia,Peromyscus leucopus,White-footed mouse,carbonic anhydrase 1,436.42,Y,170,41.69,80.47,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_006994790.1,45652,Mammalia,Mammalia,Peromyscus maniculatus bairdii,Prairie deer mouse,PREDICTED: carbonic anhydrase 1,436.42,Y,170,41.69,80.47,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017900975.1,46853,Mammalia,Mammalia,Capra hircus,Goat,PREDICTED: carbonic anhydrase 1-like,436.03,Y,170,41.69,80.4,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_005066863.1,38204,Mammalia,Mammalia,Mesocricetus auratus,Golden hamster,carbonic anhydrase 1,433.72,Y,170,41.69,79.97,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_004643148.1,42496,Mammalia,Mammalia,Octodon degus,Degu,carbonic anhydrase 1 isoform X1,433.33,Y,170,41.69,79.9,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_027829054.1,51033,Mammalia,Mammalia,Ovis aries,Sheep,carbonic anhydrase 1,431.8,Y,170,41.69,79.62,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_008687328.1,29099,Mammalia,Mammalia,Ursus maritimus,Polar bear,PREDICTED: carbonic anhydrase 1 isoform X1,429.48,Y,170,41.69,79.19,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_001924218.1,81816,Mammalia,Mammalia,Sus scrofa,Pig,carbonic anhydrase 1,428.33,Y,170,41.69,78.98,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_025120770.1,60996,Mammalia,Mammalia,Bubalus bubalis,Water buffalo,carbonic anhydrase 1 isoform X1,424.48,Y,170,41.69,78.27,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,NP_001068934.1,133369,Mammalia,Mammalia,Bos taurus,Cattle,carbonic anhydrase 1,423.32,Y,170,41.69,78.05,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_010844519.1,35574,Mammalia,Mammalia,Bison bison bison,American bison,PREDICTED: carbonic anhydrase 1 isoform X1,422.55,Y,170,41.69,77.91,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_027417429.1,54423,Mammalia,Mammalia,Bos indicus x Bos taurus,Hybrid cattle,carbonic anhydrase 1-like,422.17,Y,170,41.69,77.84,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_019829634.1,37725,Mammalia,Mammalia,Bos indicus,Zebu cattle,PREDICTED: carbonic anhydrase 1,421.39,Y,170,41.69,77.7,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_005904650.1,68301,Mammalia,Mammalia,Bos mutus,Wild yak,PREDICTED: carbonic anhydrase 1 isoform X1,421.01,Y,170,41.69,77.63,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_027702953.1,42715,Mammalia,Mammalia,Vombatus ursinus,Common wombat,carbonic anhydrase 1,412.15,Y,170,41.69,75.99,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_020851410.1,47241,Mammalia,Mammalia,Phascolarctos cinereus,Koala,carbonic anhydrase 1 isoform X1,411.76,Y,170,41.69,75.92,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,NP_001028142.1,51248,Mammalia,Mammalia,Monodelphis domestica,Gray short-tailed opossum,carbonic anhydrase 1,404.83,Y,170,41.69,74.64,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF4022504.1,19274,Mammalia,Mammalia,Cervus hanglu yarkandensis,Yarkand deer,hypothetical protein G4228_014088,373.24,Y,170,41.69,68.82,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_019342419.1,74703,Crocodylia,Crocodylia,Alligator mississippiensis,American alligator,PREDICTED: carbonic anhydrase 1,371.7,Y,170,41.69,68.54,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_004602608.1,24062,Mammalia,Mammalia,Sorex araneus,European shrew,PREDICTED: carbonic anhydrase 1,366.7,Y,170,41.69,67.61,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_025056025.1,43349,Crocodylia,Crocodylia,Alligator sinensis,Chinese alligator,carbonic anhydrase 1,365.54,Y,170,41.69,67.4,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_025931593.1,37668,Aves,Aves,Apteryx rowi,Okarito brown kiwi,carbonic anhydrase 1,361.3,Y,170,41.69,66.62,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_021013995.1,47700,Mammalia,Mammalia,Mus caroli,Ryukyu mouse,LOW QUALITY PROTEIN: carbonic anhydrase 1,360.92,Y,170,41.69,66.55,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_013812307.1,22840,Aves,Aves,Apteryx mantelli mantelli,North Island brown kiwi,PREDICTED: carbonic anhydrase 1,360.53,Y,170,41.69,66.48,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_029447458.1,49320,Amphibia,Amphibia,Rhinatrema bivittatum,Two-lined caecilian,carbonic anhydrase 1-like isoform X1,360.15,Y,170,41.69,66.41,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_009890250.1,30750,Aves,Aves,Charadrius vociferus,Killdeer,PREDICTED: carbonic anhydrase 1,359.76,Y,170,41.69,66.33,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_009556381.1,30535,Aves,Aves,Cuculus canorus,Common cuckoo,PREDICTED: carbonic anhydrase 1,358.99,Y,170,41.69,66.19,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_008940663.1,26799,Aves,Aves,Merops nubicus,Carmine bee-eater,"PREDICTED: carbonic anhydrase 1, partial",358.61,Y,170,41.69,66.12,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_018411284.1,24943,Amphibia,Amphibia,Nanorana parkeri,Frogs and toads,PREDICTED: carbonic anhydrase 1-like isoform X1,357.84,Y,170,41.69,65.98,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_019400079.1,28975,Crocodylia,Crocodylia,Crocodylus porosus,Australian saltwater crocodile,"PREDICTED: carbonic anhydrase 1, partial",357.45,Y,170,41.69,65.91,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_009872218.1,26553,Aves,Aves,Apaloderma vittatum,Bar-tailed trogon,PREDICTED: carbonic anhydrase 1,356.68,Y,170,41.69,65.77,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_009474819.1,31488,Aves,Aves,Nipponia nippon,Crested ibis,PREDICTED: LOW QUALITY PROTEIN: carbonic anhydrase 1,355.14,Y,170,41.69,65.48,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014820763.1,30957,Aves,Aves,Calidris pugnax,Ruff,PREDICTED: carbonic anhydrase 1,355.14,Y,170,41.69,65.48,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_026697288.1,27794,Aves,Aves,Athene cunicularia,Burrowing owl,carbonic anhydrase 1,354.75,Y,170,41.69,65.41,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_010073743.1,27088,Aves,Aves,Pterocles gutturalis,Yellow-throated sandgrouse,PREDICTED: carbonic anhydrase 1,354.37,Y,170,41.69,65.34,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_024061854.1,34211,Testudines,Testudines,Terrapene carolina triunguis,Three-toed box turtle,carbonic anhydrase 1,354.37,Y,170,41.69,65.34,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_009950885.1,28860,Aves,Aves,Leptosomus discolor,Cuckoo roller,"PREDICTED: carbonic anhydrase 1-like, partial",354.37,Y,170,41.69,65.34,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_005299444.1,46668,Testudines,Testudines,Chrysemys picta bellii,Western painted turtle,carbonic anhydrase 1,353.6,Y,170,41.69,65.2,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_009634135.1,29746,Aves,Aves,Egretta garzetta,Little egret,PREDICTED: carbonic anhydrase 1,353.21,Y,170,41.69,65.13,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_010180972.1,29427,Aves,Aves,Mesitornis unicolor,Brown roatelo,PREDICTED: carbonic anhydrase 1,351.67,Y,170,41.69,64.84,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_006113045.1,39116,Testudines,Testudines,Pelodiscus sinensis,Chinese soft-shelled turtle,carbonic anhydrase 1,349.36,Y,170,41.69,64.42,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_032629155.1,44376,Testudines,Testudines,Chelonoidis abingdonii,Abingdon island giant tortoise,carbonic anhydrase 1-like isoform X1,348.98,Y,170,41.69,64.35,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_030409251.1,50866,Testudines,Testudines,Gopherus evgoodei,Goodes thornscrub tortoise,LOW QUALITY PROTEIN: carbonic anhydrase 1-like,348.59,Y,170,41.69,64.27,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_002939198.1,122817,Amphibia,Amphibia,Xenopus tropicalis,Tropical clawed frog,carbonic anhydrase 1,348.21,Y,170,41.69,64.2,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_030071997.1,37122,Amphibia,Amphibia,Microcaecilia unicolor,Caecilians,carbonic anhydrase 1-like,345.51,Y,170,41.69,63.71,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFQ86252.1,12119,Aves,Aves,Phoenicopterus ruber ruber,American flamingo,"Carbonic anhydrase 1, partial",344.35,Y,170,41.69,63.49,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_010296149.1,28015,Aves,Aves,Balearica regulorum gibbericeps,East African grey crowned-crane,PREDICTED: LOW QUALITY PROTEIN: carbonic anhydrase 1,343.58,Y,170,41.69,63.35,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_009812874.1,26724,Aves,Aves,Gavia stellata,Red-throated loon,"PREDICTED: LOW QUALITY PROTEIN: carbonic anhydrase 1, partial",339.35,Y,170,41.69,62.57,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_009962476.2,32983,Aves,Aves,Tyto alba alba,Barn owl,LOW QUALITY PROTEIN: carbonic anhydrase 1,321.24,Y,170,41.69,59.23,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_030026833.1,23019,Insecta,Insecta,Manduca sexta,Tobacco hornworm,carbonic anhydrase 1,234.96,Y,170,41.69,43.32,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014665409.1,20794,Priapulimorpha,Priapulimorpha,Priapulus caudatus,Priapulids,PREDICTED: carbonic anhydrase 1-like,233.03,Y,170,41.69,42.97,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_026319439.1,20440,Insecta,Insecta,Hyposmocoma kahamanoa,Cosmet moths,carbonic anhydrase 1,229.95,Y,170,41.69,42.4,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_026732257.1,24061,Insecta,Insecta,Trichoplusia ni,Cabbage looper,carbonic anhydrase 1,227.64,Y,170,41.69,41.97,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_022821814.1,25340,Insecta,Insecta,Spodoptera litura,Owlet moths,carbonic anhydrase 1,227.64,Y,170,41.69,41.97,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,PCG79861.1,19089,Insecta,Insecta,Heliothis virescens,Tobacco budworm,hypothetical protein B5V51_13529,227.64,Y,170,41.69,41.97,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_021196154.1,40199,Insecta,Insecta,Helicoverpa armigera,Cotton bollworm,carbonic anhydrase 1,226.1,Y,170,41.69,41.69,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_029638145.1,26163,Cephalopoda,Cephalopoda,Octopus vulgaris,Common octopus,carbonic anhydrase 2-like,223.02,Y,170,41.69,41.12,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_026418431.1,135861,Magnoliopsida,Magnoliopsida,Papaver somniferum,Opium poppy,"alpha carbonic anhydrase 1, chloroplastic-like",124.41,Y,170,41.69,22.94,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_022743466.1,63217,Magnoliopsida,Magnoliopsida,Durio zibethinus,Durian,"alpha carbonic anhydrase 1, chloroplastic-like",123.64,Y,170,41.69,22.8,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,OMO68357.1,35940,Magnoliopsida,Magnoliopsida,Corchorus olitorius,Nalta jute,Alpha carbonic anhydrase,121.71,Y,170,41.69,22.44,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,OMO82229.1,29537,Magnoliopsida,Magnoliopsida,Corchorus capsularis,Jute,Alpha carbonic anhydrase,118.24,Y,170,41.69,21.8,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_025821841.1,81468,Magnoliopsida,Magnoliopsida,Panicum hallii,Panicgrasses,alpha carbonic anhydrase 7-like,116.7,Y,170,41.69,21.52,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_030925573.1,53236,Magnoliopsida,Magnoliopsida,Quercus lobata,Valley oak,"alpha carbonic anhydrase 1, chloroplastic",114,Y,170,41.69,21.02,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_004300792.1,31485,Magnoliopsida,Magnoliopsida,Fragaria vesca subsp. vesca,Wild strawberry,PREDICTED: alpha carbonic anhydrase 7-like,110.54,Y,170,41.69,20.38,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_024967436.1,65086,Magnoliopsida,Magnoliopsida,Cynara cardunculus var. scolymus,Artichoke,"alpha carbonic anhydrase 1, chloroplastic",107.84,Y,170,41.69,19.88,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_010696305.1,62104,Magnoliopsida,Magnoliopsida,Beta vulgaris subsp. vulgaris,Swiss chard,PREDICTED: alpha carbonic anhydrase 7,107.84,Y,170,41.69,19.88,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,PIN06525.1,30254,Magnoliopsida,Magnoliopsida,Handroanthus impetiginosus,Trumpet creeper family,Carbonic anhydrase,107.46,Y,170,41.69,19.81,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_009356885.1,47528,Magnoliopsida,Magnoliopsida,Pyrus x bretschneideri,Chinese white pear,PREDICTED: alpha carbonic anhydrase 7-like,106.69,Y,170,41.69,19.67,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_006481762.1,90845,Magnoliopsida,Magnoliopsida,Citrus sinensis,Sweet orange,"alpha carbonic anhydrase 1, chloroplastic-like",105.92,Y,170,41.69,19.53,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_022144728.1,29132,Magnoliopsida,Magnoliopsida,Momordica charantia,Bitter melon,alpha carbonic anhydrase 7-like,105.14,Y,170,41.69,19.39,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TXG58259.1,28365,Magnoliopsida,Magnoliopsida,Acer yangbiense,Maple trees,hypothetical protein EZV62_016088,105.14,Y,170,41.69,19.39,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,GAY33116.1,38076,Magnoliopsida,Magnoliopsida,Citrus unshiu,Satsuma orange,hypothetical protein CUMW_005690,103.99,Y,170,41.69,19.17,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF3822587.1,19789,Mammalia,Mammalia,Mirounga leonina,Southern elephant seal,hypothetical protein GH733_007961,453.37,N,170,41.69,83.59,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_003480055.1,49128,Mammalia,Mammalia,Cavia porcellus,Domestic guinea pig,carbonic anhydrase 1 isoform X1,449.13,N,170,41.69,82.81,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_019374851.1,27379,Crocodylia,Crocodylia,Gavialis gangeticus,Gharial,"PREDICTED: carbonic anhydrase 1, partial",363.23,N,170,41.69,66.97,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_021052164.1,42365,Mammalia,Mammalia,Mus pahari,Shrew mouse,carbonic anhydrase 13,358.99,N,170,41.69,66.19,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_033856346.1,88734,Actinopteri,Actinopteri,Acipenser ruthenus,Sterlet,carbonic anhydrase-like,355.52,N,170,41.69,65.55,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_028919201.1,43718,Mammalia,Mammalia,Ornithorhynchus anatinus,Platypus,carbonic anhydrase 13,352.44,N,170,41.69,64.98,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFZ49923.1,11722,Aves,Aves,Podiceps cristatus,Great crested grebe,"Carbonic anhydrase 1, partial",349.75,N,170,41.69,64.49,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_032982674.1,48727,Mammalia,Mammalia,Rhinolophus ferrumequinum,Greater horseshoe bat,carbonic anhydrase 13 isoform X1,348.98,N,170,41.69,64.35,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_006634514.1,41861,Actinopteri,Actinopteri,Lepisosteus oculatus,Spotted gar,PREDICTED: carbonic anhydrase 2 isoform X2,348.59,N,170,41.69,64.27,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_030363386.1,43730,Aves,Aves,Strigops habroptila,Kakapo,carbonic anhydrase 13-like isoform X1,347.82,N,170,41.69,64.13,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AAM94169.1,134,Actinopteri,Actinopteri,Lepisosteus osseus,Longnose gar,erythrocyte carbonic anhydrase,347.82,N,170,41.69,64.13,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_031984491.1,42323,Aves,Aves,Corvus moneduloides,New Caledonian crow,carbonic anhydrase 13-like isoform X2,347.44,N,170,41.69,64.06,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_021242334.1,43411,Aves,Aves,Numida meleagris,Helmeted guineafowl,carbonic anhydrase 13-like,347.44,N,170,41.69,64.06,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF2981813.1,15084,Aves,Aves,Melospiza melodia maxima,Song sparrow,hypothetical protein EK904_011766,347.05,N,170,41.69,63.99,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_016008624.1,49042,Mammalia,Mammalia,Rousettus aegyptiacus,Egyptian rousette,PREDICTED: carbonic anhydrase 13,347.05,N,170,41.69,63.99,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_025955500.1,31573,Aves,Aves,Dromaius novaehollandiae,Emu,carbonic anhydrase 13-like isoform X1,347.05,N,170,41.69,63.99,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_005517111.1,27656,Aves,Aves,Pseudopodoces humilis,Tibetan ground-tit,PREDICTED: carbonic anhydrase 13,346.67,N,170,41.69,63.92,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_023776583.1,31622,Aves,Aves,Cyanistes caeruleus,Blue tit,carbonic anhydrase 13 isoform X1,346.67,N,170,41.69,63.92,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014726266.1,26793,Aves,Aves,Sturnus vulgaris,Common starling,PREDICTED: carbonic anhydrase 13-like,346.67,N,170,41.69,63.92,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_032938047.1,35444,Aves,Aves,Catharus ustulatus,Swainson's thrush,carbonic anhydrase 13-like isoform X1,346.67,N,170,41.69,63.92,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_015474995.1,39768,Aves,Aves,Parus major,Great Tit,carbonic anhydrase 13-like isoform X1,346.67,N,170,41.69,63.92,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KQK76967.1,16224,Aves,Aves,Amazona aestiva,Blue-fronted amazon,carbonic anhydrase 13,346.67,N,170,41.69,63.92,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,OXB70615.1,17219,Aves,Aves,Colinus virginianus,Northern bobwhite,hypothetical protein H355_008879,346.28,N,170,41.69,63.85,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_003640859.1,70279,Aves,Aves,Gallus gallus,Chicken,carbonic anhydrase 13,346.28,N,170,41.69,63.85,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,OPJ83619.1,24828,Aves,Aves,Patagioenas fasciata monilis,Band-tailed pigeon,carbonic anhydrase 13,346.28,N,170,41.69,63.85,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_015711305.1,41600,Aves,Aves,Coturnix japonica,Japanese quail,carbonic anhydrase 13-like,346.28,N,170,41.69,63.85,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_029866851.1,48151,Aves,Aves,Aquila chrysaetos chrysaetos,Golden eagle,carbonic anhydrase 13-like isoform X1,346.28,N,170,41.69,63.85,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_027755947.1,34050,Aves,Aves,Empidonax traillii,Willow flycatcher,carbonic anhydrase 13-like isoform X1,345.89,N,170,41.69,63.78,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017681955.1,36875,Aves,Aves,Lepidothrix coronata,Blue-crowned manakin,PREDICTED: carbonic anhydrase 13-like isoform X1,345.89,N,170,41.69,63.78,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_009084776.2,30517,Aves,Aves,Serinus canaria,Common canary,carbonic anhydrase 13-like isoform X1,345.51,N,170,41.69,63.71,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_032038768.1,27801,Aves,Aves,Aythya fuligula,Tufted duck,carbonic anhydrase 13-like,345.51,N,170,41.69,63.71,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_016049029.1,29615,Mammalia,Mammalia,Erinaceus europaeus,Western European hedgehog,PREDICTED: carbonic anhydrase 13,345.51,N,170,41.69,63.71,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,RMC15206.1,34999,Aves,Aves,Hirundo rustica rustica,Barn swallow,hypothetical protein DUI87_07390,345.51,N,170,41.69,63.71,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_030826870.1,28938,Aves,Aves,Camarhynchus parvulus,Tanagers,carbonic anhydrase 13-like isoform X1,345.51,N,170,41.69,63.71,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_027308230.1,58659,Aves,Aves,Anas platyrhynchos,Mallard,carbonic anhydrase 13 isoform X2,345.51,N,170,41.69,63.71,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_005479594.1,26676,Aves,Aves,Zonotrichia albicollis,White-throated sparrow,carbonic anhydrase 13,345.51,N,170,41.69,63.71,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_012499053.1,28331,Mammalia,Mammalia,Propithecus coquereli,Coquerel's sifaka,PREDICTED: carbonic anhydrase 13,344.74,N,170,41.69,63.56,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_004679814.1,29269,Mammalia,Mammalia,Condylura cristata,Star-nosed mole,PREDICTED: carbonic anhydrase 13,344.74,N,170,41.69,63.56,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_027592312.1,42564,Aves,Aves,Pipra filicauda,Wire-tailed manakin,carbonic anhydrase 13-like isoform X1,344.35,N,170,41.69,63.49,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_027514944.1,39234,Aves,Aves,Corapipo altera,White-ruffed manakin,carbonic anhydrase 13-like isoform X1,344.35,N,170,41.69,63.49,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_032562632.1,35608,Aves,Aves,Chiroxiphia lanceolata,Lance-tailed manakin,carbonic anhydrase 13-like isoform X1,344.35,N,170,41.69,63.49,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_005042321.1,26767,Aves,Aves,Ficedula albicollis,Collared flycatcher,PREDICTED: carbonic anhydrase 13,344.35,N,170,41.69,63.49,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_027540431.1,39505,Aves,Aves,Neopelma chrysocephalum,Saffron-crested tyrant-manakin,carbonic anhydrase 13-like isoform X1,344.35,N,170,41.69,63.49,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_031446809.1,28886,Aves,Aves,Phasianus colchicus,Ring-necked pheasant,carbonic anhydrase 13-like,344.35,N,170,41.69,63.49,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_003759714.1,46282,Mammalia,Mammalia,Sarcophilus harrisii,Tasmanian devil,carbonic anhydrase 13 isoform X1,343.97,N,170,41.69,63.42,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TFK10910.1,21661,Testudines,Testudines,Platysternon megacephalum,Big-headed turtle,rho GTPase-activating protein 17,343.97,N,170,41.69,63.42,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_018122409.1,129541,Amphibia,Amphibia,Xenopus laevis,African clawed frog,PREDICTED: carbonic anhydrase 1-like,343.58,N,170,41.69,63.35,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_008158593.1,50025,Mammalia,Mammalia,Eptesicus fuscus,Big brown bat,carbonic anhydrase 13 isoform X1,343.58,N,170,41.69,63.35,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_005150893.1,29293,Aves,Aves,Melopsittacus undulatus,Budgerigar,carbonic anhydrase 13 isoform X1,343.58,N,170,41.69,63.35,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_024434030.1,30697,Mammalia,Mammalia,Desmodus rotundus,Common vampire bat,carbonic anhydrase 13,343.58,N,170,41.69,63.35,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF4797990.1,18372,Aves,Aves,Turdus rufiventris,Rufous-bellied thrush,Carbonic anhydrase 13,343.58,N,170,41.69,63.35,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_033789239.1,50058,Amphibia,Amphibia,Geotrypetes seraphini,Gabon caecilian,carbonic anhydrase 1-like isoform X1,343.58,N,170,41.69,63.35,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_030300927.1,42950,Aves,Aves,Calypte anna,Anna's hummingbird,carbonic anhydrase 13-like,343.58,N,170,41.69,63.35,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_004474820.1,38736,Mammalia,Mammalia,Dasypus novemcinctus,Nine-banded armadillo,carbonic anhydrase 13 isoform X1,343.2,N,170,41.69,63.28,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_006859301.1,25292,Mammalia,Mammalia,Chrysochloris asiatica,Cape golden mole,PREDICTED: carbonic anhydrase 13,343.2,N,170,41.69,63.28,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_007052983.1,47903,Testudines,Testudines,Chelonia mydas,Green sea turtle,carbonic anhydrase 13,342.81,N,170,41.69,63.21,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_004175298.1,45272,Aves,Aves,Taeniopygia guttata,Zebra finch,carbonic anhydrase 13 isoform X3,342.81,N,170,41.69,63.21,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,RLW13166.1,19058,Aves,Aves,Erythrura gouldiae,Gouldian finch,hypothetical protein DV515_00000370,342.81,N,170,41.69,63.21,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014935969.1,56435,Mammalia,Mammalia,Acinonyx jubatus,Cheetah,carbonic anhydrase 13 isoform X2,342.04,N,170,41.69,63.07,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TRZ17872.1,22656,Aves,Aves,Zosterops borbonicus,White-eyes,hypothetical protein HGM15179_009239,342.04,N,170,41.69,63.07,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_021406229.1,43980,Aves,Aves,Lonchura striata domestica,Bengalese finch,carbonic anhydrase 13 isoform X2,341.27,N,170,41.69,62.93,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_011374227.1,43865,Mammalia,Mammalia,Pteropus vampyrus,Large flying fox,carbonic anhydrase 13 isoform X3,341.27,N,170,41.69,62.93,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_028374716.1,33129,Mammalia,Mammalia,Phyllostomus discolor,Pale spear-nosed bat,carbonic anhydrase 13 isoform X1,340.89,N,170,41.69,62.85,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_009908787.1,29119,Aves,Aves,Picoides pubescens,Downy woodpecker,PREDICTED: carbonic anhydrase 13-like,340.5,N,170,41.69,62.78,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_019308928.1,58569,Mammalia,Mammalia,Panthera pardus,Leopard,PREDICTED: carbonic anhydrase 13 isoform X1,340.5,N,170,41.69,62.78,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,NP_954685.2,87478,Actinopteri,Actinopteri,Danio rerio,Zebrafish,carbonic anhydrase 2,339.73,N,170,41.69,62.64,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_004386647.1,37488,Mammalia,Mammalia,Trichechus manatus latirostris,Florida manatee,carbonic anhydrase 13,339.35,N,170,41.69,62.57,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,RVE58605.1,21529,Actinopteri,Actinopteri,Oryzias javanicus,Javanese ricefish,hypothetical protein OJAV_G00195940,338.58,N,170,41.69,62.43,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,Q8UWA5.3,170,Actinopteri,Actinopteri,Tribolodon hakonensis,Big-scaled redfin,RecName: Full=Carbonic anhydrase 2; AltName: Full=Carbonate dehydratase II; AltName: Full=Carbonic anhydrase II; Short=CA-II,337.42,N,170,41.69,62.21,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_020762058.1,48218,Mammalia,Mammalia,Odocoileus virginianus texanus,White-tailed deer,carbonic anhydrase 3-like,337.04,N,170,41.69,62.14,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_005880436.1,60290,Mammalia,Mammalia,Myotis brandtii,Brandt's bat,PREDICTED: carbonic anhydrase 13,336.26,N,170,41.69,62,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFQ45230.1,27852,Aves,Aves,Nestor notabilis,Kea,"Carbonic anhydrase 13, partial",335.88,N,170,41.69,61.93,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_019469677.1,30531,Aves,Aves,Meleagris gallopavo,Turkey,"carbonic anhydrase 13-like, partial",335.5,N,170,41.69,61.86,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFP54997.1,11453,Aves,Aves,Cathartes aura,Turkey vulture,"Carbonic anhydrase 13, partial",335.5,N,170,41.69,61.86,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFV93657.1,27328,Aves,Aves,Eurypyga helias,Sunbittern,"Carbonic anhydrase 13, partial",335.5,N,170,41.69,61.86,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_030612062.1,41124,Actinopteri,Actinopteri,Archocentrus centrarchus,Flier cichlid,carbonic anhydrase 1-like,335.11,N,170,41.69,61.79,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFP40585.1,26966,Aves,Aves,Chlamydotis macqueenii,Macqueen's bustard,"Carbonic anhydrase 13, partial",335.11,N,170,41.69,61.79,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_025910341.1,21536,Aves,Aves,Nothoprocta perdicaria,Tinamous,carbonic anhydrase 13-like,335.11,N,170,41.69,61.79,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TNN40220.1,68294,Actinopteri,Actinopteri,Liparis tanakae,Tanaka's snailfish,Carbonic anhydrase 1,335.11,N,170,41.69,61.79,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFO57223.1,43283,Aves,Aves,Corvus brachyrhynchos,American crow,"Carbonic anhydrase 13, partial",335.11,N,170,41.69,61.79,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KGL73856.1,31367,Aves,Aves,Tinamus guttatus,White-throated tinamou,"Carbonic anhydrase 13, partial",334.72,N,170,41.69,61.72,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_021137174.1,50999,Aves,Aves,Columba livia,Rock pigeon,carbonic anhydrase 13 isoform X1,334.34,N,170,41.69,61.65,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFV81174.1,39517,Aves,Aves,Struthio camelus australis,African ostrich,"Carbonic anhydrase 13, partial",334.34,N,170,41.69,61.65,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFV89090.1,28173,Aves,Aves,Fulmarus glacialis,Northern fulmar,"Carbonic anhydrase 13, partial",333.95,N,170,41.69,61.58,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_004697788.1,24942,Mammalia,Mammalia,Echinops telfairi,Small Madagascar hedgehog,carbonic anhydrase 13,333.95,N,170,41.69,61.58,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_026057240.1,98570,Actinopteri,Actinopteri,Carassius auratus,Goldfish,carbonic anhydrase 2,333.95,N,170,41.69,61.58,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1572796.1,15573,Aves,Aves,Eudyptes robustus,Snares penguin,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFP55297.1,27846,Aves,Aves,Cariama cristata,Red-legged seriema,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1495019.1,15007,Aves,Aves,Eudyptula novaehollandiae,Australian little penguin,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1623793.1,14636,Aves,Aves,Eudyptes chrysolophus,Macaroni penguin,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1436772.1,15059,Aves,Aves,Pygoscelis papua,Gentoo penguin,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFV40063.1,11512,Aves,Aves,Tyto alba,Barn owl,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1528408.1,15475,Aves,Aves,Eudyptula minor,Little blue penguin,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1653748.1,13983,Aves,Aves,Aptenodytes patagonicus,King penguin,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1475598.1,14259,Aves,Aves,Pygoscelis antarcticus,Chinstrap penguin,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1580645.1,17574,Aves,Aves,Eudyptes pachyrhynchus,Fiordland penguin,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1513295.1,12813,Aves,Aves,Eudyptes sclateri,Erect-crested penguin,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1412897.1,15574,Aves,Aves,Spheniscus magellanicus,Magellanic penguin,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFP96046.1,30417,Aves,Aves,Haliaeetus albicilla,White-tailed eagle,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1629489.1,12980,Aves,Aves,Eudyptes filholi,Southern rockhopper penguin,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1446618.1,14261,Aves,Aves,Spheniscus demersus,Jackass penguin,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFM05340.1,32685,Aves,Aves,Aptenodytes forsteri,Emperor penguin,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1562436.1,15781,Aves,Aves,Eudyptes schlegeli,Royal penguin,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1487049.1,14555,Aves,Aves,Megadyptes antipodes antipodes,Yellow-eyed penguin,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1589016.1,15466,Aves,Aves,Eudyptes moseleyi,Northern rockhopper penguin,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1424500.1,15371,Aves,Aves,Spheniscus humboldti,Humboldt's penguin,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFQ70817.1,28630,Aves,Aves,Phaethon lepturus,White-tailed tropicbird,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1526151.1,15152,Aves,Aves,Eudyptula albosignata,White-flippered penguin,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1645043.1,12893,Aves,Aves,Eudyptes chrysocome,Rockhopper penguin,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1450945.1,14632,Aves,Aves,Spheniscus mendiculus,Galapagos penguin,"Carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_010130771.1,27261,Aves,Aves,Buceros rhinoceros silvestris,Rhinoceros hornbill,"PREDICTED: carbonic anhydrase 13, partial",333.57,N,170,41.69,61.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_034415746.1,38023,Actinopteri,Actinopteri,Cyclopterus lumpus,Lumpfish,carbonic anhydrase 1 isoform X1,333.18,N,170,41.69,61.43,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_010004794.1,29270,Aves,Aves,Chaetura pelagica,Chimney swift,PREDICTED: carbonic anhydrase 13-like,333.18,N,170,41.69,61.43,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_009505387.1,26171,Aves,Aves,Phalacrocorax carbo,Great cormorant,PREDICTED: carbonic anhydrase 13,332.8,N,170,41.69,61.36,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFV09471.1,28596,Aves,Aves,Tauraco erythrolophus,Red-crested turaco,"Carbonic anhydrase 13, partial",332.8,N,170,41.69,61.36,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFW62998.1,29764,Aves,Aves,Pygoscelis adeliae,Adelie penguin,"Carbonic anhydrase 13, partial",332.41,N,170,41.69,61.29,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFW85837.1,37344,Aves,Aves,Manacus vitellinus,Golden-collared manakin,"Carbonic anhydrase 13, partial",332.03,N,170,41.69,61.22,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_033494920.1,43071,Actinopteri,Actinopteri,Epinephelus lanceolatus,Giant grouper,carbonic anhydrase 1,332.03,N,170,41.69,61.22,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_007432798.1,32857,Lepidosauria,Lepidosauria,Python bivittatus,Burmese python,carbonic anhydrase 13,332.03,N,170,41.69,61.22,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFP28911.1,26938,Aves,Aves,Colius striatus,Speckled mousebird,"Carbonic anhydrase 13, partial",332.03,N,170,41.69,61.22,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AEA49961.1,68,Lepidosauria,Lepidosauria,Python molurus,Indian rock python,carbonic anhydrase XIII,332.03,N,170,41.69,61.22,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KTG04404.1,116951,Actinopteri,Actinopteri,Cyprinus carpio,Common carp,hypothetical protein cypCar_00008585,331.64,N,170,41.69,61.15,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_031153608.1,47978,Actinopteri,Actinopteri,Sander lucioperca,Pike-perch,carbonic anhydrase 1,331.26,N,170,41.69,61.08,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFZ48000.1,29281,Aves,Aves,Antrostomus carolinensis,Chuck-will's-widow,"Carbonic anhydrase 13, partial",331.26,N,170,41.69,61.08,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_018614296.2,72410,Actinopteri,Actinopteri,Scleropages formosus,Asian bonytongue,carbonic anhydrase-like,331.26,N,170,41.69,61.08,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_003219587.1,35701,Lepidosauria,Lepidosauria,Anolis carolinensis,Green anole,PREDICTED: carbonic anhydrase 13,331.26,N,170,41.69,61.08,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_016054434.1,29863,Mammalia,Mammalia,Miniopterus natalensis,Common bats,PREDICTED: carbonic anhydrase 13,331.26,N,170,41.69,61.08,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_016327679.1,68487,Actinopteri,Actinopteri,Sinocyclocheilus anshuiensis,Carps and others,PREDICTED: carbonic anhydrase 2-like,331.26,N,170,41.69,61.08,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_024136189.1,42773,Actinopteri,Actinopteri,Oryzias melastigma,Indian medaka,carbonic anhydrase 1-like,330.87,N,170,41.69,61.01,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_019958779.1,37762,Actinopteri,Actinopteri,Paralichthys olivaceus,Japanese flounder,PREDICTED: carbonic anhydrase 1,330.49,N,170,41.69,60.94,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_030624287.1,30134,Actinopteri,Actinopteri,Chanos chanos,Milkfish,carbonic anhydrase-like,330.49,N,170,41.69,60.94,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,NP_001187560.1,51421,Actinopteri,Actinopteri,Ictalurus punctatus,Channel catfish,carbonic anhydrase,330.1,N,170,41.69,60.87,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_016428138.1,68581,Actinopteri,Actinopteri,Sinocyclocheilus rhinocerous,Carps and others,PREDICTED: carbonic anhydrase,330.1,N,170,41.69,60.87,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_016087571.1,67438,Actinopteri,Actinopteri,Sinocyclocheilus grahami,Carps and others,PREDICTED: carbonic anhydrase,330.1,N,170,41.69,60.87,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_028832472.1,50097,Actinopteri,Actinopteri,Denticeps clupeoides,Denticle herring,carbonic anhydrase 2,329.72,N,170,41.69,60.79,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFR05142.1,27865,Aves,Aves,Opisthocomus hoazin,Hoatzin,"Carbonic anhydrase 13, partial",329.72,N,170,41.69,60.79,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_012715554.2,38839,Actinopteri,Actinopteri,Fundulus heteroclitus,Mummichog,carbonic anhydrase,329.33,N,170,41.69,60.72,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_033934237.1,37990,Actinopteri,Actinopteri,Pseudochaenichthys georgianus,South Georgia icefish,carbonic anhydrase-like isoform X2,328.95,N,170,41.69,60.65,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_026229869.1,40551,Actinopteri,Actinopteri,Anabas testudineus,Climbing perch,carbonic anhydrase isoform X2,328.95,N,170,41.69,60.65,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_018556333.1,45606,Actinopteri,Actinopteri,Lates calcarifer,Barramundi perch,PREDICTED: carbonic anhydrase 1,328.95,N,170,41.69,60.65,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_028986895.1,49247,Actinopteri,Actinopteri,Betta splendens,Siamese fighting fish,carbonic anhydrase-like,328.56,N,170,41.69,60.58,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_034056934.1,45845,Actinopteri,Actinopteri,Gymnodraco acuticeps,Antarctic dragonfishes,LOW QUALITY PROTEIN: carbonic anhydrase-like,328.56,N,170,41.69,60.58,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_023671950.1,55295,Actinopteri,Actinopteri,Paramormyrops kingsleyae,Elephantfishes,carbonic anhydrase 2,328.56,N,170,41.69,60.58,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_015259493.1,36660,Actinopteri,Actinopteri,Cyprinodon variegatus,Sheepshead minnow,PREDICTED: carbonic anhydrase 1,328.18,N,170,41.69,60.51,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014036448.1,111551,Actinopteri,Actinopteri,Salmo salar,Atlantic salmon,PREDICTED: carbonic anhydrase 1-like,328.18,N,170,41.69,60.51,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAA0704722.1,24328,Actinopteri,Actinopteri,Triplophysa tibetana,Plateau loaches,Carbonic anhydrase 2,328.18,N,170,41.69,60.51,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_029611719.1,88602,Actinopteri,Actinopteri,Salmo trutta,River trout,carbonic anhydrase 1-like,328.18,N,170,41.69,60.51,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1373198.1,24537,Actinopteri,Actinopteri,Perca fluviatilis,European perch,hypothetical protein PFLUV_G00257870,328.18,N,170,41.69,60.51,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,NP_001117692.1,124308,Actinopteri,Actinopteri,Oncorhynchus mykiss,Rainbow trout,carbonic anhydrase 1,327.79,N,170,41.69,60.44,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,CBN82139.1,2683,Actinopteri,Actinopteri,Dicentrarchus labrax,European seabass,Carbonic anhydrase 1,327.79,N,170,41.69,60.44,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF3836278.1,29423,Actinopteri,Actinopteri,Dissostichus mawsoni,Antarctic toothfish,hypothetical protein F7725_028836,327.79,N,170,41.69,60.44,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AEY83563.1,39,Actinopteri,Actinopteri,Gymnocypris przewalskii ganzihonensis,Ganzi River scaleless carp,carbonic anhydrase 2,327.4,N,170,41.69,60.37,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_013860877.1,35358,Actinopteri,Actinopteri,Austrofundulus limnaeus,New World rivulines,PREDICTED: carbonic anhydrase 1-like,327.4,N,170,41.69,60.37,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF4095671.1,24824,Actinopteri,Actinopteri,Onychostoma macrolepis,Carps and others,hypothetical protein G5714_023274,327.4,N,170,41.69,60.37,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AEY83562.1,125,Actinopteri,Actinopteri,Gymnocypris przewalskii,Lake Qinghai scale-less carp,carbonic anhydrase 2,327.4,N,170,41.69,60.37,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_033975553.1,41268,Actinopteri,Actinopteri,Trematomus bernacchii,Emerald rockcod,LOW QUALITY PROTEIN: carbonic anhydrase,327.02,N,170,41.69,60.3,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ADO27772.1,802,Actinopteri,Actinopteri,Ictalurus furcatus,Blue catfish,carbonic anhydrase,327.02,N,170,41.69,60.3,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_029517177.1,69381,Actinopteri,Actinopteri,Oncorhynchus nerka,Sockeye salmon,carbonic anhydrase 1-like isoform X1,327.02,N,170,41.69,60.3,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_015679154.1,23979,Lepidosauria,Lepidosauria,Protobothrops mucrosquamatus,Chinese habu,carbonic anhydrase 13,327.02,N,170,41.69,60.3,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017261771.1,43259,Actinopteri,Actinopteri,Kryptolebias marmoratus,Mangrove rivulus,carbonic anhydrase 1-like,327.02,N,170,41.69,60.3,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_020350240.1,89411,Actinopteri,Actinopteri,Oncorhynchus kisutch,Coho salmon,carbonic anhydrase 1,327.02,N,170,41.69,60.3,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,GCF43760.1,26796,Lepidosauria,Lepidosauria,Paroedura picta,Geckos,hypothetical protein parPi_0003128,327.02,N,170,41.69,60.3,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_012683295.1,43039,Actinopteri,Actinopteri,Clupea harengus,Atlantic herring,carbonic anhydrase 2,326.63,N,170,41.69,60.23,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,CAB1349595.1,41735,Actinopteri,Actinopteri,Coregonus sp. 'balchen',Whitefishes,unnamed protein product,326.63,N,170,41.69,60.23,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_028290352.1,43562,Actinopteri,Actinopteri,Gouania willdenowi,Blunt-snouted clingfish,carbonic anhydrase 1,326.63,N,170,41.69,60.23,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_010904396.1,59380,Actinopteri,Actinopteri,Esox lucius,Northern pike,carbonic anhydrase 1,326.63,N,170,41.69,60.23,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_015425553.1,48716,Mammalia,Mammalia,Myotis davidii,Common bats,PREDICTED: carbonic anhydrase 2,326.63,N,170,41.69,60.23,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_032388257.1,64529,Actinopteri,Actinopteri,Etheostoma spectabile,Orangethroat darter,carbonic anhydrase-like,326.63,N,170,41.69,60.23,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_028288339.1,41003,Actinopteri,Actinopteri,Parambassis ranga,Indian glassy fish,carbonic anhydrase 1-like,326.63,N,170,41.69,60.23,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_026147905.1,42444,Actinopteri,Actinopteri,Mastacembelus armatus,Zig-zag eel,carbonic anhydrase 1-like,326.63,N,170,41.69,60.23,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_034450440.1,47299,Actinopteri,Actinopteri,Hippoglossus hippoglossus,Atlantic halibut,carbonic anhydrase-like,326.63,N,170,41.69,60.23,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_030015405.1,42348,Actinopteri,Actinopteri,Sphaeramia orbicularis,Orbiculate cardinalfish,carbonic anhydrase-like,326.63,N,170,41.69,60.23,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_020506386.1,36730,Actinopteri,Actinopteri,Labrus bergylta,Ballan wrasse,carbonic anhydrase-like,326.25,N,170,41.69,60.16,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF3698833.1,22726,Actinopteri,Actinopteri,Channa argus,Northern snakehead,Carbonic anhydrase,326.25,N,170,41.69,60.16,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_030258647.1,54063,Actinopteri,Actinopteri,Sparus aurata,Gilthead seabream,carbonic anhydrase-like,325.87,N,170,41.69,60.08,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_029970777.1,39283,Actinopteri,Actinopteri,Salarias fasciatus,Jewelled blenny,carbonic anhydrase-like,325.87,N,170,41.69,60.08,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_023829076.1,60777,Actinopteri,Actinopteri,Salvelinus alpinus,Arctic char,carbonic anhydrase 1,325.87,N,170,41.69,60.08,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AAA37356.1,2813,Mammalia,Mammalia,Mus musculus domesticus,Western European house mouse,carbonic anhydrase II,325.48,N,170,41.69,60.01,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TKS87444.1,28544,Actinopteri,Actinopteri,Collichthys lucidus,Big head croaker,Carbonic anhydrase 1,325.48,N,170,41.69,60.01,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_028592425.1,51188,Lepidosauria,Lepidosauria,Podarcis muralis,Common wall lizard,carbonic anhydrase 13-like,325.48,N,170,41.69,60.01,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_029380887.1,38275,Actinopteri,Actinopteri,Echeneis naucrates,Live sharksucker,carbonic anhydrase 2 isoform X1,325.48,N,170,41.69,60.01,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_031706242.1,41910,Actinopteri,Actinopteri,Anarrhichthys ocellatus,Wolf-eel,carbonic anhydrase 1,325.48,N,170,41.69,60.01,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_033841437.1,27064,Actinopteri,Actinopteri,Periophthalmus magnuspinnatus,Gobies,carbonic anhydrase 1-like,325.48,N,170,41.69,60.01,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_023805872.1,47277,Actinopteri,Actinopteri,Oryzias latipes,Japanese medaka,carbonic anhydrase 1 isoform X1,325.48,N,170,41.69,60.01,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_024248657.1,73754,Actinopteri,Actinopteri,Oncorhynchus tshawytscha,Chinook salmon,carbonic anhydrase 1-like,325.09,N,170,41.69,59.94,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,RXN05743.1,37694,Actinopteri,Actinopteri,Labeo rohita,Rohu,carbonic anhydrase-like protein,325.09,N,170,41.69,59.94,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AAV97962.1,209,Actinopteri,Actinopteri,Pseudopleuronectes americanus,Winter flounder,carbonic anhydrase,325.09,N,170,41.69,59.94,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,P83299.1,161,Actinopteri,Actinopteri,Chionodraco hamatus,Antarctic icefish,RecName: Full=Carbonic anhydrase 1; AltName: Full=Carbonate dehydratase I; AltName: Full=Carbonic anhydrase I; Short=CA-I; AltName: Full=Ice-CA,325.09,N,170,41.69,59.94,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_010765900.1,32357,Actinopteri,Actinopteri,Notothenia coriiceps,Black rockcod,PREDICTED: carbonic anhydrase 1,325.09,N,170,41.69,59.94,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014185787.1,45052,Actinopteri,Actinopteri,Haplochromis burtoni,Burton's mouthbrooder,PREDICTED: carbonic anhydrase-like,325.09,N,170,41.69,59.94,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_028425036.1,65046,Actinopteri,Actinopteri,Perca flavescens,Yellow perch,carbonic anhydrase 1,325.09,N,170,41.69,59.94,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AJA37524.1,200,Actinopteri,Actinopteri,Sciaenops ocellatus,Red drum,cytoplasmic carbonic anhydrase II,325.09,N,170,41.69,59.94,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_023127008.1,39307,Actinopteri,Actinopteri,Amphiprion ocellaris,Clown anemonefish,carbonic anhydrase 1,324.71,N,170,41.69,59.87,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017523557.1,41999,Mammalia,Mammalia,Manis javanica,Malayan pangolin,PREDICTED: carbonic anhydrase 13,324.71,N,170,41.69,59.87,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_029934947.1,38160,Actinopteri,Actinopteri,Myripristis murdjan,Pinecone soldierfish,carbonic anhydrase 1-like,324.71,N,170,41.69,59.87,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_032078590.1,30930,Lepidosauria,Lepidosauria,Thamnophis elegans,Western terrestrial garter snake,carbonic anhydrase 13-like,324.32,N,170,41.69,59.8,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ROL44615.1,23904,Actinopteri,Actinopteri,Anabarilius grahami,Carps and others,Carbonic anhydrase,324.32,N,170,41.69,59.8,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_029313465.1,37868,Actinopteri,Actinopteri,Cottoperca gobio,Thornfishes,carbonic anhydrase 1,323.94,N,170,41.69,59.73,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_015280961.1,24674,Lepidosauria,Lepidosauria,Gekko japonicus,Geckos,PREDICTED: carbonic anhydrase 13,323.55,N,170,41.69,59.66,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_028647554.1,35767,Cladistia,Cladistia,Erpetoichthys calabaricus,Reedfish,carbonic anhydrase-like isoform X1,323.55,N,170,41.69,59.66,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_022604505.1,32874,Actinopteri,Actinopteri,Seriola dumerili,Greater amberjack,carbonic anhydrase 1,323.55,N,170,41.69,59.66,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_005805777.2,43733,Actinopteri,Actinopteri,Xiphophorus maculatus,Southern platyfish,carbonic anhydrase 1-like,323.55,N,170,41.69,59.66,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_008570869.1,32194,Mammalia,Mammalia,Galeopterus variegatus,Sunda flying lemur,PREDICTED: carbonic anhydrase 2,323.55,N,170,41.69,59.66,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_008306375.1,39993,Actinopteri,Actinopteri,Cynoglossus semilaevis,Tongue sole,carbonic anhydrase 1-like,323.55,N,170,41.69,59.66,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_033011392.1,39483,Lepidosauria,Lepidosauria,Lacerta agilis,Sand lizard,carbonic anhydrase 13-like,323.55,N,170,41.69,59.66,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_032407211.1,46432,Actinopteri,Actinopteri,Xiphophorus hellerii,Green swordtail,carbonic anhydrase 1-like,323.55,N,170,41.69,59.66,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_013911685.1,25639,Lepidosauria,Lepidosauria,Thamnophis sirtalis,Colubrid snakes,PREDICTED: carbonic anhydrase 13,323.17,N,170,41.69,59.59,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_004551961.1,46436,Actinopteri,Actinopteri,Maylandia zebra,Zebra mbuna,carbonic anhydrase 1,322.78,N,170,41.69,59.52,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_027861055.1,47114,Actinopteri,Actinopteri,Xiphophorus couchianus,Monterrey platyfish,carbonic anhydrase 1-like,322.78,N,170,41.69,59.52,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAE8279708.1,94424,Actinopteri,Actinopteri,Larimichthys crocea,Large yellow croaker,Carbonic anhydrase 1,322.78,N,170,41.69,59.52,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_026035829.1,52755,Actinopteri,Actinopteri,Astatotilapia calliptera,Eastern happy,carbonic anhydrase 1-like,322.78,N,170,41.69,59.52,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_026796800.2,66299,Actinopteri,Actinopteri,Pangasianodon hypophthalmus,Striped catfish,carbonic anhydrase,322.78,N,170,41.69,59.52,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_009075187.1,28124,Aves,Aves,Acanthisitta chloris,Rifleman,"PREDICTED: carbonic anhydrase 13, partial",322.78,N,170,41.69,59.52,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_023287247.1,38822,Actinopteri,Actinopteri,Seriola lalandi dorsalis,Yellowtail amberjack,carbonic anhydrase 1,322.78,N,170,41.69,59.52,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_002819286.1,141140,Mammalia,Mammalia,Pongo abelii,Sumatran orangutan,carbonic anhydrase 2,322.78,N,170,41.69,59.52,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_034561956.1,38814,Actinopteri,Actinopteri,Notolabrus celidotus,New Zealand spotty,carbonic anhydrase 2,322.78,N,170,41.69,59.52,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ACU30149.1,79,Actinopteri,Actinopteri,Opsanus beta,Gulf toadfish,carbonic anhydrase,322.4,N,170,41.69,59.44,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_022529993.1,42865,Actinopteri,Actinopteri,Astyanax mexicanus,Mexican tetra,carbonic anhydrase 1-like,322.4,N,170,41.69,59.44,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_008291832.1,31742,Actinopteri,Actinopteri,Stegastes partitus,Bicolor damselfish,PREDICTED: carbonic anhydrase,322.4,N,170,41.69,59.44,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_034022502.1,36362,Actinopteri,Actinopteri,Thalassophryne amazonica,Poison toadfishes,carbonic anhydrase 1-like,322.4,N,170,41.69,59.44,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TRY64617.1,35332,Actinopteri,Actinopteri,Danionella translucida,Carps and others,hypothetical protein DNTS_017040,322.01,N,170,41.69,59.37,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_019739398.1,42020,Actinopteri,Actinopteri,Hippocampus comes,Tiger tail seahorse,PREDICTED: carbonic anhydrase-like,322.01,N,170,41.69,59.37,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_026561805.1,31817,Lepidosauria,Lepidosauria,Pseudonaja textilis,Eastern brown snake,carbonic anhydrase 13-like,321.63,N,170,41.69,59.3,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_031598617.1,34822,Actinopteri,Actinopteri,Oreochromis aureus,Blue tilapia,carbonic anhydrase-like,321.63,N,170,41.69,59.3,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_003439323.1,63355,Actinopteri,Actinopteri,Oreochromis niloticus,Nile tilapia,carbonic anhydrase 1,321.63,N,170,41.69,59.3,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014880813.1,47231,Actinopteri,Actinopteri,Poecilia latipinna,Sailfin molly,PREDICTED: carbonic anhydrase-like,321.24,N,170,41.69,59.23,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_007543613.1,49655,Actinopteri,Actinopteri,Poecilia formosa,Amazon molly,PREDICTED: carbonic anhydrase-like,321.24,N,170,41.69,59.23,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014828097.1,47806,Actinopteri,Actinopteri,Poecilia mexicana,Shortfin molly,PREDICTED: carbonic anhydrase-like,321.24,N,170,41.69,59.23,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_015813060.1,37068,Actinopteri,Actinopteri,Nothobranchius furzeri,Turquoise killifish,PREDICTED: carbonic anhydrase-like,321.24,N,170,41.69,59.23,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ADD83028.1,551,Mammalia,Mammalia,Lemur catta,Ring-tailed lemur,carbonic anhydrase II,320.86,N,170,41.69,59.16,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_034278254.1,41491,Lepidosauria,Lepidosauria,Pantherophis guttatus,Colubrid snakes,carbonic anhydrase 13-like,320.86,N,170,41.69,59.16,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF4076868.1,24479,Actinopteri,Actinopteri,Ameiurus melas,Black bullhead,hypothetical protein AMELA_G00219970,320.86,N,170,41.69,59.16,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_006795021.1,31419,Actinopteri,Actinopteri,Neolamprologus brichardi,Lyretail cichlid,PREDICTED: carbonic anhydrase 1-like,320.47,N,170,41.69,59.09,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TNM98310.1,20156,Actinopteri,Actinopteri,Takifugu bimaculatus,Puffers,hypothetical protein fugu_014556,320.47,N,170,41.69,59.09,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017571488.1,44448,Actinopteri,Actinopteri,Pygocentrus nattereri,Red-bellied piranha,PREDICTED: carbonic anhydrase 1-like,320.47,N,170,41.69,59.09,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_005730550.1,38742,Actinopteri,Actinopteri,Pundamilia nyererei,Cichlids,PREDICTED: carbonic anhydrase 1-like,320.09,N,170,41.69,59.02,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_032830553.1,40468,Hyperoartia,Hyperoartia,Petromyzon marinus,Sea lamprey,carbonic anhydrase 2-like,319.7,N,170,41.69,58.95,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AAQ89896.1,531,Actinopteri,Actinopteri,Oreochromis mossambicus,Mozambique tilapia,carbonic anhydrase,319.7,N,170,41.69,58.95,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_020786376.1,25367,Actinopteri,Actinopteri,Boleophthalmus pectinirostris,Great blue-spotted mudskipper,carbonic anhydrase 1-like,319.7,N,170,41.69,58.95,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_027013006.1,47806,Actinopteri,Actinopteri,Tachysurus fulvidraco,Yellow catfish,carbonic anhydrase 2,319.7,N,170,41.69,58.95,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_029686272.1,49042,Actinopteri,Actinopteri,Takifugu rubripes,Torafugu,carbonic anhydrase-like,319.7,N,170,41.69,58.95,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_013027853.1,31835,Aves,Aves,Anser cygnoides domesticus,Swan goose,PREDICTED: carbonic anhydrase 13-like isoform X2,319.7,N,170,41.69,58.95,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ETE72791.1,18686,Lepidosauria,Lepidosauria,Ophiophagus hannah,King cobra,Carbonic anhydrase 13,319.7,N,170,41.69,58.95,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,NIG58583.1,4395,Mammalia,Mammalia,Pontoporia blainvillei,Franciscana,carbonic anhydrase 3,319.32,N,170,41.69,58.88,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF0028427.1,53722,Actinopteri,Actinopteri,Scophthalmus maximus,Turbot,hypothetical protein F2P81_019514,319.32,N,170,41.69,58.88,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAB0394300.1,20274,Mammalia,Mammalia,Balaenoptera physalus,Fin whale,hypothetical protein E2I00_011740,318.93,N,170,41.69,58.81,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_022077412.1,36647,Actinopteri,Actinopteri,Acanthochromis polyacanthus,Spiny chromis,carbonic anhydrase-like,318.93,N,170,41.69,58.81,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_008394758.2,45397,Actinopteri,Actinopteri,Poecilia reticulata,Guppy,PREDICTED: carbonic anhydrase 1-like,318.55,N,170,41.69,58.73,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ACU30150.1,159,Actinopteri,Actinopteri,Trematomus eulepidotus,Blunt scalyhead,carbonic anhydrase,318.55,N,170,41.69,58.73,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_030219628.1,46937,Actinopteri,Actinopteri,Gadus morhua,Atlantic cod,carbonic anhydrase-like,318.16,N,170,41.69,58.66,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014352714.1,34488,Coelacanthimorpha,Coelacanthimorpha,Latimeria chalumnae,Coelacanth,PREDICTED: carbonic anhydrase 13,317.39,N,170,41.69,58.52,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_026547008.1,31322,Lepidosauria,Lepidosauria,Notechis scutatus,Mainland tiger snake,carbonic anhydrase 13-like,317,N,170,41.69,58.45,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TWW70744.1,29416,Actinopteri,Actinopteri,Takifugu flavidus,Sansaifugu,Carbonic anhydrase 1,315.85,N,170,41.69,58.24,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,PWA30799.1,19596,Actinopteri,Actinopteri,Gambusia affinis,Western mosquitofish,"hypothetical protein CCH79_00017340, partial",312.77,N,170,41.69,57.67,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ACQ58008.1,1369,Actinopteri,Actinopteri,Anoplopoma fimbria,Sablefish,Carbonic anhydrase,312.38,N,170,41.69,57.6,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_026863117.1,37845,Actinopteri,Actinopteri,Electrophorus electricus,Electric eel,carbonic anhydrase 2,312,N,170,41.69,57.53,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,OBS69623.1,24505,Mammalia,Mammalia,Neotoma lepida,Desert woodrat,hypothetical protein A6R68_01836,311.61,N,170,41.69,57.46,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_020459859.1,40888,Actinopteri,Actinopteri,Monopterus albus,Swamp eel,carbonic anhydrase 1-like,311.61,N,170,41.69,57.46,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_020663761.1,38806,Lepidosauria,Lepidosauria,Pogona vitticeps,Central bearded dragon,carbonic anhydrase 13-like,309.69,N,170,41.69,57.1,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_010566456.1,25371,Aves,Aves,Haliaeetus leucocephalus,Bald eagle,PREDICTED: carbonic anhydrase 2 isoform X1,308.92,N,170,41.69,56.96,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TSN21223.1,17264,Actinopteri,Actinopteri,Bagarius yarrelli,Goonch,Carbonic anhydrase,308.53,N,170,41.69,56.89,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_030914362.1,20676,Aves,Aves,Geospiza fortis,Medium ground-finch,carbonic anhydrase 2,306.99,N,170,41.69,56.6,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_006924167.1,59370,Mammalia,Mammalia,Pteropus alecto,Black flying fox,carbonic anhydrase 2,306.61,N,170,41.69,56.53,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AFK10663.1,32969,Chondrichthyes,Chondrichthyes,Callorhinchus milii,Elephant shark,erythrocyte carbonic anhydrase,306.22,N,170,41.69,56.46,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_019507169.1,46123,Mammalia,Mammalia,Hipposideros armiger,Great roundleaf bat,"PREDICTED: carbonic anhydrase 3, partial",303.14,N,170,41.69,55.89,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_027647014.1,31320,Aves,Aves,Falco peregrinus,Peregrine falcon,carbonic anhydrase 2 isoform X2,301.6,N,170,41.69,55.61,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014140613.1,30432,Aves,Aves,Falco cherrug,Saker falcon,carbonic anhydrase 2 isoform X2,300.44,N,170,41.69,55.4,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_009488393.1,28643,Aves,Aves,Pelecanus crispus,Dalmatian pelican,"PREDICTED: carbonic anhydrase 2, partial",300.06,N,170,41.69,55.33,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_010394798.1,29602,Aves,Aves,Corvus cornix cornix,Hooded crow,carbonic anhydrase 7,299.67,N,170,41.69,55.25,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ACU30153.1,1,Actinopteri,Actinopteri,Periophthalmus sobrinus,Gobies,carbonic anhydrase,298.13,N,170,41.69,54.97,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ACU30151.1,69,Actinopteri,Actinopteri,Trematomus lepidorhinus,Slender scalyhead,carbonic anhydrase,291.97,N,170,41.69,53.83,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_006099438.1,43977,Mammalia,Mammalia,Myotis lucifugus,Little brown bat,carbonic anhydrase 7 isoform X1,285.8,N,170,41.69,52.7,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,GCC22530.1,33620,Chondrichthyes,Chondrichthyes,Chiloscyllium punctatum,Brownbanded bambooshark,hypothetical protein,283.88,N,170,41.69,52.34,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,POI34853.1,18020,Aves,Aves,Bambusicola thoracicus,Chinese bamboo-partridge,"hypothetical protein CIB84_001397, partial",283.49,N,170,41.69,52.27,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_020372785.1,27961,Chondrichthyes,Chondrichthyes,Rhincodon typus,Whale shark,carbonic anhydrase 13-like,282.72,N,170,41.69,52.13,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,MBW02468.1,11098,Mammalia,Mammalia,Eschrichtius robustus,Grey whale,Carbonic anhydrase 7,282.34,N,170,41.69,52.06,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_032876090.1,38957,Chondrichthyes,Chondrichthyes,Amblyraja radiata,Thorny skate,carbonic anhydrase 13-like,279.26,N,170,41.69,51.49,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,QBB68860.1,16,Chondrichthyes,Chondrichthyes,Squalus mitsukurii,Shortspine spurdog,carbonic anhydrase XIII-like A,278.1,N,170,41.69,51.28,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,GCB72206.1,27742,Chondrichthyes,Chondrichthyes,Scyliorhinus torazame,Cloudy catshark,hypothetical protein,278.1,N,170,41.69,51.28,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_023721417.1,59780,Insecta,Insecta,Cryptotermes secundus,Powder-post termites,carbonic anhydrase 1,254.22,N,170,41.69,46.87,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,BAU68125.1,105,Insecta,Insecta,Nasutitermes takasagoensis,Nasute termites,carbonic anhydrase,250.37,N,170,41.69,46.16,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_021937600.1,44814,Insecta,Insecta,Zootermopsis nevadensis,Damp wood termites,carbonic anhydrase 1,249.21,N,170,41.69,45.95,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_033107726.1,32797,Crinoidea,Crinoidea,Anneissia japonica,Crinoids,carbonic anhydrase-like,246.9,N,170,41.69,45.52,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF0300262.1,28245,Hexanauplia,Hexanauplia,Amphibalanus amphitrite,Acorn barnacles,Carbonic anhydrase 2,241.12,N,170,41.69,44.46,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,QFP92278.1,65,Bivalvia,Bivalvia,Archivesica packardana,Bivalves,carbonic anhydrase,239.97,N,170,41.69,44.25,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_022332516.1,60512,Bivalvia,Bivalvia,Crassostrea virginica,Eastern oyster,carbonic anhydrase 2-like isoform X3,239.19,N,170,41.69,44.1,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_022117428.1,19658,Insecta,Insecta,Pieris rapae,Cabbage white,carbonic anhydrase 1-like,238.04,N,170,41.69,43.89,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_018906696.1,29011,Insecta,Insecta,Bemisia tabaci,Sweet potato whitefly,PREDICTED: carbonic anhydrase 13,238.04,N,170,41.69,43.89,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_022198124.1,26528,Insecta,Insecta,Nilaparvata lugens,Brown planthopper,carbonic anhydrase 1,237.65,N,170,41.69,43.82,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_026494780.1,18776,Insecta,Insecta,Vanessa tameamea,"Tortoiseshells, admirals &c.",carbonic anhydrase 1,237.27,N,170,41.69,43.75,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,NP_001040186.1,28455,Insecta,Insecta,Bombyx mori,Domestic silkworm,erythrocyte carbonic anhydrase,235.73,N,170,41.69,43.46,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_023949646.1,21983,Insecta,Insecta,Bicyclus anynana,Squinting bush brown,carbonic anhydrase 1,235.73,N,170,41.69,43.46,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAE9443738.1,22833,Insecta,Insecta,Apolygus lucorum,Plant bugs,hypothetical protein GE061_03382,235.34,N,170,41.69,43.39,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,CAB3385988.1,31082,Insecta,Insecta,Cloeon dipterum,Small minnow mayflies,Hypothetical predicted protein,234.19,N,170,41.69,43.18,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_028176334.1,24619,Insecta,Insecta,Ostrinia furnacalis,Asian corn borer,LOW QUALITY PROTEIN: carbonic anhydrase 1-like,233.8,N,170,41.69,43.11,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_032528872.1,34980,Insecta,Insecta,Danaus plexippus plexippus,Monarch butterfly,carbonic anhydrase 2-like,233.8,N,170,41.69,43.11,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_022098094.1,33296,Asteroidea,Asteroidea,Acanthaster planci,Crown-of-thorns starfish,carbonic anhydrase 1-like isoform X1,233.8,N,170,41.69,43.11,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ACO15216.1,1231,Hexanauplia,Hexanauplia,Caligus clemensi,Copepods,Carbonic anhydrase 2,232.65,N,170,41.69,42.9,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,QBL56985.1,603,Bivalvia,Bivalvia,Ruditapes philippinarum,Manila clam,carbonic anhydrase,232.26,N,170,41.69,42.83,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_025076363.1,62092,Gastropoda,Gastropoda,Pomacea canaliculata,Mesogastropoda,carbonic anhydrase 2-like isoform X2,232.26,N,170,41.69,42.83,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_019628987.1,35240,Leptocardii,Leptocardii,Branchiostoma belcheri,Belcher's lancelet,PREDICTED: carbonic anhydrase 2-like isoform X2,231.88,N,170,41.69,42.75,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,RZF35046.1,18432,Insecta,Insecta,Laodelphax striatellus,Small brown planthopper,hypothetical protein LSTR_LSTR009638,231.11,N,170,41.69,42.61,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ADD24230.1,3576,Hexanauplia,Hexanauplia,Lepeophtheirus salmonis,Salmon louse,Carbonic anhydrase 2,231.11,N,170,41.69,42.61,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_013135234.1,17824,Insecta,Insecta,Papilio polytes,Common Mormon,PREDICTED: carbonic anhydrase 2,231.11,N,170,41.69,42.61,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014356273.1,33325,Insecta,Insecta,Papilio machaon,Common yellow swallowtail,PREDICTED: carbonic anhydrase 2,230.34,N,170,41.69,42.47,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_034240013.1,27539,Insecta,Insecta,Thrips palmi,True thrips,carbonic anhydrase 13,230.34,N,170,41.69,42.47,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_013176208.1,39488,Insecta,Insecta,Papilio xuthus,Asian swallowtail,PREDICTED: carbonic anhydrase 2,229.56,N,170,41.69,42.33,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_006814117.1,22970,Enteropneusta,Enteropneusta,Saccoglossus kowalevskii,Acorn worms,PREDICTED: carbonic anhydrase 13-like,229.18,N,170,41.69,42.26,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ACO11717.1,1593,Hexanauplia,Hexanauplia,Caligus rogercresseyi,Copepods,Carbonic anhydrase 2,228.79,N,170,41.69,42.19,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_011556107.1,23000,Insecta,Insecta,Plutella xylostella,Diamondback moth,PREDICTED: carbonic anhydrase 1,227.64,N,170,41.69,41.97,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_026474423.1,22186,Insecta,Insecta,Ctenocephalides felis,Cat flea,carbonic anhydrase 13,227.25,N,170,41.69,41.9,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_026758928.1,20703,Insecta,Insecta,Galleria mellonella,Greater wax moth,carbonic anhydrase 2-like,227.25,N,170,41.69,41.9,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_002594303.1,29682,Leptocardii,Leptocardii,Branchiostoma floridae,Florida lancelet,"hypothetical protein BRAFLDRAFT_148849, partial",226.48,N,170,41.69,41.76,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_013194749.1,18524,Insecta,Insecta,Amyelois transitella,Snout moths,PREDICTED: carbonic anhydrase 2-like,225.71,N,170,41.69,41.62,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_782997.3,40378,Echinoidea,Echinoidea,Strongylocentrotus purpuratus,Purple sea urchin,carbonic anhydrase 2,225.71,N,170,41.69,41.62,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VVC90538.1,20058,Insecta,Insecta,Leptidea sinapis,"White, yellow and sulphur butterflies",unnamed protein product,225.71,N,170,41.69,41.62,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,BAO01209.1,28,Bivalvia,Bivalvia,Phreagena okutanii,Bivalves,carbonic anhydrase,225.71,N,170,41.69,41.62,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_009052992.1,47713,Gastropoda,Gastropoda,Lottia gigantea,Owl limpet,hypothetical protein LOTGIDRAFT_205401,225.33,N,170,41.69,41.55,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014275570.1,26429,Insecta,Insecta,Halyomorpha halys,Brown marmorated stink bug,carbonic anhydrase 13 isoform X3,223.4,N,170,41.69,41.19,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_013785730.1,39087,Merostomata,Merostomata,Limulus polyphemus,Atlantic horseshoe crab,carbonic anhydrase 2-like isoform X2,223.4,N,170,41.69,41.19,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_031563863.1,27085,Anthozoa,Anthozoa,Actinia tenebrosa,Australian red waratah sea anemone,carbonic anhydrase 2-like isoform X2,223.02,N,170,41.69,41.12,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,GBN44006.1,279008,Arachnida,Arachnida,Araneus ventricosus,Orb weavers,Carbonic anhydrase 1,223.02,N,170,41.69,41.12,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_021349087.1,64377,Bivalvia,Bivalvia,Mizuhopecten yessoensis,Yesso scallop,carbonic anhydrase 2-like isoform X3,222.63,N,170,41.69,41.05,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_029190656.1,35597,Anthozoa,Anthozoa,Acropora millepora,Staghorn corals,carbonic anhydrase 2-like,222.63,N,170,41.69,41.05,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_011447895.2,63743,Bivalvia,Bivalvia,Crassostrea gigas,Pacific oyster,carbonic anhydrase 2 isoform X4,222.25,N,170,41.69,40.98,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_008190586.1,42295,Insecta,Insecta,Tribolium castaneum,Red flour beetle,PREDICTED: carbonic anhydrase 1,222.25,N,170,41.69,40.98,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_028035017.1,19920,Insecta,Insecta,Bombyx mandarina,Wild silkworm,carbonic anhydrase-like,221.86,N,170,41.69,40.91,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_015771455.1,34225,Anthozoa,Anthozoa,Acropora digitifera,Staghorn corals,PREDICTED: carbonic anhydrase 2-like,221.48,N,170,41.69,40.84,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AAD32675.1,94,Anthozoa,Anthozoa,Anthopleura elegantissima,Clonal anemone,carbonic anhydrase,221.48,N,170,41.69,40.84,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_019768564.1,49511,Insecta,Insecta,Dendroctonus ponderosae,Mountain pine beetle,PREDICTED: carbonic anhydrase 13-like isoform X2,221.09,N,170,41.69,40.77,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_031619077.1,24972,Insecta,Insecta,Contarinia nasturtii,Swede midge,carbonic anhydrase,220.32,N,170,41.69,40.62,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ANJ59781.1,53890,Anthozoa,Anthozoa,Exaiptasia pallida,Sea anemones,alpha carbonic anhydrase 5,220.32,N,170,41.69,40.62,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_013112477.1,22827,Insecta,Insecta,Stomoxys calcitrans,Stable fly,PREDICTED: carbonic anhydrase 2,219.16,N,170,41.69,40.41,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_026273074.1,40708,Insecta,Insecta,Frankliniella occidentalis,Western flower thrips,carbonic anhydrase 13,219.16,N,170,41.69,40.41,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AJO69996.1,203,Malacostraca,Malacostraca,Cherax destructor,True lobsters and crayfishes,carbonic anhydrase,219.16,N,170,41.69,40.41,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_033754384.1,40008,Bivalvia,Bivalvia,Pecten maximus,Scallops,carbonic anhydrase 2-like isoform X2,218.78,N,170,41.69,40.34,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ANJ65961.1,76,Polychaeta,Polychaeta,Hydroides elegans,Calcareous tube worm,carbonic anhydrase,218.39,N,170,41.69,40.27,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014239786.1,24331,Insecta,Insecta,Cimex lectularius,Bed bug,carbonic anhydrase 1,217.62,N,170,41.69,40.13,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_009020278.1,46878,Clitellata,Clitellata,Helobdella robusta,Leeches,hypothetical protein HELRODRAFT_185695,217.24,N,170,41.69,40.06,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_001962789.1,45606,Insecta,Insecta,Drosophila ananassae,Fruit flies,carbonic anhydrase,217.24,N,170,41.69,40.06,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ATC20498.1,103,Bivalvia,Bivalvia,Tridacna squamosa,Bivalves,carbonic anhydrase 2,217.24,N,170,41.69,40.06,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_033625982.1,24292,Asteroidea,Asteroidea,Asterias rubens,European starfish,carbonic anhydrase 2-like,216.85,N,170,41.69,39.98,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017771112.1,19616,Insecta,Insecta,Nicrophorus vespilloides,Sexton beetles,PREDICTED: carbonic anhydrase,216.08,N,170,41.69,39.84,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014784758.1,62924,Cephalopoda,Cephalopoda,Octopus bimaculoides,Cephalopods,PREDICTED: carbonic anhydrase 2-like,216.08,N,170,41.69,39.84,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,RVE49348.1,16608,Insecta,Insecta,Chilo suppressalis,Striped riceborer,hypothetical protein evm_005963,216.08,N,170,41.69,39.84,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ABN51213.1,348,Malacostraca,Malacostraca,Callinectes sapidus,Blue crab,cytoplasmic carbonic anydrase,215.7,N,170,41.69,39.77,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ASU87567.1,314,Malacostraca,Malacostraca,Penaeus chinensis,Fleshy prawn,carbonic anhydrase,215.31,N,170,41.69,39.7,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_023227238.1,35601,Arachnida,Arachnida,Centruroides sculpturatus,Bark scorpion,carbonic anhydrase 1-like isoform X2,215.31,N,170,41.69,39.7,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_027224661.1,59967,Malacostraca,Malacostraca,Penaeus vannamei,Pacific white shrimp,carbonic anhydrase 1-like,215.31,N,170,41.69,39.7,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ANJ59758.1,90,Anthozoa,Anthozoa,Corallium rubrum,Soft corals,alpha carbonic anhydrase 3,215.31,N,170,41.69,39.7,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_020627507.1,32639,Anthozoa,Anthozoa,Orbicella faveolata,Stony corals,carbonic anhydrase 2-like,214.93,N,170,41.69,39.63,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_022696656.1,26233,Arachnida,Arachnida,Varroa jacobsoni,Mites and ticks,carbonic anhydrase 2-like isoform X2,214.54,N,170,41.69,39.56,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_022794253.1,57612,Anthozoa,Anthozoa,Stylophora pistillata,Stony corals,carbonic anhydrase 2-like isoform X1,214.54,N,170,41.69,39.56,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_022656089.1,30441,Arachnida,Arachnida,Varroa destructor,Honeybee mite,carbonic anhydrase 2-like isoform X3,214.54,N,170,41.69,39.56,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TMW46713.1,15898,Insecta,Insecta,Sarcophaga bullata,Grey fleshfly,hypothetical protein DOY81_008209,213.77,N,170,41.69,39.42,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,CRK88802.1,22648,Insecta,Insecta,Clunio marinus,Nonbiting midges,"CLUMA_CG002651, isoform A",213.77,N,170,41.69,39.42,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_029834458.1,54103,Arachnida,Arachnida,Ixodes scapularis,Black-legged tick,carbonic anhydrase 1 isoform X2,213.39,N,170,41.69,39.34,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ABF66618.1,9603,Insecta,Insecta,Anopheles gambiae,African malaria mosquito,putative cytoplasmic carbonic anhydrase,213.39,N,170,41.69,39.34,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_015371257.1,17635,Insecta,Insecta,Diuraphis noxia,Russian wheat aphid,PREDICTED: carbonic anhydrase 2,212.62,N,170,41.69,39.2,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AEV89793.1,952,Malacostraca,Malacostraca,Penaeus monodon,Black tiger shrimp,carbonic anhydrase I,212.62,N,170,41.69,39.2,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_033162428.1,24100,Insecta,Insecta,Drosophila mauritiana,Fruit flies,carbonic anhydrase,212.62,N,170,41.69,39.2,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AFV46144.1,99902,Malacostraca,Malacostraca,Portunus trituberculatus,Swimming crab,cytoplasmic carbonic anydrase,212.62,N,170,41.69,39.2,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017132586.1,24328,Insecta,Insecta,Drosophila elegans,Fruit flies,PREDICTED: carbonic anhydrase,212.62,N,170,41.69,39.2,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017108871.1,23646,Insecta,Insecta,Drosophila bipectinata,Fruit flies,PREDICTED: carbonic anhydrase,212.62,N,170,41.69,39.2,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_002035752.1,39995,Insecta,Insecta,Drosophila sechellia,Fruit flies,carbonic anhydrase,212.23,N,170,41.69,39.13,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_002079380.1,69950,Insecta,Insecta,Drosophila simulans,Fruit flies,CAH1,212.23,N,170,41.69,39.13,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_022916188.1,21694,Insecta,Insecta,Onthophagus taurus,Dung beetles & tumblebugs,carbonic anhydrase 2,212.23,N,170,41.69,39.13,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_019541540.1,59061,Insecta,Insecta,Aedes albopictus,Asian tiger mosquito,carbonic anhydrase-like,211.85,N,170,41.69,39.06,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF2352946.1,25903,Malacostraca,Malacostraca,Trinorchestia longiramus,"Beach hoppers, scuds and well shrimps",Alpha carbonic anhydrase,211.46,N,170,41.69,38.99,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017037303.1,22493,Insecta,Insecta,Drosophila kikkawai,Fruit flies,PREDICTED: carbonic anhydrase,211.46,N,170,41.69,38.99,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_011197781.1,23528,Insecta,Insecta,Bactrocera dorsalis,Oriental fruit fly,carbonic anhydrase,211.46,N,170,41.69,38.99,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,NP_523561.1,112827,Insecta,Insecta,Drosophila melanogaster,Fruit fly,carbonic anhydrase 1,211.46,N,170,41.69,38.99,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_018324449.1,22237,Insecta,Insecta,Agrilus planipennis,Emerald ash borer,carbonic anhydrase 13-like isoform X2,211.07,N,170,41.69,38.92,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_001650043.1,49405,Insecta,Insecta,Aedes aegypti,Yellow fever mosquito,carbonic anhydrase,211.07,N,170,41.69,38.92,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_030376760.1,19868,Insecta,Insecta,Scaptodrosophila lebanonensis,Pomace flies,carbonic anhydrase 2,211.07,N,170,41.69,38.92,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_012941697.1,28801,Gastropoda,Gastropoda,Aplysia californica,California sea hare,PREDICTED: carbonic anhydrase 1-like,211.07,N,170,41.69,38.92,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014088931.1,19286,Insecta,Insecta,Bactrocera oleae,Olive fruit fly,PREDICTED: carbonic anhydrase,210.69,N,170,41.69,38.85,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_001969581.1,42797,Insecta,Insecta,Drosophila erecta,Fruit flies,carbonic anhydrase,210.69,N,170,41.69,38.85,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_018802269.1,22766,Insecta,Insecta,Bactrocera latifrons,Fruit flies,PREDICTED: carbonic anhydrase,210.31,N,170,41.69,38.78,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AJO70180.1,83,Malacostraca,Malacostraca,Cherax cainii,True lobsters and crayfishes,carbonic anhydrase,210.31,N,170,41.69,38.78,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_002004045.1,42659,Insecta,Insecta,Drosophila mojavensis,Fruit flies,carbonic anhydrase,210.31,N,170,41.69,38.78,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_002088638.1,48506,Insecta,Insecta,Drosophila yakuba,Fruit flies,uncharacterized protein Dyak_GE18682,210.31,N,170,41.69,38.78,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_030766167.1,23713,Insecta,Insecta,Sitophilus oryzae,Rice weevil,carbonic anhydrase-like isoform X2,210.31,N,170,41.69,38.78,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_034134521.1,40506,Insecta,Insecta,Drosophila guanche,Fruit flies,carbonic anhydrase,210.31,N,170,41.69,38.78,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017859672.1,20062,Insecta,Insecta,Drosophila arizonae,Fruit flies,PREDICTED: carbonic anhydrase,210.31,N,170,41.69,38.78,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_030244334.1,35897,Insecta,Insecta,Drosophila navojoa,Fruit flies,carbonic anhydrase,210.31,N,170,41.69,38.78,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_015915787.1,27786,Arachnida,Arachnida,Parasteatoda tepidariorum,Common house spider,carbonic anhydrase 13 isoform X2,210.31,N,170,41.69,38.78,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_016962169.1,22747,Insecta,Insecta,Drosophila biarmipes,Fruit flies,PREDICTED: carbonic anhydrase,209.92,N,170,41.69,38.71,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_005185535.2,22176,Insecta,Insecta,Musca domestica,House fly,PREDICTED: carbonic anhydrase 2,209.92,N,170,41.69,38.71,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,NP_001280387.1,31402,Insecta,Insecta,Acyrthosiphon pisum,Pea aphid,carbonic anhydrase 2,209.92,N,170,41.69,38.71,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_002067054.1,34285,Insecta,Insecta,Drosophila willistoni,Fruit flies,carbonic anhydrase,209.92,N,170,41.69,38.71,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_027851455.1,19374,Insecta,Insecta,Aphis gossypii,Cotton aphid,carbonic anhydrase 2,209.92,N,170,41.69,38.71,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF4531764.1,18567,Insecta,Insecta,Ephemera danica,Common burrower mayflies,hypothetical protein B566_EDAN017132,209.92,N,170,41.69,38.71,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_020810622.1,20997,Insecta,Insecta,Drosophila serrata,Fruit flies,carbonic anhydrase,209.53,N,170,41.69,38.63,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017154741.1,33734,Insecta,Insecta,Drosophila miranda,Fruit flies,carbonic anhydrase,209.53,N,170,41.69,38.63,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_025200684.1,19134,Insecta,Insecta,Melanaphis sacchari,Aphids,carbonic anhydrase 2,209.53,N,170,41.69,38.63,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_001356245.1,29521,Insecta,Insecta,Drosophila pseudoobscura,Fruit flies,carbonic anhydrase,209.53,N,170,41.69,38.63,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AIW68600.1,442,Malacostraca,Malacostraca,Cherax quadricarinatus,Australian red claw crayfish,cytoplasmic carbonic anydrase,209.53,N,170,41.69,38.63,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_016944959.1,23394,Insecta,Insecta,Drosophila suzukii,Fruit flies,PREDICTED: carbonic anhydrase,209.53,N,170,41.69,38.63,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_002023196.1,37444,Insecta,Insecta,Drosophila persimilis,Fruit flies,carbonic anhydrase,209.53,N,170,41.69,38.63,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_032239445.1,60011,Anthozoa,Anthozoa,Nematostella vectensis,Starlet sea anemone,carbonic anhydrase 2,209.53,N,170,41.69,38.63,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_022225000.1,26945,Insecta,Insecta,Drosophila obscura,Fruit flies,carbonic anhydrase,209.53,N,170,41.69,38.63,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_027056998.1,51030,Anthozoa,Anthozoa,Pocillopora damicornis,Cauliflower coral,carbonic anhydrase 2-like,209.53,N,170,41.69,38.63,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_030569816.1,20257,Insecta,Insecta,Drosophila novamexicana,Fruit flies,carbonic anhydrase,209.15,N,170,41.69,38.56,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_022175198.1,24372,Insecta,Insecta,Myzus persicae,Green peach aphid,carbonic anhydrase 2,209.15,N,170,41.69,38.56,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_002057462.1,44776,Insecta,Insecta,Drosophila virilis,Fruit flies,carbonic anhydrase,209.15,N,170,41.69,38.56,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TRY77940.1,16351,Hexanauplia,Hexanauplia,Tigriopus californicus,Tidepool copepod,hypothetical protein TCAL_10905,209.15,N,170,41.69,38.56,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_023163826.1,21595,Insecta,Insecta,Drosophila hydei,Fruit flies,carbonic anhydrase,208.76,N,170,41.69,38.49,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017047961.1,23940,Insecta,Insecta,Drosophila ficusphila,Fruit flies,PREDICTED: carbonic anhydrase,208.38,N,170,41.69,38.42,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_021952689.1,54770,Collembola,Collembola,Folsomia candida,Smooth springtails,carbonic anhydrase 2-like,208.38,N,170,41.69,38.42,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017068136.1,24307,Insecta,Insecta,Drosophila eugracilis,Fruit flies,PREDICTED: carbonic anhydrase,208.38,N,170,41.69,38.42,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017014720.1,24128,Insecta,Insecta,Drosophila takahashii,Fruit flies,PREDICTED: carbonic anhydrase,207.61,N,170,41.69,38.28,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_026809564.1,19570,Insecta,Insecta,Rhopalosiphum maidis,Corn leaf aphid,carbonic anhydrase 2,207.61,N,170,41.69,38.28,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_016989668.1,23499,Insecta,Insecta,Drosophila rhopaloa,Fruit flies,PREDICTED: carbonic anhydrase,207.22,N,170,41.69,38.21,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_023293541.1,33825,Insecta,Insecta,Lucilia cuprina,Australian sheep blowfly,carbonic anhydrase 2,207.22,N,170,41.69,38.21,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_002428435.1,21849,Insecta,Insecta,Pediculus humanus corporis,Human body louse,"carbonic anhydrase, putative",207.22,N,170,41.69,38.21,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_025424038.1,21321,Insecta,Insecta,Sipha flava,Yellow sugarcane aphid,carbonic anhydrase 13,207.22,N,170,41.69,38.21,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,OQR66546.1,14365,Arachnida,Arachnida,Tropilaelaps mercedesae,Mites and ticks,carbonic anhydrase 2-like,206.84,N,170,41.69,38.14,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,CAB3239839.1,38602,Insecta,Insecta,Arctia plantaginis,Tiger moths,unnamed protein product,206.84,N,170,41.69,38.14,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_001988341.1,35106,Insecta,Insecta,Drosophila grimshawi,Fruit flies,carbonic anhydrase,206.84,N,170,41.69,38.14,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_013385618.1,41479,Lingulata,Lingulata,Lingula anatina,Lampshells,carbonic anhydrase 13-like,206.45,N,170,41.69,38.07,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_004521433.1,23782,Insecta,Insecta,Ceratitis capitata,Mediterranean fruit fly,carbonic anhydrase 13,205.3,N,170,41.69,37.85,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_019872321.1,17651,Insecta,Insecta,Aethina tumida,Small hive beetle,PREDICTED: carbonic anhydrase 1 isoform X2,204.91,N,170,41.69,37.78,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_034471815.1,19612,Insecta,Insecta,Drosophila innubila,Fruit flies,carbonic anhydrase,204.91,N,170,41.69,37.78,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,PAA94217.1,49034,Rhabditophora,Rhabditophora,Macrostomum lignano,Flatworms,hypothetical protein BOX15_Mlig016298g1,204.91,N,170,41.69,37.78,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_011190735.1,24719,Insecta,Insecta,Zeugodacus cucurbitae,Melon fly,carbonic anhydrase,204.91,N,170,41.69,37.78,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,CEF71786.1,37,Calcarea,Calcarea,Leucosolenia complicata,Sponges,"CA1 LcoCA1, partial",204.53,N,170,41.69,37.71,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,QEE82507.1,940,Malacostraca,Malacostraca,Procambarus clarkii,Red swamp crayfish,"putative carbonic anhydrase, partial",204.53,N,170,41.69,37.71,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014239068.1,21179,Insecta,Insecta,Trichogramma pretiosum,Trichogrammid wasps,carbonic anhydrase 2 isoform X2,204.14,N,170,41.69,37.64,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_015514080.1,16016,Insecta,Insecta,Neodiprion lecontei,Redheaded pine sawfly,PREDICTED: carbonic anhydrase 2,204.14,N,170,41.69,37.64,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ALF62133.1,5076,Bivalvia,Bivalvia,Mytilus galloprovincialis,Mediterranean mussel,carbonic anhydrase II,203.76,N,170,41.69,37.57,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_018564009.1,20920,Insecta,Insecta,Anoplophora glabripennis,Asian longhorned beetle,carbonic anhydrase isoform X2,203.76,N,170,41.69,37.57,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_012252872.1,22153,Insecta,Insecta,Athalia rosae,Coleseed sawfly,carbonic anhydrase 2 isoform X2,203.37,N,170,41.69,37.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ODN05569.1,20400,Collembola,Collembola,Orchesella cincta,Slender springtails,Carbonic anhydrase 2,203.37,N,170,41.69,37.5,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_034099610.1,23268,Insecta,Insecta,Drosophila albomicans,Fruit flies,carbonic anhydrase,203.37,N,170,41.69,37.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VEN63652.1,31374,Insecta,Insecta,Callosobruchus maculatus,Cowpea weevil,unnamed protein product,203.37,N,170,41.69,37.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_011136162.1,41890,Insecta,Insecta,Harpegnathos saltator,Jerdon's jumping ant,carbonic anhydrase 2 isoform X2,202.99,N,170,41.69,37.43,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,CEF71777.1,231,Calcarea,Calcarea,Sycon ciliatum,Sponges,"CA1 SciCA1, partial",202.99,N,170,41.69,37.43,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_016910225.1,21840,Insecta,Insecta,Apis cerana,Asiatic honeybee,carbonic anhydrase 1,202.99,N,170,41.69,37.43,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_006613987.1,20390,Insecta,Insecta,Apis dorsata,Giant honeybee,carbonic anhydrase 1,202.99,N,170,41.69,37.43,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAB7501929.1,14632,Malacostraca,Malacostraca,Armadillidium nasatum,Pillbugs,"Carbonic anhydrase 2, partial",202.99,N,170,41.69,37.43,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,PBC31674.1,10309,Insecta,Insecta,Apis cerana cerana,Asiatic honeybee,Carbonic anhydrase,202.99,N,170,41.69,37.43,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_031774064.1,18894,Insecta,Insecta,Apis florea,Little honeybee,carbonic anhydrase 1,202.99,N,170,41.69,37.43,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_392359.2,26782,Insecta,Insecta,Apis mellifera,Honey bee,carbonic anhydrase 1,202.99,N,170,41.69,37.43,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_002112817.1,23209,Trichoplacidae,Trichoplacidae,Trichoplax adhaerens,Placozoans,expressed hypothetical protein,202.6,N,170,41.69,37.36,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_032681091.1,29187,Insecta,Insecta,Odontomachus brunneus,"Wasps, ants, and bees",carbonic anhydrase 2,202.6,N,170,41.69,37.36,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VVC43868.1,22242,Insecta,Insecta,Cinara cedri,Aphids,"Alpha carbonic anhydrase,Carbonic anhydrase, alpha-class, conserved site",202.22,N,170,41.69,37.29,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_003745746.1,11978,Arachnida,Arachnida,Galendromus occidentalis,Western predatory mite,carbonic anhydrase,202.22,N,170,41.69,37.29,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017855333.1,31259,Insecta,Insecta,Drosophila busckii,Fruit flies,carbonic anhydrase 2,201.83,N,170,41.69,37.21,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017752938.1,26943,Insecta,Insecta,Eufriesea mexicana,Orchid bees,PREDICTED: carbonic anhydrase 2-like,201.83,N,170,41.69,37.21,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014612832.1,19304,Insecta,Insecta,Polistes canadensis,Paper wasps,PREDICTED: carbonic anhydrase 2 isoform X2,201.44,N,170,41.69,37.14,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017891795.1,23322,Insecta,Insecta,Ceratina calcarata,Carpenter bees,carbonic anhydrase,201.06,N,170,41.69,37.07,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_015188112.1,20990,Insecta,Insecta,Polistes dominula,European paper wasp,PREDICTED: carbonic anhydrase 2 isoform X2,201.06,N,170,41.69,37.07,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_003395501.1,22376,Insecta,Insecta,Bombus terrestris,Buff-tailed bumblebee,carbonic anhydrase 1,200.68,N,170,41.69,37,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014478625.1,22420,Insecta,Insecta,Dinoponera quadriceps,"Wasps, ants, and bees",PREDICTED: carbonic anhydrase 2,200.68,N,170,41.69,37,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_028131151.1,28182,Insecta,Insecta,Diabrotica virgifera virgifera,Western corn rootworm,carbonic anhydrase-like isoform X6,200.68,N,170,41.69,37,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_033299526.1,24024,Insecta,Insecta,Bombus bifarius,Bumble bees,carbonic anhydrase 1,199.9,N,170,41.69,36.86,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017485323.1,34625,Insecta,Insecta,Rhagoletis zephyria,Snowberry fruit fly,PREDICTED: carbonic anhydrase,199.9,N,170,41.69,36.86,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_003492009.1,24525,Insecta,Insecta,Bombus impatiens,Common eastern bumble bee,carbonic anhydrase 1,199.9,N,170,41.69,36.86,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_033360518.1,24081,Insecta,Insecta,Bombus vosnesenskii,Bumble bees,carbonic anhydrase 1-like,199.9,N,170,41.69,36.86,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_012219871.1,21807,Insecta,Insecta,Linepithema humile,Argentine ant,PREDICTED: carbonic anhydrase 2 isoform X2,199.9,N,170,41.69,36.86,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_033191456.1,24326,Insecta,Insecta,Bombus vancouverensis nearcticus,Bumble bees,carbonic anhydrase 1,199.9,N,170,41.69,36.86,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_001600913.1,33927,Insecta,Insecta,Nasonia vitripennis,Jewel wasp,carbonic anhydrase 2 isoform X4,199.9,N,170,41.69,36.86,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_011342748.1,53796,Insecta,Insecta,Ooceraea biroi,Clonal raider ant,carbonic anhydrase 2 isoform X2,199.52,N,170,41.69,36.79,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_015124764.1,19520,Insecta,Insecta,Diachasma alloeum,"Wasps, ants, and bees",carbonic anhydrase 2 isoform X2,199.13,N,170,41.69,36.72,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,RDD42890.1,12174,Trichoplacidae,Trichoplacidae,Trichoplax sp. H2,Placozoans,Carbonic anhydrase 2,198.75,N,170,41.69,36.65,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ELT87930.1,32034,Polychaeta,Polychaeta,Capitella teleta,Capitella sp. MKJ-2016,hypothetical protein CAPTEDRAFT_224291,198.75,N,170,41.69,36.65,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_011637070.1,19250,Insecta,Insecta,Pogonomyrmex barbatus,Red harvester ant,carbonic anhydrase 2,198.75,N,170,41.69,36.65,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,CAD29128.1,185,Polychaeta,Polychaeta,Riftia pachyptila,Tube worm,carbonic anhydrase,198.36,N,170,41.69,36.58,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_012528643.1,23264,Insecta,Insecta,Monomorium pharaonis,Pharaoh ant,carbonic anhydrase 2 isoform X2,198.36,N,170,41.69,36.58,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017790715.1,25093,Insecta,Insecta,Habropoda laboriosa,Digger bees,PREDICTED: carbonic anhydrase 2-like,197.98,N,170,41.69,36.5,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AIM43574.1,201,Malacostraca,Malacostraca,Halocaridina rubra,Hawaiian volcano shrimp,"carbonic anhydrase C, partial",197.59,N,170,41.69,36.43,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_011269432.1,38868,Insecta,Insecta,Camponotus floridanus,Florida carpenter ant,carbonic anhydrase 2,197.21,N,170,41.69,36.36,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_015598041.1,32236,Insecta,Insecta,Cephus cinctus,Wheat stem sawfly,carbonic anhydrase 2 isoform X2,197.21,N,170,41.69,36.36,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_029665079.1,22522,Insecta,Insecta,Formica exsecta,"Wasps, ants, and bees",carbonic anhydrase 2 isoform X3,197.21,N,170,41.69,36.36,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF2884963.1,27570,Insecta,Insecta,Ignelater luminosus,Click beetles,"hypothetical protein ILUMI_21240, partial",197.21,N,170,41.69,36.36,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_029043831.1,24844,Insecta,Insecta,Osmia bicornis bicornis,Red mason bee,carbonic anhydrase 1-like,196.82,N,170,41.69,36.29,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_012153970.1,26086,Insecta,Insecta,Megachile rotundata,Alfalfa leafcutting bee,PREDICTED: carbonic anhydrase 2 isoform X1,196.82,N,170,41.69,36.29,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_034177090.1,25969,Insecta,Insecta,Osmia lignaria,Orchard mason bee,carbonic anhydrase 1-like,196.82,N,170,41.69,36.29,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_011502617.1,12848,Insecta,Insecta,Ceratosolen solmsi marchali,Fig wasps,PREDICTED: carbonic anhydrase 2 isoform X2,196.82,N,170,41.69,36.29,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_029165550.1,24986,Insecta,Insecta,Nylanderia fulva,"Wasps, ants, and bees",carbonic anhydrase 2,196.82,N,170,41.69,36.29,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_020281737.1,23521,Insecta,Insecta,Pseudomyrmex gracilis,"Wasps, ants, and bees",carbonic anhydrase 2,196.44,N,170,41.69,36.22,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_011305973.1,18958,Insecta,Insecta,Fopius arisanus,"Wasps, ants, and bees",PREDICTED: carbonic anhydrase 2 isoform X2,196.44,N,170,41.69,36.22,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TGZ54523.1,13122,Insecta,Insecta,Temnothorax longispinosus,"Wasps, ants, and bees",Carbonic anhydrase 2,196.05,N,170,41.69,36.15,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_024875028.1,27309,Insecta,Insecta,Temnothorax curvispinosus,"Wasps, ants, and bees",carbonic anhydrase 2 isoform X3,196.05,N,170,41.69,36.15,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_033226988.1,25334,Insecta,Insecta,Belonocnema treatae,Oak gall wasps,carbonic anhydrase 2 isoform X2,195.67,N,170,41.69,36.08,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,EFX86103.1,33742,Branchiopoda,Branchiopoda,Daphnia pulex,Common water flea,alpha-carbonic anhydrase,195.67,N,170,41.69,36.08,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_031833375.1,25323,Insecta,Insecta,Nomia melanderi,Alkali bee,carbonic anhydrase 1 isoform X1,195.67,N,170,41.69,36.08,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_015439858.1,23639,Insecta,Insecta,Dufourea novaeangliae,Bees,PREDICTED: carbonic anhydrase 2-like,195.28,N,170,41.69,36.01,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KZS18556.1,55132,Branchiopoda,Branchiopoda,Daphnia magna,Common water fleas,Carbonic anhydrase 1,194.9,N,170,41.69,35.94,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AWH57220.1,156,Malacostraca,Malacostraca,Palaemon carinicauda,Palaemonid shrimps,cytoplasmic carbonic anhydrase,194.9,N,170,41.69,35.94,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_011169766.1,25598,Insecta,Insecta,Solenopsis invicta,Red fire ant,carbonic anhydrase 2 isoform X2,194.9,N,170,41.69,35.94,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_018402375.1,31479,Insecta,Insecta,Cyphomyrmex costatus,"Wasps, ants, and bees",PREDICTED: carbonic anhydrase 2,194.51,N,170,41.69,35.86,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF0757367.1,32310,Insecta,Insecta,Aphis craccivora,Cowpea aphid,carbonic anhydrase 2,194.51,N,170,41.69,35.86,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_018343775.1,35683,Insecta,Insecta,Trachymyrmex septentrionalis,"Wasps, ants, and bees",PREDICTED: carbonic anhydrase 2 isoform X2,194.51,N,170,41.69,35.86,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_011701792.1,24351,Insecta,Insecta,Wasmannia auropunctata,Little fire ant,PREDICTED: carbonic anhydrase 2 isoform X2,194.51,N,170,41.69,35.86,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,CAB0031994.1,14108,Insecta,Insecta,Trichogramma brassicae,Trichogrammid wasps,unnamed protein product,194.51,N,170,41.69,35.86,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_018313280.1,33373,Insecta,Insecta,Trachymyrmex zeteki,"Wasps, ants, and bees",PREDICTED: carbonic anhydrase 2 isoform X2,194.51,N,170,41.69,35.86,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_011876230.1,26316,Insecta,Insecta,Vollenhovia emeryi,"Wasps, ants, and bees",PREDICTED: carbonic anhydrase 2 isoform X1,194.51,N,170,41.69,35.86,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_018047878.1,31131,Insecta,Insecta,Atta colombica,Leaf cutting ants,PREDICTED: carbonic anhydrase 2 isoform X2,194.51,N,170,41.69,35.86,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFB52334.1,19894,Insecta,Insecta,Anopheles sinensis,Mosquitos,hypothetical protein ZHAS_00020540,194.51,N,170,41.69,35.86,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_028400423.1,28760,Anthozoa,Anthozoa,Dendronephthya gigantea,Soft corals,LOW QUALITY PROTEIN: carbonic anhydrase 7-like,194.51,N,170,41.69,35.86,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_018369203.1,40046,Insecta,Insecta,Trachymyrmex cornetzi,"Wasps, ants, and bees",PREDICTED: carbonic anhydrase 2 isoform X2,194.13,N,170,41.69,35.79,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014212494.1,17495,Insecta,Insecta,Copidosoma floridanum,"Wasps, ants, and bees",carbonic anhydrase 2,192.97,N,170,41.69,35.58,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_011067543.1,34244,Insecta,Insecta,Acromyrmex echinatior,Panamanian leafcutter ant,PREDICTED: carbonic anhydrase 2 isoform X2,192.97,N,170,41.69,35.58,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_033323330.1,22393,Insecta,Insecta,Megalopta genalis,Sweat bees,carbonic anhydrase 2,192.59,N,170,41.69,35.51,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_023342003.1,30614,Hexanauplia,Hexanauplia,Eurytemora affinis,Copepods,carbonic anhydrase-like,192.59,N,170,41.69,35.51,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_031356881.1,48187,Insecta,Insecta,Photinus pyralis,Common eastern firefly,carbonic anhydrase 2-like,191.81,N,170,41.69,35.37,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,QED21969.1,89,Nemertodermatida,Nemertodermatida,Meara stichopi,Metazoans,"alpha carbonic anhydrase, partial",191.04,N,170,41.69,35.23,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_001843481.1,38591,Insecta,Insecta,Culex quinquefasciatus,Southern house mosquito,carbonic anhydrase,190.27,N,170,41.69,35.08,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_008546654.1,18603,Insecta,Insecta,Microplitis demolitor,"Wasps, ants, and bees",PREDICTED: carbonic anhydrase 2 isoform X2,189.89,N,170,41.69,35.01,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,RWS28690.1,14705,Arachnida,Arachnida,Leptotrombidium deliense,Scrub typhus mite,carbonic anhydrase-like protein 2,188.35,N,170,41.69,34.73,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,RWS09430.1,19015,Arachnida,Arachnida,Dinothrombium tinctorium,Velvet mites,carbonic anhydrase-like protein 2,187.96,N,170,41.69,34.66,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFD51468.1,38519,Enoplea,Enoplea,Trichuris suis,Pig whipworm,"hypothetical protein M513_07681, partial",184.11,N,170,41.69,33.95,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AAC64172.1,314,Actinopteri,Actinopteri,Platichthys flesus,European flounder,carbonic anhydrase,182.96,N,170,41.69,33.73,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,RUS71296.1,23933,Gastropoda,Gastropoda,Elysia chlorotica,Eastern emerald elysia,hypothetical protein EGW08_020939,181.41,N,170,41.69,33.45,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,CDW52291.1,9847,Enoplea,Enoplea,Trichuris trichiura,Human whipworm,carbonic anhydrase,178.72,N,170,41.69,32.95,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_012054933.1,10762,Insecta,Insecta,Atta cephalotes,Leaf cutting ants,PREDICTED: carbonic anhydrase 2,178.33,N,170,41.69,32.88,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_018653834.1,26445,Trematoda,Trematoda,Schistosoma mansoni,Blood flukes,putative carbonic anhydrase II (carbonate dehydratase II),177.95,N,170,41.69,32.81,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,CBY20656.1,31306,Appendicularia,Appendicularia,Oikopleura dioica,Appendicularians,unnamed protein product,177.95,N,170,41.69,32.81,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,THD20298.1,12688,Trematoda,Trematoda,Fasciola hepatica,Liver fluke,Carbonic anhydrase VII,177.56,N,170,41.69,32.74,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TNN08024.1,37150,Trematoda,Trematoda,Schistosoma japonicum,Blood flukes,Carbonic anhydrase 2 isoform 3,176.41,N,170,41.69,32.53,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAA0184103.1,11875,Trematoda,Trematoda,Fasciolopsis buski,Flukes,Eukaryotic-type carbonic anhydrase,175.64,N,170,41.69,32.38,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VUZ45877.1,30634,Cestoda,Cestoda,Hymenolepis diminuta,Rat tapeworm,unnamed protein product,175.25,N,170,41.69,32.31,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KRX83051.1,19492,Enoplea,Enoplea,Trichinella sp. T6,Roundworms,Carbonic anhydrase 2,173.33,N,170,41.69,31.96,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,CCJ09593.1,107,Gastropoda,Gastropoda,Patella vulgata,Common limpet,carbonic anhydrase,172.94,N,170,41.69,31.89,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_002121562.1,23440,Ascidiacea,Ascidiacea,Ciona intestinalis,Vase tunicate,carbonic anhydrase 2-like isoform X2,172.94,N,170,41.69,31.89,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AXE28379.1,24,Branchiopoda,Branchiopoda,Daphnia tibetana,Common water fleas,carbonic anhydrase,171.01,N,170,41.69,31.53,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KRZ89779.1,18432,Enoplea,Enoplea,Trichinella sp. T8,Roundworms,Carbonic anhydrase 2,171.01,N,170,41.69,31.53,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KRY71373.1,81560,Enoplea,Enoplea,Trichinella pseudospiralis,Roundworms,Carbonic anhydrase 3,171.01,N,170,41.69,31.53,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KRX49689.1,18644,Enoplea,Enoplea,Trichinella murrelli,Trichinella sp. T5,Carbonic anhydrase 2,170.63,N,170,41.69,31.46,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KRY17411.1,19506,Enoplea,Enoplea,Trichinella patagoniensis,Trichinella sp. SJK-2011,Carbonic anhydrase 2,170.63,N,170,41.69,31.46,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KRZ78692.1,16253,Enoplea,Enoplea,Trichinella papuae,Roundworms,Carbonic anhydrase 3,170.24,N,170,41.69,31.39,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AKS48148.1,293,Bivalvia,Bivalvia,Mytilus coruscus,Bivalves,"carbonic anhydrase-like protein, partial",168.32,N,170,41.69,31.04,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_027194876.1,13039,Arachnida,Arachnida,Dermatophagoides pteronyssinus,European house dust mite,carbonic anhydrase 1-like,168.32,N,170,41.69,31.04,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KRX64039.1,18540,Enoplea,Enoplea,Trichinella sp. T9,Roundworms,Carbonic anhydrase 2,168.32,N,170,41.69,31.04,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KRZ13354.1,19285,Enoplea,Enoplea,Trichinella zimbabwensis,Roundworms,Carbonic anhydrase 3,167.55,N,170,41.69,30.89,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_004207820.2,23139,Hydrozoa,Hydrozoa,Hydra vulgaris,Hydras,PREDICTED: carbonic anhydrase 1-like,166.01,N,170,41.69,30.61,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KOB79366.1,17113,Insecta,Insecta,Operophtera brumata,Winter moth,Erythrocyte carbonic anhydrase,166.01,N,170,41.69,30.61,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KRY30047.1,35911,Enoplea,Enoplea,Trichinella spiralis,Roundworms,Carbonic anhydrase 7,165.24,N,170,41.69,30.47,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TKR73144.1,36673,Chromadorea,Chromadorea,Steinernema carpocapsae,Steinernema sp. LE-2017,hypothetical protein L596_020488,165.24,N,170,41.69,30.47,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KRY57496.1,20888,Enoplea,Enoplea,Trichinella britovi,Roundworms,Carbonic anhydrase 7,165.24,N,170,41.69,30.47,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KRX24158.1,17020,Enoplea,Enoplea,Trichinella nelsoni,Roundworms,Carbonic anhydrase 7,165.24,N,170,41.69,30.47,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,OUC47291.1,27811,Enoplea,Enoplea,Trichinella nativa,Roundworms,"carbonate dehydratase, eukaryotic-type",164.85,N,170,41.69,30.4,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VDD76318.1,10609,Cestoda,Cestoda,Mesocestoides corti,Tapeworms,unnamed protein product,164.85,N,170,41.69,30.4,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,QBG50199.1,476,Malacostraca,Malacostraca,Macrobrachium nipponense,Oriental river prawn,glycosyl-phosphatidylinositol-linked carbonic anydrase,164.85,N,170,41.69,30.4,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_024349082.1,36472,Cestoda,Cestoda,Echinococcus granulosus,Tapeworms,Carbonic anhydrase,163.31,N,170,41.69,30.11,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,RNA03305.1,52949,Monogononta,Monogononta,Brachionus plicatilis,Rotifers,carbonic anhydrase,162.16,N,170,41.69,29.9,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_015784735.1,16232,Arachnida,Arachnida,Tetranychus urticae,Two-spotted spider mite,carbonic anhydrase-related protein 10-like,160.61,N,170,41.69,29.61,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ACI13848.1,389,Myxini,Myxini,Eptatretus stoutii,Pacific hagfish,carbonic anhydrase XV-like protein,159.84,N,170,41.69,29.47,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,CDJ90924.1,19605,Chromadorea,Chromadorea,Haemonchus contortus,Barber pole worm,unnamed protein product,158.69,N,170,41.69,29.26,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,CDS38061.1,11445,Cestoda,Cestoda,Echinococcus multilocularis,Tapeworms,carbonic anhydrase II,158.69,N,170,41.69,29.26,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_018019224.1,32118,Malacostraca,Malacostraca,Hyalella azteca,"Beach hoppers, scuds and well shrimps",PREDICTED: carbonic anhydrase 2-like,156.38,N,170,41.69,28.83,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,EYB99595.1,81567,Chromadorea,Chromadorea,Ancylostoma ceylanicum,Roundworms,hypothetical protein Y032_0121g1025,155.99,N,170,41.69,28.76,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_013069886.1,37571,Gastropoda,Gastropoda,Biomphalaria glabrata,Bloodfluke planorb,PREDICTED: carbonic anhydrase-related protein 10-like,155.61,N,170,41.69,28.69,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,GAU95394.1,23050,Eutardigrada,Eutardigrada,Ramazzottius varieornatus,Water bears,hypothetical protein RvY_07018,154.84,N,170,41.69,28.55,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AYN64225.1,288,Bivalvia,Bivalvia,Hyriopsis cumingii,Bivalves,carbonic anhydrase,154.45,N,170,41.69,28.48,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VDO13599.1,13708,Cestoda,Cestoda,Rodentolepis nana,Tapeworms,unnamed protein product,152.91,N,170,41.69,28.19,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,OTF79771.1,15267,Arachnida,Arachnida,Euroglyphus maynei,House-dust mites,carbonic anhydrase 2-like protein,152.14,N,170,41.69,28.05,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AAX16122.1,16,Bivalvia,Bivalvia,Tridacna gigas,Bivalves,carbonic anhydrase precursor,151.75,N,170,41.69,27.98,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF3424697.1,11133,Insecta,Insecta,Frieseomelitta varia,Stingless bees,hypothetical protein E2986_13587,151.37,N,170,41.69,27.91,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VDK88771.1,10063,Chromadorea,Chromadorea,Litomosoides sigmodontis,Roundworms,unnamed protein product,149.83,N,170,41.69,27.63,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_311219.3,28139,Insecta,Insecta,Anopheles gambiae str. PEST,African malaria mosquito,"AGAP000688-PA, partial",149.44,N,170,41.69,27.55,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,CDS34476.2,12407,Cestoda,Cestoda,Hymenolepis microstoma,Tapeworms,carbonic anhydrase 2,149.06,N,170,41.69,27.48,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VDO38812.1,15878,Chromadorea,Chromadorea,Brugia timori,Roundworms,unnamed protein product,148.67,N,170,41.69,27.41,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_001897952.1,43408,Chromadorea,Chromadorea,Brugia malayi,Agent of lymphatic filariasis,Putative carbonic anhydrase 5 precursor,148.67,N,170,41.69,27.41,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,RCN46765.1,30338,Chromadorea,Chromadorea,Ancylostoma caninum,Dog hookworm,"carbonate dehydratase, eukaryotic-type",148.29,N,170,41.69,27.34,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,BAJ52887.1,755,Bivalvia,Bivalvia,Pinctada fucata,Pearl-oysters,carbonic anhydrase-related protein VIII,148.29,N,170,41.69,27.34,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,QED21968.1,135,Acoela,Acoela,Isodiametra pulchra,Metazoans,"alpha carbonic anhydrase, partial",147.9,N,170,41.69,27.27,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_012279370.1,19714,Insecta,Insecta,Orussus abietinus,Parasitic wood wasps,carbonic anhydrase-related protein 10,147.52,N,170,41.69,27.2,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF4652316.1,101811,Perkinsida,Perkinsida,Perkinsus olseni,Alveolates,hypothetical protein FOZ61_009761,145.98,N,170,41.69,26.92,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_003144534.1,30909,Chromadorea,Chromadorea,Loa loa,Eye worm,carbonic anhydrase 3,145.59,N,170,41.69,26.84,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_002788787.1,47274,Perkinsida,Perkinsida,Perkinsus marinus ATCC 50983,Alveolates,"Carbonic anhydrase, putative",145.59,N,170,41.69,26.84,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KHN82629.1,38973,Chromadorea,Chromadorea,Toxocara canis,Dog roundworm,Putative carbonic anhydrase 3,145.21,N,170,41.69,26.77,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_023024956.1,20099,Insecta,Insecta,Leptinotarsa decemlineata,Colorado potato beetle,carbonic anhydrase-related protein 10-like,144.82,N,170,41.69,26.7,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAE9553456.1,10997,Chromadorea,Chromadorea,Halicephalobus sp. NKZ332,Roundworms,hypothetical protein FO519_003328,143.66,N,170,41.69,26.49,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,RJW64153.1,28618,Trematoda,Trematoda,Clonorchis sinensis,Oriental liver fluke,"Carbonic anhydrase-related protein 10, partial",143.28,N,170,41.69,26.42,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ETN61767.1,10783,Insecta,Insecta,Anopheles darlingi,American malaria mosquito,hypothetical protein AND_006568,142.9,N,170,41.69,26.35,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,BAH03533.1,1008,Mammalia,Mammalia,Sus scrofa domesticus,Domestic pig,carbonic anhydrase VI,142.9,N,170,41.69,26.35,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VDM96725.1,11025,Chromadorea,Chromadorea,Thelazia callipaeda,Thelaziosis nematode,unnamed protein product,142.51,N,170,41.69,26.28,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,NP_001309492.1,70847,Chromadorea,Chromadorea,Caenorhabditis elegans,Roundworm,Putative carbonic anhydrase-like protein 1,142.51,N,170,41.69,26.28,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VDK75578.1,20032,Cestoda,Cestoda,Dibothriocephalus latus,Broad fish tapeworm,unnamed protein product,142.12,N,170,41.69,26.21,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,OZC10221.1,24241,Chromadorea,Chromadorea,Onchocerca flexuosa,Roundworms,"carbonate dehydratase, eukaryotic-type",141.74,N,170,41.69,26.13,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TPP63755.1,13277,Trematoda,Trematoda,Fasciola gigantica,Flukes,Carbonic anhydrase XII,141.35,N,170,41.69,26.06,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,CAB3400847.1,15165,Chromadorea,Chromadorea,Caenorhabditis bovis,Roundworms,unnamed protein product,140.97,N,170,41.69,25.99,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1746726.1,141982,Chromadorea,Chromadorea,Caenorhabditis remanei,Roundworms,hypothetical protein GCK72_023183,140.58,N,170,41.69,25.92,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VDM10769.1,32680,Chromadorea,Chromadorea,Wuchereria bancrofti,Agent of lymphatic filariasis,unnamed protein product,140.2,N,170,41.69,25.85,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,RXG71828.1,19212,Malacostraca,Malacostraca,Armadillidium vulgare,Common pillbug,Carbonic anhydrase 2,139.81,N,170,41.69,25.78,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,PIA59108.1,41241,Magnoliopsida,Magnoliopsida,Aquilegia coerulea,Rocky Mountain columbine,hypothetical protein AQUCO_00400159v1,139.81,N,170,41.69,25.78,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,OAF65747.1,8724,Rhopaluridae,Rhopaluridae,Intoshia linei,Metazoans,hypothetical protein A3Q56_06529,139.43,N,170,41.69,25.71,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_002643620.1,42510,Chromadorea,Chromadorea,Caenorhabditis briggsae,Caenorhabditis briggsae AF16,C. briggsae CBR-CAH-3 protein,139.04,N,170,41.69,25.64,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,PIC15404.1,44576,Chromadorea,Chromadorea,Caenorhabditis nigoni,Caenorhabditis sp. 9 JU1325,hypothetical protein B9Z55_022392,139.04,N,170,41.69,25.64,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1743103.1,5734,Myxozoa,Myxozoa,Myxobolus squamalis,Actinosporeans,LOW QUALITY PROTEIN: hypothetical protein MXB_1862,138.66,N,170,41.69,25.57,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,EGT58155.1,31595,Chromadorea,Chromadorea,Caenorhabditis brenneri,Caenorhabditis n. sp. CB5161,hypothetical protein CAEBREN_06957,137.5,N,170,41.69,25.35,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,OZG25245.1,25622,Chromadorea,Chromadorea,Caenorhabditis latens,Caenorhabditis sp. 23 KK-2011,"hypothetical protein FL83_00253, partial",137.12,N,170,41.69,25.28,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF1314015.1,20500,Trematoda,Trematoda,Schistosoma haematobium,Blood flukes,carbonic anhydrase-related protein,135.96,N,170,41.69,25.07,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KJE88354.1,18911,Filasterea,Filasterea,Capsaspora owczarzaki ATCC 30864,Nuclearia sp. ATCC_30864,eukaryotic-type carbonic anhydrase,135.19,N,170,41.69,24.93,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AAZ03744.1,521,Chondrichthyes,Chondrichthyes,Squalus acanthias,Spiny dogfish,carbonic anhydrase 4,134.81,N,170,41.69,24.86,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VDM00560.1,20287,Cestoda,Cestoda,Schistocephalus solidus,Tapeworms,unnamed protein product,134.03,N,170,41.69,24.71,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VBB34076.1,10213,Chromadorea,Chromadorea,Acanthocheilonema viteae,Roundworms,"unnamed protein product, partial",134.03,N,170,41.69,24.71,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VDD96762.1,12969,Chromadorea,Chromadorea,Enterobius vermicularis,Human pinworm,unnamed protein product,133.65,N,170,41.69,24.64,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VDK50156.1,21525,Chromadorea,Chromadorea,Anisakis simplex,Herring worm,unnamed protein product,133.26,N,170,41.69,24.57,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VZH89323.1,22428,Cestoda,Cestoda,Sparganum proliferum,Tapeworms,unnamed protein product,132.88,N,170,41.69,24.5,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_024500309.1,24982,Chromadorea,Chromadorea,Strongyloides ratti,Roundworms,Alpha carbonic anhydrase domain-containing protein,132.11,N,170,41.69,24.36,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF4675388.1,10804,Perkinsida,Perkinsida,Perkinsus chesapeaki,Alveolates,hypothetical protein FOL47_007846,131.72,N,170,41.69,24.29,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VDN53247.1,11204,Chromadorea,Chromadorea,Dracunculus medinensis,Guinea worm,unnamed protein product,130.57,N,170,41.69,24.07,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,PSN32015.1,30150,Insecta,Insecta,Blattella germanica,German cockroach,hypothetical protein C0J52_18083,130.57,N,170,41.69,24.07,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VDM91630.1,13785,Chromadorea,Chromadorea,Onchocerca ochengi,Roundworms,"unnamed protein product, partial",129.41,N,170,41.69,23.86,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017614667.1,80798,Magnoliopsida,Magnoliopsida,Gossypium arboreum,Tree cotton,"PREDICTED: alpha carbonic anhydrase 1, chloroplastic",128.64,N,170,41.69,23.72,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TYJ39684.1,102430,Magnoliopsida,Magnoliopsida,Gossypium mustelinum,Mallow family,hypothetical protein E1A91_A04G086400v1,128.64,N,170,41.69,23.72,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAB2034889.1,181853,Magnoliopsida,Magnoliopsida,Gossypium barbadense,Sea-island cotton,hypothetical protein ES319_D04G114300v1,126.33,N,170,41.69,23.29,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_011075611.1,35723,Magnoliopsida,Magnoliopsida,Sesamum indicum,Sesame,alpha carbonic anhydrase 7-like,126.33,N,170,41.69,23.29,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TYH77000.1,108937,Magnoliopsida,Magnoliopsida,Gossypium tomentosum,Mallow family,hypothetical protein ES332_D04G123900v1,126.33,N,170,41.69,23.29,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TYG73691.1,94060,Magnoliopsida,Magnoliopsida,Gossypium darwinii,Mallow family,hypothetical protein ES288_D04G122100v1,126.33,N,170,41.69,23.29,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VDO54088.1,21560,Chromadorea,Chromadorea,Haemonchus placei,Roundworms,unnamed protein product,126.33,N,170,41.69,23.29,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_016680384.1,94719,Magnoliopsida,Magnoliopsida,Gossypium hirsutum,Cotton,"PREDICTED: alpha carbonic anhydrase 1, chloroplastic isoform X1",126.33,N,170,41.69,23.29,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,PHT37429.1,35812,Magnoliopsida,Magnoliopsida,Capsicum baccatum,Peppers,hypothetical protein CQW23_21002,125.95,N,170,41.69,23.22,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AOY33871.1,507,Mammalia,Mammalia,Castor fiber,Eurasian beaver,"protein tyrosine phosphatase receptor-type Z polypeptide 1, partial",125.95,N,170,41.69,23.22,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAE9419625.1,10796,Chromadorea,Chromadorea,Angiostrongylus cantonensis,Rat lungworm,"hypothetical protein Angca_005075, partial",125.95,N,170,41.69,23.22,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_031266970.1,41381,Magnoliopsida,Magnoliopsida,Pistacia vera,Pistachio,"alpha carbonic anhydrase 1, chloroplastic-like",125.18,N,170,41.69,23.08,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_016542979.1,156634,Magnoliopsida,Magnoliopsida,Capsicum annuum,Peppers,"PREDICTED: alpha carbonic anhydrase 1, chloroplastic-like",125.18,N,170,41.69,23.08,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017977754.1,75449,Magnoliopsida,Magnoliopsida,Theobroma cacao,Cacao,"PREDICTED: alpha carbonic anhydrase 1, chloroplastic",125.18,N,170,41.69,23.08,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_006660200.2,27521,Magnoliopsida,Magnoliopsida,Oryza brachyantha,Malo sina,PREDICTED: alpha carbonic anhydrase 7-like,124.41,N,170,41.69,22.94,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,PHU06292.1,35088,Magnoliopsida,Magnoliopsida,Capsicum chinense,Scotch bonnet,"hypothetical protein BC332_22781, partial",124.41,N,170,41.69,22.94,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAE8668430.1,83006,Magnoliopsida,Magnoliopsida,Hibiscus syriacus,Rose-of-Sharon,hypothetical protein F3Y22_tig00112339pilonHSYRG00115,123.25,N,170,41.69,22.73,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AGG35950.1,61,Insecta,Insecta,Macrosiphum euphorbiae,Potato aphid,"carbonic anhydrase 2-like protein, partial",123.25,N,170,41.69,22.73,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_012441656.1,135414,Magnoliopsida,Magnoliopsida,Gossypium raimondii,Mallow family,"PREDICTED: alpha carbonic anhydrase 1, chloroplastic isoform X1",122.09,N,170,41.69,22.51,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_021289677.1,27754,Magnoliopsida,Magnoliopsida,Herrania umbratica,Mallow family,"alpha carbonic anhydrase 1, chloroplastic",122.09,N,170,41.69,22.51,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014154416.1,37460,Ichthyosporea,Ichthyosporea,Sphaeroforma arctica JP610,Eccrinales,hypothetical protein SARC_07120,120.94,N,170,41.69,22.3,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VDP11464.1,13207,Enoplea,Enoplea,Soboliphyme baturini,Roundworms,unnamed protein product,120.94,N,170,41.69,22.3,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_013442327.1,159973,Magnoliopsida,Magnoliopsida,Medicago truncatula,Barrel medic,alpha carbonic anhydrase 7,120.55,N,170,41.69,22.23,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAA3463970.1,38366,Magnoliopsida,Magnoliopsida,Gossypium australe,Mallow family,"alpha carbonic anhydrase 1, chloroplastic",120.55,N,170,41.69,22.23,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AAB29505.1,1241,Mammalia,Mammalia,Rattus sp.,Rats,carbonic anhydrase IV,120.55,N,170,41.69,22.23,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,PWA59161.1,67418,Magnoliopsida,Magnoliopsida,Artemisia annua,Sweet wormwood,alpha carbonic anhydrase 3,120.17,N,170,41.69,22.16,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AGI15225.1,104,Mammalia,Mammalia,Megaderma lyra,Indian false vampire,carbonic anhydrase-related protein XI,119.78,N,170,41.69,22.09,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,BAO48213.1,46,Insecta,Insecta,Camponotus japonicus,Carpenter ants,carbonic anhydrase 2,119.4,N,170,41.69,22.02,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_020535199.1,60890,Magnoliopsida,Magnoliopsida,Jatropha curcas,Spurge family,"alpha carbonic anhydrase 1, chloroplastic isoform X2",119.4,N,170,41.69,22.02,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_013307366.1,38484,Chromadorea,Chromadorea,Necator americanus,Roundworms,"carbonate dehydratase, eukaryotic-type",119.4,N,170,41.69,22.02,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_031094705.1,42130,Magnoliopsida,Magnoliopsida,Ipomoea triloba,Trilobed morning glory,"alpha carbonic anhydrase 1, chloroplastic-like",119.01,N,170,41.69,21.94,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_003383417.1,24202,Demospongiae,Demospongiae,Amphimedon queenslandica,Reniera sp. JGI-2005,PREDICTED: carbonic anhydrase 1,119.01,N,170,41.69,21.94,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,CAB3449938.1,58998,Magnoliopsida,Magnoliopsida,Digitaria exilis,Grass family,"unnamed protein product, partial",118.24,N,170,41.69,21.8,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_019158457.1,51549,Magnoliopsida,Magnoliopsida,Ipomoea nil,Japanese morning glory,"PREDICTED: alpha carbonic anhydrase 1, chloroplastic-like",118.24,N,170,41.69,21.8,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,PWZ57101.1,274486,Magnoliopsida,Magnoliopsida,Zea mays,Maize,Alpha carbonic anhydrase 7,117.47,N,170,41.69,21.66,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_020257501.1,64926,Magnoliopsida,Magnoliopsida,Asparagus officinalis,Garden asparagus,alpha carbonic anhydrase 7-like,117.47,N,170,41.69,21.66,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,RLM61760.1,56038,Magnoliopsida,Magnoliopsida,Panicum miliaceum,Broom millet,alpha carbonic anhydrase 7-like,117.47,N,170,41.69,21.66,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_010470127.1,107790,Magnoliopsida,Magnoliopsida,Camelina sativa,False flax,PREDICTED: alpha carbonic anhydrase 2-like isoform X1,117.47,N,170,41.69,21.66,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,PUZ51951.1,42251,Magnoliopsida,Magnoliopsida,Panicum hallii var. hallii,Panicgrasses,hypothetical protein GQ55_6G232000,117.47,N,170,41.69,21.66,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TVU14631.1,55224,Magnoliopsida,Magnoliopsida,Eragrostis curvula,Weeping love grass,hypothetical protein EJB05_38109,117.47,N,170,41.69,21.66,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,GEX84222.1,936139,Magnoliopsida,Magnoliopsida,Tanacetum cinerariifolium,Pyrethrum,alpha carbonic anhydrase 4-like,117.09,N,170,41.69,21.59,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_015626216.1,281548,Magnoliopsida,Magnoliopsida,Oryza sativa Japonica Group,Japanese rice,"alpha carbonic anhydrase 1, chloroplastic",116.7,N,170,41.69,21.52,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF0926949.1,48576,Magnoliopsida,Magnoliopsida,Oryza meyeriana var. granulata,Grass family,"hypothetical protein E2562_028535, partial",116.7,N,170,41.69,21.52,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,EAY86152.1,43808,Magnoliopsida,Magnoliopsida,Oryza sativa Indica Group,Long-grained rice,hypothetical protein OsI_07525,116.7,N,170,41.69,21.52,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_028067076.1,78529,Magnoliopsida,Magnoliopsida,Camellia sinensis,Black tea,"alpha carbonic anhydrase 1, chloroplastic-like",116.32,N,170,41.69,21.45,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,THG17361.1,30313,Magnoliopsida,Magnoliopsida,Camellia sinensis var. sinensis,Black tea,hypothetical protein TEA_018340,116.32,N,170,41.69,21.45,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_023886236.1,59826,Magnoliopsida,Magnoliopsida,Quercus suber,Cork oak,"alpha carbonic anhydrase 1, chloroplastic-like",116.32,N,170,41.69,21.45,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ATU82860.1,560,Insecta,Insecta,Pristhesancus plagipennis,Assassin bugs,secreted Carbonic anhydrase-like protein,115.93,N,170,41.69,21.38,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_015088647.1,38413,Magnoliopsida,Magnoliopsida,Solanum pennellii,Nightshade family,"alpha carbonic anhydrase 1, chloroplastic",115.55,N,170,41.69,21.3,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TMW94041.1,26603,Magnoliopsida,Magnoliopsida,Solanum chilense,Nightshade family,hypothetical protein EJD97_010824,115.55,N,170,41.69,21.3,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_011004239.1,50775,Magnoliopsida,Magnoliopsida,Populus euphratica,Euphrates poplar,"PREDICTED: alpha carbonic anhydrase 1, chloroplastic-like",115.55,N,170,41.69,21.3,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_025888803.1,42215,Magnoliopsida,Magnoliopsida,Solanum lycopersicum,Tomato,"alpha carbonic anhydrase 1, chloroplastic isoform X2",115.55,N,170,41.69,21.3,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,OEL14309.1,26468,Magnoliopsida,Magnoliopsida,Dichanthelium oligosanthes,Rosette grass,"Alpha carbonic anhydrase 1, chloroplastic",115.55,N,170,41.69,21.3,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KHN10833.1,205486,Magnoliopsida,Magnoliopsida,Glycine soja,Wild soybean,"Bifunctional monodehydroascorbate reductase and carbonic anhydrase nectarin-3, partial",115.55,N,170,41.69,21.3,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,PSS23583.1,33099,Magnoliopsida,Magnoliopsida,Actinidia chinensis var. chinensis,Chinese gooseberry family,Alpha carbonic anhydrase,114.78,N,170,41.69,21.16,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AIH04935.1,659,Bangiophyceae,Bangiophyceae,Pyropia haitanensis,Red algae,carbonic anhydrase 1,114.78,N,170,41.69,21.16,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,OVA09996.1,21905,Magnoliopsida,Magnoliopsida,Macleaya cordata,Poppy family,Alpha carbonic anhydrase,114.39,N,170,41.69,21.09,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,EPS73716.1,17827,Magnoliopsida,Magnoliopsida,Genlisea aurea,Eudicots,"hypothetical protein M569_01041, partial",114.39,N,170,41.69,21.09,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF3953323.1,34531,Magnoliopsida,Magnoliopsida,Castanea mollissima,Chinese chestnut,"hypothetical protein CMV_021217, partial",114.39,N,170,41.69,21.09,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_009606839.1,50377,Magnoliopsida,Magnoliopsida,Nicotiana tomentosiformis,Nightshade family,"alpha carbonic anhydrase 1, chloroplastic",114,N,170,41.69,21.02,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_006341110.1,42397,Magnoliopsida,Magnoliopsida,Solanum tuberosum,Potato,"PREDICTED: alpha carbonic anhydrase 1, chloroplastic",114,N,170,41.69,21.02,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_030452317.1,38162,Magnoliopsida,Magnoliopsida,Syzygium oleosum,Myrtle family,alpha carbonic anhydrase 7-like,114,N,170,41.69,21.02,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_018482359.1,62483,Magnoliopsida,Magnoliopsida,Raphanus sativus,Radish,PREDICTED: alpha carbonic anhydrase 4-like,113.62,N,170,41.69,20.95,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_016483347.1,89938,Magnoliopsida,Magnoliopsida,Nicotiana tabacum,Common tobacco,"PREDICTED: alpha carbonic anhydrase 1, chloroplastic",113.62,N,170,41.69,20.95,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,PON42602.1,37309,Magnoliopsida,Magnoliopsida,Parasponia andersonii,Hemp family,"Carbonic anhydrase, alpha-class",113.23,N,170,41.69,20.88,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_013741407.1,188805,Magnoliopsida,Magnoliopsida,Brassica napus,Rape,alpha carbonic anhydrase 4-like isoform X1,113.23,N,170,41.69,20.88,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAB8108833.1,44519,Magnoliopsida,Magnoliopsida,Oryza sativa,Rice,hypothetical protein EE612_044833,113.23,N,170,41.69,20.88,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_034599011.1,91347,Magnoliopsida,Magnoliopsida,Setaria viridis,Grass family,alpha carbonic anhydrase 7-like,113.23,N,170,41.69,20.88,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VDD40043.1,63068,Magnoliopsida,Magnoliopsida,Brassica oleracea,Wild cabbage,unnamed protein product,113.23,N,170,41.69,20.88,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_010036672.1,99738,Magnoliopsida,Magnoliopsida,Eucalyptus grandis,Rose gum,"PREDICTED: alpha carbonic anhydrase 1, chloroplastic",113.23,N,170,41.69,20.88,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VDC83115.1,152072,Magnoliopsida,Magnoliopsida,Brassica rapa,Field mustard,unnamed protein product,113.23,N,170,41.69,20.88,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,OSX79732.1,14090,Bangiophyceae,Bangiophyceae,Porphyra umbilicalis,Laver,hypothetical protein BU14_0072s0091,112.85,N,170,41.69,20.81,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,THU57767.1,32876,Magnoliopsida,Magnoliopsida,Musa balbisiana,Balbis banana,hypothetical protein C4D60_Mb03t06970,112.85,N,170,41.69,20.81,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_013597292.1,56626,Magnoliopsida,Magnoliopsida,Brassica oleracea var. oleracea,Wild cabbage,PREDICTED: alpha carbonic anhydrase 4-like,112.85,N,170,41.69,20.81,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,POO01208.1,36146,Magnoliopsida,Magnoliopsida,Trema orientale,Hemp family,"Carbonic anhydrase, alpha-class",112.85,N,170,41.69,20.81,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_002309427.3,121063,Magnoliopsida,Magnoliopsida,Populus trichocarpa,Black cottonwood,"alpha carbonic anhydrase 1, chloroplastic",112.85,N,170,41.69,20.81,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_006391784.1,63221,Magnoliopsida,Magnoliopsida,Eutrema salsugineum,Saltwater cress,alpha carbonic anhydrase 4,112.46,N,170,41.69,20.74,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_016649688.1,30079,Magnoliopsida,Magnoliopsida,Prunus mume,Japanese apricot,PREDICTED: alpha carbonic anhydrase 7-like,112.46,N,170,41.69,20.74,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_021824081.1,35825,Magnoliopsida,Magnoliopsida,Prunus avium,Sweet cherry,alpha carbonic anhydrase 7-like,112.08,N,170,41.69,20.67,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_021622964.1,85759,Magnoliopsida,Magnoliopsida,Manihot esculenta,Cassava,alpha carbonic anhydrase 4-like,112.08,N,170,41.69,20.67,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_027908742.1,82173,Magnoliopsida,Magnoliopsida,Vigna unguiculata,Cowpea,alpha carbonic anhydrase 7-like,112.08,N,170,41.69,20.67,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_030531832.1,42574,Magnoliopsida,Magnoliopsida,Rhodamnia argentea,Silver malletwood,"alpha carbonic anhydrase 1, chloroplastic",112.08,N,170,41.69,20.67,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF3484720.1,216447,Magnoliopsida,Magnoliopsida,Brassica cretica,Mustard family,hypothetical protein F2Q69_00057133,111.69,N,170,41.69,20.59,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,RAL48501.1,18285,Magnoliopsida,Magnoliopsida,Cuscuta australis,Dodders,hypothetical protein DM860_005925,111.69,N,170,41.69,20.59,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_019427005.1,86190,Magnoliopsida,Magnoliopsida,Lupinus angustifolius,Narrow-leaved blue lupine,"PREDICTED: alpha carbonic anhydrase 1, chloroplastic-like",111.69,N,170,41.69,20.59,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_014489712.1,42274,Magnoliopsida,Magnoliopsida,Vigna radiata var. radiata,Mung bean,alpha carbonic anhydrase 4-like,111.69,N,170,41.69,20.59,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_004506042.1,36743,Magnoliopsida,Magnoliopsida,Cicer arietinum,Chickpea,alpha carbonic anhydrase 7-like,111.31,N,170,41.69,20.52,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_006292541.1,65548,Magnoliopsida,Magnoliopsida,Capsella rubella,Mustard family,alpha carbonic anhydrase 4,111.31,N,170,41.69,20.52,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_009391366.1,47852,Magnoliopsida,Magnoliopsida,Musa acuminata subsp. malaccensis,Wild Malaysian banana,PREDICTED: alpha carbonic anhydrase 7-like,111.31,N,170,41.69,20.52,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017409429.1,72102,Magnoliopsida,Magnoliopsida,Vigna angularis,Adzuki bean,PREDICTED: alpha carbonic anhydrase 7-like,110.92,N,170,41.69,20.45,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_019265456.1,78338,Magnoliopsida,Magnoliopsida,Nicotiana attenuata,Nightshade family,"PREDICTED: alpha carbonic anhydrase 1, chloroplastic",110.92,N,170,41.69,20.45,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,CAA7019177.1,48819,Magnoliopsida,Magnoliopsida,Microthlaspi erraticum,Mustard family,unnamed protein product,110.92,N,170,41.69,20.45,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_009796023.1,48678,Magnoliopsida,Magnoliopsida,Nicotiana sylvestris,Wood tobacco,"PREDICTED: alpha carbonic anhydrase 1, chloroplastic",110.92,N,170,41.69,20.45,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,BAT90546.1,31219,Magnoliopsida,Magnoliopsida,Vigna angularis var. angularis,Adzuki bean,hypothetical protein VIGAN_06180700,110.92,N,170,41.69,20.45,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_004975564.1,79371,Magnoliopsida,Magnoliopsida,Setaria italica,Foxtail millet,"alpha carbonic anhydrase 1, chloroplastic",110.54,N,170,41.69,20.38,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_010521744.1,41269,Magnoliopsida,Magnoliopsida,Tarenaya hassleriana,Spider flower,PREDICTED: alpha carbonic anhydrase 7-like,110.54,N,170,41.69,20.38,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_034225513.1,87318,Magnoliopsida,Magnoliopsida,Prunus dulcis,Almond,alpha carbonic anhydrase 7-like,110.54,N,170,41.69,20.38,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAE8098561.1,29596,Magnoliopsida,Magnoliopsida,Carpinus fangiana,Hornbeams,hypothetical protein FH972_016614,110.54,N,170,41.69,20.38,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAB5553004.1,30192,Magnoliopsida,Magnoliopsida,Salix brachista,Willows,hypothetical protein DKX38_010315,110.15,N,170,41.69,20.31,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_016186746.1,57730,Magnoliopsida,Magnoliopsida,Arachis ipaensis,Pea family,alpha carbonic anhydrase 7 isoform X1,110.15,N,170,41.69,20.31,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_013759419.1,21254,Apusomonadidae,Apusomonadidae,Thecamonas trahens ATCC 50062,Apusomonads,carbonic anhydrase,110.15,N,170,41.69,20.31,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AGN29658.1,649,Hexanauplia,Hexanauplia,Acartia pacifica,Copepods,carbonic anhydrase 2,109.77,N,170,41.69,20.24,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AAD29832.1,278493,Magnoliopsida,Magnoliopsida,Arabidopsis thaliana,Thale cress,putative carbonic anhydrase,109.77,N,170,41.69,20.24,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_028756964.1,57575,Magnoliopsida,Magnoliopsida,Prosopis alba,Algarrobo blanco,alpha carbonic anhydrase 7-like,109.77,N,170,41.69,20.24,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_003520509.1,174805,Magnoliopsida,Magnoliopsida,Glycine max,Soybean,alpha carbonic anhydrase 4,109.77,N,170,41.69,20.24,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,CAN80583.1,206540,Magnoliopsida,Magnoliopsida,Vitis vinifera,Wine grape,hypothetical protein VITISV_022681,109.77,N,170,41.69,20.24,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_020423936.1,80063,Magnoliopsida,Magnoliopsida,Prunus persica,Peach,alpha carbonic anhydrase 7,109.77,N,170,41.69,20.24,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF3441650.1,25043,Magnoliopsida,Magnoliopsida,Rhamnella rubrinervis,Buckthorn family,hypothetical protein FNV43_RR15565,109.38,N,170,41.69,20.17,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TKR99570.1,33930,Magnoliopsida,Magnoliopsida,Populus alba,Abele,"alpha carbonic anhydrase 1, chloroplastic-like",109.38,N,170,41.69,20.17,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_020186877.1,55658,Magnoliopsida,Magnoliopsida,Aegilops tauschii subsp. tauschii,Grass family,"alpha carbonic anhydrase 1, chloroplastic-like",109.38,N,170,41.69,20.17,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,RWR83591.1,26602,Magnoliopsida,Magnoliopsida,Cinnamomum micranthum f. kanehirae,Laurel family,"alpha carbonic anhydrase 1, chloroplastic isoform X1",109.38,N,170,41.69,20.17,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_003579701.1,91358,Magnoliopsida,Magnoliopsida,Brachypodium distachyon,Stiff brome,"alpha carbonic anhydrase 1, chloroplastic isoform X2",109.38,N,170,41.69,20.17,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_002445622.1,88653,Magnoliopsida,Magnoliopsida,Sorghum bicolor,Sorghum,alpha carbonic anhydrase 7,109.38,N,170,41.69,20.17,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_002869915.2,73620,Magnoliopsida,Magnoliopsida,Arabidopsis lyrata subsp. lyrata,Lyrate rockcress,alpha carbonic anhydrase 4,109,N,170,41.69,20.1,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_023744880.1,84298,Magnoliopsida,Magnoliopsida,Lactuca sativa,Cultivated lettuce,alpha carbonic anhydrase 4-like,108.61,N,170,41.69,20.03,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ERN07620.1,59161,Magnoliopsida,Magnoliopsida,Amborella trichopoda,Flowering plants,hypothetical protein AMTR_s00157p00088030,108.61,N,170,41.69,20.03,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_010098808.1,54920,Magnoliopsida,Magnoliopsida,Morus notabilis,Mulberries,alpha carbonic anhydrase 7,108.23,N,170,41.69,19.96,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_030481637.1,93547,Magnoliopsida,Magnoliopsida,Cannabis sativa,Hemp family,"alpha carbonic anhydrase 1, chloroplastic",108.23,N,170,41.69,19.96,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KII73223.1,15020,Myxozoa,Myxozoa,Thelohanellus kitauei,Actinosporeans,Carbonic anhydrase 1,108.23,N,170,41.69,19.96,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAA8518112.1,36374,Magnoliopsida,Magnoliopsida,Nyssa sinensis,Eudicots,hypothetical protein F0562_015586,107.84,N,170,41.69,19.88,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_002528758.1,60616,Magnoliopsida,Magnoliopsida,Ricinus communis,Castor bean,"alpha carbonic anhydrase 1, chloroplastic",107.84,N,170,41.69,19.88,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_025635069.1,282105,Magnoliopsida,Magnoliopsida,Arachis hypogaea,Peanut,alpha carbonic anhydrase 7-like,107.84,N,170,41.69,19.88,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_031378577.1,116536,Magnoliopsida,Magnoliopsida,Punica granatum,Pomegranate,"alpha carbonic anhydrase 1, chloroplastic-like",107.84,N,170,41.69,19.88,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_019704768.1,44179,Magnoliopsida,Magnoliopsida,Elaeis guineensis,African oil palm,alpha carbonic anhydrase 7 isoform X1,107.84,N,170,41.69,19.88,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_015951541.1,53103,Magnoliopsida,Magnoliopsida,Arachis duranensis,Pea family,alpha carbonic anhydrase 7,107.84,N,170,41.69,19.88,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_022983066.1,43076,Magnoliopsida,Magnoliopsida,Cucurbita maxima,Winter squash,"alpha carbonic anhydrase 1, chloroplastic-like",107.84,N,170,41.69,19.88,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAE9465869.1,23547,Magnoliopsida,Magnoliopsida,Rhododendron williamsianum,Heath family,"hypothetical protein C3L33_02224, partial",107.46,N,170,41.69,19.81,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VVA90454.1,28827,Magnoliopsida,Magnoliopsida,Arabis nemorensis,Rockcress,unnamed protein product,107.46,N,170,41.69,19.81,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TEY14680.1,53315,Magnoliopsida,Magnoliopsida,Salvia splendens,Bonfire salvia,carbonic anhydrase,107.07,N,170,41.69,19.74,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KFK43125.1,23581,Magnoliopsida,Magnoliopsida,Arabis alpina,Gray rockcress,hypothetical protein AALP_AA1G083600,107.07,N,170,41.69,19.74,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_019053947.1,38763,Magnoliopsida,Magnoliopsida,Nelumbo nucifera,Sacred lotus,PREDICTED: alpha carbonic anhydrase 7,107.07,N,170,41.69,19.74,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,GAV66894.1,36778,Magnoliopsida,Magnoliopsida,Cephalotus follicularis,Eudicots,"Carb_anhydrase domain-containing protein, partial",107.07,N,170,41.69,19.74,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_011652843.1,53824,Magnoliopsida,Magnoliopsida,Cucumis sativus,Cucumber,alpha carbonic anhydrase 7,107.07,N,170,41.69,19.74,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_008362138.2,98198,Magnoliopsida,Magnoliopsida,Malus domestica,Apple,alpha carbonic anhydrase 7-like,107.07,N,170,41.69,19.74,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAB2606287.1,43070,Magnoliopsida,Magnoliopsida,Pyrus ussuriensis x Pyrus communis,Pears,bifunctional monodehydroascorbate reductase and carbonic anhydrase nectarin-3-like,107.07,N,170,41.69,19.74,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AWI63383.1,341,Insecta,Insecta,Sogatella furcifera,White-backed planthopper,carbonic anhydrase 2,106.69,N,170,41.69,19.67,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_027349157.1,40271,Magnoliopsida,Magnoliopsida,Abrus precatorius,Indian licorice,alpha carbonic anhydrase 7-like,106.69,N,170,41.69,19.67,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,EYU18694.1,61619,Magnoliopsida,Magnoliopsida,Erythranthe guttata,Spotted monkey flower,hypothetical protein MIMGU_mgv11b010420mg,106.3,N,170,41.69,19.6,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_021979254.1,131144,Magnoliopsida,Magnoliopsida,Helianthus annuus,Common sunflower,alpha carbonic anhydrase 7-like,106.3,N,170,41.69,19.6,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_008784028.1,41494,Magnoliopsida,Magnoliopsida,Phoenix dactylifera,Date palm,"alpha carbonic anhydrase 1, chloroplastic-like",106.3,N,170,41.69,19.6,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_022927058.1,43958,Magnoliopsida,Magnoliopsida,Cucurbita moschata,Crookneck pumpkin,"alpha carbonic anhydrase 1, chloroplastic-like",105.92,N,170,41.69,19.53,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_006430188.2,67067,Magnoliopsida,Magnoliopsida,Citrus clementina,Clementine,"alpha carbonic anhydrase 1, chloroplastic",105.92,N,170,41.69,19.53,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_018806120.1,56065,Magnoliopsida,Magnoliopsida,Juglans regia,English walnut,"PREDICTED: alpha carbonic anhydrase 1, chloroplastic-like",105.92,N,170,41.69,19.53,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_020108579.1,59749,Magnoliopsida,Magnoliopsida,Ananas comosus,Pineapple,alpha carbonic anhydrase 7-like,105.53,N,170,41.69,19.46,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AEL22201.1,52,Gastropoda,Gastropoda,Haliotis tuberculata,Green ormer,carbonic anhydrase,105.53,N,170,41.69,19.46,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_015898654.1,44231,Magnoliopsida,Magnoliopsida,Ziziphus jujuba,Common jujube,"alpha carbonic anhydrase 1, chloroplastic",105.53,N,170,41.69,19.46,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,MQM03044.1,56874,Magnoliopsida,Magnoliopsida,Colocasia esculenta,Taro,hypothetical protein,105.14,N,170,41.69,19.39,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,CDP15426.1,26235,Magnoliopsida,Magnoliopsida,Coffea canephora,Robusta coffee,unnamed protein product,105.14,N,170,41.69,19.39,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_023526373.1,43519,Magnoliopsida,Magnoliopsida,Cucurbita pepo subsp. pepo,Vegetable marrow,"alpha carbonic anhydrase 1, chloroplastic-like",105.14,N,170,41.69,19.39,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_020236910.1,89991,Magnoliopsida,Magnoliopsida,Cajanus cajan,Pigeon pea,"alpha carbonic anhydrase 1, chloroplastic",105.14,N,170,41.69,19.39,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ALX00047.1,113,Insecta,Insecta,Melanoplus sanguinipes,Migratory grasshopper,carbonic anhydrase 2-like protein,104.76,N,170,41.69,19.32,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,PQP95971.1,41183,Magnoliopsida,Magnoliopsida,Prunus yedoensis var. nudiflora,Cheju native flowering cherry,alpha carbonic anhydrase 7-like,104.76,N,170,41.69,19.32,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,RDX60217.1,56039,Magnoliopsida,Magnoliopsida,Mucuna pruriens,Pea family,"Alpha carbonic anhydrase 7, partial",104.76,N,170,41.69,19.32,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TQE01916.1,46129,Magnoliopsida,Magnoliopsida,Malus baccata,Shan jing zi,hypothetical protein C1H46_012540,104.76,N,170,41.69,19.32,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_007162791.1,68974,Magnoliopsida,Magnoliopsida,Phaseolus vulgaris,French bean,hypothetical protein PHAVU_001G180900g,104.76,N,170,41.69,19.32,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AFK49331.1,9345,Magnoliopsida,Magnoliopsida,Lotus japonicus,Pea family,unknown,104.76,N,170,41.69,19.32,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,CEO97180.1,19132,Plasmodiophorida,Plasmodiophorida,Plasmodiophora brassicae,Plasmodiophorids,hypothetical protein PBRA_000525,104.38,N,170,41.69,19.25,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_027068087.1,67899,Magnoliopsida,Magnoliopsida,Coffea arabica,Coffee,"alpha carbonic anhydrase 1, chloroplastic-like isoform X2",104.38,N,170,41.69,19.25,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TKY53099.1,31102,Magnoliopsida,Magnoliopsida,Spatholobus suberectus,Pea family,Alpha carbonic anhydrase 1,103.99,N,170,41.69,19.17,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_021908706.1,27151,Magnoliopsida,Magnoliopsida,Carica papaya,Papaya,"alpha carbonic anhydrase 1, chloroplastic",103.61,N,170,41.69,19.1,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,ASO75060.1,206,Insecta,Insecta,Culex pipiens pallens,Northern house mosquito,carbonic anhydrase II,103.61,N,170,41.69,19.1,Y,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAE9588821.1,85760,Magnoliopsida,Magnoliopsida,Lupinus albus,White lupine,putative carbonic anhydrase,103.61,N,170,41.69,19.1,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_017237545.1,76865,Magnoliopsida,Magnoliopsida,Daucus carota subsp. sativus,Carrot,"PREDICTED: alpha carbonic anhydrase 1, chloroplastic-like",103.61,N,170,41.69,19.1,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_021860070.1,58081,Magnoliopsida,Magnoliopsida,Spinacia oleracea,Spinach,alpha carbonic anhydrase 7-like,103.61,N,170,41.69,19.1,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,VAI81409.1,190753,Magnoliopsida,Magnoliopsida,Triticum turgidum subsp. durum,Durum wheat,unnamed protein product,103.22,N,170,41.69,19.03,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,PTQ47303.1,25423,Marchantiopsida,Marchantiopsida,Marchantia polymorpha,Liverwort,hypothetical protein MARPO_0008s0080,103.22,N,170,41.69,19.03,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAF2308097.1,103920,Magnoliopsida,Magnoliopsida,Hevea brasiliensis,Rubber tree,hypothetical protein GH714_035159,102.83,N,170,41.69,18.96,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,AAT66640.1,157,Chromadorea,Chromadorea,Ostertagia ostertagi,Roundworms,carbonic anhydrase isoform III,102.83,N,170,41.69,18.96,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_020592483.1,30068,Magnoliopsida,Magnoliopsida,Phalaenopsis equestris,Moth orchids,alpha carbonic anhydrase 7-like,102.83,N,170,41.69,18.96,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,CCE46072.1,27,Calcarea,Calcarea,Sycon raphanus,Sponges,carbonic anhydrase,102.83,N,170,41.69,18.96,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KMZ63672.1,20956,Magnoliopsida,Magnoliopsida,Zostera marina,Monocotyledons,Carbonate dehydratase,102.45,N,170,41.69,18.89,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,BAK07868.1,27012,Magnoliopsida,Magnoliopsida,Hordeum vulgare subsp. vulgare,Domesticated barley,predicted protein,102.06,N,170,41.69,18.82,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,OWY95714.1,34889,Oomycota,Oomycota,Phytophthora megakarya,Peronophythora,Carbonic anhydrase,102.06,N,170,41.69,18.82,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_009532985.1,54236,Oomycota,Oomycota,Phytophthora sojae,Phytophthora megasperma f. sp. glycinea,hypothetical protein PHYSODRAFT_518079,102.06,N,170,41.69,18.82,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAD5803449.1,46478,Magnoliopsida,Magnoliopsida,Mikania micrantha,Bittervine,hypothetical protein E3N88_14809,101.68,N,170,41.69,18.75,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,XP_027175090.1,38188,Magnoliopsida,Magnoliopsida,Coffea eugenioides,Coffee,"alpha carbonic anhydrase 1, chloroplastic-like",101.68,N,170,41.69,18.75,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,4XIW_A,37196,Chlorophyceae,Chlorophyceae,Chlamydomonas reinhardtii,Chlamydomonas reinhardtii strain CC-1373,"Chain A, Carbonic anhydrase, alpha type",101.29,N,170,41.69,18.68,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,KAB1222578.1,29623,Magnoliopsida,Magnoliopsida,Morella rubra,Chinese arbutus,Bifunctional monodehydroascorbate reductase and carbonic anhydrase nectarin-3,101.29,N,170,41.69,18.68,N,2021 06 15 14:44:30,Y,Explore in ECOTOX
+5,TMW55431.1,14958,Oomycota,Oomycota,Pythium oligandrum,Heterokonts,hypothetical protein Poli38472_010313,101.29,N,170,41.69,18.68,N,2021 06 15 14:44:30,Y,Explore in ECOTOX

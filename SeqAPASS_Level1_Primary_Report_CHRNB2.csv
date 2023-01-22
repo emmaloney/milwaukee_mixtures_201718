@@ -1,0 +1,843 @@
+Data Version,NCBI Accession,Protein Count,Taxonomic Group,Filtered Taxonomic Group,Scientific Name,Common Name,Protein Name,BLASTp Bitscore,Ortholog Candidate,Ortholog Count,Cut-off,Percent Similarity,Susceptibility Prediction,Analysis Completed,Eukaryote,ECOTOX
+5,P17787.1,1802968,Mammalia,Mammalia,Homo sapiens,Human,RecName: Full=Neuronal acetylcholine receptor subunit beta-2; Flags: Precursor,1041.57,Y,359,61.2,100,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_003817157.1,51215,Mammalia,Mammalia,Pan paniscus,Pygmy chimpanzee,neuronal acetylcholine receptor subunit beta-2,1041.57,Y,359,61.2,100,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_004026880.1,52117,Mammalia,Mammalia,Gorilla gorilla gorilla,Western lowland gorilla,neuronal acetylcholine receptor subunit beta-2,1041.57,Y,359,61.2,100,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_001152392.1,171847,Mammalia,Mammalia,Pan troglodytes,Chimpanzee,neuronal acetylcholine receptor subunit beta-2,1041.57,Y,359,61.2,100,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_011842816.1,38457,Mammalia,Mammalia,Mandrillus leucophaeus,Drill,PREDICTED: neuronal acetylcholine receptor subunit beta-2,1037.71,Y,359,61.2,99.63,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_011932118.1,66421,Mammalia,Mammalia,Cercocebus atys,Sooty mangabey,PREDICTED: neuronal acetylcholine receptor subunit beta-2 isoform X2,1037.71,Y,359,61.2,99.63,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_007975155.1,62219,Mammalia,Mammalia,Chlorocebus sabaeus,Green monkey,PREDICTED: neuronal acetylcholine receptor subunit beta-2 isoform X2,1037.71,Y,359,61.2,99.63,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_025230774.1,52581,Mammalia,Mammalia,Theropithecus gelada,Gelada,neuronal acetylcholine receptor subunit beta-2,1037.71,Y,359,61.2,99.63,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032010317.1,54502,Mammalia,Mammalia,Hylobates moloch,Silvery gibbon,neuronal acetylcholine receptor subunit beta-2 isoform X1,1036.56,Y,359,61.2,99.52,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_003892773.1,73457,Mammalia,Mammalia,Papio anubis,Olive baboon,neuronal acetylcholine receptor subunit beta-2 isoform X2,1035.4,Y,359,61.2,99.41,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_012366367.2,51631,Mammalia,Mammalia,Nomascus leucogenys,Northern white-cheeked gibbon,neuronal acetylcholine receptor subunit beta-2 isoform X1,1034.63,Y,359,61.2,99.33,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_024101424.1,141140,Mammalia,Mammalia,Pongo abelii,Sumatran orangutan,neuronal acetylcholine receptor subunit beta-2,1033.09,Y,359,61.2,99.19,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017722966.1,49687,Mammalia,Mammalia,Rhinopithecus bieti,Black snub-nosed monkey,PREDICTED: neuronal acetylcholine receptor subunit beta-2 isoform X2,1032.71,Y,359,61.2,99.15,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_005541718.1,97446,Mammalia,Mammalia,Macaca fascicularis,Crab-eating macaque,PREDICTED: neuronal acetylcholine receptor subunit beta-2 isoform X1,1032.32,Y,359,61.2,99.11,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_011767911.1,68519,Mammalia,Mammalia,Macaca nemestrina,Pig-tailed macaque,neuronal acetylcholine receptor subunit beta-2 isoform X2,1032.32,Y,359,61.2,99.11,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,NP_001252578.1,175489,Mammalia,Mammalia,Macaca mulatta,Rhesus monkey,neuronal acetylcholine receptor subunit beta-2 precursor,1032.32,Y,359,61.2,99.11,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_023069627.1,55377,Mammalia,Mammalia,Piliocolobus tephrosceles,Ugandan red Colobus,neuronal acetylcholine receptor subunit beta-2,1031.55,Y,359,61.2,99.04,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_010362989.1,53902,Mammalia,Mammalia,Rhinopithecus roxellana,Golden snub-nosed monkey,neuronal acetylcholine receptor subunit beta-2,1030.78,Y,359,61.2,98.96,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_011783617.1,38676,Mammalia,Mammalia,Colobus angolensis palliatus,Angolan colobus,PREDICTED: neuronal acetylcholine receptor subunit beta-2,1028.85,Y,359,61.2,98.78,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_012331727.1,48088,Mammalia,Mammalia,Aotus nancymaae,Ma's night monkey,neuronal acetylcholine receptor subunit beta-2,1028.47,Y,359,61.2,98.74,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_033054599.1,63302,Mammalia,Mammalia,Trachypithecus francoisi,Francois's langur,neuronal acetylcholine receptor subunit beta-2,1028.47,Y,359,61.2,98.74,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017368899.1,53173,Mammalia,Mammalia,Cebus capucinus imitator,White-faced sapajou,PREDICTED: neuronal acetylcholine receptor subunit beta-2,1027.31,Y,359,61.2,98.63,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_002760088.1,47726,Mammalia,Mammalia,Callithrix jacchus,White-tufted-ear marmoset,PREDICTED: neuronal acetylcholine receptor subunit beta-2,1026.54,Y,359,61.2,98.56,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032120809.1,62479,Mammalia,Mammalia,Sapajus apella,Tufted capuchin,neuronal acetylcholine receptor subunit beta-2,1025.39,Y,359,61.2,98.45,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_003937806.1,36294,Mammalia,Mammalia,Saimiri boliviensis boliviensis,Bolivian squirrel monkey,PREDICTED: neuronal acetylcholine receptor subunit beta-2,1022.31,Y,359,61.2,98.15,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_012514069.1,28331,Mammalia,Mammalia,Propithecus coquereli,Coquerel's sifaka,PREDICTED: neuronal acetylcholine receptor subunit beta-2,1018.07,Y,359,61.2,97.74,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_023496852.1,67727,Mammalia,Mammalia,Equus caballus,Horse,neuronal acetylcholine receptor subunit beta-2 isoform X1,1015.37,Y,359,61.2,97.48,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_014692597.1,42730,Mammalia,Mammalia,Equus asinus,Ass,PREDICTED: LOW QUALITY PROTEIN: neuronal acetylcholine receptor subunit beta-2,1014.22,Y,359,61.2,97.37,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_005331363.1,38807,Mammalia,Mammalia,Ictidomys tridecemlineatus,Thirteen-lined ground squirrel,neuronal acetylcholine receptor subunit beta-2,1011.52,Y,359,61.2,97.11,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_027776749.1,37707,Mammalia,Mammalia,Marmota flaviventris,Yellow-bellied marmot,neuronal acetylcholine receptor subunit beta-2,1009.59,Y,359,61.2,96.93,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_026260845.1,36482,Mammalia,Mammalia,Urocitellus parryii,Arctic ground squirrel,neuronal acetylcholine receptor subunit beta-2,1004.59,Y,359,61.2,96.45,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_003125770.1,81816,Mammalia,Mammalia,Sus scrofa,Pig,neuronal acetylcholine receptor subunit beta-2,1003.05,Y,359,61.2,96.3,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_012870670.1,29399,Mammalia,Mammalia,Dipodomys ordii,Ord's kangaroo rat,PREDICTED: neuronal acetylcholine receptor subunit beta-2 isoform X1,1001.89,Y,359,61.2,96.19,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_020743045.1,48218,Mammalia,Mammalia,Odocoileus virginianus texanus,White-tailed deer,neuronal acetylcholine receptor subunit beta-2,999.58,Y,359,61.2,95.97,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_015358139.1,31063,Mammalia,Mammalia,Marmota marmota marmota,Alpine marmot,PREDICTED: neuronal acetylcholine receptor subunit beta-2,994.96,Y,359,61.2,95.52,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017901683.1,46853,Mammalia,Mammalia,Capra hircus,Goat,PREDICTED: neuronal acetylcholine receptor subunit beta-2,993.8,Y,359,61.2,95.41,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_006895899.1,25292,Mammalia,Mammalia,Elephantulus edwardii,Cape elephant shrew,PREDICTED: neuronal acetylcholine receptor subunit beta-2,993.8,Y,359,61.2,95.41,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAB0361585.1,25799,Mammalia,Mammalia,Muntiacus muntjak,Muntjak,hypothetical protein FD754_005741,993.42,Y,359,61.2,95.38,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_014947757.2,51033,Mammalia,Mammalia,Ovis aries,Sheep,LOW QUALITY PROTEIN: neuronal acetylcholine receptor subunit beta-2,991.88,Y,359,61.2,95.23,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_003415151.1,41868,Mammalia,Mammalia,Loxodonta africana,African savanna elephant,neuronal acetylcholine receptor subunit beta-2,988.02,Y,359,61.2,94.86,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_014316627.1,43977,Mammalia,Mammalia,Myotis lucifugus,Little brown bat,neuronal acetylcholine receptor subunit beta-2,985.71,Y,359,61.2,94.64,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_006861569.1,25292,Mammalia,Mammalia,Chrysochloris asiatica,Cape golden mole,PREDICTED: neuronal acetylcholine receptor subunit beta-2,979.55,Y,359,61.2,94.05,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_012623396.1,59986,Mammalia,Mammalia,Microcebus murinus,Gray mouse lemur,neuronal acetylcholine receptor subunit beta-2 isoform X1,946.04,Y,359,61.2,90.83,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_027387811.1,54423,Mammalia,Mammalia,Bos indicus x Bos taurus,Hybrid cattle,neuronal acetylcholine receptor subunit beta-2 isoform X1,937.56,Y,359,61.2,90.01,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,NP_001179403.1,133369,Mammalia,Mammalia,Bos taurus,Cattle,neuronal acetylcholine receptor subunit beta-2 precursor,937.56,Y,359,61.2,90.01,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_005898715.1,68301,Mammalia,Mammalia,Bos mutus,Wild yak,PREDICTED: neuronal acetylcholine receptor subunit beta-2,934.87,Y,359,61.2,89.76,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_019809971.1,37725,Mammalia,Mammalia,Bos indicus,Zebu cattle,PREDICTED: neuronal acetylcholine receptor subunit beta-2,934.48,Y,359,61.2,89.72,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_007946720.1,25532,Mammalia,Mammalia,Orycteropus afer afer,Aardvark,PREDICTED: neuronal acetylcholine receptor subunit beta-2,933.71,Y,359,61.2,89.64,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_010836646.1,35574,Mammalia,Mammalia,Bison bison bison,American bison,PREDICTED: neuronal acetylcholine receptor subunit beta-2,933.32,Y,359,61.2,89.61,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_019518090.1,46123,Mammalia,Mammalia,Hipposideros armiger,Great roundleaf bat,PREDICTED: neuronal acetylcholine receptor subunit beta-2,931.78,Y,359,61.2,89.46,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_024604014.1,38185,Mammalia,Mammalia,Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,neuronal acetylcholine receptor subunit beta-2,931.78,Y,359,61.2,89.46,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_033713949.1,56999,Mammalia,Mammalia,Tursiops truncatus,Common bottlenose dolphin,neuronal acetylcholine receptor subunit beta-2,931.78,Y,359,61.2,89.46,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_029085475.1,65846,Mammalia,Mammalia,Monodon monoceros,Narwhal,neuronal acetylcholine receptor subunit beta-2,931.78,Y,359,61.2,89.46,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_026951116.1,54700,Mammalia,Mammalia,Lagenorhynchus obliquidens,Pacific white-sided dolphin,neuronal acetylcholine receptor subunit beta-2,931.78,Y,359,61.2,89.46,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,TEA29384.1,19920,Mammalia,Mammalia,Sousa chinensis,Indo-pacific humpbacked dolphin,hypothetical protein DBR06_SOUSAS8610069,931.78,Y,359,61.2,89.46,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_030698027.1,54641,Mammalia,Mammalia,Globicephala melas,Long-finned pilot whale,neuronal acetylcholine receptor subunit beta-2,931.78,Y,359,61.2,89.46,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017510598.1,41999,Mammalia,Mammalia,Manis javanica,Malayan pangolin,PREDICTED: neuronal acetylcholine receptor subunit beta-2,931.4,Y,359,61.2,89.42,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_007458052.1,27194,Mammalia,Mammalia,Lipotes vexillifer,Yangtze River dolphin,PREDICTED: neuronal acetylcholine receptor subunit beta-2,931.4,Y,359,61.2,89.42,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032502860.1,52297,Mammalia,Mammalia,Phocoena sinus,Vaquita,neuronal acetylcholine receptor subunit beta-2,929.86,Y,359,61.2,89.27,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_008590784.1,32194,Mammalia,Mammalia,Galeopterus variegatus,Sunda flying lemur,PREDICTED: LOW QUALITY PROTEIN: neuronal acetylcholine receptor subunit beta-2,928.32,Y,359,61.2,89.13,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_004284701.1,59479,Mammalia,Mammalia,Orcinus orca,Killer whale,neuronal acetylcholine receptor subunit beta-2,926.78,Y,359,61.2,88.98,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_004436170.1,33628,Mammalia,Mammalia,Ceratotherium simum simum,Southern white rhinoceros,PREDICTED: neuronal acetylcholine receptor subunit beta-2,924.85,Y,359,61.2,88.79,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_022414947.1,50906,Mammalia,Mammalia,Delphinapterus leucas,Beluga whale,neuronal acetylcholine receptor subunit beta-2,923.31,Y,359,61.2,88.65,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_003475630.1,49128,Mammalia,Mammalia,Cavia porcellus,Domestic guinea pig,neuronal acetylcholine receptor subunit beta-2,922.54,Y,359,61.2,88.57,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_020021711.1,37572,Mammalia,Mammalia,Castor canadensis,American beaver,neuronal acetylcholine receptor subunit beta-2,922.15,Y,359,61.2,88.54,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAB0388053.1,26177,Mammalia,Mammalia,Muntiacus reevesi,Reeves' muntjac,hypothetical protein FD755_003009,921.38,Y,359,61.2,88.46,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_024426621.1,30697,Mammalia,Mammalia,Desmodus rotundus,Common vampire bat,neuronal acetylcholine receptor subunit beta-2,920.23,Y,359,61.2,88.35,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_006040857.1,60996,Mammalia,Mammalia,Bubalus bubalis,Water buffalo,neuronal acetylcholine receptor subunit beta-2,919.46,Y,359,61.2,88.28,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_004629863.1,42496,Mammalia,Mammalia,Octodon degus,Degu,neuronal acetylcholine receptor subunit beta-2,919.46,Y,359,61.2,88.28,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_031230398.1,54476,Mammalia,Mammalia,Mastomys coucha,Southern multimammate mouse,neuronal acetylcholine receptor subunit beta-2 isoform X1,919.07,Y,359,61.2,88.24,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_028609145.1,38191,Mammalia,Mammalia,Grammomys surdaster,African thicket rats,neuronal acetylcholine receptor subunit beta-2,917.15,Y,359,61.2,88.05,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_028358676.1,33129,Mammalia,Mammalia,Phyllostomus discolor,Pale spear-nosed bat,neuronal acetylcholine receptor subunit beta-2,917.15,Y,359,61.2,88.05,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_034355943.1,41654,Mammalia,Mammalia,Arvicanthis niloticus,African grass rat,neuronal acetylcholine receptor subunit beta-2,915.99,Y,359,61.2,87.94,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_021014724.1,47700,Mammalia,Mammalia,Mus caroli,Ryukyu mouse,neuronal acetylcholine receptor subunit beta-2,915.61,Y,359,61.2,87.91,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_021051934.1,42365,Mammalia,Mammalia,Mus pahari,Shrew mouse,neuronal acetylcholine receptor subunit beta-2,914.84,Y,359,61.2,87.83,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,NP_033732.2,312727,Mammalia,Mammalia,Mus musculus,House mouse,neuronal acetylcholine receptor subunit beta-2 precursor,914.84,Y,359,61.2,87.83,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_010978413.1,86205,Mammalia,Mammalia,Camelus dromedarius,Arabian camel,neuronal acetylcholine receptor subunit beta-2,910.21,Y,359,61.2,87.39,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_006177289.2,74403,Mammalia,Mammalia,Camelus ferus,Wild Bactrian camel,neuronal acetylcholine receptor subunit beta-2,910.21,Y,359,61.2,87.39,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_010952280.1,29233,Mammalia,Mammalia,Camelus bactrianus,Bactrian camel,PREDICTED: neuronal acetylcholine receptor subunit beta-2,910.21,Y,359,61.2,87.39,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032948511.1,48727,Mammalia,Mammalia,Rhinolophus ferrumequinum,Greater horseshoe bat,neuronal acetylcholine receptor subunit beta-2,909.83,Y,359,61.2,87.35,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_006976369.1,45652,Mammalia,Mammalia,Peromyscus maniculatus bairdii,Prairie deer mouse,PREDICTED: neuronal acetylcholine receptor subunit beta-2,909.06,Y,359,61.2,87.28,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_012373641.1,38736,Mammalia,Mammalia,Dasypus novemcinctus,Nine-banded armadillo,neuronal acetylcholine receptor subunit beta-2,908.29,Y,359,61.2,87.2,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_028746736.1,42174,Mammalia,Mammalia,Peromyscus leucopus,White-footed mouse,LOW QUALITY PROTEIN: neuronal acetylcholine receptor subunit beta-2,906.75,Y,359,61.2,87.06,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,NP_062170.1,151095,Mammalia,Mammalia,Rattus norvegicus,Norway rat,neuronal acetylcholine receptor subunit beta-2 precursor,906.75,Y,359,61.2,87.06,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_005411583.1,45556,Mammalia,Mammalia,Chinchilla lanigera,Long-tailed chinchilla,PREDICTED: neuronal acetylcholine receptor subunit beta-2,905.98,Y,359,61.2,86.98,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_003501652.1,162753,Mammalia,Mammalia,Cricetulus griseus,Chinese hamster,neuronal acetylcholine receptor subunit beta-2,905.59,Y,359,61.2,86.94,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032753836.1,36141,Mammalia,Mammalia,Rattus rattus,Black rat,neuronal acetylcholine receptor subunit beta-2,905.21,Y,359,61.2,86.91,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_005080251.1,38204,Mammalia,Mammalia,Mesocricetus auratus,Golden hamster,neuronal acetylcholine receptor subunit beta-2,904.43,Y,359,61.2,86.83,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_005367251.1,37992,Mammalia,Mammalia,Microtus ochrogaster,Prairie vole,neuronal acetylcholine receptor subunit beta-2 isoform X1,901.35,Y,359,61.2,86.54,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_021514379.1,39112,Mammalia,Mammalia,Meriones unguiculatus,Mongolian gerbil,neuronal acetylcholine receptor subunit beta-2,897.12,Y,359,61.2,86.13,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_015989619.1,49042,Mammalia,Mammalia,Rousettus aegyptiacus,Egyptian rousette,PREDICTED: LOW QUALITY PROTEIN: neuronal acetylcholine receptor subunit beta-2,895.96,Y,359,61.2,86.02,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_008153968.1,50025,Mammalia,Mammalia,Eptesicus fuscus,Big brown bat,neuronal acetylcholine receptor subunit beta-2,894.8,Y,359,61.2,85.91,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,OBS83128.1,24505,Mammalia,Mammalia,Neotoma lepida,Desert woodrat,"hypothetical protein A6R68_22906, partial",894.8,Y,359,61.2,85.91,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF4021272.1,19274,Mammalia,Mammalia,Cervus hanglu yarkandensis,Yarkand deer,hypothetical protein G4228_013732,893.65,Y,359,61.2,85.8,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_008852963.1,49227,Mammalia,Mammalia,Nannospalax galili,Upper Galilee mountains blind mole rat,neuronal acetylcholine receptor subunit beta-2 isoform X2,893.65,Y,359,61.2,85.8,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_003795380.1,33085,Mammalia,Mammalia,Otolemur garnettii,Small-eared galago,neuronal acetylcholine receptor subunit beta-2,881.71,Y,359,61.2,84.65,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_004388615.1,37488,Mammalia,Mammalia,Trichechus manatus latirostris,Florida manatee,neuronal acetylcholine receptor subunit beta-2,875.54,Y,359,61.2,84.06,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_014445211.1,59499,Mammalia,Mammalia,Tupaia chinensis,Chinese tree shrew,LOW QUALITY PROTEIN: neuronal acetylcholine receptor subunit beta-2,873.23,Y,359,61.2,83.84,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_004693826.1,29269,Mammalia,Mammalia,Condylura cristata,Star-nosed mole,PREDICTED: neuronal acetylcholine receptor subunit beta-2,863.99,Y,359,61.2,82.95,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_031822532.1,46282,Mammalia,Mammalia,Sarcophilus harrisii,Tasmanian devil,neuronal acetylcholine receptor subunit beta-2,857.83,Y,359,61.2,82.36,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_020847304.1,47241,Mammalia,Mammalia,Phascolarctos cinereus,Koala,neuronal acetylcholine receptor subunit beta-2 isoform X1,851.66,Y,359,61.2,81.77,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_027727445.1,42715,Mammalia,Mammalia,Vombatus ursinus,Common wombat,neuronal acetylcholine receptor subunit beta-2,851.66,Y,359,61.2,81.77,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_007525410.1,29615,Mammalia,Mammalia,Erinaceus europaeus,Western European hedgehog,PREDICTED: neuronal acetylcholine receptor subunit beta-2,849.74,Y,359,61.2,81.58,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_001373153.1,51248,Mammalia,Mammalia,Monodelphis domestica,Gray short-tailed opossum,PREDICTED: neuronal acetylcholine receptor subunit beta-2,848.97,Y,359,61.2,81.51,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_004589268.1,26023,Mammalia,Mammalia,Ochotona princeps,American pika,PREDICTED: neuronal acetylcholine receptor subunit beta-2,846.27,Y,359,61.2,81.25,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_004619320.1,24062,Mammalia,Mammalia,Sorex araneus,European shrew,PREDICTED: neuronal acetylcholine receptor subunit beta-2,842.42,Y,359,61.2,80.88,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_025029380.1,32857,Lepidosauria,Lepidosauria,Python bivittatus,Burmese python,LOW QUALITY PROTEIN: neuronal acetylcholine receptor subunit beta-2,840.88,Y,359,61.2,80.73,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_018425584.1,24943,Amphibia,Amphibia,Nanorana parkeri,Frogs and toads,PREDICTED: neuronal acetylcholine receptor subunit beta-2,836.64,Y,359,61.2,80.32,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_030087514.1,30517,Aves,Aves,Serinus canaria,Common canary,neuronal acetylcholine receptor subunit beta-2,836.25,Y,359,61.2,80.29,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_021387982.1,43980,Aves,Aves,Lonchura striata domestica,Bengalese finch,neuronal acetylcholine receptor subunit beta-2,835.87,Y,359,61.2,80.25,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,RLV88287.1,19058,Aves,Aves,Erythrura gouldiae,Gouldian finch,hypothetical protein DV515_00015488,835.48,Y,359,61.2,80.21,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,TRZ11402.1,22656,Aves,Aves,Zosterops borbonicus,White-eyes,hypothetical protein HGM15179_015711,833.94,Y,359,61.2,80.07,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_030147527.2,45272,Aves,Aves,Taeniopygia guttata,Zebra finch,neuronal acetylcholine receptor subunit beta-2,833.94,Y,359,61.2,80.07,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_031949396.1,42323,Aves,Aves,Corvus moneduloides,New Caledonian crow,neuronal acetylcholine receptor subunit beta-2,833.17,Y,359,61.2,79.99,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF1529955.1,12813,Aves,Aves,Eudyptes sclateri,Erect-crested penguin,"Neuronal acetylcholine receptor subunit beta-2, partial",832.02,Y,359,61.2,79.88,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_008626973.2,43283,Aves,Aves,Corvus brachyrhynchos,American crow,"PREDICTED: neuronal acetylcholine receptor subunit beta-2, partial",832.02,Y,359,61.2,79.88,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF1636850.1,12980,Aves,Aves,Eudyptes filholi,Southern rockhopper penguin,"Neuronal acetylcholine receptor subunit beta-2, partial",831.63,Y,359,61.2,79.84,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF1561708.1,15781,Aves,Aves,Eudyptes schlegeli,Royal penguin,"Neuronal acetylcholine receptor subunit beta-2, partial",831.63,Y,359,61.2,79.84,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF1577664.1,15466,Aves,Aves,Eudyptes moseleyi,Northern rockhopper penguin,"Neuronal acetylcholine receptor subunit beta-2, partial",831.63,Y,359,61.2,79.84,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_005059160.1,26767,Aves,Aves,Ficedula albicollis,Collared flycatcher,PREDICTED: neuronal acetylcholine receptor subunit beta-2,831.25,Y,359,61.2,79.81,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_025852951.1,38429,Mammalia,Mammalia,Vulpes vulpes,Red fox,neuronal acetylcholine receptor subunit beta-2 isoform X2,831.25,Y,359,61.2,79.81,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032060285.1,27801,Aves,Aves,Aythya fuligula,Tufted duck,neuronal acetylcholine receptor subunit beta-2,830.09,Y,359,61.2,79.7,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_025286859.1,62990,Mammalia,Mammalia,Canis lupus dingo,Dingo,neuronal acetylcholine receptor subunit beta-2 isoform X1,829.71,Y,359,61.2,79.66,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_547565.2,67615,Mammalia,Mammalia,Canis lupus familiaris,Dog,neuronal acetylcholine receptor subunit beta-2 isoform X1,829.71,Y,359,61.2,79.66,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_027300252.1,58659,Aves,Aves,Anas platyrhynchos,Mallard,neuronal acetylcholine receptor subunit beta-2,829.32,Y,359,61.2,79.62,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF1601405.1,17574,Aves,Aves,Eudyptes pachyrhynchus,Fiordland penguin,"Neuronal acetylcholine receptor subunit beta-2, partial",828.93,Y,359,61.2,79.59,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF1602410.1,15573,Aves,Aves,Eudyptes robustus,Snares penguin,"Neuronal acetylcholine receptor subunit beta-2, partial",828.93,Y,359,61.2,79.59,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017201045.1,48644,Mammalia,Mammalia,Oryctolagus cuniculus,Rabbit,PREDICTED: LOW QUALITY PROTEIN: neuronal acetylcholine receptor subunit beta-2,827.39,Y,359,61.2,79.44,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_008525149.1,38537,Mammalia,Mammalia,Equus przewalskii,Przewalski's horse,PREDICTED: LOW QUALITY PROTEIN: neuronal acetylcholine receptor subunit beta-2,827.01,Y,359,61.2,79.4,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032568970.1,35608,Aves,Aves,Chiroxiphia lanceolata,Lance-tailed manakin,neuronal acetylcholine receptor subunit beta-2,827.01,Y,359,61.2,79.4,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_027554925.1,39505,Aves,Aves,Neopelma chrysocephalum,Saffron-crested tyrant-manakin,neuronal acetylcholine receptor subunit beta-2,827.01,Y,359,61.2,79.4,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_027760324.1,34050,Aves,Aves,Empidonax traillii,Willow flycatcher,neuronal acetylcholine receptor subunit beta-2,827.01,Y,359,61.2,79.4,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_014748297.1,26793,Aves,Aves,Sturnus vulgaris,Common starling,PREDICTED: neuronal acetylcholine receptor subunit beta-2,826.24,Y,359,61.2,79.33,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_027523556.1,39234,Aves,Aves,Corapipo altera,White-ruffed manakin,neuronal acetylcholine receptor subunit beta-2,826.24,Y,359,61.2,79.33,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_023103325.1,57491,Mammalia,Mammalia,Felis catus,Domestic cat,neuronal acetylcholine receptor subunit beta-2,824.7,Y,359,61.2,79.18,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032991914.1,39483,Lepidosauria,Lepidosauria,Lacerta agilis,Sand lizard,neuronal acetylcholine receptor subunit beta-2,824.7,Y,359,61.2,79.18,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG31782.1,14,Amphibia,Amphibia,Espadarana callistomma,Glass frogs,nicotinic acetylcholine receptor beta-2,824.7,Y,359,61.2,79.18,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_020652966.1,38806,Lepidosauria,Lepidosauria,Pogona vitticeps,Central bearded dragon,neuronal acetylcholine receptor subunit beta-2,824.7,Y,359,61.2,79.18,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_026904256.1,56435,Mammalia,Mammalia,Acinonyx jubatus,Cheetah,neuronal acetylcholine receptor subunit beta-2,824.31,Y,359,61.2,79.14,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017694480.1,36875,Aves,Aves,Lepidothrix coronata,Blue-crowned manakin,PREDICTED: neuronal acetylcholine receptor subunit beta-2,824.31,Y,359,61.2,79.14,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_033927228.1,29293,Aves,Aves,Melopsittacus undulatus,Budgerigar,neuronal acetylcholine receptor subunit beta-2,823.54,Y,359,61.2,79.07,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,PIN97859.1,30189,Amphibia,Amphibia,Lithobates catesbeianus,American bullfrog,"hypothetical protein AB205_0056910, partial",823.54,Y,359,61.2,79.07,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_028566415.1,51188,Lepidosauria,Lepidosauria,Podarcis muralis,Common wall lizard,neuronal acetylcholine receptor subunit beta-2,823.16,Y,359,61.2,79.03,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_027581641.1,42564,Aves,Aves,Pipra filicauda,Wire-tailed manakin,neuronal acetylcholine receptor subunit beta-2,822.77,Y,359,61.2,78.99,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032938566.1,35444,Aves,Aves,Catharus ustulatus,Swainson's thrush,neuronal acetylcholine receptor subunit beta-2,822.39,Y,359,61.2,78.96,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_030158890.2,42103,Mammalia,Mammalia,Lynx canadensis,Canada lynx,neuronal acetylcholine receptor subunit beta-2,821.23,Y,359,61.2,78.85,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_012923491.2,82643,Mammalia,Mammalia,Heterocephalus glaber,Naked mole-rat,neuronal acetylcholine receptor subunit beta-2,820.46,Y,359,61.2,78.77,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_030329643.1,43730,Aves,Aves,Strigops habroptila,Kakapo,neuronal acetylcholine receptor subunit beta-2,820.08,Y,359,61.2,78.73,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,RMB94996.1,34999,Aves,Aves,Hirundo rustica rustica,Barn swallow,hypothetical protein DUI87_28539,818.92,Y,359,61.2,78.62,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_029436146.1,49320,Amphibia,Amphibia,Rhinatrema bivittatum,Two-lined caecilian,neuronal acetylcholine receptor subunit beta-2 isoform X2,818.92,Y,359,61.2,78.62,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_019287119.1,58569,Mammalia,Mammalia,Panthera pardus,Leopard,PREDICTED: neuronal acetylcholine receptor subunit beta-2,818.15,Y,359,61.2,78.55,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF4802293.1,18372,Aves,Aves,Turdus rufiventris,Rufous-bellied thrush,Neuronal acetylcholine receptor subunit beta-2,817.38,Y,359,61.2,78.48,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_003229753.2,35701,Lepidosauria,Lepidosauria,Anolis carolinensis,Green anole,PREDICTED: neuronal acetylcholine receptor subunit beta-2,816.61,Y,359,61.2,78.4,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_015505566.1,39768,Aves,Aves,Parus major,Great Tit,neuronal acetylcholine receptor subunit beta-2,816.61,Y,359,61.2,78.4,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032090171.1,30930,Lepidosauria,Lepidosauria,Thamnophis elegans,Western terrestrial garter snake,neuronal acetylcholine receptor subunit beta-2,816.22,Y,359,61.2,78.36,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_029882327.1,48151,Aves,Aves,Aquila chrysaetos chrysaetos,Golden eagle,neuronal acetylcholine receptor subunit beta-2 isoform X1,815.07,Y,359,61.2,78.25,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_005532378.1,27656,Aves,Aves,Pseudopodoces humilis,Tibetan ground-tit,PREDICTED: neuronal acetylcholine receptor subunit beta-2,815.07,Y,359,61.2,78.25,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF1554160.1,15152,Aves,Aves,Eudyptula albosignata,White-flippered penguin,"Neuronal acetylcholine receptor subunit beta-2, partial",812.76,Y,359,61.2,78.03,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF1413210.1,15371,Aves,Aves,Spheniscus humboldti,Humboldt's penguin,"Neuronal acetylcholine receptor subunit beta-2, partial",812.76,Y,359,61.2,78.03,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_028342343.1,51261,Mammalia,Mammalia,Physeter catodon,Sperm whale,"neuronal acetylcholine receptor subunit beta-2, partial",812.76,Y,359,61.2,78.03,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF1529434.1,15475,Aves,Aves,Eudyptula minor,Little blue penguin,"Neuronal acetylcholine receptor subunit beta-2, partial",812.76,Y,359,61.2,78.03,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_004667280.1,25743,Mammalia,Mammalia,Jaculus jaculus,Lesser Egyptian jerboa,PREDICTED: neuronal acetylcholine receptor subunit beta-2,811.6,Y,359,61.2,77.92,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_030821216.1,28938,Aves,Aves,Camarhynchus parvulus,Tanagers,neuronal acetylcholine receptor subunit beta-2,811.22,Y,359,61.2,77.88,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_029139447.1,23979,Lepidosauria,Lepidosauria,Protobothrops mucrosquamatus,Chinese habu,neuronal acetylcholine receptor subunit beta-2,810.83,Y,359,61.2,77.85,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_034261446.1,41491,Lepidosauria,Lepidosauria,Pantherophis guttatus,Colubrid snakes,neuronal acetylcholine receptor subunit beta-2,810.45,Y,359,61.2,77.81,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_010562475.1,25371,Aves,Aves,Haliaeetus leucocephalus,Bald eagle,PREDICTED: neuronal acetylcholine receptor subunit beta-2,810.06,Y,359,61.2,77.77,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG31810.1,74,Amphibia,Amphibia,Phyllobates terribilis,Dart-poison frogs,nicotinic acetylcholine receptor beta-2,808.9,Y,359,61.2,77.66,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_033849844.1,88734,Actinopteri,Actinopteri,Acipenser ruthenus,Sterlet,neuronal acetylcholine receptor subunit beta-2,808.9,Y,359,61.2,77.66,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,TFJ97639.1,21661,Testudines,Testudines,Platysternon megacephalum,Big-headed turtle,mucin-6,808.52,Y,359,61.2,77.63,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG31791.1,34,Amphibia,Amphibia,Allobates talamancae,Talamanca rocket frog,nicotinic acetylcholine receptor beta-2,808.52,Y,359,61.2,77.63,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG31803.1,29,Amphibia,Amphibia,Hyloxalus nexipus,Los Tayos rocket frog,nicotinic acetylcholine receptor beta-2,808.13,Y,359,61.2,77.59,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_033781028.1,50058,Amphibia,Amphibia,Geotrypetes seraphini,Gabon caecilian,neuronal acetylcholine receptor subunit beta-2,807.75,Y,359,61.2,77.55,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAE8588799.1,122817,Amphibia,Amphibia,Xenopus tropicalis,Tropical clawed frog,hypothetical protein XENTR_v10022745,807.36,Y,359,61.2,77.51,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG31797.1,16,Amphibia,Amphibia,Colostethus fugax,Pastaza rocket frog,nicotinic acetylcholine receptor beta-2,806.98,Y,359,61.2,77.48,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_022346774.1,36593,Mammalia,Mammalia,Enhydra lutris kenyoni,Sea otter,neuronal acetylcholine receptor subunit beta-2,806.59,Y,359,61.2,77.44,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG31805.1,23,Amphibia,Amphibia,Allobates zaparo,Zaparo's poison frog,nicotinic acetylcholine receptor beta-2,806.21,Y,359,61.2,77.4,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG31785.1,8,Amphibia,Amphibia,Hyloxalus italoi,Dart-poison frogs,nicotinic acetylcholine receptor beta-2,805.82,Y,359,61.2,77.37,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG31784.1,45,Amphibia,Amphibia,Incilius nebulifer,Gulf Coast toad,nicotinic acetylcholine receptor beta-2,805.82,Y,359,61.2,77.37,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_021563476.1,33251,Mammalia,Mammalia,Carlito syrichta,Philippine tarsier,neuronal acetylcholine receptor subunit beta-2,805.44,Y,359,61.2,77.33,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KYO27011.1,74703,Crocodylia,Crocodylia,Alligator mississippiensis,American alligator,neuronal acetylcholine receptor subunit beta-2,805.05,Y,359,61.2,77.29,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,NP_001088299.1,129541,Amphibia,Amphibia,Xenopus laevis,African clawed frog,cholinergic receptor nicotinic beta 2 subunit S homeolog precursor,805.05,Y,359,61.2,77.29,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_026341086.1,43159,Mammalia,Mammalia,Ursus arctos horribilis,Brown bear,neuronal acetylcholine receptor subunit beta-2,804.28,Y,359,61.2,77.22,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG31783.1,12,Amphibia,Amphibia,Boana picturata,Imbabura treefrog,nicotinic acetylcholine receptor beta-2,803.51,Y,359,61.2,77.14,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,NP_990144.1,70279,Aves,Aves,Gallus gallus,Chicken,neuronal acetylcholine receptor subunit beta-2 precursor,803.13,Y,359,61.2,77.11,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_021238756.1,43411,Aves,Aves,Numida meleagris,Helmeted guineafowl,neuronal acetylcholine receptor subunit beta-2,803.13,Y,359,61.2,77.11,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG31798.1,18,Amphibia,Amphibia,Excidobates captivus,Rio Santiago poison frog,nicotinic acetylcholine receptor beta-2,803.13,Y,359,61.2,77.11,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG31786.1,5,Amphibia,Amphibia,Atelopus elegans,True toads,nicotinic acetylcholine receptor beta-2,802.74,Y,359,61.2,77.07,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032175229.1,60642,Mammalia,Mammalia,Mustela erminea,Ermine,neuronal acetylcholine receptor subunit beta-2 isoform X1,802.36,Y,359,61.2,77.03,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,NP_001297123.1,48578,Mammalia,Mammalia,Mustela putorius furo,Domestic ferret,neuronal acetylcholine receptor subunit beta-2 precursor,802.36,Y,359,61.2,77.03,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_030398197.1,50866,Testudines,Testudines,Gopherus evgoodei,Goodes thornscrub tortoise,neuronal acetylcholine receptor subunit beta-2,801.2,Y,359,61.2,76.92,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032254592.1,45571,Mammalia,Mammalia,Phoca vitulina,Harbor seal,neuronal acetylcholine receptor subunit beta-2,800.82,Y,359,61.2,76.89,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_027946107.1,40113,Mammalia,Mammalia,Eumetopias jubatus,Steller sea lion,neuronal acetylcholine receptor subunit beta-2,800.82,Y,359,61.2,76.89,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_025714703.1,46265,Mammalia,Mammalia,Callorhinus ursinus,Northern fur seal,neuronal acetylcholine receptor subunit beta-2,800.82,Y,359,61.2,76.89,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_027469981.1,59271,Mammalia,Mammalia,Zalophus californianus,California sea lion,neuronal acetylcholine receptor subunit beta-2,800.82,Y,359,61.2,76.89,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_030321092.1,42950,Aves,Aves,Calypte anna,Anna's hummingbird,neuronal acetylcholine receptor subunit beta-2,797.73,Y,359,61.2,76.59,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_021537686.1,28446,Mammalia,Mammalia,Neomonachus schauinslandi,Hawaiian monk seal,neuronal acetylcholine receptor subunit beta-2,797.73,Y,359,61.2,76.59,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG31807.1,2,Amphibia,Amphibia,Gastrotheca sp. Namarin,Marsupial frogs,nicotinic acetylcholine receptor beta-2,797.73,Y,359,61.2,76.59,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG31793.1,49,Amphibia,Amphibia,Epipedobates machalilla,Phantasmal poison frogs,nicotinic acetylcholine receptor beta-2,797.35,Y,359,61.2,76.55,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG31794.1,65,Amphibia,Amphibia,Epipedobates boulengeri,Phantasmal poison frogs,nicotinic acetylcholine receptor beta-2,797.35,Y,359,61.2,76.55,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG31792.1,47,Amphibia,Amphibia,Epipedobates tricolor,Phantasmal poison frogs,nicotinic acetylcholine receptor beta-2,797.35,Y,359,61.2,76.55,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG31796.1,57,Amphibia,Amphibia,Epipedobates anthonyi,Phantasmal poison frogs,nicotinic acetylcholine receptor beta-2,797.35,Y,359,61.2,76.55,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG31789.1,15,Amphibia,Amphibia,Ameerega parvula,Ruby poison frog,nicotinic acetylcholine receptor beta-2,796.96,Y,359,61.2,76.52,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG31790.1,23,Amphibia,Amphibia,Ameerega bilinguis,Ecuador poison frog,nicotinic acetylcholine receptor beta-2,796.58,Y,359,61.2,76.48,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG31787.1,76,Amphibia,Amphibia,Ameerega hahneli,Dart-poison frogs,nicotinic acetylcholine receptor beta-2,795.42,Y,359,61.2,76.37,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032701028.1,48403,Mammalia,Mammalia,Lontra canadensis,Northern American river otter,neuronal acetylcholine receptor subunit beta-2,791.57,Y,359,61.2,76,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_015740019.1,41600,Aves,Aves,Coturnix japonica,Japanese quail,neuronal acetylcholine receptor subunit beta-2 isoform X1,791.19,Y,359,61.2,75.96,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,OXB54177.1,17163,Aves,Aves,Callipepla squamata,Scaled quail,"hypothetical protein ASZ78_015393, partial",788.49,Y,359,61.2,75.7,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF3822907.1,19789,Mammalia,Mammalia,Mirounga leonina,Southern elephant seal,hypothetical protein GH733_010343,785.02,Y,359,61.2,75.37,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_006031061.1,43349,Crocodylia,Crocodylia,Alligator sinensis,Chinese alligator,LOW QUALITY PROTEIN: neuronal acetylcholine receptor subunit beta-2,785.02,Y,359,61.2,75.37,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_015274587.1,24674,Lepidosauria,Lepidosauria,Gekko japonicus,Geckos,PREDICTED: LOW QUALITY PROTEIN: neuronal acetylcholine receptor subunit beta-2,781.17,Y,359,61.2,75,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_023698977.1,55295,Actinopteri,Actinopteri,Paramormyrops kingsleyae,Elephantfishes,neuronal acetylcholine receptor subunit beta-2 isoform X1,780.4,Y,359,61.2,74.93,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_029115725.1,72410,Actinopteri,Actinopteri,Scleropages formosus,Asian bonytongue,neuronal acetylcholine receptor subunit beta-2 isoform X2,775.39,Y,359,61.2,74.44,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_006734883.1,40460,Mammalia,Mammalia,Leptonychotes weddellii,Weddell seal,neuronal acetylcholine receptor subunit beta-2,773.08,Y,359,61.2,74.22,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_029359345.1,38275,Actinopteri,Actinopteri,Echeneis naucrates,Live sharksucker,neuronal acetylcholine receptor subunit beta-2,771.15,Y,359,61.2,74.04,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_028832989.1,50097,Actinopteri,Actinopteri,Denticeps clupeoides,Denticle herring,neuronal acetylcholine receptor subunit beta-2,771.15,Y,359,61.2,74.04,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_028650700.1,35767,Cladistia,Cladistia,Erpetoichthys calabaricus,Reedfish,neuronal acetylcholine receptor subunit beta-2,766.92,Y,359,61.2,73.63,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_026225794.1,40551,Actinopteri,Actinopteri,Anabas testudineus,Climbing perch,neuronal acetylcholine receptor subunit beta-2,766.53,Y,359,61.2,73.59,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_034409253.1,38023,Actinopteri,Actinopteri,Cyclopterus lumpus,Lumpfish,LOW QUALITY PROTEIN: neuronal acetylcholine receptor subunit beta-2,763.45,Y,359,61.2,73.3,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_016140592.1,67438,Actinopteri,Actinopteri,Sinocyclocheilus grahami,Carps and others,PREDICTED: neuronal acetylcholine receptor subunit beta-2-like isoform X1,762.68,Y,359,61.2,73.22,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,TTD18121.1,17264,Actinopteri,Actinopteri,Bagarius yarrelli,Goonch,Neuronal acetylcholine receptor subunit beta-2,760.37,Y,359,61.2,73,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_005280630.2,46668,Testudines,Testudines,Chrysemys picta bellii,Western painted turtle,neuronal acetylcholine receptor subunit beta-2,759.21,Y,359,61.2,72.89,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017324265.1,51421,Actinopteri,Actinopteri,Ictalurus punctatus,Channel catfish,PREDICTED: neuronal acetylcholine receptor subunit beta-2,759.21,Y,359,61.2,72.89,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF4088502.1,24479,Actinopteri,Actinopteri,Ameiurus melas,Black bullhead,hypothetical protein AMELA_G00083110,758.83,Y,359,61.2,72.85,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_016327290.1,68487,Actinopteri,Actinopteri,Sinocyclocheilus anshuiensis,Carps and others,PREDICTED: neuronal acetylcholine receptor subunit beta-2-like,758.44,Y,359,61.2,72.82,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_020462870.1,40888,Actinopteri,Actinopteri,Monopterus albus,Swamp eel,LOW QUALITY PROTEIN: neuronal acetylcholine receptor subunit beta-2,757.67,Y,359,61.2,72.74,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_026795525.1,66299,Actinopteri,Actinopteri,Pangasianodon hypophthalmus,Striped catfish,neuronal acetylcholine receptor subunit beta-2,756.13,Y,359,61.2,72.6,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_027004353.1,47806,Actinopteri,Actinopteri,Tachysurus fulvidraco,Yellow catfish,neuronal acetylcholine receptor subunit beta-2,755.36,Y,359,61.2,72.52,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_014007535.1,111551,Actinopteri,Actinopteri,Salmo salar,Atlantic salmon,PREDICTED: neuronal acetylcholine receptor subunit beta-2-like,753.05,Y,359,61.2,72.3,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_030227466.1,46937,Actinopteri,Actinopteri,Gadus morhua,Atlantic cod,neuronal acetylcholine receptor subunit beta-2,752.67,Y,359,61.2,72.26,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAA0703202.1,24328,Actinopteri,Actinopteri,Triplophysa tibetana,Plateau loaches,Neuronal acetylcholine receptor subunit beta-2,752.28,Y,359,61.2,72.23,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_031643304.1,89411,Actinopteri,Actinopteri,Oncorhynchus kisutch,Coho salmon,neuronal acetylcholine receptor subunit beta-2-like,751.51,Y,359,61.2,72.15,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_018974726.1,116951,Actinopteri,Actinopteri,Cyprinus carpio,Common carp,PREDICTED: neuronal acetylcholine receptor subunit beta-2-like,751.12,Y,359,61.2,72.11,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_005169811.1,87478,Actinopteri,Actinopteri,Danio rerio,Zebrafish,neuronal acetylcholine receptor subunit beta-2,751.12,Y,359,61.2,72.11,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,RXN05450.1,37694,Actinopteri,Actinopteri,Labeo rohita,Rohu,neuronal acetylcholine receptor subunit beta-2-like protein,751.12,Y,359,61.2,72.11,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF4103276.1,24824,Actinopteri,Actinopteri,Onychostoma macrolepis,Carps and others,hypothetical protein G5714_016159,749.97,Y,359,61.2,72,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_021477326.1,124308,Actinopteri,Actinopteri,Oncorhynchus mykiss,Rainbow trout,neuronal acetylcholine receptor subunit beta-2-like,749.97,Y,359,61.2,72,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AWO96586.1,53722,Actinopteri,Actinopteri,Scophthalmus maximus,Turbot,putative neuronal acetylcholine receptor subunit beta-2,749.2,Y,359,61.2,71.93,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_019220454.1,63355,Actinopteri,Actinopteri,Oreochromis niloticus,Nile tilapia,neuronal acetylcholine receptor subunit beta-2 isoform X1,749.2,Y,359,61.2,71.93,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,TRY81625.1,35332,Actinopteri,Actinopteri,Danionella translucida,Carps and others,hypothetical protein DNTS_001936,748.43,Y,359,61.2,71.86,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_030604959.1,41124,Actinopteri,Actinopteri,Archocentrus centrarchus,Flier cichlid,neuronal acetylcholine receptor subunit beta-2,748.43,Y,359,61.2,71.86,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_028281418.1,41003,Actinopteri,Actinopteri,Parambassis ranga,Indian glassy fish,neuronal acetylcholine receptor subunit beta-2,748.43,Y,359,61.2,71.86,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_030043297.1,37122,Amphibia,Amphibia,Microcaecilia unicolor,Caecilians,neuronal acetylcholine receptor subunit beta-2,748.04,Y,359,61.2,71.82,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009285488.2,32685,Aves,Aves,Aptenodytes forsteri,Emperor penguin,PREDICTED: LOW QUALITY PROTEIN: neuronal acetylcholine receptor subunit beta-2,748.04,Y,359,61.2,71.82,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,TKS82080.1,28544,Actinopteri,Actinopteri,Collichthys lucidus,Big head croaker,Neuronal acetylcholine receptor subunit beta-2,747.66,Y,359,61.2,71.78,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_033613982.1,67687,Mammalia,Mammalia,Fukomys damarensis,Damara mole-rat,"neuronal acetylcholine receptor subunit beta-2, partial",747.27,Y,359,61.2,71.74,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_008287129.1,31742,Actinopteri,Actinopteri,Stegastes partitus,Bicolor damselfish,PREDICTED: neuronal acetylcholine receptor subunit beta-2,747.27,Y,359,61.2,71.74,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_012994737.2,59380,Actinopteri,Actinopteri,Esox lucius,Northern pike,neuronal acetylcholine receptor subunit beta-2,746.89,Y,359,61.2,71.71,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_023122222.1,39307,Actinopteri,Actinopteri,Amphiprion ocellaris,Clown anemonefish,neuronal acetylcholine receptor subunit beta-2 isoform X1,746.12,Y,359,61.2,71.63,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_028326803.1,43562,Actinopteri,Actinopteri,Gouania willdenowi,Blunt-snouted clingfish,neuronal acetylcholine receptor subunit beta-2 isoform X1,745.73,Y,359,61.2,71.6,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_029928380.1,38160,Actinopteri,Actinopteri,Myripristis murdjan,Pinecone soldierfish,neuronal acetylcholine receptor subunit beta-2,745.73,Y,359,61.2,71.6,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,RVE62673.1,21529,Actinopteri,Actinopteri,Oryzias javanicus,Javanese ricefish,hypothetical protein OJAV_G00159700,745.35,Y,359,61.2,71.56,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_028986111.1,49247,Actinopteri,Actinopteri,Betta splendens,Siamese fighting fish,neuronal acetylcholine receptor subunit beta-2,745.35,Y,359,61.2,71.56,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_026140432.1,98570,Actinopteri,Actinopteri,Carassius auratus,Goldfish,neuronal acetylcholine receptor subunit beta-2-like,745.35,Y,359,61.2,71.56,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_023797534.1,31622,Aves,Aves,Cyanistes caeruleus,Blue tit,neuronal acetylcholine receptor subunit beta-2,745.35,Y,359,61.2,71.56,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_030639471.1,30134,Actinopteri,Actinopteri,Chanos chanos,Milkfish,neuronal acetylcholine receptor subunit beta-2,744.96,Y,359,61.2,71.52,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_033496882.1,43071,Actinopteri,Actinopteri,Epinephelus lanceolatus,Giant grouper,neuronal acetylcholine receptor subunit beta-2,744.96,Y,359,61.2,71.52,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_030013256.1,42348,Actinopteri,Actinopteri,Sphaeramia orbicularis,Orbiculate cardinalfish,neuronal acetylcholine receptor subunit beta-2,744.58,Y,359,61.2,71.49,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_004541346.1,46436,Actinopteri,Actinopteri,Maylandia zebra,Zebra mbuna,neuronal acetylcholine receptor subunit beta-2,744.19,Y,359,61.2,71.45,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_031589981.1,34822,Actinopteri,Actinopteri,Oreochromis aureus,Blue tilapia,neuronal acetylcholine receptor subunit beta-2,744.19,Y,359,61.2,71.45,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF1640464.1,12893,Aves,Aves,Eudyptes chrysocome,Rockhopper penguin,"Neuronal acetylcholine receptor subunit beta-2, partial",743.81,Y,359,61.2,71.41,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_006804967.1,31419,Actinopteri,Actinopteri,Neolamprologus brichardi,Lyretail cichlid,PREDICTED: neuronal acetylcholine receptor subunit beta-2-like,743.81,Y,359,61.2,71.41,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_018536026.1,45606,Actinopteri,Actinopteri,Lates calcarifer,Barramundi perch,PREDICTED: neuronal acetylcholine receptor subunit beta-2,743.42,Y,359,61.2,71.38,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_005936125.1,45052,Actinopteri,Actinopteri,Haplochromis burtoni,Burton's mouthbrooder,PREDICTED: neuronal acetylcholine receptor subunit beta-2,743.42,Y,359,61.2,71.38,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_005732171.1,38742,Actinopteri,Actinopteri,Pundamilia nyererei,Cichlids,PREDICTED: neuronal acetylcholine receptor subunit beta-2,743.42,Y,359,61.2,71.38,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_019948095.1,37762,Actinopteri,Actinopteri,Paralichthys olivaceus,Japanese flounder,PREDICTED: neuronal acetylcholine receptor subunit beta-2,743.42,Y,359,61.2,71.38,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_019734277.1,42020,Actinopteri,Actinopteri,Hippocampus comes,Tiger tail seahorse,PREDICTED: neuronal acetylcholine receptor subunit beta-2,743.42,Y,359,61.2,71.38,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_034466867.1,47299,Actinopteri,Actinopteri,Hippoglossus hippoglossus,Atlantic halibut,neuronal acetylcholine receptor subunit beta-2,743.04,Y,359,61.2,71.34,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_029958077.1,39283,Actinopteri,Actinopteri,Salarias fasciatus,Jewelled blenny,neuronal acetylcholine receptor subunit beta-2 isoform X1,742.65,Y,359,61.2,71.3,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_026173477.1,42444,Actinopteri,Actinopteri,Mastacembelus armatus,Zig-zag eel,neuronal acetylcholine receptor subunit beta-2,742.65,Y,359,61.2,71.3,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_026039325.1,52755,Actinopteri,Actinopteri,Astatotilapia calliptera,Eastern happy,neuronal acetylcholine receptor subunit beta-2,742.26,Y,359,61.2,71.26,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AAQ62632.1,49042,Actinopteri,Actinopteri,Takifugu rubripes,Torafugu,"nicotinic acetylcholine receptor beta 2 subunit, partial",742.26,Y,359,61.2,71.26,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_034030673.1,36362,Actinopteri,Actinopteri,Thalassophryne amazonica,Poison toadfishes,neuronal acetylcholine receptor subunit beta-2,742.26,Y,359,61.2,71.26,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_023819667.1,47277,Actinopteri,Actinopteri,Oryzias latipes,Japanese medaka,neuronal acetylcholine receptor subunit beta-2,742.26,Y,359,61.2,71.26,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_014839916.1,47806,Actinopteri,Actinopteri,Poecilia mexicana,Shortfin molly,PREDICTED: neuronal acetylcholine receptor subunit beta-2,742.26,Y,359,61.2,71.26,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_010728132.1,94424,Actinopteri,Actinopteri,Larimichthys crocea,Large yellow croaker,neuronal acetylcholine receptor subunit beta-2,741.88,Y,359,61.2,71.23,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_016376135.1,68581,Actinopteri,Actinopteri,Sinocyclocheilus rhinocerous,Carps and others,PREDICTED: neuronal acetylcholine receptor subunit beta-2-like,741.5,Y,359,61.2,71.19,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_010785334.1,32357,Actinopteri,Actinopteri,Notothenia coriiceps,Black rockcod,PREDICTED: neuronal acetylcholine receptor subunit beta-2-like isoform X2,741.11,Y,359,61.2,71.15,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_012721164.2,38839,Actinopteri,Actinopteri,Fundulus heteroclitus,Mummichog,neuronal acetylcholine receptor subunit beta-2,740.73,Y,359,61.2,71.12,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017280499.1,43259,Actinopteri,Actinopteri,Kryptolebias marmoratus,Mangrove rivulus,neuronal acetylcholine receptor subunit beta-2,740.73,Y,359,61.2,71.12,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_022612458.1,32874,Actinopteri,Actinopteri,Seriola dumerili,Greater amberjack,neuronal acetylcholine receptor subunit beta-2,739.95,Y,359,61.2,71.04,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_023264661.1,38822,Actinopteri,Actinopteri,Seriola lalandi dorsalis,Yellowtail amberjack,neuronal acetylcholine receptor subunit beta-2,739.95,Y,359,61.2,71.04,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_015805929.1,37068,Actinopteri,Actinopteri,Nothobranchius furzeri,Turquoise killifish,PREDICTED: neuronal acetylcholine receptor subunit beta-2 isoform X1,739.95,Y,359,61.2,71.04,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_008429926.1,45397,Actinopteri,Actinopteri,Poecilia reticulata,Guppy,PREDICTED: neuronal acetylcholine receptor subunit beta-2,739.95,Y,359,61.2,71.04,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_029308034.1,37868,Actinopteri,Actinopteri,Cottoperca gobio,Thornfishes,neuronal acetylcholine receptor subunit beta-2,739.57,Y,359,61.2,71.01,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_031155155.1,47978,Actinopteri,Actinopteri,Sander lucioperca,Pike-perch,neuronal acetylcholine receptor subunit beta-2,739.57,Y,359,61.2,71.01,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_007556176.1,49655,Actinopteri,Actinopteri,Poecilia formosa,Amazon molly,PREDICTED: neuronal acetylcholine receptor subunit beta-2,739.18,Y,359,61.2,70.97,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_005495390.2,26676,Aves,Aves,Zonotrichia albicollis,White-throated sparrow,neuronal acetylcholine receptor subunit beta-2,739.18,Y,359,61.2,70.97,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,TNN02607.1,20156,Actinopteri,Actinopteri,Takifugu bimaculatus,Puffers,hypothetical protein fugu_010094,739.18,Y,359,61.2,70.97,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_014915553.1,47231,Actinopteri,Actinopteri,Poecilia latipinna,Sailfin molly,PREDICTED: neuronal acetylcholine receptor subunit beta-2,739.18,Y,359,61.2,70.97,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_015236071.1,36660,Actinopteri,Actinopteri,Cyprinodon variegatus,Sheepshead minnow,PREDICTED: neuronal acetylcholine receptor subunit beta-2,738.8,Y,359,61.2,70.93,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_013880883.1,35358,Actinopteri,Actinopteri,Austrofundulus limnaeus,New World rivulines,PREDICTED: neuronal acetylcholine receptor subunit beta-2,738.41,Y,359,61.2,70.89,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_034084183.1,45845,Actinopteri,Actinopteri,Gymnodraco acuticeps,Antarctic dragonfishes,neuronal acetylcholine receptor subunit beta-2,738.41,Y,359,61.2,70.89,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_024123946.1,42773,Actinopteri,Actinopteri,Oryzias melastigma,Indian medaka,neuronal acetylcholine receptor subunit beta-2,738.41,Y,359,61.2,70.89,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032374949.1,64529,Actinopteri,Actinopteri,Etheostoma spectabile,Orangethroat darter,neuronal acetylcholine receptor subunit beta-2,738.41,Y,359,61.2,70.89,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_033983083.1,41268,Actinopteri,Actinopteri,Trematomus bernacchii,Emerald rockcod,neuronal acetylcholine receptor subunit beta-2 isoform X1,738.41,Y,359,61.2,70.89,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_033959117.1,37990,Actinopteri,Actinopteri,Pseudochaenichthys georgianus,South Georgia icefish,neuronal acetylcholine receptor subunit beta-2,738.41,Y,359,61.2,70.89,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_030250814.1,54063,Actinopteri,Actinopteri,Sparus aurata,Gilthead seabream,neuronal acetylcholine receptor subunit beta-2,738.03,Y,359,61.2,70.86,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_027868188.1,47114,Actinopteri,Actinopteri,Xiphophorus couchianus,Monterrey platyfish,neuronal acetylcholine receptor subunit beta-2,737.64,Y,359,61.2,70.82,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032414846.1,46432,Actinopteri,Actinopteri,Xiphophorus hellerii,Green swordtail,neuronal acetylcholine receptor subunit beta-2,737.64,Y,359,61.2,70.82,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_034552865.1,38814,Actinopteri,Actinopteri,Notolabrus celidotus,New Zealand spotty,neuronal acetylcholine receptor subunit beta-2,737.26,Y,359,61.2,70.78,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_020497614.1,36730,Actinopteri,Actinopteri,Labrus bergylta,Ballan wrasse,neuronal acetylcholine receptor subunit beta-2,737.26,Y,359,61.2,70.78,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_005809178.1,43733,Actinopteri,Actinopteri,Xiphophorus maculatus,Southern platyfish,neuronal acetylcholine receptor subunit beta-2,736.87,Y,359,61.2,70.75,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF1387942.1,24537,Actinopteri,Actinopteri,Perca fluviatilis,European perch,hypothetical protein PFLUV_G00085140,735.72,Y,359,61.2,70.64,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_028436638.1,65046,Actinopteri,Actinopteri,Perca flavescens,Yellow perch,neuronal acetylcholine receptor subunit beta-2,735.72,Y,359,61.2,70.64,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_031708854.1,41910,Actinopteri,Actinopteri,Anarrhichthys ocellatus,Wolf-eel,neuronal acetylcholine receptor subunit beta-2,735.33,Y,359,61.2,70.6,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_024058905.2,34211,Testudines,Testudines,Terrapene carolina triunguis,Three-toed box turtle,neuronal acetylcholine receptor subunit beta-2,734.18,Y,359,61.2,70.49,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_019381178.1,27379,Crocodylia,Crocodylia,Gavialis gangeticus,Gharial,PREDICTED: neuronal acetylcholine receptor subunit beta-2,733.79,Y,359,61.2,70.45,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_019412332.1,28975,Crocodylia,Crocodylia,Crocodylus porosus,Australian saltwater crocodile,PREDICTED: neuronal acetylcholine receptor subunit beta-2,733.79,Y,359,61.2,70.45,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_010388103.1,29602,Aves,Aves,Corvus cornix cornix,Hooded crow,neuronal acetylcholine receptor subunit beta-2,733.41,Y,359,61.2,70.41,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017577226.1,44448,Actinopteri,Actinopteri,Pygocentrus nattereri,Red-bellied piranha,PREDICTED: neuronal acetylcholine receptor subunit beta-2,733.41,Y,359,61.2,70.41,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_026886630.1,37845,Actinopteri,Actinopteri,Electrophorus electricus,Electric eel,LOW QUALITY PROTEIN: neuronal acetylcholine receptor subunit beta-2,729.55,Y,359,61.2,70.04,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_015395624.1,29960,Mammalia,Mammalia,Panthera tigris altaica,Amur tiger,PREDICTED: neuronal acetylcholine receptor subunit beta-2,728.78,Y,359,61.2,69.97,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032645289.1,44376,Testudines,Testudines,Chelonoidis abingdonii,Abingdon island giant tortoise,neuronal acetylcholine receptor subunit beta-2,726.09,Y,359,61.2,69.71,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF1406610.1,15574,Aves,Aves,Spheniscus magellanicus,Magellanic penguin,"Neuronal acetylcholine receptor subunit beta-2, partial",724.93,Y,359,61.2,69.6,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_026580278.1,31817,Lepidosauria,Lepidosauria,Pseudonaja textilis,Eastern brown snake,"neuronal acetylcholine receptor subunit beta-2-like, partial",724.16,Y,359,61.2,69.53,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF1601092.1,14636,Aves,Aves,Eudyptes chrysolophus,Macaroni penguin,"Neuronal acetylcholine receptor subunit beta-2, partial",713.38,Y,359,61.2,68.49,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF1475927.1,14555,Aves,Aves,Megadyptes antipodes antipodes,Yellow-eyed penguin,"Neuronal acetylcholine receptor subunit beta-2, partial",713.38,Y,359,61.2,68.49,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_005996559.1,34488,Coelacanthimorpha,Coelacanthimorpha,Latimeria chalumnae,Coelacanth,PREDICTED: neuronal acetylcholine receptor subunit beta-2,711.45,Y,359,61.2,68.31,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_031413622.1,30531,Aves,Aves,Meleagris gallopavo,Turkey,neuronal acetylcholine receptor subunit beta-2,707.6,Y,359,61.2,67.94,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_022060511.1,36647,Actinopteri,Actinopteri,Acanthochromis polyacanthus,Spiny chromis,neuronal acetylcholine receptor subunit beta-2,707.21,Y,359,61.2,67.9,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_031462284.1,28886,Aves,Aves,Phasianus colchicus,Ring-necked pheasant,neuronal acetylcholine receptor subunit beta-2,706.44,Y,359,61.2,67.82,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,GCF55908.1,26796,Lepidosauria,Lepidosauria,Paroedura picta,Geckos,hypothetical protein parPi_0018278,703.36,Y,359,61.2,67.53,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_029820009.1,37344,Aves,Aves,Manacus vitellinus,Golden-collared manakin,neuronal acetylcholine receptor subunit beta-2,700.28,Y,359,61.2,67.23,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_014816781.1,30957,Aves,Aves,Calidris pugnax,Ruff,PREDICTED: neuronal acetylcholine receptor subunit beta-2,700.28,Y,359,61.2,67.23,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_026549040.1,31322,Lepidosauria,Lepidosauria,Notechis scutatus,Mainland tiger snake,LOW QUALITY PROTEIN: neuronal acetylcholine receptor subunit beta-2-like,697.58,Y,359,61.2,66.97,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF1660967.1,13983,Aves,Aves,Aptenodytes patagonicus,King penguin,"Neuronal acetylcholine receptor subunit beta-2, partial",696.81,Y,359,61.2,66.9,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,TNN75754.1,68294,Actinopteri,Actinopteri,Liparis tanakae,Tanaka's snailfish,Neuronal acetylcholine receptor subunit beta-2,696.81,Y,359,61.2,66.9,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_007067922.1,47903,Testudines,Testudines,Chelonia mydas,Green sea turtle,LOW QUALITY PROTEIN: neuronal acetylcholine receptor subunit beta-2,696.81,Y,359,61.2,66.9,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG31795.1,7,Amphibia,Amphibia,Epipedobates darwinwallacei,Darwin Wallace poison-frog,"nicotinic acetylcholine receptor beta-2, partial",694.89,Y,359,61.2,66.72,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ETE61066.1,18686,Lepidosauria,Lepidosauria,Ophiophagus hannah,King cobra,"Neuronal acetylcholine receptor subunit beta-2, partial",694.89,Y,359,61.2,66.72,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF1455779.1,14261,Aves,Aves,Spheniscus demersus,Jackass penguin,"Neuronal acetylcholine receptor subunit beta-2, partial",693.73,Y,359,61.2,66.6,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF1675393.1,15059,Aves,Aves,Pygoscelis papua,Gentoo penguin,"Neuronal acetylcholine receptor subunit beta-2, partial",693.73,Y,359,61.2,66.6,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF1438111.1,14632,Aves,Aves,Spheniscus mendiculus,Galapagos penguin,"Neuronal acetylcholine receptor subunit beta-2, partial",693.73,Y,359,61.2,66.6,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_028910565.1,43718,Mammalia,Mammalia,Ornithorhynchus anatinus,Platypus,neuronal acetylcholine receptor subunit beta-2,692.96,Y,359,61.2,66.53,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF1500416.1,15007,Aves,Aves,Eudyptula novaehollandiae,Australian little penguin,"Neuronal acetylcholine receptor subunit beta-2, partial",692.58,Y,359,61.2,66.49,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF1490583.1,14259,Aves,Aves,Pygoscelis antarcticus,Chinstrap penguin,"Neuronal acetylcholine receptor subunit beta-2, partial",691.8,Y,359,61.2,66.42,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_030919856.1,20676,Aves,Aves,Geospiza fortis,Medium ground-finch,neuronal acetylcholine receptor subunit beta-2,688.72,Y,359,61.2,66.12,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_006630090.1,41861,Actinopteri,Actinopteri,Lepisosteus oculatus,Spotted gar,PREDICTED: neuronal acetylcholine receptor subunit beta-2-like,685.26,Y,359,61.2,65.79,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032806233.1,40468,Hyperoartia,Hyperoartia,Petromyzon marinus,Sea lamprey,neuronal acetylcholine receptor subunit beta-4-like isoform X1,681.4,Y,359,61.2,65.42,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_020783597.1,25367,Actinopteri,Actinopteri,Boleophthalmus pectinirostris,Great blue-spotted mudskipper,neuronal acetylcholine receptor subunit beta-2,676.78,Y,359,61.2,64.98,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ROL47888.1,23904,Actinopteri,Actinopteri,Anabarilius grahami,Carps and others,Neuronal acetylcholine receptor subunit beta-2,675.24,Y,359,61.2,64.83,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,PWA23817.1,19596,Actinopteri,Actinopteri,Gambusia affinis,Western mosquitofish,hypothetical protein CCH79_00010990,674.09,Y,359,61.2,64.72,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_008321371.1,39993,Actinopteri,Actinopteri,Cynoglossus semilaevis,Tongue sole,neuronal acetylcholine receptor subunit beta-2 isoform X1,672.54,Y,359,61.2,64.57,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF3691945.1,22726,Actinopteri,Actinopteri,Channa argus,Northern snakehead,Neuronal acetylcholine receptor subunit beta-2 Precursor,670.62,Y,359,61.2,64.39,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_010194351.1,26938,Aves,Aves,Colius striatus,Speckled mousebird,"PREDICTED: LOW QUALITY PROTEIN: neuronal acetylcholine receptor subunit beta-2-like, partial",666.77,Y,359,61.2,64.02,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_007229962.2,42865,Actinopteri,Actinopteri,Astyanax mexicanus,Mexican tetra,neuronal acetylcholine receptor subunit beta-2-like isoform X1,662.91,Y,359,61.2,63.65,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_007885008.1,32969,Chondrichthyes,Chondrichthyes,Callorhinchus milii,Elephant shark,"PREDICTED: neuronal acetylcholine receptor subunit beta-2-like, partial",661.37,Y,359,61.2,63.5,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_020370129.1,27961,Chondrichthyes,Chondrichthyes,Rhincodon typus,Whale shark,neuronal acetylcholine receptor subunit beta-4-like,659.06,Y,359,61.2,63.28,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_029585131.1,88602,Actinopteri,Actinopteri,Salmo trutta,River trout,neuronal acetylcholine receptor subunit beta-2-like isoform X1,647.89,Y,359,61.2,62.2,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032874120.1,38957,Chondrichthyes,Chondrichthyes,Amblyraja radiata,Thorny skate,neuronal acetylcholine receptor subunit beta-2-like isoform X1,645.97,Y,359,61.2,62.02,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,TWW55637.1,29416,Actinopteri,Actinopteri,Takifugu flavidus,Sansaifugu,Neuronal acetylcholine receptor subunit beta-2 GF-beta-2,645.58,Y,359,61.2,61.98,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_013919461.1,25639,Lepidosauria,Lepidosauria,Thamnophis sirtalis,Colubrid snakes,"PREDICTED: neuronal acetylcholine receptor subunit beta-2, partial",645.2,Y,359,61.2,61.94,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,GCC25596.1,33620,Chondrichthyes,Chondrichthyes,Chiloscyllium punctatum,Brownbanded bambooshark,hypothetical protein,643.65,Y,359,61.2,61.8,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_029517941.1,69381,Actinopteri,Actinopteri,Oncorhynchus nerka,Sockeye salmon,neuronal acetylcholine receptor subunit beta-2-like,642.88,Y,359,61.2,61.72,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_024238714.1,73754,Actinopteri,Actinopteri,Oncorhynchus tshawytscha,Chinook salmon,neuronal acetylcholine receptor subunit beta-2-like,642.88,Y,359,61.2,61.72,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_031443456.1,43039,Actinopteri,Actinopteri,Clupea harengus,Atlantic herring,neuronal acetylcholine receptor subunit beta-2-like,637.49,Y,359,61.2,61.2,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,OXB70230.1,17219,Aves,Aves,Colinus virginianus,Northern bobwhite,hypothetical protein H355_011915,618.23,Y,359,61.2,59.36,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,NP_001265876.1,23440,Ascidiacea,Ascidiacea,Ciona intestinalis,Vase tunicate,neuronal acetylcholine receptor subunit beta-2-like precursor,545.04,Y,359,61.2,52.33,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_002594600.1,29682,Leptocardii,Leptocardii,Branchiostoma floridae,Florida lancelet,"hypothetical protein BRAFLDRAFT_217665, partial",489.57,Y,359,61.2,47,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,CBY22842.1,31306,Appendicularia,Appendicularia,Oikopleura dioica,Appendicularians,unnamed protein product,400.59,Y,359,61.2,38.46,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_007178646.1,37624,Mammalia,Mammalia,Balaenoptera acutorostrata scammoni,Minke whale,neuronal acetylcholine receptor subunit beta-2,830.48,N,359,61.2,79.73,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,EFB25792.1,73097,Mammalia,Mammalia,Ailuropoda melanoleuca,Giant panda,"hypothetical protein PANDA_011530, partial",764.22,N,359,61.2,73.37,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_024896615.1,59370,Mammalia,Mammalia,Pteropus alecto,Black flying fox,neuronal acetylcholine receptor subunit beta-2,748.43,N,359,61.2,71.86,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,CAG11873.1,28632,Actinopteri,Actinopteri,Tetraodon nigroviridis,Spotted green pufferfish,"unnamed protein product, partial",721.85,N,359,61.2,69.3,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_005867769.1,60290,Mammalia,Mammalia,Myotis brandtii,Brandt's bat,PREDICTED: neuronal acetylcholine receptor subunit beta-2,711.45,N,359,61.2,68.31,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_004714800.1,24942,Mammalia,Mammalia,Echinops telfairi,Small Madagascar hedgehog,neuronal acetylcholine receptor subunit beta-2,691.03,N,359,61.2,66.35,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_006775820.1,48716,Mammalia,Mammalia,Myotis davidii,Common bats,PREDICTED: neuronal acetylcholine receptor subunit beta-2,683.33,N,359,61.2,65.61,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_013812517.1,22840,Aves,Aves,Apteryx mantelli mantelli,North Island brown kiwi,PREDICTED: neuronal acetylcholine receptor subunit beta-4,679.09,N,359,61.2,65.2,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_025924069.1,37668,Aves,Aves,Apteryx rowi,Okarito brown kiwi,neuronal acetylcholine receptor subunit beta-4,679.09,N,359,61.2,65.2,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_025965966.1,31573,Aves,Aves,Dromaius novaehollandiae,Emu,neuronal acetylcholine receptor subunit beta-4,677.17,N,359,61.2,65.01,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_010182580.1,29427,Aves,Aves,Mesitornis unicolor,Brown roatelo,PREDICTED: neuronal acetylcholine receptor subunit beta-4,672.54,N,359,61.2,64.57,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_006120982.2,39116,Testudines,Testudines,Pelodiscus sinensis,Chinese soft-shelled turtle,neuronal acetylcholine receptor subunit beta-4,672.16,N,359,61.2,64.53,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_010148606.1,27328,Aves,Aves,Eurypyga helias,Sunbittern,PREDICTED: neuronal acetylcholine receptor subunit beta-4,670.62,N,359,61.2,64.39,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009992667.1,29270,Aves,Aves,Chaetura pelagica,Chimney swift,PREDICTED: neuronal acetylcholine receptor subunit beta-4,670.62,N,359,61.2,64.39,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_005515513.1,50999,Aves,Aves,Columba livia,Rock pigeon,neuronal acetylcholine receptor subunit beta-4,670.23,N,359,61.2,64.35,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,OPJ70088.1,24828,Aves,Aves,Patagioenas fasciata monilis,Band-tailed pigeon,neuronal acetylcholine receptor subunit beta-4,670.23,N,359,61.2,64.35,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009973693.1,32983,Aves,Aves,Tyto alba alba,Barn owl,neuronal acetylcholine receptor subunit beta-4,669.85,N,359,61.2,64.31,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009467942.1,31488,Aves,Aves,Nipponia nippon,Crested ibis,PREDICTED: neuronal acetylcholine receptor subunit beta-4,669.46,N,359,61.2,64.27,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_010294598.1,28630,Aves,Aves,Phaethon lepturus,White-tailed tropicbird,PREDICTED: neuronal acetylcholine receptor subunit beta-4,669.08,N,359,61.2,64.24,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KQK78064.1,16224,Aves,Aves,Amazona aestiva,Blue-fronted amazon,neuronal acetylcholine receptor subunit beta-4,668.69,N,359,61.2,64.2,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009642228.1,29746,Aves,Aves,Egretta garzetta,Little egret,PREDICTED: neuronal acetylcholine receptor subunit beta-4,668.31,N,359,61.2,64.16,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,POI33045.1,18020,Aves,Aves,Bambusicola thoracicus,Chinese bamboo-partridge,hypothetical protein CIB84_003203,668.31,N,359,61.2,64.16,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009679840.1,39517,Aves,Aves,Struthio camelus australis,African ostrich,PREDICTED: neuronal acetylcholine receptor subunit beta-4,667.92,N,359,61.2,64.13,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009699895.1,27846,Aves,Aves,Cariama cristata,Red-legged seriema,PREDICTED: neuronal acetylcholine receptor subunit beta-4,667.92,N,359,61.2,64.13,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_010132005.1,27261,Aves,Aves,Buceros rhinoceros silvestris,Rhinoceros hornbill,PREDICTED: neuronal acetylcholine receptor subunit beta-4,667.54,N,359,61.2,64.09,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_025894417.1,21536,Aves,Aves,Nothoprocta perdicaria,Tinamous,neuronal acetylcholine receptor subunit beta-4,667.15,N,359,61.2,64.05,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009814455.1,26724,Aves,Aves,Gavia stellata,Red-throated loon,PREDICTED: neuronal acetylcholine receptor subunit beta-4,667.15,N,359,61.2,64.05,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,PKU36619.1,23022,Aves,Aves,Limosa lapponica baueri,Bar-tailed godwit,neuronal acetylcholine receptor subunit beta-4,666.77,N,359,61.2,64.02,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009979827.1,28596,Aves,Aves,Tauraco erythrolophus,Red-crested turaco,PREDICTED: neuronal acetylcholine receptor subunit beta-4,666.77,N,359,61.2,64.02,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009884980.1,30750,Aves,Aves,Charadrius vociferus,Killdeer,PREDICTED: neuronal acetylcholine receptor subunit beta-4,666.77,N,359,61.2,64.02,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009921022.1,30417,Aves,Aves,Haliaeetus albicilla,White-tailed eagle,PREDICTED: neuronal acetylcholine receptor subunit beta-4 isoform X1,666.77,N,359,61.2,64.02,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_010168791.1,29281,Aves,Aves,Antrostomus carolinensis,Chuck-will's-widow,neuronal acetylcholine receptor subunit beta-4,666.38,N,359,61.2,63.98,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_008934991.1,26799,Aves,Aves,Merops nubicus,Carmine bee-eater,PREDICTED: neuronal acetylcholine receptor subunit beta-4,666.38,N,359,61.2,63.98,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009328340.1,29764,Aves,Aves,Pygoscelis adeliae,Adelie penguin,PREDICTED: neuronal acetylcholine receptor subunit beta-4,666.38,N,359,61.2,63.98,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_010075714.1,27088,Aves,Aves,Pterocles gutturalis,Yellow-throated sandgrouse,PREDICTED: neuronal acetylcholine receptor subunit beta-4,666.38,N,359,61.2,63.98,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009510584.1,26171,Aves,Aves,Phalacrocorax carbo,Great cormorant,PREDICTED: neuronal acetylcholine receptor subunit beta-4,666,N,359,61.2,63.94,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009488077.1,28643,Aves,Aves,Pelecanus crispus,Dalmatian pelican,PREDICTED: neuronal acetylcholine receptor subunit beta-4,666,N,359,61.2,63.94,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009575638.1,28173,Aves,Aves,Fulmarus glacialis,Northern fulmar,PREDICTED: neuronal acetylcholine receptor subunit beta-4,666,N,359,61.2,63.94,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009946364.1,28860,Aves,Aves,Leptosomus discolor,Cuckoo roller,PREDICTED: neuronal acetylcholine receptor subunit beta-4,664.46,N,359,61.2,63.79,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_026711523.1,27794,Aves,Aves,Athene cunicularia,Burrowing owl,neuronal acetylcholine receptor subunit beta-4,664.46,N,359,61.2,63.79,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009894727.1,29119,Aves,Aves,Picoides pubescens,Downy woodpecker,PREDICTED: neuronal acetylcholine receptor subunit beta-4,664.07,N,359,61.2,63.76,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_013032964.1,31835,Aves,Aves,Anser cygnoides domesticus,Swan goose,PREDICTED: neuronal acetylcholine receptor subunit beta-4 isoform X2,663.3,N,359,61.2,63.68,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009941643.1,27865,Aves,Aves,Opisthocomus hoazin,Hoatzin,PREDICTED: neuronal acetylcholine receptor subunit beta-4,662.91,N,359,61.2,63.65,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_010012266.1,27852,Aves,Aves,Nestor notabilis,Kea,PREDICTED: neuronal acetylcholine receptor subunit beta-4,662.91,N,359,61.2,63.65,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_005434172.1,30432,Aves,Aves,Falco cherrug,Saker falcon,neuronal acetylcholine receptor subunit beta-4,661.76,N,359,61.2,63.53,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_005240796.1,31320,Aves,Aves,Falco peregrinus,Peregrine falcon,neuronal acetylcholine receptor subunit beta-4,661.76,N,359,61.2,63.53,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_010209351.1,31367,Aves,Aves,Tinamus guttatus,White-throated tinamou,PREDICTED: neuronal acetylcholine receptor subunit beta-4,660.99,N,359,61.2,63.46,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009073470.1,28124,Aves,Aves,Acanthisitta chloris,Rifleman,PREDICTED: neuronal acetylcholine receptor subunit beta-4,659.06,N,359,61.2,63.28,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009556494.1,30535,Aves,Aves,Cuculus canorus,Common cuckoo,PREDICTED: neuronal acetylcholine receptor subunit beta-4,658.68,N,359,61.2,63.24,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009863080.1,26553,Aves,Aves,Apaloderma vittatum,Bar-tailed trogon,PREDICTED: neuronal acetylcholine receptor subunit beta-4,654.05,N,359,61.2,62.8,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_004403665.1,31381,Mammalia,Mammalia,Odobenus rosmarus divergens,Pacific walrus,PREDICTED: neuronal acetylcholine receptor subunit beta-4,645.2,N,359,61.2,61.94,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_008695241.1,29099,Mammalia,Mammalia,Ursus maritimus,Polar bear,PREDICTED: neuronal acetylcholine receptor subunit beta-2,644.81,N,359,61.2,61.91,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_033847034.1,27064,Actinopteri,Actinopteri,Periophthalmus magnuspinnatus,Gobies,neuronal acetylcholine receptor subunit beta-4,635.95,N,359,61.2,61.06,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,GCB75362.1,27742,Chondrichthyes,Chondrichthyes,Scyliorhinus torazame,Cloudy catshark,hypothetical protein,634.79,N,359,61.2,60.95,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_024000910.1,60777,Actinopteri,Actinopteri,Salvelinus alpinus,Arctic char,LOW QUALITY PROTEIN: neuronal acetylcholine receptor subunit beta-2-like,634.02,N,359,61.2,60.87,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_016065064.1,29863,Mammalia,Mammalia,Miniopterus natalensis,Common bats,PREDICTED: neuronal acetylcholine receptor subunit beta-4,628.25,N,359,61.2,60.32,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KFV43643.1,11512,Aves,Aves,Tyto alba,Barn owl,"hypothetical protein N341_05984, partial",627.48,N,359,61.2,60.24,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KFP55033.1,11453,Aves,Aves,Cathartes aura,Turkey vulture,"hypothetical protein N323_09903, partial",624.78,N,359,61.2,59.98,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_006208837.1,44301,Mammalia,Mammalia,Vicugna pacos,Alpaca,neuronal acetylcholine receptor subunit beta-4,624.78,N,359,61.2,59.98,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KFQ87085.1,12119,Aves,Aves,Phoenicopterus ruber ruber,American flamingo,"hypothetical protein N337_08622, partial",624.78,N,359,61.2,59.98,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VFV31400.1,31243,Mammalia,Mammalia,Lynx pardinus,Spanish lynx,neuronal acetylcholine receptor,623.62,N,359,61.2,59.87,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_029807827.1,43342,Mammalia,Mammalia,Suricata suricatta,Meerkat,neuronal acetylcholine receptor subunit beta-4,620.93,N,359,61.2,59.61,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,CAB1334574.1,41735,Actinopteri,Actinopteri,Coregonus sp. 'balchen',Whitefishes,unnamed protein product,620.16,N,359,61.2,59.54,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,OWK09031.1,19267,Mammalia,Mammalia,Cervus elaphus hippelaphus,Red deer,CHRNB4,618.23,N,359,61.2,59.36,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VTJ61293.1,42055,Mammalia,Mammalia,Marmota monax,Woodchuck,Hypothetical predicted protein,612.84,N,359,61.2,58.84,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_011381095.1,43865,Mammalia,Mammalia,Pteropus vampyrus,Large flying fox,neuronal acetylcholine receptor subunit beta-4,606.67,N,359,61.2,58.25,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAB0396314.1,20274,Mammalia,Mammalia,Balaenoptera physalus,Fin whale,hypothetical protein E2I00_015549,598.2,N,359,61.2,57.43,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF2977866.1,15084,Aves,Aves,Melospiza melodia maxima,Song sparrow,hypothetical protein EK904_007834,598.2,N,359,61.2,57.43,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_010127082.1,26966,Aves,Aves,Chlamydotis macqueenii,Macqueen's bustard,"PREDICTED: neuronal acetylcholine receptor subunit beta-4, partial",596.66,N,359,61.2,57.28,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF3838481.1,29423,Actinopteri,Actinopteri,Dissostichus mawsoni,Antarctic toothfish,hypothetical protein F7725_010249,585.1,N,359,61.2,56.18,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_025774435.1,23618,Mammalia,Mammalia,Puma concolor,Puma,neuronal acetylcholine receptor subunit beta-4,570.85,N,359,61.2,54.81,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_010301597.1,28015,Aves,Aves,Balearica regulorum gibbericeps,East African grey crowned-crane,"PREDICTED: neuronal acetylcholine receptor subunit beta-4, partial",513.07,N,359,61.2,49.26,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG31806.1,288,Amphibia,Amphibia,Allobates femoralis,Brilliant-thighed poison frog,"nicotinic acetylcholine receptor beta-2, partial",508.45,N,359,61.2,48.82,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_019633555.1,35240,Leptocardii,Leptocardii,Branchiostoma belcheri,Belcher's lancelet,PREDICTED: neuronal acetylcholine receptor subunit beta-4-like,486.88,N,359,61.2,46.74,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG31804.1,11,Amphibia,Amphibia,Allobates kingsburyi,Dart-poison frogs,"nicotinic acetylcholine receptor beta-2, partial",478.79,N,359,61.2,45.97,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_786790.3,40378,Echinoidea,Echinoidea,Strongylocentrotus purpuratus,Purple sea urchin,neuronal acetylcholine receptor subunit alpha-3,471.86,N,359,61.2,45.3,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_022105189.1,33296,Asteroidea,Asteroidea,Acanthaster planci,Crown-of-thorns starfish,neuronal acetylcholine receptor subunit alpha-4-like,469.93,N,359,61.2,45.12,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_002730866.2,22970,Enteropneusta,Enteropneusta,Saccoglossus kowalevskii,Acorn worms,PREDICTED: neuronal acetylcholine receptor subunit alpha-4-like,466.46,N,359,61.2,44.78,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_033096436.1,32797,Crinoidea,Crinoidea,Anneissia japonica,Crinoids,acetylcholine receptor subunit alpha-like 1,465.69,N,359,61.2,44.71,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_033634013.1,24292,Asteroidea,Asteroidea,Asterias rubens,European starfish,neuronal acetylcholine receptor subunit alpha-4-like,459.53,N,359,61.2,44.12,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_022334456.1,60512,Bivalvia,Bivalvia,Crassostrea virginica,Eastern oyster,acetylcholine receptor subunit alpha-like 1 isoform X2,453.37,N,359,61.2,43.53,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_033749540.1,40008,Bivalvia,Bivalvia,Pecten maximus,Scallops,acetylcholine receptor subunit alpha-like 1 isoform X2,452.21,N,359,61.2,43.42,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_021371673.1,64377,Bivalvia,Bivalvia,Mizuhopecten yessoensis,Yesso scallop,acetylcholine receptor subunit alpha-like isoform X2,451.44,N,359,61.2,43.34,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AHJ11218.1,1563,Insecta,Insecta,Locusta migratoria,Migratory locust,nicotinic acetylcholine receptor alpha8 variant A,447.97,N,359,61.2,43.01,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_014767958.1,62924,Cephalopoda,Cephalopoda,Octopus bimaculoides,Cephalopods,PREDICTED: acetylcholine receptor subunit alpha-like isoform X2,447.2,N,359,61.2,42.94,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_029643576.1,26163,Cephalopoda,Cephalopoda,Octopus vulgaris,Common octopus,acetylcholine receptor subunit alpha-like isoform X1,446.43,N,359,61.2,42.86,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009047933.1,47713,Gastropoda,Gastropoda,Lottia gigantea,Owl limpet,hypothetical protein LOTGIDRAFT_212843,445.66,N,359,61.2,42.79,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_018019541.1,32118,Malacostraca,Malacostraca,Hyalella azteca,"Beach hoppers, scuds and well shrimps",PREDICTED: acetylcholine receptor subunit beta-like 2,445.66,N,359,61.2,42.79,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VCX42459.1,19820,Mammalia,Mammalia,Gulo gulo,Wolverine,unnamed protein product,443.74,N,359,61.2,42.6,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ODM91301.1,20400,Collembola,Collembola,Orchesella cincta,Slender springtails,Acetylcholine receptor subunit beta-like 2,443.35,N,359,61.2,42.57,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_015907668.1,27786,Arachnida,Arachnida,Parasteatoda tepidariorum,Common house spider,acetylcholine receptor subunit alpha-like isoform X1,442.96,N,359,61.2,42.53,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AGI03861.1,28801,Gastropoda,Gastropoda,Aplysia californica,California sea hare,nicotinic acetylcholine receptor subunit type E,442.58,N,359,61.2,42.49,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_034322943.1,63743,Bivalvia,Bivalvia,Crassostrea gigas,Pacific oyster,acetylcholine receptor subunit alpha-like 1 isoform X2,441.43,N,359,61.2,42.38,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,QFR37032.1,158,Insecta,Insecta,Forficula auricularia,European earwig,nicotinic acetylcholine receptor beta 2,440.65,N,359,61.2,42.31,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAE9440200.1,22833,Insecta,Insecta,Apolygus lucorum,Plant bugs,hypothetical protein GE061_14079,439.88,N,359,61.2,42.23,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,RUS81448.1,23933,Gastropoda,Gastropoda,Elysia chlorotica,Eastern emerald elysia,hypothetical protein EGW08_010788,438.34,N,359,61.2,42.08,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_023721509.1,59780,Insecta,Insecta,Cryptotermes secundus,Powder-post termites,acetylcholine receptor subunit beta-like 2,438.34,N,359,61.2,42.08,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AIG92772.1,84,Insecta,Insecta,Cyrtorhinus lividipennis,Plant bugs,nicotinic acetylcholine receptor subunit alpha 8,437.96,N,359,61.2,42.05,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ADG63462.1,66,Arachnida,Arachnida,Pardosa pseudoannulata,Thin-legged wolf spiders,nicotinic acetylcholine receptor alpha 8 subunit,437.96,N,359,61.2,42.05,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ELT96524.1,32034,Polychaeta,Polychaeta,Capitella teleta,Capitella sp. MKJ-2016,"hypothetical protein CAPTEDRAFT_143008, partial",437.57,N,359,61.2,42.01,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,OQV13811.1,20953,Eutardigrada,Eutardigrada,Hypsibius dujardini,Water bears,Acetylcholine receptor subunit beta-like 2,437.19,N,359,61.2,41.97,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,CAB3380856.1,31082,Insecta,Insecta,Cloeon dipterum,Small minnow mayflies,Hypothetical predicted protein,437.19,N,359,61.2,41.97,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ACG49259.1,281,Insecta,Insecta,Liposcelis bostrychophila,Booklice and barklice,nicotinic acetylcholine receptor alpha 8 subunit,437.19,N,359,61.2,41.97,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ACK75719.1,26528,Insecta,Insecta,Nilaparvata lugens,Brown planthopper,nicotinic acetylcholine receptor alpha 8 subunit,436.42,N,359,61.2,41.9,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_021948750.1,54770,Collembola,Collembola,Folsomia candida,Smooth springtails,acetylcholine receptor subunit alpha-like 1,436.03,N,359,61.2,41.86,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ABA60384.1,1129,Gastropoda,Gastropoda,Lymnaea stagnalis,Great pond snail,nicotinic acetylcholine receptor subunit type E,436.03,N,359,61.2,41.86,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_013406862.1,41479,Lingulata,Lingulata,Lingula anatina,Lampshells,acetylcholine receptor subunit alpha-like 1,436.03,N,359,61.2,41.86,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KDR23474.1,44814,Insecta,Insecta,Zootermopsis nevadensis,Damp wood termites,"Acetylcholine receptor subunit beta-like 2, partial",435.26,N,359,61.2,41.79,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AHE40764.1,292,Arachnida,Arachnida,Rhipicephalus sanguineus,Brown dog tick,nicotinic acetylcholine receptor subunit alpha 1,433.72,N,359,61.2,41.64,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_031333425.1,48187,Insecta,Insecta,Photinus pyralis,Common eastern firefly,acetylcholine receptor subunit beta-like 2,433.72,N,359,61.2,41.64,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AGV76068.1,54103,Arachnida,Arachnida,Ixodes scapularis,Black-legged tick,"nicotinic acetylcholine receptor alpha 1 subunit, partial",433.33,N,359,61.2,41.6,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,BAN81842.1,40708,Insecta,Insecta,Frankliniella occidentalis,Western flower thrips,nicotinic acetylcholine receptor alpha 8 isoform 1,433.33,N,359,61.2,41.6,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_018895628.1,29011,Insecta,Insecta,Bemisia tabaci,Sweet potato whitefly,PREDICTED: acetylcholine receptor subunit beta-like 2,432.95,N,359,61.2,41.57,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AWX65627.1,18432,Insecta,Insecta,Laodelphax striatellus,Small brown planthopper,nicotinic acetylcholine receptor alpha 8 subunit,432.95,N,359,61.2,41.57,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_012251055.1,22153,Insecta,Insecta,Athalia rosae,Coleseed sawfly,acetylcholine receptor subunit beta-like 2,432.18,N,359,61.2,41.49,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_022241642.1,39087,Merostomata,Merostomata,Limulus polyphemus,Atlantic horseshoe crab,acetylcholine receptor subunit alpha-like isoform X1,432.18,N,359,61.2,41.49,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AKV94623.1,554,Insecta,Insecta,Periplaneta americana,American cockroach,nicotinic acetylcholine receptor alpha8 variant A,432.18,N,359,61.2,41.49,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_014371695.1,33325,Insecta,Insecta,Papilio machaon,Common yellow swallowtail,PREDICTED: acetylcholine receptor subunit alpha-like,432.18,N,359,61.2,41.49,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,EEZ99341.2,42295,Insecta,Insecta,Tribolium castaneum,Red flour beetle,nicotinic acetylcholine receptor subunit alpha8,431.8,N,359,61.2,41.46,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,API81621.1,115,Malacostraca,Malacostraca,Cancer borealis,Jonah crab,nicotinic acetylcholine receptor alpha 8,431.41,N,359,61.2,41.42,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_002424148.1,21849,Insecta,Insecta,Pediculus humanus corporis,Human body louse,"acetylcholine receptor protein alpha 1, 2, 3, 4 invertebrate, putative",431.41,N,359,61.2,41.42,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_014244615.1,24331,Insecta,Insecta,Cimex lectularius,Bed bug,acetylcholine receptor subunit beta-like 2 isoform X2,430.64,N,359,61.2,41.35,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_018569935.1,20920,Insecta,Insecta,Anoplophora glabripennis,Asian longhorned beetle,acetylcholine receptor subunit beta-like 2,430.64,N,359,61.2,41.35,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_031618708.1,24972,Insecta,Insecta,Contarinia nasturtii,Swede midge,acetylcholine receptor subunit beta-like 2,430.25,N,359,61.2,41.31,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_030748899.1,23713,Insecta,Insecta,Sitophilus oryzae,Rice weevil,acetylcholine receptor subunit beta-like 2 isoform X2,429.87,N,359,61.2,41.27,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_028137095.1,28182,Insecta,Insecta,Diabrotica virgifera virgifera,Western corn rootworm,acetylcholine receptor subunit beta-like 2,429.87,N,359,61.2,41.27,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,RNA15943.1,52949,Monogononta,Monogononta,Brachionus plicatilis,Rotifers,nicotinic acetylcholine receptor subunit type E,429.87,N,359,61.2,41.27,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_023236989.1,35601,Arachnida,Arachnida,Centruroides sculpturatus,Bark scorpion,acetylcholine receptor subunit alpha-like 1,429.1,N,359,61.2,41.2,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,OQR70870.1,14365,Arachnida,Arachnida,Tropilaelaps mercedesae,Mites and ticks,acetylcholine receptor subunit alpha 1-like,429.1,N,359,61.2,41.2,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_013165029.1,39488,Insecta,Insecta,Papilio xuthus,Asian swallowtail,PREDICTED: acetylcholine receptor subunit alpha-like,428.71,N,359,61.2,41.16,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_022686200.1,26233,Arachnida,Arachnida,Varroa jacobsoni,Mites and ticks,acetylcholine receptor subunit alpha-like 1 isoform X1,428.33,N,359,61.2,41.12,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_004519605.2,23782,Insecta,Insecta,Ceratitis capitata,Mediterranean fruit fly,acetylcholine receptor subunit alpha-like 1 isoform X1,428.33,N,359,61.2,41.12,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_022666456.1,30441,Arachnida,Arachnida,Varroa destructor,Honeybee mite,acetylcholine receptor subunit alpha-like 1 isoform X1,428.33,N,359,61.2,41.12,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_014093660.1,19286,Insecta,Insecta,Bactrocera oleae,Olive fruit fly,PREDICTED: acetylcholine receptor subunit alpha-like 1,427.94,N,359,61.2,41.09,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,EFX87442.1,33742,Branchiopoda,Branchiopoda,Daphnia pulex,Common water flea,hypothetical protein DAPPUDRAFT_312255,427.94,N,359,61.2,41.09,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_022910694.1,21694,Insecta,Insecta,Onthophagus taurus,Dung beetles & tumblebugs,acetylcholine receptor subunit beta-like 2 isoform X2,427.56,N,359,61.2,41.05,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_002137628.3,29521,Insecta,Insecta,Drosophila pseudoobscura,Fruit flies,acetylcholine receptor subunit alpha-like 1,427.56,N,359,61.2,41.05,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ACG76113.1,23000,Insecta,Insecta,Plutella xylostella,Diamondback moth,nicotinic acetylcholine receptor alpha subunit,427.17,N,359,61.2,41.01,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AAV74269.1,181,Mammalia,Mammalia,Saimiri boliviensis,Bolivian squirrel monkey,"cholinergic receptor neuronal nicotinic alpha protein 2, partial",427.17,N,359,61.2,41.01,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_023290874.1,33825,Insecta,Insecta,Lucilia cuprina,Australian sheep blowfly,acetylcholine receptor subunit alpha-like 1,426.79,N,359,61.2,40.98,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017142830.1,33734,Insecta,Insecta,Drosophila miranda,Fruit flies,acetylcholine receptor subunit alpha-like 1 isoform X1,426.4,N,359,61.2,40.94,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_018799038.1,22766,Insecta,Insecta,Bactrocera latifrons,Fruit flies,PREDICTED: acetylcholine receptor subunit alpha-like 1,426.4,N,359,61.2,40.94,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_002016826.1,37444,Insecta,Insecta,Drosophila persimilis,Fruit flies,acetylcholine receptor subunit alpha-like 1,426.4,N,359,61.2,40.94,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_034241492.1,27539,Insecta,Insecta,Thrips palmi,True thrips,acetylcholine receptor subunit beta-like 2 isoform X2,426.02,N,359,61.2,40.9,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_015512110.1,16016,Insecta,Insecta,Neodiprion lecontei,Redheaded pine sawfly,PREDICTED: acetylcholine receptor subunit beta-like 2,425.63,N,359,61.2,40.86,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_030571829.1,20257,Insecta,Insecta,Drosophila novamexicana,Fruit flies,acetylcholine receptor subunit alpha-like 1 isoform X1,425.63,N,359,61.2,40.86,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_034131199.1,40506,Insecta,Insecta,Drosophila guanche,Fruit flies,acetylcholine receptor subunit alpha-like 1,425.63,N,359,61.2,40.86,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_015606191.1,32236,Insecta,Insecta,Cephus cinctus,Wheat stem sawfly,acetylcholine receptor subunit alpha-like isoform X1,425.63,N,359,61.2,40.86,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,PSN32586.1,30150,Insecta,Insecta,Blattella germanica,German cockroach,Acetylcholine receptor subunit alpha-like 1,425.63,N,359,61.2,40.86,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,QEM43362.1,242,Insecta,Insecta,Bradysia odoriphaga,Black fungus gnats,nicotinic acetylcholine receptor alpha 1 subunit,425.63,N,359,61.2,40.86,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,CRL05596.1,22648,Insecta,Insecta,Clunio marinus,Nonbiting midges,"CLUMA_CG018036, isoform A",425.25,N,359,61.2,40.83,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_030375842.1,19868,Insecta,Insecta,Scaptodrosophila lebanonensis,Pomace flies,acetylcholine receptor subunit alpha-like 1,425.25,N,359,61.2,40.83,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_015127548.1,19520,Insecta,Insecta,Diachasma alloeum,"Wasps, ants, and bees",acetylcholine receptor subunit alpha-like,424.86,N,359,61.2,40.79,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_016767553.1,26782,Insecta,Insecta,Apis mellifera,Honey bee,nicotinic acetylcholine receptor alpha3 subunit isoform X2,424.86,N,359,61.2,40.79,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_022210662.1,26945,Insecta,Insecta,Drosophila obscura,Fruit flies,acetylcholine receptor subunit alpha-like 1,424.48,N,359,61.2,40.75,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032784021.1,55132,Branchiopoda,Branchiopoda,Daphnia magna,Common water fleas,acetylcholine receptor subunit beta-like 2,424.09,N,359,61.2,40.72,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_002053320.3,44776,Insecta,Insecta,Drosophila virilis,Fruit flies,acetylcholine receptor subunit alpha-like 1 isoform X1,424.09,N,359,61.2,40.72,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_019531681.1,59061,Insecta,Insecta,Aedes albopictus,Asian tiger mosquito,acetylcholine receptor subunit alpha-like 1 isoform X2,424.09,N,359,61.2,40.72,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KFM77607.1,27105,Arachnida,Arachnida,Stegodyphus mimosarum,Eight-eyed spiders,"Acetylcholine receptor subunit alpha-like 1, partial",424.09,N,359,61.2,40.72,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_001989472.1,35106,Insecta,Insecta,Drosophila grimshawi,Fruit flies,acetylcholine receptor subunit alpha-like 1,424.09,N,359,61.2,40.72,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_021706951.1,49405,Insecta,Insecta,Aedes aegypti,Yellow fever mosquito,acetylcholine receptor subunit alpha-like 1,424.09,N,359,61.2,40.72,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017968964.1,35897,Insecta,Insecta,Drosophila navojoa,Fruit flies,acetylcholine receptor subunit alpha-like 1,423.7,N,359,61.2,40.68,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ACJ64922.1,20099,Insecta,Insecta,Leptinotarsa decemlineata,Colorado potato beetle,nicotinic acetylcholine receptor alpha 8,423.7,N,359,61.2,40.68,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_013142392.1,17824,Insecta,Insecta,Papilio polytes,Common Mormon,PREDICTED: acetylcholine receptor subunit alpha-like isoform X1,423.7,N,359,61.2,40.68,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_034486061.1,19612,Insecta,Insecta,Drosophila innubila,Fruit flies,acetylcholine receptor subunit alpha-like 1,423.7,N,359,61.2,40.68,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,RZC33782.1,15282,Insecta,Insecta,Asbolus verrucosus,Darkling ground beetles,"nicotinic acetylcholine receptor alpha 3 subunit, partial",423.7,N,359,61.2,40.68,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_034112934.1,23268,Insecta,Insecta,Drosophila albomicans,Fruit flies,acetylcholine receptor subunit alpha-like 1,423.7,N,359,61.2,40.68,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_013099122.1,22827,Insecta,Insecta,Stomoxys calcitrans,Stable fly,PREDICTED: acetylcholine receptor subunit beta-like 2 isoform X2,423.32,N,359,61.2,40.64,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_005185796.1,22176,Insecta,Insecta,Musca domestica,House fly,PREDICTED: acetylcholine receptor subunit beta-like 2,423.32,N,359,61.2,40.64,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_002000166.3,42659,Insecta,Insecta,Drosophila mojavensis,Fruit flies,acetylcholine receptor subunit alpha-like 1,422.94,N,359,61.2,40.61,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_008549166.1,18603,Insecta,Insecta,Microplitis demolitor,"Wasps, ants, and bees",PREDICTED: acetylcholine receptor subunit alpha-like,422.94,N,359,61.2,40.61,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_033229994.1,25334,Insecta,Insecta,Belonocnema treatae,Oak gall wasps,acetylcholine receptor subunit alpha-like,422.94,N,359,61.2,40.61,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ALE66017.1,395,Arachnida,Arachnida,Cupiennius salei,Wandering spiders,nicotinic acetylcholine receptor alpha subunit,422.94,N,359,61.2,40.61,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032514255.1,34980,Insecta,Insecta,Danaus plexippus plexippus,Monarch butterfly,acetylcholine receptor subunit beta-like 2 isoform X3,422.94,N,359,61.2,40.61,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_311918.3,28139,Insecta,Insecta,Anopheles gambiae str. PEST,African malaria mosquito,AGAP002974-PA,422.55,N,359,61.2,40.57,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AAU12503.1,9603,Insecta,Insecta,Anopheles gambiae,African malaria mosquito,nicotinic acetylcholine receptor subunit alpha 1,422.55,N,359,61.2,40.57,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_012231742.1,21807,Insecta,Insecta,Linepithema humile,Argentine ant,PREDICTED: acetylcholine receptor subunit alpha-like isoform X3,422.17,N,359,61.2,40.53,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_024214307.1,26429,Insecta,Insecta,Halyomorpha halys,Brown marmorated stink bug,acetylcholine receptor subunit alpha-like isoform X2,421.78,N,359,61.2,40.49,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_033347184.1,24081,Insecta,Insecta,Bombus vosnesenskii,Bumble bees,acetylcholine receptor subunit alpha-like isoform X2,421.78,N,359,61.2,40.49,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_033191943.1,24326,Insecta,Insecta,Bombus vancouverensis nearcticus,Bumble bees,acetylcholine receptor subunit alpha-like isoform X2,421.78,N,359,61.2,40.49,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_003399573.1,22376,Insecta,Insecta,Bombus terrestris,Buff-tailed bumblebee,acetylcholine receptor subunit alpha-like isoform X2,421.78,N,359,61.2,40.49,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_023936369.1,21983,Insecta,Insecta,Bicyclus anynana,Squinting bush brown,acetylcholine receptor subunit beta-like 2 isoform X2,421.78,N,359,61.2,40.49,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_033305897.1,24024,Insecta,Insecta,Bombus bifarius,Bumble bees,acetylcholine receptor subunit alpha-like isoform X2,421.78,N,359,61.2,40.49,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017117253.1,24328,Insecta,Insecta,Drosophila elegans,Fruit flies,PREDICTED: acetylcholine receptor subunit alpha-like 1,421.39,N,359,61.2,40.46,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_003493827.1,24525,Insecta,Insecta,Bombus impatiens,Common eastern bumble bee,acetylcholine receptor subunit alpha-like isoform X2,421.39,N,359,61.2,40.46,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_012529823.1,23264,Insecta,Insecta,Monomorium pharaonis,Pharaoh ant,acetylcholine receptor subunit alpha-like isoform X3,421.01,N,359,61.2,40.42,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_016912164.1,21840,Insecta,Insecta,Apis cerana,Asiatic honeybee,acetylcholine receptor subunit alpha-like isoform X2,421.01,N,359,61.2,40.42,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,NP_001262917.1,112827,Insecta,Insecta,Drosophila melanogaster,Fruit fly,"nicotinic acetylcholine receptor alpha1, isoform C",421.01,N,359,61.2,40.42,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_016952288.1,22747,Insecta,Insecta,Drosophila biarmipes,Fruit flies,PREDICTED: acetylcholine receptor subunit alpha-like 1,421.01,N,359,61.2,40.42,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017046875.1,23940,Insecta,Insecta,Drosophila ficusphila,Fruit flies,PREDICTED: acetylcholine receptor subunit alpha-like 1,420.24,N,359,61.2,40.35,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017084090.1,24307,Insecta,Insecta,Drosophila eugracilis,Fruit flies,PREDICTED: acetylcholine receptor subunit alpha-like 1,420.24,N,359,61.2,40.35,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032312316.1,45606,Insecta,Insecta,Drosophila ananassae,Fruit flies,acetylcholine receptor subunit alpha-like 1,419.85,N,359,61.2,40.31,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VEN51298.1,31374,Insecta,Insecta,Callosobruchus maculatus,Cowpea weevil,unnamed protein product,419.85,N,359,61.2,40.31,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_019871584.1,17651,Insecta,Insecta,Aethina tumida,Small hive beetle,PREDICTED: acetylcholine receptor subunit alpha-like isoform X1,419.85,N,359,61.2,40.31,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,NP_001103387.2,28455,Insecta,Insecta,Bombyx mori,Domestic silkworm,nicotinic acetylcholine receptor subunit alpha 3 precursor,419.85,N,359,61.2,40.31,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_020810839.1,20997,Insecta,Insecta,Drosophila serrata,Fruit flies,acetylcholine receptor subunit alpha-like 1,419.85,N,359,61.2,40.31,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_030025667.1,23019,Insecta,Insecta,Manduca sexta,Tobacco hornworm,acetylcholine receptor subunit beta-like 2 isoform X4,419.85,N,359,61.2,40.31,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017478036.1,34625,Insecta,Insecta,Rhagoletis zephyria,Snowberry fruit fly,PREDICTED: acetylcholine receptor subunit alpha-like 1,419.85,N,359,61.2,40.31,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_028039099.1,19920,Insecta,Insecta,Bombyx mandarina,Wild silkworm,acetylcholine receptor subunit alpha-like,419.85,N,359,61.2,40.31,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017091582.1,23646,Insecta,Insecta,Drosophila bipectinata,Fruit flies,PREDICTED: acetylcholine receptor subunit alpha-like 1,419.85,N,359,61.2,40.31,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017794849.1,25093,Insecta,Insecta,Habropoda laboriosa,Digger bees,PREDICTED: acetylcholine receptor subunit alpha-like isoform X2,419.85,N,359,61.2,40.31,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017020195.1,22493,Insecta,Insecta,Drosophila kikkawai,Fruit flies,PREDICTED: acetylcholine receptor subunit alpha-like 1 isoform X1,419.85,N,359,61.2,40.31,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_001848873.1,38591,Insecta,Insecta,Culex quinquefasciatus,Southern house mosquito,"acetylcholine receptor protein alpha 1, 2, 3, 4 invertebrate",419.47,N,359,61.2,40.27,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_022127220.1,19658,Insecta,Insecta,Pieris rapae,Cabbage white,acetylcholine receptor subunit alpha-like,419.47,N,359,61.2,40.27,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_033165981.1,24100,Insecta,Insecta,Drosophila mauritiana,Fruit flies,acetylcholine receptor subunit alpha-like 1,419.47,N,359,61.2,40.27,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017009134.1,24128,Insecta,Insecta,Drosophila takahashii,Fruit flies,PREDICTED: acetylcholine receptor subunit alpha-like 1,419.47,N,359,61.2,40.27,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AKQ12746.1,16608,Insecta,Insecta,Chilo suppressalis,Striped riceborer,nicotinic acetylcholine receptor alpha 8 subunit variant 1,419.47,N,359,61.2,40.27,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,API81630.1,382,Malacostraca,Malacostraca,Homarus americanus,American lobster,nicotinic acetylcholine receptor alpha 1,419.47,N,359,61.2,40.27,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_002032513.1,39995,Insecta,Insecta,Drosophila sechellia,Fruit flies,acetylcholine receptor subunit alpha-like 1,419.47,N,359,61.2,40.27,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_002099228.2,48506,Insecta,Insecta,Drosophila yakuba,Fruit flies,LOW QUALITY PROTEIN: uncharacterized protein Dyak_GE10796,419.08,N,359,61.2,40.24,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_016033062.1,69950,Insecta,Insecta,Drosophila simulans,Fruit flies,"uncharacterized protein Dsimw501_GD22552, isoform F",419.08,N,359,61.2,40.24,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_021181850.1,40199,Insecta,Insecta,Helicoverpa armigera,Cotton bollworm,acetylcholine receptor subunit beta-like 2 isoform X2,419.08,N,359,61.2,40.24,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_026477284.1,22186,Insecta,Insecta,Ctenocephalides felis,Cat flea,acetylcholine receptor subunit alpha-like isoform X3,418.7,N,359,61.2,40.2,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,PAA86923.1,49034,Rhabditophora,Rhabditophora,Macrostomum lignano,Flatworms,hypothetical protein BOX15_Mlig023922g1,418.31,N,359,61.2,40.16,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AAD09809.1,19089,Insecta,Insecta,Heliothis virescens,Tobacco budworm,nicotinic acetylcholine receptor alpha-3 subunit,418.31,N,359,61.2,40.16,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_011305849.1,18958,Insecta,Insecta,Fopius arisanus,"Wasps, ants, and bees",PREDICTED: acetylcholine receptor subunit alpha-like,418.31,N,359,61.2,40.16,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_026825029.1,53796,Insecta,Insecta,Ooceraea biroi,Clonal raider ant,acetylcholine receptor subunit alpha-like isoform X3,417.93,N,359,61.2,40.12,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_022824580.1,25340,Insecta,Insecta,Spodoptera litura,Owlet moths,acetylcholine receptor subunit beta-like 2,417.93,N,359,61.2,40.12,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_026493330.1,18776,Insecta,Insecta,Vanessa tameamea,"Tortoiseshells, admirals &c.",acetylcholine receptor subunit beta-like 2 isoform X2,417.93,N,359,61.2,40.12,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_029680736.1,22522,Insecta,Insecta,Formica exsecta,"Wasps, ants, and bees",acetylcholine receptor subunit alpha-like isoform X4,417.54,N,359,61.2,40.09,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,EFN67627.1,38868,Insecta,Insecta,Camponotus floridanus,Florida carpenter ant,Acetylcholine receptor subunit alpha-like,417.54,N,359,61.2,40.09,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KQS44458.1,42797,Insecta,Insecta,Drosophila erecta,Fruit flies,"uncharacterized protein Dere_GG13154, isoform E",417.16,N,359,61.2,40.05,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AJA39823.1,659,Insecta,Insecta,Cydia pomonella,Codling moth,nicotinic acetylcholine receptor subunit alpha 8,417.16,N,359,61.2,40.05,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_025077297.1,62092,Gastropoda,Gastropoda,Pomacea canaliculata,Mesogastropoda,acetylcholine receptor subunit alpha-like isoform X2,417.16,N,359,61.2,40.05,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_014605900.1,19304,Insecta,Insecta,Polistes canadensis,Paper wasps,PREDICTED: acetylcholine receptor subunit beta-like 2,416.77,N,359,61.2,40.01,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_011499821.1,12848,Insecta,Insecta,Ceratosolen solmsi marchali,Fig wasps,PREDICTED: acetylcholine receptor subunit alpha-like,416.77,N,359,61.2,40.01,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_029046105.1,24844,Insecta,Insecta,Osmia bicornis bicornis,Red mason bee,acetylcholine receptor subunit beta-like 2 isoform X4,416.77,N,359,61.2,40.01,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_028162630.1,24619,Insecta,Insecta,Ostrinia furnacalis,Asian corn borer,acetylcholine receptor subunit alpha-like,416.77,N,359,61.2,40.01,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_013200787.1,18524,Insecta,Insecta,Amyelois transitella,Snout moths,PREDICTED: acetylcholine receptor subunit beta-like 2,416.77,N,359,61.2,40.01,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_012346088.1,18894,Insecta,Insecta,Apis florea,Little honeybee,acetylcholine receptor subunit beta-like 2 isoform X2,416.39,N,359,61.2,39.98,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_002072402.1,34285,Insecta,Insecta,Drosophila willistoni,Fruit flies,acetylcholine receptor subunit beta-like 2,416.39,N,359,61.2,39.98,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_025987213.1,25598,Insecta,Insecta,Solenopsis invicta,Red fire ant,acetylcholine receptor subunit alpha-like isoform X3,416.39,N,359,61.2,39.98,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_034190907.1,25969,Insecta,Insecta,Osmia lignaria,Orchard mason bee,acetylcholine receptor subunit alpha-like isoform X2,416.39,N,359,61.2,39.98,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_003705370.1,26086,Insecta,Insecta,Megachile rotundata,Alfalfa leafcutting bee,PREDICTED: acetylcholine receptor subunit alpha-like isoform X2,416,N,359,61.2,39.94,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_015181374.1,20990,Insecta,Insecta,Polistes dominula,European paper wasp,PREDICTED: acetylcholine receptor subunit beta-like 2,416,N,359,61.2,39.94,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_016985881.1,23499,Insecta,Insecta,Drosophila rhopaloa,Fruit flies,PREDICTED: acetylcholine receptor subunit beta-like 2,416,N,359,61.2,39.94,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_031826936.1,25323,Insecta,Insecta,Nomia melanderi,Alkali bee,acetylcholine receptor subunit alpha-like isoform X2,416,N,359,61.2,39.94,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,CAB3244836.1,38602,Insecta,Insecta,Arctia plantaginis,Tiger moths,unnamed protein product,416,N,359,61.2,39.94,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_015435688.1,23639,Insecta,Insecta,Dufourea novaeangliae,Bees,PREDICTED: acetylcholine receptor subunit alpha-like isoform X5,415.62,N,359,61.2,39.9,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_023246000.1,17495,Insecta,Insecta,Copidosoma floridanum,"Wasps, ants, and bees",acetylcholine receptor subunit alpha-like isoform X10,415.62,N,359,61.2,39.9,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_006613663.1,20390,Insecta,Insecta,Apis dorsata,Giant honeybee,acetylcholine receptor subunit beta-like 2 isoform X2,415.62,N,359,61.2,39.9,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017845642.2,31259,Insecta,Insecta,Drosophila busckii,Fruit flies,acetylcholine receptor subunit beta-like 2,415.23,N,359,61.2,39.87,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_018399356.1,31479,Insecta,Insecta,Cyphomyrmex costatus,"Wasps, ants, and bees",PREDICTED: acetylcholine receptor subunit alpha-like isoform X4,415.23,N,359,61.2,39.87,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF2883418.1,27570,Insecta,Insecta,Ignelater luminosus,Click beetles,hypothetical protein ILUMI_22752,414.85,N,359,61.2,39.83,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_011204503.1,23528,Insecta,Insecta,Bactrocera dorsalis,Oriental fruit fly,acetylcholine receptor subunit beta-like 2 isoform X2,414.85,N,359,61.2,39.83,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_025073159.1,19250,Insecta,Insecta,Pogonomyrmex barbatus,Red harvester ant,acetylcholine receptor subunit alpha-like isoform X2,414.46,N,359,61.2,39.79,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_012276461.1,19714,Insecta,Insecta,Orussus abietinus,Parasitic wood wasps,acetylcholine receptor subunit alpha-like,414.46,N,359,61.2,39.79,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_029164271.1,24986,Insecta,Insecta,Nylanderia fulva,"Wasps, ants, and bees",acetylcholine receptor subunit beta-like 2 isoform X1,414.46,N,359,61.2,39.79,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_011189628.1,24719,Insecta,Insecta,Zeugodacus cucurbitae,Melon fly,acetylcholine receptor subunit beta-like 2 isoform X2,414.46,N,359,61.2,39.79,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF0288819.1,28245,Hexanauplia,Hexanauplia,Amphibalanus amphitrite,Acorn barnacles,Acetylcholine receptor subunit alpha-like,414.07,N,359,61.2,39.75,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,TGZ37251.1,13122,Insecta,Insecta,Temnothorax longispinosus,"Wasps, ants, and bees",Nicotinic acetylcholine receptor alpha3 subunit,414.07,N,359,61.2,39.75,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_018327681.1,22237,Insecta,Insecta,Agrilus planipennis,Emerald ash borer,acetylcholine receptor subunit alpha-like,414.07,N,359,61.2,39.75,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_024890098.1,27309,Insecta,Insecta,Temnothorax curvispinosus,"Wasps, ants, and bees",acetylcholine receptor subunit alpha-like isoform X2,414.07,N,359,61.2,39.75,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_033338533.1,22393,Insecta,Insecta,Megalopta genalis,Sweat bees,acetylcholine receptor subunit alpha-like isoform X2,414.07,N,359,61.2,39.75,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_015037642.1,7060,Insecta,Insecta,Drosophila pseudoobscura pseudoobscura,Fruit flies,"uncharacterized protein Dpse_GA19869, isoform B",414.07,N,359,61.2,39.75,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_026669323.1,23322,Insecta,Insecta,Ceratina calcarata,Carpenter bees,acetylcholine receptor subunit alpha-like isoform X2,413.69,N,359,61.2,39.72,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_018045454.1,31131,Insecta,Insecta,Atta colombica,Leaf cutting ants,PREDICTED: acetylcholine receptor subunit alpha-like,413.69,N,359,61.2,39.72,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_027198547.1,13039,Arachnida,Arachnida,Dermatophagoides pteronyssinus,European house dust mite,acetylcholine receptor subunit alpha-like,413.69,N,359,61.2,39.72,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KOX75921.1,14307,Insecta,Insecta,Melipona quadrifasciata,Stingless bees,Acetylcholine receptor subunit beta-like 2,412.92,N,359,61.2,39.64,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_026740977.1,24061,Insecta,Insecta,Trichoplusia ni,Cabbage looper,acetylcholine receptor subunit beta-like 2 isoform X1,412.92,N,359,61.2,39.64,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_023161840.1,21595,Insecta,Insecta,Drosophila hydei,Fruit flies,acetylcholine receptor subunit beta-like 2,412.92,N,359,61.2,39.64,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_020279821.1,23521,Insecta,Insecta,Pseudomyrmex gracilis,"Wasps, ants, and bees",acetylcholine receptor subunit alpha-like isoform X3,412.54,N,359,61.2,39.61,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_018360484.1,40046,Insecta,Insecta,Trachymyrmex cornetzi,"Wasps, ants, and bees",PREDICTED: acetylcholine receptor subunit beta-like 2 isoform X1,412.15,N,359,61.2,39.57,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017760627.1,26943,Insecta,Insecta,Eufriesea mexicana,Orchid bees,PREDICTED: acetylcholine receptor subunit beta-like 2,412.15,N,359,61.2,39.57,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,PBC31729.1,10309,Insecta,Insecta,Apis cerana cerana,Asiatic honeybee,Acetylcholine receptor subunit beta,412.15,N,359,61.2,39.57,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,CAA9994099.1,24767,Insecta,Insecta,Nesidiocoris tenuis,Plant bugs,unnamed protein product,412.15,N,359,61.2,39.57,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_026755503.1,20703,Insecta,Insecta,Galleria mellonella,Greater wax moth,acetylcholine receptor subunit alpha-like isoform X1,412.15,N,359,61.2,39.57,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_026321861.1,20440,Insecta,Insecta,Hyposmocoma kahamanoa,Cosmet moths,acetylcholine receptor subunit alpha-like isoform X2,411.76,N,359,61.2,39.53,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032676536.1,29187,Insecta,Insecta,Odontomachus brunneus,"Wasps, ants, and bees",acetylcholine receptor subunit beta-like 2 isoform X1,411.38,N,359,61.2,39.5,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_014470089.1,22420,Insecta,Insecta,Dinoponera quadriceps,"Wasps, ants, and bees",PREDICTED: acetylcholine receptor subunit alpha-like,410.99,N,359,61.2,39.46,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,BBA21162.1,19374,Insecta,Insecta,Aphis gossypii,Cotton aphid,cholinergic receptor nicotinic alpha 4-1 subunit,410.61,N,359,61.2,39.42,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_012064375.1,10762,Insecta,Insecta,Atta cephalotes,Leaf cutting ants,PREDICTED: acetylcholine receptor subunit beta-like 2,410.61,N,359,61.2,39.42,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_023345769.1,30614,Hexanauplia,Hexanauplia,Eurytemora affinis,Copepods,acetylcholine receptor subunit beta-like 2,410.61,N,359,61.2,39.42,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_018316727.1,33373,Insecta,Insecta,Trachymyrmex zeteki,"Wasps, ants, and bees",PREDICTED: acetylcholine receptor subunit beta-like 2 isoform X1,410.61,N,359,61.2,39.42,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF3430421.1,11133,Insecta,Insecta,Frieseomelitta varia,Stingless bees,hypothetical protein E2986_10743,410.22,N,359,61.2,39.39,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_014228958.1,21179,Insecta,Insecta,Trichogramma pretiosum,Trichogrammid wasps,acetylcholine receptor subunit beta-like 2 isoform X2,410.22,N,359,61.2,39.39,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_011049287.1,34244,Insecta,Insecta,Acromyrmex echinatior,Panamanian leafcutter ant,PREDICTED: acetylcholine receptor subunit beta-like 2,409.84,N,359,61.2,39.35,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_025156179.1,41890,Insecta,Insecta,Harpegnathos saltator,Jerdon's jumping ant,acetylcholine receptor subunit alpha-like isoform X4,409.84,N,359,61.2,39.35,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ABV68893.1,19605,Chromadorea,Chromadorea,Haemonchus contortus,Barber pole worm,nicotinic acetylcholine receptor 63,409.45,N,359,61.2,39.31,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,OXU25983.1,16087,Insecta,Insecta,Trichomalopsis sarcophagae,"Wasps, ants, and bees",hypothetical protein TSAR_004107,409.45,N,359,61.2,39.31,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,NP_001166022.1,33927,Insecta,Insecta,Nasonia vitripennis,Jewel wasp,nicotinic acetylcholine receptor alpha 8 subunit precursor,409.45,N,359,61.2,39.31,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_011703562.1,24351,Insecta,Insecta,Wasmannia auropunctata,Little fire ant,PREDICTED: acetylcholine receptor subunit beta-like 2 isoform X2,409.07,N,359,61.2,39.27,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_026808916.1,19570,Insecta,Insecta,Rhopalosiphum maidis,Corn leaf aphid,acetylcholine receptor subunit alpha-like isoform X3,409.07,N,359,61.2,39.27,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009016814.1,46878,Clitellata,Clitellata,Helobdella robusta,Leeches,hypothetical protein HELRODRAFT_78292,408.68,N,359,61.2,39.24,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,CAI54101.1,24372,Insecta,Insecta,Myzus persicae,Green peach aphid,"nicotinic acetylcholine receptor, alpha5 subunit",408.3,N,359,61.2,39.2,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_018495903.1,11978,Arachnida,Arachnida,Galendromus occidentalis,Western predatory mite,acetylcholine receptor subunit alpha-like 1,408.3,N,359,61.2,39.2,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AWJ68157.1,216,Clitellata,Clitellata,Hirudo verbana,Leeches,putative nicotinic acetylcholine receptor 6,407.91,N,359,61.2,39.16,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017874526.1,20062,Insecta,Insecta,Drosophila arizonae,Fruit flies,PREDICTED: acetylcholine receptor subunit alpha-like isoform X1,407.91,N,359,61.2,39.16,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AFP55259.1,18677,Insecta,Insecta,Aphis glycines,Soybean aphid,nicotinic acetylcholine receptor alpha 5 subunit,407.91,N,359,61.2,39.16,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_025408754.1,21321,Insecta,Insecta,Sipha flava,Yellow sugarcane aphid,acetylcholine receptor subunit alpha-like isoform X2,407.91,N,359,61.2,39.16,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KFB41806.1,19894,Insecta,Insecta,Anopheles sinensis,Mosquitos,AGAP000138-PB-like protein,407.91,N,359,61.2,39.16,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_025200155.1,19134,Insecta,Insecta,Melanaphis sacchari,Aphids,acetylcholine receptor subunit alpha-like isoform X1,407.53,N,359,61.2,39.13,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,GAU89949.1,23050,Eutardigrada,Eutardigrada,Ramazzottius varieornatus,Water bears,LOW QUALITY PROTEIN: hypothetical protein RvY_02440-1,407.53,N,359,61.2,39.13,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_029346511.1,31402,Insecta,Insecta,Acyrthosiphon pisum,Pea aphid,acetylcholine receptor subunit alpha-like isoform X2,407.53,N,359,61.2,39.13,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ABM97502.1,368,Insecta,Insecta,Sitobion avenae,English grain aphid,nicotinic acetylcholine receptor alpha 5-1 subunit,407.14,N,359,61.2,39.09,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_014663809.1,20794,Priapulimorpha,Priapulimorpha,Priapulus caudatus,Priapulids,PREDICTED: acetylcholine receptor subunit alpha-like 1,407.14,N,359,61.2,39.09,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_017781803.1,19616,Insecta,Insecta,Nicrophorus vespilloides,Sexton beetles,PREDICTED: acetylcholine receptor subunit alpha-like 2 isoform X2,406.37,N,359,61.2,39.02,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_011882027.1,26316,Insecta,Insecta,Vollenhovia emeryi,"Wasps, ants, and bees",PREDICTED: acetylcholine receptor subunit alpha-like isoform X1,405.99,N,359,61.2,38.98,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VVD03361.1,20058,Insecta,Insecta,Leptidea sinapis,"White, yellow and sulphur butterflies",unnamed protein product,404.83,N,359,61.2,38.87,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KYN32320.1,35683,Insecta,Insecta,Trachymyrmex septentrionalis,"Wasps, ants, and bees",Acetylcholine receptor subunit alpha-like 1,404.06,N,359,61.2,38.79,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ALB27749.1,551,Insecta,Insecta,Rhopalosiphum padi,Bird cherry-oat aphid,nicotinic acetylcholine receptor alpha 4 subunit,403.68,N,359,61.2,38.76,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_015371053.1,17635,Insecta,Insecta,Diuraphis noxia,Russian wheat aphid,PREDICTED: acetylcholine receptor subunit beta-like 2,402.9,N,359,61.2,38.68,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AGK89908.1,54,Malacostraca,Malacostraca,Pandalus japonicus,Pandalid shrimps,nicotinic acetylcholine receptor subunit alpha 3,402.9,N,359,61.2,38.68,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDN58332.1,11204,Chromadorea,Chromadorea,Dracunculus medinensis,Guinea worm,unnamed protein product,402.13,N,359,61.2,38.61,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_019772579.1,49511,Insecta,Insecta,Dendroctonus ponderosae,Mountain pine beetle,PREDICTED: acetylcholine receptor subunit alpha-like 1,401.36,N,359,61.2,38.53,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KHN70752.1,38973,Chromadorea,Chromadorea,Toxocara canis,Dog roundworm,Acetylcholine receptor subunit alpha-type unc-63,400.98,N,359,61.2,38.5,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VIO95906.1,43408,Chromadorea,Chromadorea,Brugia malayi,Agent of lymphatic filariasis,Uncharacterized protein BM_BM8014,400.21,N,359,61.2,38.42,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF0765649.1,32310,Insecta,Insecta,Aphis craccivora,Cowpea aphid,Uncharacterized protein FWK35_00028213,400.21,N,359,61.2,38.42,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AUO38745.1,647,Chromadorea,Chromadorea,Ascaris suum,Pig roundworm,nicotinic acetylcholine receptor alpha subunit 63,399.82,N,359,61.2,38.39,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KRT84987.1,8838,Insecta,Insecta,Oryctes borbonicus,"Rhinoceros beetles, hercules beetles & elephant beetles","transmembrane ion channel, partial",399.44,N,359,61.2,38.35,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VVC28510.1,22242,Insecta,Insecta,Cinara cedri,Aphids,"Nicotinic acetylcholine receptor,Neurotransmitter-gated ion-channel, conserved",399.05,N,359,61.2,38.31,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDD87920.1,12969,Chromadorea,Chromadorea,Enterobius vermicularis,Human pinworm,unnamed protein product,397.51,N,359,61.2,38.16,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KRX57717.1,18540,Enoplea,Enoplea,Trichinella sp. T9,Roundworms,Acetylcholine receptor subunit alpha-type unc-38,396.36,N,359,61.2,38.05,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AAA96704.1,200,Chondrichthyes,Chondrichthyes,Torpedo marmorata,Marbled electric ray,acetylcholine receptor alpha-subunit,395.59,N,359,61.2,37.98,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ADF56010.1,25764,Chromadorea,Chromadorea,Teladorsagia circumcincta,Roundworms,nicotinic acetylcholine receptor alpha subunit 63a,395.59,N,359,61.2,37.98,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ADN44617.1,25392,Chromadorea,Chromadorea,Oesophagostomum dentatum,Nodule worm,nicotinic acetylcholine receptor alpha subunit 63,395.2,N,359,61.2,37.94,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ACF60610.1,30338,Chromadorea,Chromadorea,Ancylostoma caninum,Dog hookworm,nicotinic acetylcholine receptor alpha subunit,394.43,N,359,61.2,37.87,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KRZ88707.1,18432,Enoplea,Enoplea,Trichinella sp. T8,Roundworms,Acetylcholine receptor subunit alpha-type unc-38,394.43,N,359,61.2,37.87,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,P02710.1,243,Chondrichthyes,Chondrichthyes,Tetronarce californica,Pacific electric ray,RecName: Full=Acetylcholine receptor subunit alpha; Flags: Precursor,394.05,N,359,61.2,37.83,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,EYC26492.1,81567,Chromadorea,Chromadorea,Ancylostoma ceylanicum,Roundworms,hypothetical protein Y032_0010g1185,392.89,N,359,61.2,37.72,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KRY32645.1,35911,Enoplea,Enoplea,Trichinella spiralis,Roundworms,"Acetylcholine receptor subunit alpha-type unc-38, partial",392.5,N,359,61.2,37.68,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AAR29364.1,7,Chondrichthyes,Chondrichthyes,Hypnos monopterygius,Australian numbfish,acetylcholine receptor alpha subunit,391.73,N,359,61.2,37.61,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KRZ28986.1,81560,Enoplea,Enoplea,Trichinella pseudospiralis,Roundworms,Acetylcholine receptor subunit alpha-type unc-38,391.73,N,359,61.2,37.61,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,EJW83106.1,32680,Chromadorea,Chromadorea,Wuchereria bancrofti,Agent of lymphatic filariasis,hypothetical protein WUBG_05982,390.96,N,359,61.2,37.54,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,RWS24734.1,14705,Arachnida,Arachnida,Leptotrombidium deliense,Scrub typhus mite,Acetylcholine receptor subunit alpha-like 1,390.58,N,359,61.2,37.5,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AAR29368.1,18,Chondrichthyes,Chondrichthyes,Narcine tasmaniensis,Tasmanian numbfish,acetylcholine receptor alpha subunit,389.81,N,359,61.2,37.43,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,TKR92628.1,36673,Chromadorea,Chromadorea,Steinernema carpocapsae,Steinernema sp. LE-2017,hypothetical protein L596_007246,389.42,N,359,61.2,37.39,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KRX51013.1,18644,Enoplea,Enoplea,Trichinella murrelli,Trichinella sp. T5,"Acetylcholine receptor non-alpha chain, partial",389.42,N,359,61.2,37.39,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ADF56017.1,94,Chromadorea,Chromadorea,Trichostrongylus colubriformis,Roundworms,nicotinic acetylcholine receptor alpha subunit 63,388.27,N,359,61.2,37.28,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,GBL79671.1,279008,Arachnida,Arachnida,Araneus ventricosus,Orb weavers,Acetylcholine receptor subunit alpha-like,387.88,N,359,61.2,37.24,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDN81648.1,14700,Chromadorea,Chromadorea,Brugia pahangi,Roundworms,unnamed protein product,387.88,N,359,61.2,37.24,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDN05347.1,11025,Chromadorea,Chromadorea,Thelazia callipaeda,Thelaziosis nematode,unnamed protein product,387.5,N,359,61.2,37.2,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,PDM67404.1,25367,Chromadorea,Chromadorea,Pristionchus pacificus,Roundworms,"unc-63, partial",387.11,N,359,61.2,37.17,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,NP_491533.2,70847,Chromadorea,Chromadorea,Caenorhabditis elegans,Roundworm,Acetylcholine receptor subunit alpha-type unc-63,387.11,N,359,61.2,37.17,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,CAB3407262.1,15165,Chromadorea,Chromadorea,Caenorhabditis bovis,Roundworms,unnamed protein product,386.73,N,359,61.2,37.13,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_003092874.1,141982,Chromadorea,Chromadorea,Caenorhabditis remanei,Roundworms,CRE-UNC-63 protein,386.34,N,359,61.2,37.09,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAE9552232.1,10997,Chromadorea,Chromadorea,Halicephalobus sp. NKZ332,Roundworms,hypothetical protein FO519_004541,385.57,N,359,61.2,37.02,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_026683267.1,25809,Insecta,Insecta,Diaphorina citri,Asian citrus psyllid,acetylcholine receptor subunit alpha-like 1,385.19,N,359,61.2,36.98,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,EGT50701.1,31595,Chromadorea,Chromadorea,Caenorhabditis brenneri,Caenorhabditis n. sp. CB5161,CBN-UNC-63 protein,384.8,N,359,61.2,36.94,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ALK16237.1,236,Arachnida,Arachnida,Tetranychus cinnabarinus,Carmine spider mite,nicotinic acetylcholine receptor alpha4 subunit,384.03,N,359,61.2,36.87,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_002646181.1,42510,Chromadorea,Chromadorea,Caenorhabditis briggsae,Caenorhabditis briggsae AF16,C. briggsae CBR-UNC-63 protein,384.03,N,359,61.2,36.87,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,PIC50875.1,44576,Chromadorea,Chromadorea,Caenorhabditis nigoni,Caenorhabditis sp. 9 JU1325,hypothetical protein B9Z55_001604,383.64,N,359,61.2,36.83,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KMR04748.1,18322,Insecta,Insecta,Lasius niger,"Wasps, ants, and bees",acetylcholine receptor subunit alpha-like protein,383.26,N,359,61.2,36.8,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_015785554.1,16232,Arachnida,Arachnida,Tetranychus urticae,Two-spotted spider mite,acetylcholine receptor subunit alpha-like,382.49,N,359,61.2,36.72,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KFZ52884.1,11722,Aves,Aves,Podiceps cristatus,Great crested grebe,"Neuronal acetylcholine receptor subunit alpha-3, partial",382.1,N,359,61.2,36.69,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KFD58288.1,38519,Enoplea,Enoplea,Trichuris suis,Pig whipworm,"hypothetical protein M513_01051, partial",380.95,N,359,61.2,36.57,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KRZ63240.1,27811,Enoplea,Enoplea,Trichinella nativa,Roundworms,"Acetylcholine receptor subunit alpha-type unc-38, partial",380.95,N,359,61.2,36.57,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KRX85389.1,19492,Enoplea,Enoplea,Trichinella sp. T6,Roundworms,Ankyrin repeat and FYVE domain-containing protein 1,380.56,N,359,61.2,36.54,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KRX22379.1,17020,Enoplea,Enoplea,Trichinella nelsoni,Roundworms,Acetylcholine receptor subunit alpha-type unc-38,379.02,N,359,61.2,36.39,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KRY21620.1,19506,Enoplea,Enoplea,Trichinella patagoniensis,Trichinella sp. SJK-2011,Acetylcholine receptor subunit alpha-type unc-38,379.02,N,359,61.2,36.39,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF2369034.1,25903,Malacostraca,Malacostraca,Trinorchestia longiramus,"Beach hoppers, scuds and well shrimps",Neurotransmitter-gated ion-channel,376.33,N,359,61.2,36.13,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDO31432.1,21560,Chromadorea,Chromadorea,Haemonchus placei,Roundworms,unnamed protein product,375.56,N,359,61.2,36.06,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,CDW54153.1,9847,Enoplea,Enoplea,Trichuris trichiura,Human whipworm,nicotinic acetylcholine receptor alpha subunit,374.4,N,359,61.2,35.95,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KRZ72043.1,16253,Enoplea,Enoplea,Trichinella papuae,Roundworms,Acetylcholine receptor subunit alpha-type unc-63,374.4,N,359,61.2,35.95,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDP14830.1,13207,Enoplea,Enoplea,Soboliphyme baturini,Roundworms,unnamed protein product,374.4,N,359,61.2,35.95,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,TRY67935.1,16351,Hexanauplia,Hexanauplia,Tigriopus californicus,Tidepool copepod,hypothetical protein TCAL_03441,373.63,N,359,61.2,35.87,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KRZ09081.1,19285,Enoplea,Enoplea,Trichinella zimbabwensis,Roundworms,"Acetylcholine receptor subunit alpha-type unc-63, partial",373.63,N,359,61.2,35.87,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_020301840.1,30909,Chromadorea,Chromadorea,Loa loa,Eye worm,hypothetical protein LOAG_09624,372.86,N,359,61.2,35.8,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG71847.1,56,Amphibia,Amphibia,Oophaga sylvatica,Dart-poison frogs,"nicotinic acetylcholine alpha-4, partial",371.32,N,359,61.2,35.65,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ABA39253.1,420,Insecta,Insecta,Schistocerca gregaria,Desert locust,nicotinic acetylcholine receptor beta subunit,370.93,N,359,61.2,35.61,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AHI42536.1,115,Actinopteri,Actinopteri,Campylomormyrus compressirostris,Elephantfishes,"acetylcholin receptor subunit alpha, partial",369.39,N,359,61.2,35.46,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AIT71767.1,21525,Chromadorea,Chromadorea,Anisakis simplex,Herring worm,alpha nicotinic acetylocholine receptor subunit 38,368.62,N,359,61.2,35.39,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KRY58207.1,20888,Enoplea,Enoplea,Trichinella britovi,Roundworms,Acetylcholine receptor subunit alpha-type unc-63,367.47,N,359,61.2,35.28,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_027219384.1,59967,Malacostraca,Malacostraca,Penaeus vannamei,Pacific white shrimp,acetylcholine receptor subunit beta-like 1,365.54,N,359,61.2,35.1,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_016925439.1,23394,Insecta,Insecta,Drosophila suzukii,Fruit flies,PREDICTED: acetylcholine receptor subunit beta-like 2,365.15,N,359,61.2,35.06,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAF4519445.1,18567,Insecta,Insecta,Ephemera danica,Common burrower mayflies,"hypothetical protein B566_EDAN008672, partial",365.15,N,359,61.2,35.06,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_024504905.1,24982,Chromadorea,Chromadorea,Strongyloides ratti,Roundworms,"=HYPERLINK(""http://www.ncbi.nlm.nih.gov/protein/XP_024504905.1"",""Nicotinic acetylcholine receptor family and Neurotransmitter-gated ion-channel transmembrane domain and Neurotransmitter-gated ion-channel family and Neurotransmitter-gated ion-channel ligand-binding domain and Nicotinic acetylcholine-gated receptor, transmembrane domain-containing protein"")",364.77,N,359,61.2,35.02,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ASK12220.1,397,Gastropoda,Gastropoda,Conus betulinus,Cone shells,nicotinic acetylcholine receptor alpha 2-like protein,364.38,N,359,61.2,34.98,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ETN60728.1,10783,Insecta,Insecta,Anopheles darlingi,American malaria mosquito,acetylcholine receptor subunit beta-type unc-29,363.23,N,359,61.2,34.87,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KIH68398.1,27569,Chromadorea,Chromadorea,Ancylostoma duodenale,Roundworms,acetylcholine receptor subunit alpha-type unc-38,362.07,N,359,61.2,34.76,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,OZG20485.1,25622,Chromadorea,Chromadorea,Caenorhabditis latens,Caenorhabditis sp. 23 KK-2011,"hypothetical protein FL83_05101, partial",361.3,N,359,61.2,34.69,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,OZC09084.1,24241,Chromadorea,Chromadorea,Onchocerca flexuosa,Roundworms,Cation transporter family protein,360.92,N,359,61.2,34.65,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDO64735.1,27549,Chromadorea,Chromadorea,Heligmosomoides polygyrus,Roundworms,unnamed protein product,360.53,N,359,61.2,34.61,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KPM03606.1,10855,Arachnida,Arachnida,Sarcoptes scabiei,Mites and ticks,"acetylcholine receptor subunit alpha-like protein 1-like protein 2, partial",358.22,N,359,61.2,34.39,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KJH47829.1,14371,Chromadorea,Chromadorea,Dictyocaulus viviparus,Bovine lungworm,Cation transporter family protein,357.45,N,359,61.2,34.32,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,CAB0039798.1,14108,Insecta,Insecta,Trichogramma brassicae,Trichogrammid wasps,unnamed protein product,356.68,N,359,61.2,34.24,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDO36832.1,15878,Chromadorea,Chromadorea,Brugia timori,Roundworms,unnamed protein product,354.37,N,359,61.2,34.02,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KOB73132.1,17113,Insecta,Insecta,Operophtera brumata,Winter moth,Nicotinic acetylcholine receptor alpha 1 subunit,351.67,N,359,61.2,33.76,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDK67625.1,13785,Chromadorea,Chromadorea,Onchocerca ochengi,Roundworms,unnamed protein product,350.13,N,359,61.2,33.62,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDK72739.1,10063,Chromadorea,Chromadorea,Litomosoides sigmodontis,Roundworms,unnamed protein product,349.36,N,359,61.2,33.54,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,TMW47392.1,15898,Insecta,Insecta,Sarcophaga bullata,Grey fleshfly,hypothetical protein DOY81_007527,349.36,N,359,61.2,33.54,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ASO96849.1,162,Insecta,Insecta,Rhyzopertha dominica,Lesser grain borer,nicotinic acetylcholine receptor subunit alpha 6,348.59,N,359,61.2,33.47,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDK31956.1,10493,Cestoda,Cestoda,Taenia asiatica,Asian tapeworm,unnamed protein product,348.21,N,359,61.2,33.43,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AUO38746.1,251,Chromadorea,Chromadorea,Dirofilaria immitis,Dog heartworm nematode,nicotinic acetylcholine receptor alpha subunit 8,345.12,N,359,61.2,33.14,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDM52836.1,13409,Chromadorea,Chromadorea,Angiostrongylus costaricensis,American rat lungworm,unnamed protein product,345.12,N,359,61.2,33.14,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDK27218.1,27183,Chromadorea,Chromadorea,Gongylonema pulchrum,Roundworms,unnamed protein product,344.35,N,359,61.2,33.06,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_030545995.1,42574,Magnoliopsida,Magnoliopsida,Rhodamnia argentea,Silver malletwood,acetylcholine receptor subunit alpha-like 1,344.35,N,359,61.2,33.06,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_013064741.1,37571,Gastropoda,Gastropoda,Biomphalaria glabrata,Bloodfluke planorb,PREDICTED: acetylcholine receptor subunit beta-like 2 isoform X1,343.97,N,359,61.2,33.02,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AJV88490.1,18,Insecta,Insecta,Bovicola ovis,Sheep biting louse,nicotinic acetylcholine receptor subunit alpha 6 isoform 3a8a,342.81,N,359,61.2,32.91,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VBB27649.1,10213,Chromadorea,Chromadorea,Acanthocheilonema viteae,Roundworms,unnamed protein product,342.43,N,359,61.2,32.88,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,MBW00371.1,11098,Mammalia,Mammalia,Eschrichtius robustus,Grey whale,Neuronal acetylcholine receptor subunit alpha-6,341.66,N,359,61.2,32.8,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,PAV91319.1,38237,Chromadorea,Chromadorea,Diploscapter pachys,Roundworms,hypothetical protein WR25_21905,340.89,N,359,61.2,32.73,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VUZ53842.1,30634,Cestoda,Cestoda,Hymenolepis diminuta,Rat tapeworm,unnamed protein product,340.89,N,359,61.2,32.73,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAE9419012.1,10796,Chromadorea,Chromadorea,Angiostrongylus cantonensis,Rat lungworm,hypothetical protein Angca_006672,340.5,N,359,61.2,32.69,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDD76089.1,10609,Cestoda,Cestoda,Mesocestoides corti,Tapeworms,unnamed protein product,339.73,N,359,61.2,32.62,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VZI06681.1,22428,Cestoda,Cestoda,Sparganum proliferum,Tapeworms,unnamed protein product,338.19,N,359,61.2,32.47,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDL79239.1,22832,Chromadorea,Chromadorea,Nippostrongylus brasiliensis,Roundworms,"unnamed protein product, partial",335.11,N,359,61.2,32.17,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_024351844.1,36472,Cestoda,Cestoda,Echinococcus granulosus,Tapeworms,Acetylcholine receptor subunit beta-like protein,335.11,N,359,61.2,32.17,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AUO38747.1,398,Chromadorea,Chromadorea,Meloidogyne incognita,Southern root-knot nematode,nicotinic acetylcholine receptor alpha subunit 8,333.18,N,359,61.2,31.99,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ALM23508.1,228,Insecta,Insecta,Tuta absoluta,Twirler moths,Nicotinic acetylcholine receptor alpha 6,331.26,N,359,61.2,31.8,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,QIC53907.1,1200,Insecta,Insecta,Spodoptera exigua,Beet armyworm,nicotinic acetylcholine receptor subunit alpha 6 isoform 3a8a,328.18,N,359,61.2,31.51,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AAC42053.1,2813,Mammalia,Mammalia,Mus musculus domesticus,Western European house mouse,neuronal acetylcholine receptor subunit alpha 7,327.79,N,359,61.2,31.47,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,CDS42141.1,11445,Cestoda,Cestoda,Echinococcus multilocularis,Tapeworms,nicotinic acetylcholine receptor alpha subunit,327.79,N,359,61.2,31.47,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ASU46163.1,1088,Arachnida,Arachnida,Rhipicephalus microplus,Southern cattle tick,nicotinic acetylcholine receptor alpha6 isoform 3a,327.02,N,359,61.2,31.4,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,NIG58743.1,4395,Mammalia,Mammalia,Pontoporia blainvillei,Franciscana,neuronal acetylcholine receptor subunit alpha-6,324.71,N,359,61.2,31.17,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,P54247.1,310,Chromadorea,Chromadorea,Onchocerca volvulus,Roundworms,RecName: Full=Acetylcholine receptor non-alpha chain,323.94,N,359,61.2,31.1,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AAB25224.2,1241,Mammalia,Mammalia,Rattus sp.,Rats,nicotinic receptor alpha 7 subunit,323.94,N,359,61.2,31.1,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDL89003.1,20287,Cestoda,Cestoda,Schistocephalus solidus,Tapeworms,unnamed protein product,321.63,N,359,61.2,30.88,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,PIK46643.1,30778,Holothuroidea,Holothuroidea,Apostichopus japonicus,Japanese sea cucumber,putative neuronal acetylcholine receptor subunit alpha-4-like,317.39,N,359,61.2,30.47,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ATG71845.1,91,Amphibia,Amphibia,Hyloxalus jacobuspetersi,Dart-poison frogs,"nicotinic acetylcholine receptor beta-2, partial",313.15,N,359,61.2,30.07,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AZS27834.1,91,Chromadorea,Chromadorea,Parascaris equorum,Roundworms,nicotinic acetylcholine receptor alpha subunit 16,312.38,N,359,61.2,29.99,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_022795029.1,57612,Anthozoa,Anthozoa,Stylophora pistillata,Stony corals,neuronal acetylcholine receptor subunit alpha-10-like,311.23,N,359,61.2,29.88,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_020615521.1,32639,Anthozoa,Anthozoa,Orbicella faveolata,Stony corals,neuronal acetylcholine receptor subunit alpha-10-like,304.68,N,359,61.2,29.25,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,GBP60336.1,96442,Insecta,Insecta,Eumeta japonica,Bagworm moths,Acetylcholine receptor subunit alpha-like 1,304.29,N,359,61.2,29.21,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,CDS31263.1,12407,Cestoda,Cestoda,Hymenolepis microstoma,Tapeworms,nicotinic acetylcholine receptor a11 subunit,303.91,N,359,61.2,29.18,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_027035964.1,51030,Anthozoa,Anthozoa,Pocillopora damicornis,Cauliflower coral,neuronal acetylcholine receptor subunit alpha-10-like,303.14,N,359,61.2,29.1,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VEL33078.1,37869,Monogenea,Monogenea,Protopolystoma xenopodis,Flatworms,"unnamed protein product, partial",301.98,N,359,61.2,28.99,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AHJ37560.1,152,Insecta,Insecta,Aphis fabae,Black bean aphid,"nicotinic acetylcholine receptor subunit alpha 7, partial",301.21,N,359,61.2,28.92,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDM30250.1,11737,Cestoda,Cestoda,Hydatigera taeniaeformis,Tapeworms,unnamed protein product,298.13,N,359,61.2,28.62,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDO05649.1,13708,Cestoda,Cestoda,Rodentolepis nana,Tapeworms,unnamed protein product,292.74,N,359,61.2,28.11,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AAX09502.1,285,Testudines,Testudines,Trachemys scripta elegans,Red-eared slider turtle,"cholinergic receptor, nicotinic, alpha 9",292.35,N,359,61.2,28.07,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_029188631.1,35597,Anthozoa,Anthozoa,Acropora millepora,Staghorn corals,neuronal acetylcholine receptor subunit alpha-10-like isoform X1,290.43,N,359,61.2,27.88,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,CCE45469.1,39,Mammalia,Mammalia,Hipposideros pratti,Pratt's roundleaf bat,"cholinergic receptor, nicotinic, alpha 10, partial",289.66,N,359,61.2,27.81,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ACJ67033.1,33,Mammalia,Mammalia,Herpestes ichneumon,Egyptian mongoose,"alpha7 acetylcholine receptor, partial",289.27,N,359,61.2,27.77,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,CAB3230767.1,9702,Ascidiacea,Ascidiacea,Phallusia mammillata,Warty sea squirt,nAChR-A1 nicotinic acetylcholine receptor subunit precursor,288.89,N,359,61.2,27.74,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,RXG59384.1,19212,Malacostraca,Malacostraca,Armadillidium vulgare,Common pillbug,Acetylcholine receptor subunit alpha-like 1,288.89,N,359,61.2,27.74,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,CCE45474.1,297,Mammalia,Mammalia,Rousettus leschenaultii,Leschenault's rousette,"cholinergic receptor, nicotinic, alpha 10, partial",288.89,N,359,61.2,27.74,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_032221050.1,60011,Anthozoa,Anthozoa,Nematostella vectensis,Starlet sea anemone,neuronal acetylcholine receptor subunit alpha-2 isoform X1,287.73,N,359,61.2,27.62,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_015753103.1,34225,Anthozoa,Anthozoa,Acropora digitifera,Staghorn corals,PREDICTED: neuronal acetylcholine receptor subunit alpha-10-like isoform X1,287.73,N,359,61.2,27.62,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_031567496.1,27085,Anthozoa,Anthozoa,Actinia tenebrosa,Australian red waratah sea anemone,neuronal acetylcholine receptor subunit alpha-10-like,286.57,N,359,61.2,27.51,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,PRD28082.1,22873,Arachnida,Arachnida,Trichonephila clavipes,Eight-eyed spiders,nAChRbeta1,286.19,N,359,61.2,27.48,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KXJ26556.1,53890,Anthozoa,Anthozoa,Exaiptasia pallida,Sea anemones,Neuronal acetylcholine receptor subunit alpha-3,285.8,N,359,61.2,27.44,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,CCE45475.1,15,Mammalia,Mammalia,Tadarida insignis,Free-tailed bats,"cholinergic receptor, nicotinic, alpha 10, partial",284.65,N,359,61.2,27.33,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,CCE45473.1,74,Mammalia,Mammalia,Rhinopoma hardwickii,Lesser mouse-tailed bat,"cholinergic receptor, nicotinic, alpha 10, partial",283.88,N,359,61.2,27.25,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_013295851.1,38484,Chromadorea,Chromadorea,Necator americanus,Roundworms,putative acetylcholine receptor subunit alpha-type unc-38,281.57,N,359,61.2,27.03,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,CCE45470.1,361,Mammalia,Mammalia,Megaptera novaeangliae,Humpback whale,"cholinergic receptor, nicotinic, alpha 10, partial",281.18,N,359,61.2,27,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,CCE45477.1,306,Mammalia,Mammalia,Ziphius cavirostris,Cuvier's beaked whale,"cholinergic receptor, nicotinic, alpha 10, partial",279.64,N,359,61.2,26.85,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_028399066.1,28760,Anthozoa,Anthozoa,Dendronephthya gigantea,Soft corals,neuronal acetylcholine receptor subunit alpha-2-like,275.79,N,359,61.2,26.48,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,OTF81936.1,15267,Arachnida,Arachnida,Euroglyphus maynei,House-dust mites,"acetylcholine receptor subunit alpha-like protein, partial",275.4,N,359,61.2,26.44,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,THD28502.1,12688,Trematoda,Trematoda,Fasciola hepatica,Liver fluke,putative acetylcholine receptor,266.54,N,359,61.2,25.59,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDM75288.1,20957,Chromadorea,Chromadorea,Strongylus vulgaris,Bloodworm,unnamed protein product,266.16,N,359,61.2,25.55,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,TGZ64773.1,20942,Trematoda,Trematoda,Opisthorchis felineus,Cat liver fluke,hypothetical protein CRM22_006211,264.62,N,359,61.2,25.41,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,GAA53652.1,28618,Trematoda,Trematoda,Clonorchis sinensis,Oriental liver fluke,neuronal acetylcholine receptor subunit alpha-7,264.23,N,359,61.2,25.37,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,TNN08960.1,37150,Trematoda,Trematoda,Schistosoma japonicum,Blood flukes,Neuronal acetylcholine receptor subunit alpha-7 isoform 2,263.08,N,359,61.2,25.26,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AHC70333.1,26445,Trematoda,Trematoda,Schistosoma mansoni,Blood flukes,nicotinic acetylcholine receptor,263.08,N,359,61.2,25.26,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AAR84357.1,20500,Trematoda,Trematoda,Schistosoma haematobium,Blood flukes,nicotinic acetylcholine receptor alpha subunit precursor,261.54,N,359,61.2,25.11,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AAR84359.1,11666,Trematoda,Trematoda,Schistosoma bovis,Blood flukes,nicotinic acetylcholine receptor alpha subunit precursor,260.77,N,359,61.2,25.04,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_009168996.1,43605,Trematoda,Trematoda,Opisthorchis viverrini,Southeast Asian liver fluke,hypothetical protein T265_05667,258.07,N,359,61.2,24.78,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,XP_004208655.2,23139,Hydrozoa,Hydrozoa,Hydra vulgaris,Hydras,PREDICTED: neuronal acetylcholine receptor subunit alpha-2-like,256.91,N,359,61.2,24.67,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDP19591.1,25608,Trematoda,Trematoda,Schistosoma margrebowiei,Blood flukes,unnamed protein product,251.52,N,359,61.2,24.15,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDK79793.1,20032,Cestoda,Cestoda,Dibothriocephalus latus,Broad fish tapeworm,unnamed protein product,241.12,N,359,61.2,23.15,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAA0191917.1,11875,Trematoda,Trematoda,Fasciolopsis buski,Flukes,Nicotinic acetylcholine receptor subunit,236.88,N,359,61.2,22.74,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,TPP62895.1,13277,Trematoda,Trematoda,Fasciola gigantica,Flukes,"Nicotinic acetylcholine receptor subunit type R, partial",233.8,N,359,61.2,22.45,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ACI88788.1,786,Polychaeta,Polychaeta,Platynereis dumerilii,Dumeril's clam worm,acetylcholine receptor alpha-9/10,226.48,N,359,61.2,21.74,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,OAF65326.1,8724,Rhopaluridae,Rhopaluridae,Intoshia linei,Metazoans,Acetylcholine receptor subunit beta,224.94,N,359,61.2,21.6,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ABO26693.1,232,Gastropoda,Gastropoda,Haliotis discus discus,Disc abalone,"nicotinic acetylcholine receptor alpha 1 subunit, partial",223.02,N,359,61.2,21.41,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,CAL39144.1,314,Actinopteri,Actinopteri,Platichthys flesus,European flounder,"nicotinic acetylcholine receptor beta 3, partial",213.39,N,359,61.2,20.49,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDK49183.1,13838,Chromadorea,Chromadorea,Cylicostephanus goldi,Roundworms,"unnamed protein product, partial",204.91,N,359,61.2,19.67,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,OPL21052.1,5076,Bivalvia,Bivalvia,Mytilus galloprovincialis,Mediterranean mussel,"neuronal alpha-10 acetylcholine receptor subunit, partial",204.53,N,359,61.2,19.64,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAA3679307.1,12923,Trematoda,Trematoda,Paragonimus westermani,Flukes,uncharacterized protein DEA37_0002704,202.6,N,359,61.2,19.45,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,KAB7494761.1,14632,Malacostraca,Malacostraca,Armadillidium nasatum,Pillbugs,"Acetylcholine receptor subunit beta-like 2, partial",196.05,N,359,61.2,18.82,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDP25970.1,22711,Trematoda,Trematoda,Schistosoma curassoni,Blood flukes,unnamed protein product,192.97,N,359,61.2,18.53,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ADZ53646.1,748,Mammalia,Mammalia,Stenella attenuata,Bridled dolphin,"cholinergic receptor nicotinic alpha 6, partial",189.12,N,359,61.2,18.16,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ADZ53648.1,533,Mammalia,Mammalia,Stenella coeruleoalba,Striped dolphin,"cholinergic receptor nicotinic alpha 6, partial",189.12,N,359,61.2,18.16,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ADZ53645.1,276,Mammalia,Mammalia,Grampus griseus,Risso's dolphin,"cholinergic receptor nicotinic alpha 6, partial",189.12,N,359,61.2,18.16,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ADZ53644.1,270,Mammalia,Mammalia,Delphinus capensis,Long-beaked common dolphin,"cholinergic receptor nicotinic alpha 6, partial",189.12,N,359,61.2,18.16,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ADZ53642.1,448,Mammalia,Mammalia,Neophocaena phocaenoides,Indo-Pacific finless porpoise,"cholinergic receptor nicotinic alpha 6, partial",189.12,N,359,61.2,18.16,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ADZ53661.1,241,Mammalia,Mammalia,Ceratotherium simum,White rhinoceros,"cholinergic receptor nicotinic alpha 6, partial",188.73,N,359,61.2,18.12,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,AAT45520.1,1692,Mammalia,Mammalia,Gorilla gorilla,Western gorilla,"cholinergic receptor nicotinic alpha polypeptide 3, partial",187.96,N,359,61.2,18.05,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ADZ53652.1,172,Mammalia,Mammalia,Platanista gangetica,Ganges River dolphin,"cholinergic receptor nicotinic alpha 6, partial",186.04,N,359,61.2,17.86,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ADZ53653.1,209,Mammalia,Mammalia,Elaphurus davidianus,Pere David's deer,"cholinergic receptor nicotinic alpha 6, partial",184.88,N,359,61.2,17.75,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ADZ53972.1,340,Mammalia,Mammalia,Mesoplodon densirostris,Blainville's beaked whale,"nicotinic acetylcholine receptor alpha 6 subunit, partial",184.5,N,359,61.2,17.71,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ADZ53658.1,336,Mammalia,Mammalia,Hippopotamus amphibius,Hippopotamus,"cholinergic receptor nicotinic alpha 6, partial",182.96,N,359,61.2,17.57,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ADZ53650.1,299,Mammalia,Mammalia,Balaenoptera omurai,Omura's baleen whale,"cholinergic receptor nicotinic alpha 6, partial",181.41,N,359,61.2,17.42,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ADZ53651.1,293,Mammalia,Mammalia,Kogia sima,Dwarf sperm whale,"cholinergic receptor nicotinic alpha 6, partial",180.26,N,359,61.2,17.31,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ADZ53657.1,367,Mammalia,Mammalia,Balaenoptera acutorostrata,Minke whale,"cholinergic receptor nicotinic alpha 6, partial",179.87,N,359,61.2,17.27,Y,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ACO10856.1,1593,Hexanauplia,Hexanauplia,Caligus rogercresseyi,Copepods,Neuronal acetylcholine receptor subunit alpha-2 precursor,171.01,N,359,61.2,16.42,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDP48851.1,22260,Trematoda,Trematoda,Schistosoma mattheei,Blood flukes,"unnamed protein product, partial",170.63,N,359,61.2,16.38,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDP82223.1,18603,Trematoda,Trematoda,Echinostoma caproni,Flukes,unnamed protein product,161,N,359,61.2,15.46,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,ADP08791.1,362,Bivalvia,Bivalvia,Azumapecten farreri,Farrer's scallop,nicotinic acetylcholine receptor alpha subunit,149.83,N,359,61.2,14.38,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,VDQ02263.1,22241,Trematoda,Trematoda,Trichobilharzia regenti,Bird nasal schistosome,unnamed protein product,146.75,N,359,61.2,14.09,N,2021 02 18 15:46:12,Y,Explore in ECOTOX
+5,BBC61911.1,106,Insecta,Insecta,Frankliniella intonsa,True thrips,"nicotinic acetylcholine receptor alpha 6 subunit, partial",141.35,N,359,61.2,13.57,N,2021 02 18 15:46:12,Y,Explore in ECOTOX

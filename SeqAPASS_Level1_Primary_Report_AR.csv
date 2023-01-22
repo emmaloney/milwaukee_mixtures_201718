@@ -1,0 +1,1023 @@
+Data Version,NCBI Accession,Protein Count,Taxonomic Group,Filtered Taxonomic Group,Scientific Name,Common Name,Protein Name,BLASTp Bitscore,Ortholog Candidate,Ortholog Count,Cut-off,Percent Similarity,Susceptibility Prediction,Analysis Completed,Eukaryote,ECOTOX
+5,AAA51729.1,1802968,Mammalia,Mammalia,Homo sapiens,Human,androgen receptor,1888.23,Y,31,30.56,100,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_025715214.1,46265,Mammalia,Mammalia,Callorhinus ursinus,Northern fur seal,androgen receptor-like,806.59,Y,31,30.56,42.72,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_025789612.1,23618,Mammalia,Mammalia,Puma concolor,Puma,androgen receptor,805.44,Y,31,30.56,42.66,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_020762611.1,48218,Mammalia,Mammalia,Odocoileus virginianus texanus,White-tailed deer,androgen receptor,804.67,Y,31,30.56,42.61,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAB0388964.1,20274,Mammalia,Mammalia,Balaenoptera physalus,Fin whale,hypothetical protein E2I00_000638,803.9,Y,31,30.56,42.57,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_006774533.1,48716,Mammalia,Mammalia,Myotis davidii,Common bats,PREDICTED: androgen receptor,803.51,Y,31,30.56,42.55,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF3813096.1,19789,Mammalia,Mammalia,Mirounga leonina,Southern elephant seal,hypothetical protein GH733_000028,802.74,Y,31,30.56,42.51,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KFQ03285.1,28860,Aves,Aves,Leptosomus discolor,Cuckoo roller,"Androgen receptor, partial",787.33,Y,31,30.56,41.7,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KFQ43923.1,27852,Aves,Aves,Nestor notabilis,Kea,"Androgen receptor, partial",758.44,Y,31,30.56,40.17,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KFR12888.1,27865,Aves,Aves,Opisthocomus hoazin,Hoatzin,"Androgen receptor, partial",757.29,Y,31,30.56,40.11,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_009994935.1,29270,Aves,Aves,Chaetura pelagica,Chimney swift,PREDICTED: androgen receptor,756.13,Y,31,30.56,40.04,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF2985417.1,15084,Aves,Aves,Melospiza melodia maxima,Song sparrow,"hypothetical protein EK904_002061, partial",754.98,Y,31,30.56,39.98,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KFQ07327.1,30417,Aves,Aves,Haliaeetus albicilla,White-tailed eagle,"Androgen receptor, partial",754.59,Y,31,30.56,39.96,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_019143345.1,29602,Aves,Aves,Corvus cornix cornix,Hooded crow,androgen receptor,753.82,Y,31,30.56,39.92,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_025951796.1,31573,Aves,Aves,Dromaius novaehollandiae,Emu,androgen receptor isoform X1,750.74,Y,31,30.56,39.76,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_007435613.1,32857,Lepidosauria,Lepidosauria,Python bivittatus,Burmese python,androgen receptor,750.36,Y,31,30.56,39.74,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KFO15478.1,28015,Aves,Aves,Balearica regulorum gibbericeps,East African grey crowned-crane,"Androgen receptor, partial",749.58,Y,31,30.56,39.7,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_021482974.1,39112,Mammalia,Mammalia,Meriones unguiculatus,Mongolian gerbil,"androgen receptor, partial",688.34,Y,31,30.56,36.45,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026704635.1,27794,Aves,Aves,Athene cunicularia,Burrowing owl,androgen receptor,632.48,Y,31,30.56,33.5,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAA0717190.1,24328,Actinopteri,Actinopteri,Triplophysa tibetana,Plateau loaches,Androgen receptor,616.3,Y,31,30.56,32.64,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_023823693.1,60777,Actinopteri,Actinopteri,Salvelinus alpinus,Arctic char,androgen receptor,614.76,Y,31,30.56,32.56,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF4113183.1,24824,Actinopteri,Actinopteri,Onychostoma macrolepis,Carps and others,hypothetical protein G5714_005728,608.99,Y,31,30.56,32.25,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ACA96518.1,63,Actinopteri,Actinopteri,Spinibarbus denticulatus,Carps and others,androgen receptor protein,608.6,Y,31,30.56,32.23,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AFU35774.1,57,Actinopteri,Actinopteri,Carassius auratus ssp. 'Pengze',Pengze crucian carp,androgen receptor,607.06,Y,31,30.56,32.15,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_029925114.1,38160,Actinopteri,Actinopteri,Myripristis murdjan,Pinecone soldierfish,androgen receptor-like,607.06,Y,31,30.56,32.15,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030009492.1,42348,Actinopteri,Actinopteri,Sphaeramia orbicularis,Orbiculate cardinalfish,androgen receptor-like,603.21,Y,31,30.56,31.95,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAP55843.2,521,Chondrichthyes,Chondrichthyes,Squalus acanthias,Spiny dogfish,"androgen receptor, partial",598.59,Y,31,30.56,31.7,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AXZ78408.1,165,Actinopteri,Actinopteri,Cheilinus undulatus,Humphead wrasse,androgen receptor,598.2,Y,31,30.56,31.68,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_016142988.1,67438,Actinopteri,Actinopteri,Sinocyclocheilus grahami,Carps and others,PREDICTED: androgen receptor-like,597.82,Y,31,30.56,31.66,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,NP_001273260.1,45052,Actinopteri,Actinopteri,Haplochromis burtoni,Burton's mouthbrooder,androgen receptor-like,593.96,Y,31,30.56,31.46,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026039080.1,52755,Actinopteri,Actinopteri,Astatotilapia calliptera,Eastern happy,androgen receptor-like,586.64,Y,31,30.56,31.07,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,TWW74919.1,29416,Actinopteri,Actinopteri,Takifugu flavidus,Sansaifugu,Androgen receptor,577.01,Y,31,30.56,30.56,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,PNI41853.1,171847,Mammalia,Mammalia,Pan troglodytes,Chimpanzee,AR isoform 1,1855.11,N,31,30.56,98.25,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_009233214.1,141140,Mammalia,Mammalia,Pongo abelii,Sumatran orangutan,androgen receptor isoform X1,1835.46,N,31,30.56,97.21,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_018875276.1,52117,Mammalia,Mammalia,Gorilla gorilla gorilla,Western lowland gorilla,androgen receptor,1823.14,N,31,30.56,96.55,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_023054207.1,55377,Mammalia,Mammalia,Piliocolobus tephrosceles,Ugandan red Colobus,androgen receptor isoform X1,1817.74,N,31,30.56,96.27,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_011731144.1,68519,Mammalia,Mammalia,Macaca nemestrina,Pig-tailed macaque,androgen receptor isoform X1,1813.89,N,31,30.56,96.06,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_025227875.1,52581,Mammalia,Mammalia,Theropithecus gelada,Gelada,androgen receptor isoform X1,1813.51,N,31,30.56,96.04,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_003917866.2,73457,Mammalia,Mammalia,Papio anubis,Olive baboon,androgen receptor isoform X1,1812.74,N,31,30.56,96,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030790396.1,53902,Mammalia,Mammalia,Rhinopithecus roxellana,Golden snub-nosed monkey,androgen receptor,1811.96,N,31,30.56,95.96,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_007990129.1,62219,Mammalia,Mammalia,Chlorocebus sabaeus,Green monkey,PREDICTED: androgen receptor,1811.19,N,31,30.56,95.92,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,O97960.1,575,Mammalia,Mammalia,Papio hamadryas,Hamadryas baboon,RecName: Full=Androgen receptor; AltName: Full=Dihydrotestosterone receptor; AltName: Full=Nuclear receptor subfamily 3 group C member 4,1810.81,N,31,30.56,95.9,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_011835925.1,38457,Mammalia,Mammalia,Mandrillus leucophaeus,Drill,PREDICTED: androgen receptor isoform X1,1810.04,N,31,30.56,95.86,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_011817378.1,38676,Mammalia,Mammalia,Colobus angolensis palliatus,Angolan colobus,PREDICTED: androgen receptor,1805.8,N,31,30.56,95.63,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_005593867.1,97446,Mammalia,Mammalia,Macaca fascicularis,Crab-eating macaque,PREDICTED: androgen receptor,1805.42,N,31,30.56,95.61,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030663284.1,51631,Mammalia,Mammalia,Nomascus leucogenys,Northern white-cheeked gibbon,androgen receptor isoform X1,1805.03,N,31,30.56,95.59,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_011916275.1,66421,Mammalia,Mammalia,Cercocebus atys,Sooty mangabey,PREDICTED: androgen receptor,1803.49,N,31,30.56,95.51,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,NP_001028083.1,175489,Mammalia,Mammalia,Macaca mulatta,Rhesus monkey,androgen receptor,1802.72,N,31,30.56,95.47,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_032612994.1,54502,Mammalia,Mammalia,Hylobates moloch,Silvery gibbon,androgen receptor isoform X1,1796.94,N,31,30.56,95.17,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_024783077.1,51215,Mammalia,Mammalia,Pan paniscus,Pygmy chimpanzee,LOW QUALITY PROTEIN: androgen receptor,1766.9,N,31,30.56,93.57,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_012316261.1,48088,Mammalia,Mammalia,Aotus nancymaae,Ma's night monkey,androgen receptor isoform X1,1743.78,N,31,30.56,92.35,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_002762998.1,47726,Mammalia,Mammalia,Callithrix jacchus,White-tufted-ear marmoset,PREDICTED: androgen receptor isoform X1,1556.19,N,31,30.56,82.42,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_012499360.1,28331,Mammalia,Mammalia,Propithecus coquereli,Coquerel's sifaka,PREDICTED: androgen receptor,1533.85,N,31,30.56,81.23,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,NP_001266892.1,181,Mammalia,Mammalia,Saimiri boliviensis,Bolivian squirrel monkey,androgen receptor,1520.75,N,31,30.56,80.54,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_017375691.1,53173,Mammalia,Mammalia,Cebus capucinus imitator,White-faced sapajou,PREDICTED: androgen receptor isoform X1,1518.06,N,31,30.56,80.4,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_032111715.1,62479,Mammalia,Mammalia,Sapajus apella,Tufted capuchin,androgen receptor isoform X1,1517.67,N,31,30.56,80.38,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_008062492.1,33251,Mammalia,Mammalia,Carlito syrichta,Philippine tarsier,androgen receptor,1513.05,N,31,30.56,80.13,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_004416958.1,31381,Mammalia,Mammalia,Odobenus rosmarus divergens,Pacific walrus,PREDICTED: androgen receptor,1511.89,N,31,30.56,80.07,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_027287560.1,162753,Mammalia,Mammalia,Cricetulus griseus,Chinese hamster,androgen receptor isoform X3,1501.11,N,31,30.56,79.5,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_032249776.1,45571,Mammalia,Mammalia,Phoca vitulina,Harbor seal,androgen receptor,1500.72,N,31,30.56,79.48,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_027464601.1,59271,Mammalia,Mammalia,Zalophus californianus,California sea lion,androgen receptor,1499.95,N,31,30.56,79.44,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_003801358.1,33085,Mammalia,Mammalia,Otolemur garnettii,Small-eared galago,androgen receptor isoform X1,1498.41,N,31,30.56,79.36,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ANA11823.1,67727,Mammalia,Mammalia,Equus caballus,Horse,androgen receptor,1495.72,N,31,30.56,79.21,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,O97776.1,64,Mammalia,Mammalia,Eulemur fulvus collaris,Brown lemur,RecName: Full=Androgen receptor; AltName: Full=Dihydrotestosterone receptor; AltName: Full=Nuclear receptor subfamily 3 group C member 4,1495.33,N,31,30.56,79.19,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_025842610.1,38429,Mammalia,Mammalia,Vulpes vulpes,Red fox,androgen receptor,1494.17,N,31,30.56,79.13,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BCD56309.1,67615,Mammalia,Mammalia,Canis lupus familiaris,Dog,canine androgen receptor,1493.79,N,31,30.56,79.11,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_021535659.1,28446,Mammalia,Mammalia,Neomonachus schauinslandi,Hawaiian monk seal,androgen receptor isoform X2,1493.4,N,31,30.56,79.09,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_025321850.1,62990,Mammalia,Mammalia,Canis lupus dingo,Dingo,androgen receptor,1492.63,N,31,30.56,79.05,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_004780480.1,48578,Mammalia,Mammalia,Mustela putorius furo,Domestic ferret,PREDICTED: androgen receptor,1487.24,N,31,30.56,78.76,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_032185838.1,60642,Mammalia,Mammalia,Mustela erminea,Ermine,androgen receptor isoform X1,1487.24,N,31,30.56,78.76,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_027982377.1,40113,Mammalia,Mammalia,Eumetopias jubatus,Steller sea lion,androgen receptor isoform X1,1486.47,N,31,30.56,78.72,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_032701479.1,48403,Mammalia,Mammalia,Lontra canadensis,Northern American river otter,androgen receptor isoform X1,1484.55,N,31,30.56,78.62,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_014687510.1,42730,Mammalia,Mammalia,Equus asinus,Ass,PREDICTED: androgen receptor,1483.77,N,31,30.56,78.58,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_006981237.1,45652,Mammalia,Mammalia,Peromyscus maniculatus bairdii,Prairie deer mouse,PREDICTED: androgen receptor,1483.39,N,31,30.56,78.56,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_028739721.1,42174,Mammalia,Mammalia,Peromyscus leucopus,White-footed mouse,androgen receptor,1480.31,N,31,30.56,78.4,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_004439954.1,33628,Mammalia,Mammalia,Ceratotherium simum simum,Southern white rhinoceros,PREDICTED: androgen receptor,1478.77,N,31,30.56,78.32,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,NP_001231056.1,133369,Mammalia,Mammalia,Bos taurus,Cattle,androgen receptor,1472.99,N,31,30.56,78.01,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,MXQ98755.1,68301,Mammalia,Mammalia,Bos mutus,Wild yak,hypothetical protein,1472.99,N,31,30.56,78.01,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_019811422.1,37725,Mammalia,Mammalia,Bos indicus,Zebu cattle,PREDICTED: androgen receptor,1472.99,N,31,30.56,78.01,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_027388936.1,54423,Mammalia,Mammalia,Bos indicus x Bos taurus,Hybrid cattle,androgen receptor isoform X1,1472.99,N,31,30.56,78.01,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030161381.1,42103,Mammalia,Mammalia,Lynx canadensis,Canada lynx,androgen receptor,1471.06,N,31,30.56,77.91,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_005081209.1,38204,Mammalia,Mammalia,Mesocricetus auratus,Golden hamster,androgen receptor,1470.68,N,31,30.56,77.89,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_004694494.1,29269,Mammalia,Mammalia,Condylura cristata,Star-nosed mole,PREDICTED: androgen receptor,1468.75,N,31,30.56,77.78,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026909507.1,56435,Mammalia,Mammalia,Acinonyx jubatus,Cheetah,androgen receptor isoform X1,1468.37,N,31,30.56,77.76,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_022380163.1,36593,Mammalia,Mammalia,Enhydra lutris kenyoni,Sea otter,androgen receptor,1467.98,N,31,30.56,77.74,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,NP_001182653.1,48644,Mammalia,Mammalia,Oryctolagus cuniculus,Rabbit,androgen receptor,1465.29,N,31,30.56,77.6,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_028378974.1,33129,Mammalia,Mammalia,Phyllostomus discolor,Pale spear-nosed bat,androgen receptor isoform X1,1463.36,N,31,30.56,77.5,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_006067834.1,60996,Mammalia,Mammalia,Bubalus bubalis,Water buffalo,androgen receptor isoform X1,1462.59,N,31,30.56,77.46,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026341601.1,43159,Mammalia,Mammalia,Ursus arctos horribilis,Brown bear,androgen receptor,1462.2,N,31,30.56,77.44,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_008842588.1,49227,Mammalia,Mammalia,Nannospalax galili,Upper Galilee mountains blind mole rat,androgen receptor,1461.82,N,31,30.56,77.42,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,NP_001295513.1,51033,Mammalia,Mammalia,Ovis aries,Sheep,androgen receptor,1459.51,N,31,30.56,77.3,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_029785952.1,43342,Mammalia,Mammalia,Suricata suricatta,Meerkat,androgen receptor isoform X1,1459.12,N,31,30.56,77.27,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AUM57183.1,232,Mammalia,Mammalia,Moschus berezovskii,Chinese forest musk deer,androgen receptor,1457.97,N,31,30.56,77.21,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_027791672.1,37707,Mammalia,Mammalia,Marmota flaviventris,Yellow-bellied marmot,androgen receptor,1455.27,N,31,30.56,77.07,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_004595261.1,26023,Mammalia,Mammalia,Ochotona princeps,American pika,PREDICTED: androgen receptor,1454.88,N,31,30.56,77.05,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_004000624.2,57491,Mammalia,Mammalia,Felis catus,Domestic cat,androgen receptor isoform X1,1454.11,N,31,30.56,77.01,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,Q9GKL7.3,81816,Mammalia,Mammalia,Sus scrofa,Pig,RecName: Full=Androgen receptor; AltName: Full=Dihydrotestosterone receptor; AltName: Full=Nuclear receptor subfamily 3 group C member 4,1453.34,N,31,30.56,76.97,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AKH40241.1,321,Mammalia,Mammalia,Lynx lynx,Eurasian lynx,"androgen receptor, partial",1452.57,N,31,30.56,76.93,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026640574.1,37992,Mammalia,Mammalia,Microtus ochrogaster,Prairie vole,androgen receptor isoform X2,1451.8,N,31,30.56,76.89,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_005335252.1,38807,Mammalia,Mammalia,Ictidomys tridecemlineatus,Thirteen-lined ground squirrel,androgen receptor,1451.42,N,31,30.56,76.87,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_034341416.1,41654,Mammalia,Mammalia,Arvicanthis niloticus,African grass rat,androgen receptor,1451.42,N,31,30.56,76.87,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_019284124.1,58569,Mammalia,Mammalia,Panthera pardus,Leopard,PREDICTED: androgen receptor isoform X1,1451.42,N,31,30.56,76.87,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_003412790.1,41868,Mammalia,Mammalia,Loxodonta africana,African savanna elephant,androgen receptor isoform X1,1450.26,N,31,30.56,76.81,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_032969878.1,48727,Mammalia,Mammalia,Rhinolophus ferrumequinum,Greater horseshoe bat,androgen receptor,1449.11,N,31,30.56,76.74,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026255764.1,36482,Mammalia,Mammalia,Urocitellus parryii,Arctic ground squirrel,androgen receptor,1446.03,N,31,30.56,76.58,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_017899319.1,46853,Mammalia,Mammalia,Capra hircus,Goat,PREDICTED: androgen receptor,1445.64,N,31,30.56,76.56,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_004871834.1,82643,Mammalia,Mammalia,Heterocephalus glaber,Naked mole-rat,androgen receptor isoform X1,1444.87,N,31,30.56,76.52,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CDG23667.1,348,Mammalia,Mammalia,Capreolus capreolus,Western roe deer,androgen receptor,1444.1,N,31,30.56,76.48,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,Q8MIK0.1,17459,Mammalia,Mammalia,Crocuta crocuta,Spotted hyena,RecName: Full=Androgen receptor; AltName: Full=Dihydrotestosterone receptor; AltName: Full=Nuclear receptor subfamily 3 group C member 4,1444.1,N,31,30.56,76.48,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_007445632.1,27194,Mammalia,Mammalia,Lipotes vexillifer,Yangtze River dolphin,PREDICTED: androgen receptor,1444.1,N,31,30.56,76.48,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_004644568.1,42496,Mammalia,Mammalia,Octodon degus,Degu,androgen receptor isoform X1,1441.02,N,31,30.56,76.32,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_004380149.1,37488,Mammalia,Mammalia,Trichechus manatus latirostris,Florida manatee,androgen receptor isoform X1,1441.02,N,31,30.56,76.32,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_032745817.1,36141,Mammalia,Mammalia,Rattus rattus,Black rat,LOW QUALITY PROTEIN: androgen receptor,1439.48,N,31,30.56,76.23,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_004715496.1,24942,Mammalia,Mammalia,Echinops telfairi,Small Madagascar hedgehog,androgen receptor,1439.48,N,31,30.56,76.23,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_012591725.1,59986,Mammalia,Mammalia,Microcebus murinus,Gray mouse lemur,androgen receptor,1438.71,N,31,30.56,76.19,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_021043964.1,42365,Mammalia,Mammalia,Mus pahari,Shrew mouse,androgen receptor,1437.17,N,31,30.56,76.11,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_006868555.1,25292,Mammalia,Mammalia,Chrysochloris asiatica,Cape golden mole,PREDICTED: androgen receptor-like isoform X4,1436.78,N,31,30.56,76.09,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_002929217.2,73097,Mammalia,Mammalia,Ailuropoda melanoleuca,Giant panda,androgen receptor,1434.85,N,31,30.56,75.99,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,NP_038504.1,312727,Mammalia,Mammalia,Mus musculus,House mouse,androgen receptor,1434.47,N,31,30.56,75.97,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAA37234.1,2813,Mammalia,Mammalia,Mus musculus domesticus,Western European house mouse,androgen receptor,1434.47,N,31,30.56,75.97,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAB19916.1,1523,Mammalia,Mammalia,Mus sp.,Mice,AR,1434.47,N,31,30.56,75.97,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_028625865.1,38191,Mammalia,Mammalia,Grammomys surdaster,African thicket rats,androgen receptor,1433.7,N,31,30.56,75.93,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_016059357.1,29863,Mammalia,Mammalia,Miniopterus natalensis,Common bats,PREDICTED: androgen receptor isoform X1,1432.93,N,31,30.56,75.89,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAA40759.1,151095,Mammalia,Mammalia,Rattus norvegicus,Norway rat,androgen receptor,1432.16,N,31,30.56,75.85,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_024411091.1,30697,Mammalia,Mammalia,Desmodus rotundus,Common vampire bat,androgen receptor isoform X1,1430.62,N,31,30.56,75.77,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_010971951.1,29233,Mammalia,Mammalia,Camelus bactrianus,Bactrian camel,PREDICTED: LOW QUALITY PROTEIN: androgen receptor,1426.38,N,31,30.56,75.54,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_007113487.1,51261,Mammalia,Mammalia,Physeter catodon,Sperm whale,androgen receptor isoform X1,1425.22,N,31,30.56,75.48,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_007185523.1,37624,Mammalia,Mammalia,Balaenoptera acutorostrata scammoni,Minke whale,androgen receptor isoform X1,1424.84,N,31,30.56,75.46,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_012887093.1,29399,Mammalia,Mammalia,Dipodomys ordii,Ord's kangaroo rat,PREDICTED: androgen receptor,1422.91,N,31,30.56,75.36,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_021009144.1,47700,Mammalia,Mammalia,Mus caroli,Ryukyu mouse,androgen receptor,1422.53,N,31,30.56,75.34,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_005000186.1,49128,Mammalia,Mammalia,Cavia porcellus,Domestic guinea pig,androgen receptor,1421.37,N,31,30.56,75.28,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_007954476.1,25532,Mammalia,Mammalia,Orycteropus afer afer,Aardvark,PREDICTED: androgen receptor isoform X1,1421.37,N,31,30.56,75.28,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_004473341.1,38736,Mammalia,Mammalia,Dasypus novemcinctus,Nine-banded armadillo,androgen receptor isoform X1,1419.45,N,31,30.56,75.17,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_027621790.1,59499,Mammalia,Mammalia,Tupaia chinensis,Chinese tree shrew,androgen receptor,1415.98,N,31,30.56,74.99,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_014399122.1,60290,Mammalia,Mammalia,Myotis brandtii,Brandt's bat,PREDICTED: androgen receptor isoform X2,1412.51,N,31,30.56,74.81,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_006082997.1,43977,Mammalia,Mammalia,Myotis lucifugus,Little brown bat,androgen receptor isoform X1,1410.59,N,31,30.56,74.7,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_004661062.1,25743,Mammalia,Mammalia,Jaculus jaculus,Lesser Egyptian jerboa,PREDICTED: androgen receptor,1410.59,N,31,30.56,74.7,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_006215299.1,44301,Mammalia,Mammalia,Vicugna pacos,Alpaca,androgen receptor,1409.43,N,31,30.56,74.64,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_008157993.1,50025,Mammalia,Mammalia,Eptesicus fuscus,Big brown bat,androgen receptor,1409.05,N,31,30.56,74.62,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_006902051.1,25292,Mammalia,Mammalia,Elephantulus edwardii,Cape elephant shrew,PREDICTED: androgen receptor-like,1407.12,N,31,30.56,74.52,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_031302354.1,86205,Mammalia,Mammalia,Camelus dromedarius,Arabian camel,androgen receptor,1405.58,N,31,30.56,74.44,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_032330272.1,74403,Mammalia,Mammalia,Camelus ferus,Wild Bactrian camel,androgen receptor,1404.81,N,31,30.56,74.4,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_005401638.1,45556,Mammalia,Mammalia,Chinchilla lanigera,Long-tailed chinchilla,PREDICTED: androgen receptor,1404.04,N,31,30.56,74.36,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_016013685.1,49042,Mammalia,Mammalia,Rousettus aegyptiacus,Egyptian rousette,PREDICTED: androgen receptor,1403.65,N,31,30.56,74.34,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_032475571.1,52297,Mammalia,Mammalia,Phocoena sinus,Vaquita,androgen receptor isoform X1,1396.33,N,31,30.56,73.95,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_029096398.1,65846,Mammalia,Mammalia,Monodon monoceros,Narwhal,androgen receptor isoform X1,1392.48,N,31,30.56,73.75,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_004316835.2,56999,Mammalia,Mammalia,Tursiops truncatus,Common bottlenose dolphin,androgen receptor isoform X1,1392.1,N,31,30.56,73.73,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026949412.1,54700,Mammalia,Mammalia,Lagenorhynchus obliquidens,Pacific white-sided dolphin,androgen receptor isoform X1,1392.1,N,31,30.56,73.73,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_004275845.1,59479,Mammalia,Mammalia,Orcinus orca,Killer whale,androgen receptor,1392.1,N,31,30.56,73.73,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,TEA23321.1,19920,Mammalia,Mammalia,Sousa chinensis,Indo-pacific humpbacked dolphin,hypothetical protein DBR06_SOUSAS38910002,1390.56,N,31,30.56,73.64,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030705966.1,54641,Mammalia,Mammalia,Globicephala melas,Long-finned pilot whale,androgen receptor isoform X1,1390.56,N,31,30.56,73.64,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_022416760.1,50906,Mammalia,Mammalia,Delphinapterus leucas,Beluga whale,androgen receptor,1390.17,N,31,30.56,73.62,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_011369769.1,43865,Mammalia,Mammalia,Pteropus vampyrus,Large flying fox,LOW QUALITY PROTEIN: androgen receptor,1389.4,N,31,30.56,73.58,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_024607628.1,38185,Mammalia,Mammalia,Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,androgen receptor isoform X1,1386.7,N,31,30.56,73.44,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_010630488.1,67687,Mammalia,Mammalia,Fukomys damarensis,Damara mole-rat,androgen receptor,1369.37,N,31,30.56,72.52,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_004615825.1,24062,Mammalia,Mammalia,Sorex araneus,European shrew,PREDICTED: androgen receptor,1342.02,N,31,30.56,71.07,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_008579122.1,32194,Mammalia,Mammalia,Galeopterus variegatus,Sunda flying lemur,PREDICTED: androgen receptor,1322.38,N,31,30.56,70.03,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_019503520.1,46123,Mammalia,Mammalia,Hipposideros armiger,Great roundleaf bat,PREDICTED: androgen receptor,1296.18,N,31,30.56,68.65,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_020822884.1,47241,Mammalia,Mammalia,Phascolarctos cinereus,Koala,LOW QUALITY PROTEIN: androgen receptor,1270.76,N,31,30.56,67.3,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_031800701.1,46282,Mammalia,Mammalia,Sarcophilus harrisii,Tasmanian devil,androgen receptor,1237.25,N,31,30.56,65.52,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ALL99217.1,421,Mammalia,Mammalia,Cervus nippon,Sika deer,"androgen receptor, partial",1212.98,N,31,30.56,64.24,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_007507022.1,51248,Mammalia,Mammalia,Monodelphis domestica,Gray short-tailed opossum,PREDICTED: androgen receptor,1211.82,N,31,30.56,64.18,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_015357076.1,31063,Mammalia,Mammalia,Marmota marmota marmota,Alpine marmot,"PREDICTED: androgen receptor, partial",1141.33,N,31,30.56,60.44,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_006125303.1,39116,Testudines,Testudines,Pelodiscus sinensis,Chinese soft-shelled turtle,LOW QUALITY PROTEIN: androgen receptor,1021.92,N,31,30.56,54.12,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030431532.1,50866,Testudines,Testudines,Gopherus evgoodei,Goodes thornscrub tortoise,androgen receptor isoform X2,1013.83,N,31,30.56,53.69,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,TFK15370.1,21661,Testudines,Testudines,Platysternon megacephalum,Big-headed turtle,serine/arginine-rich splicing factor 5-like,1012.29,N,31,30.56,53.61,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_032619939.1,44376,Testudines,Testudines,Chelonoidis abingdonii,Abingdon island giant tortoise,androgen receptor,1011.13,N,31,30.56,53.55,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_024053085.1,34211,Testudines,Testudines,Terrapene carolina triunguis,Three-toed box turtle,androgen receptor,1005.74,N,31,30.56,53.26,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAF91192.1,43,Testudines,Testudines,Pseudemys nelsoni,Terrapins,androgen receptor,1003.05,N,31,30.56,53.12,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_005279584.1,46668,Testudines,Testudines,Chrysemys picta bellii,Western painted turtle,androgen receptor,1002.66,N,31,30.56,53.1,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026558883.1,31817,Lepidosauria,Lepidosauria,Pseudonaja textilis,Eastern brown snake,androgen receptor,981.86,N,31,30.56,52,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026540690.1,31322,Lepidosauria,Lepidosauria,Notechis scutatus,Mainland tiger snake,androgen receptor,979.55,N,31,30.56,51.88,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_015668197.1,23979,Lepidosauria,Lepidosauria,Protobothrops mucrosquamatus,Chinese habu,androgen receptor isoform X1,977.24,N,31,30.56,51.75,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_034291047.1,41491,Lepidosauria,Lepidosauria,Pantherophis guttatus,Colubrid snakes,androgen receptor,946.42,N,31,30.56,50.12,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_032993019.1,39483,Lepidosauria,Lepidosauria,Lacerta agilis,Sand lizard,androgen receptor,937.56,N,31,30.56,49.65,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_032083684.1,30930,Lepidosauria,Lepidosauria,Thamnophis elegans,Western terrestrial garter snake,androgen receptor,936.02,N,31,30.56,49.57,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_007077225.1,29960,Mammalia,Mammalia,Panthera tigris altaica,Amur tiger,PREDICTED: androgen receptor,933.32,N,31,30.56,49.43,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_008708903.1,29099,Mammalia,Mammalia,Ursus maritimus,Polar bear,PREDICTED: androgen receptor,927.16,N,31,30.56,49.1,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,VFV46928.1,31243,Mammalia,Mammalia,Lynx pardinus,Spanish lynx,androgen receptor,912.91,N,31,30.56,48.35,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_019391690.1,28975,Crocodylia,Crocodylia,Crocodylus porosus,Australian saltwater crocodile,"PREDICTED: androgen receptor, partial",895.58,N,31,30.56,47.43,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AXF36050.1,43349,Crocodylia,Crocodylia,Alligator sinensis,Chinese alligator,androgen receptor,882.48,N,31,30.56,46.74,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_027678463.1,47903,Testudines,Testudines,Chelonia mydas,Green sea turtle,LOW QUALITY PROTEIN: androgen receptor,879.01,N,31,30.56,46.55,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_002941888.3,122817,Amphibia,Amphibia,Xenopus tropicalis,Tropical clawed frog,androgen receptor,879.01,N,31,30.56,46.55,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_019343422.1,74703,Crocodylia,Crocodylia,Alligator mississippiensis,American alligator,PREDICTED: androgen receptor,878.63,N,31,30.56,46.53,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_031224355.1,54476,Mammalia,Mammalia,Mastomys coucha,Southern multimammate mouse,androgen receptor,876.7,N,31,30.56,46.43,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,NP_001084353.1,129541,Amphibia,Amphibia,Xenopus laevis,African clawed frog,androgen receptor L homeolog,863.99,N,31,30.56,45.76,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAI87835.1,186,Amphibia,Amphibia,Rugosa rugosa,Japanese wrinkled frog,androgen receptor,853.97,N,31,30.56,45.23,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_018410253.1,24943,Amphibia,Amphibia,Nanorana parkeri,Frogs and toads,PREDICTED: androgen receptor,853.97,N,31,30.56,45.23,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_021261575.1,43411,Aves,Aves,Numida meleagris,Helmeted guineafowl,androgen receptor,853.97,N,31,30.56,45.23,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_032051997.1,27801,Aves,Aves,Aythya fuligula,Tufted duck,androgen receptor isoform X1,843.19,N,31,30.56,44.65,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_029463146.1,49320,Amphibia,Amphibia,Rhinatrema bivittatum,Two-lined caecilian,androgen receptor,837.41,N,31,30.56,44.35,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_015715505.1,41600,Aves,Aves,Coturnix japonica,Japanese quail,androgen receptor,837.02,N,31,30.56,44.33,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_017513061.1,41999,Mammalia,Mammalia,Manis javanica,Malayan pangolin,"PREDICTED: androgen receptor-like, partial",833.56,N,31,30.56,44.14,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,OXB62659.1,17163,Aves,Aves,Callipepla squamata,Scaled quail,hypothetical protein ASZ78_006478,832.79,N,31,30.56,44.1,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,NP_001035179.1,70279,Aves,Aves,Gallus gallus,Chicken,androgen receptor,832.4,N,31,30.56,44.08,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030064562.1,37122,Amphibia,Amphibia,Microcaecilia unicolor,Caecilians,LOW QUALITY PROTEIN: androgen receptor,832.02,N,31,30.56,44.06,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_031449825.1,28886,Aves,Aves,Phasianus colchicus,Ring-necked pheasant,androgen receptor,831.25,N,31,30.56,44.02,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030886033.1,40460,Mammalia,Mammalia,Leptonychotes weddellii,Weddell seal,androgen receptor-like,814.3,N,31,30.56,43.12,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_019376541.1,27379,Crocodylia,Crocodylia,Gavialis gangeticus,Gharial,PREDICTED: androgen receptor,813.53,N,31,30.56,43.08,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_033057282.1,63302,Mammalia,Mammalia,Trachypithecus francoisi,Francois's langur,LOW QUALITY PROTEIN: androgen receptor,811.6,N,31,30.56,42.98,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_014810446.1,30957,Aves,Aves,Calidris pugnax,Ruff,PREDICTED: androgen receptor,811.6,N,31,30.56,42.98,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030354066.1,43730,Aves,Aves,Strigops habroptila,Kakapo,androgen receptor,810.83,N,31,30.56,42.94,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF1598143.1,15466,Aves,Aves,Eudyptes moseleyi,Northern rockhopper penguin,"Androgen receptor, partial",808.13,N,31,30.56,42.8,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,APQ40570.1,11512,Aves,Aves,Tyto alba,Barn owl,androgen receptor,807.75,N,31,30.56,42.78,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_029852782.1,48151,Aves,Aves,Aquila chrysaetos chrysaetos,Golden eagle,androgen receptor,807.75,N,31,30.56,42.78,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_007534618.1,29615,Mammalia,Mammalia,Erinaceus europaeus,Western European hedgehog,PREDICTED: androgen receptor,806.59,N,31,30.56,42.72,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030304719.1,42950,Aves,Aves,Calypte anna,Anna's hummingbird,androgen receptor,805.82,N,31,30.56,42.68,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_027694876.1,42715,Mammalia,Mammalia,Vombatus ursinus,Common wombat,androgen receptor,801.2,N,31,30.56,42.43,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF1590137.1,17574,Aves,Aves,Eudyptes pachyrhynchus,Fiordland penguin,"Androgen receptor, partial",799.27,N,31,30.56,42.33,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,QIS93408.1,162,Amphibia,Amphibia,Cynops orientalis,Oriental fire-bellied newt,androgen receptor AR,798.5,N,31,30.56,42.29,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF1486375.1,15007,Aves,Aves,Eudyptula novaehollandiae,Australian little penguin,"Androgen receptor, partial",798.5,N,31,30.56,42.29,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_032557749.1,35608,Aves,Aves,Chiroxiphia lanceolata,Lance-tailed manakin,LOW QUALITY PROTEIN: androgen receptor,797.73,N,31,30.56,42.25,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_027518937.1,39234,Aves,Aves,Corapipo altera,White-ruffed manakin,"androgen receptor, partial",797.73,N,31,30.56,42.25,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,NP_001070156.1,45272,Aves,Aves,Taeniopygia guttata,Zebra finch,androgen receptor,797.35,N,31,30.56,42.23,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_015442220.1,59370,Mammalia,Mammalia,Pteropus alecto,Black flying fox,androgen receptor,797.35,N,31,30.56,42.23,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030901415.2,29293,Aves,Aves,Melopsittacus undulatus,Budgerigar,androgen receptor isoform X1,796.58,N,31,30.56,42.19,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_027761078.1,34050,Aves,Aves,Empidonax traillii,Willow flycatcher,androgen receptor,796.58,N,31,30.56,42.19,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_027586750.1,42564,Aves,Aves,Pipra filicauda,Wire-tailed manakin,androgen receptor,796.19,N,31,30.56,42.17,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_032928056.1,35444,Aves,Aves,Catharus ustulatus,Swainson's thrush,androgen receptor,796.19,N,31,30.56,42.17,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_017674811.1,36875,Aves,Aves,Lepidothrix coronata,Blue-crowned manakin,PREDICTED: androgen receptor,794.65,N,31,30.56,42.08,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_009905666.1,29119,Aves,Aves,Picoides pubescens,Downy woodpecker,"PREDICTED: androgen receptor, partial",794.27,N,31,30.56,42.06,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF4792979.1,18372,Aves,Aves,Turdus rufiventris,Rufous-bellied thrush,androgen receptor,793.11,N,31,30.56,42,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_021404098.1,43980,Aves,Aves,Lonchura striata domestica,Bengalese finch,androgen receptor,793.11,N,31,30.56,42,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_027546220.1,39505,Aves,Aves,Neopelma chrysocephalum,Saffron-crested tyrant-manakin,"androgen receptor, partial",791.96,N,31,30.56,41.94,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_031980337.1,42323,Aves,Aves,Corvus moneduloides,New Caledonian crow,androgen receptor,791.96,N,31,30.56,41.94,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_014743316.1,26793,Aves,Aves,Sturnus vulgaris,Common starling,PREDICTED: androgen receptor,791.19,N,31,30.56,41.9,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030823606.1,28938,Aves,Aves,Camarhynchus parvulus,Tanagers,androgen receptor,790.8,N,31,30.56,41.88,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_016153689.1,26767,Aves,Aves,Ficedula albicollis,Collared flycatcher,"PREDICTED: androgen receptor, partial",790.41,N,31,30.56,41.86,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,RMC08184.1,34999,Aves,Aves,Hirundo rustica rustica,Barn swallow,hypothetical protein DUI87_15219,789.64,N,31,30.56,41.82,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_015482175.1,39768,Aves,Aves,Parus major,Great Tit,androgen receptor,789.26,N,31,30.56,41.8,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_005526207.1,27656,Aves,Aves,Pseudopodoces humilis,Tibetan ground-tit,PREDICTED: androgen receptor,789.26,N,31,30.56,41.8,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030084849.1,30517,Aves,Aves,Serinus canaria,Common canary,androgen receptor,788.49,N,31,30.56,41.76,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,PKK20063.1,50999,Aves,Aves,Columba livia,Rock pigeon,androgen receptor,788.1,N,31,30.56,41.74,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_033801389.1,50058,Amphibia,Amphibia,Geotrypetes seraphini,Gabon caecilian,androgen receptor,783.87,N,31,30.56,41.51,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_025910449.1,21536,Aves,Aves,Nothoprocta perdicaria,Tinamous,androgen receptor isoform X2,783.1,N,31,30.56,41.47,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_020640105.1,38806,Lepidosauria,Lepidosauria,Pogona vitticeps,Central bearded dragon,androgen receptor-like,780.4,N,31,30.56,41.33,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_032852006.1,32983,Aves,Aves,Tyto alba alba,Barn owl,LOW QUALITY PROTEIN: androgen receptor,777.7,N,31,30.56,41.19,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_015275174.1,24674,Lepidosauria,Lepidosauria,Gekko japonicus,Geckos,PREDICTED: androgen receptor,776.16,N,31,30.56,41.11,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_028571620.1,51188,Lepidosauria,Lepidosauria,Podarcis muralis,Common wall lizard,androgen receptor,775.78,N,31,30.56,41.08,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAJ15431.1,696,Lepidosauria,Lepidosauria,Protobothrops flavoviridis,Habu,androgen receptor,774.62,N,31,30.56,41.02,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_008118585.1,35701,Lepidosauria,Lepidosauria,Anolis carolinensis,Green anole,PREDICTED: androgen receptor,774.24,N,31,30.56,41,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_017728340.1,49687,Mammalia,Mammalia,Rhinopithecus bieti,Black snub-nosed monkey,PREDICTED: androgen receptor,765.38,N,31,30.56,40.53,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AME29413.1,69,Mammalia,Mammalia,Callithrix penicillata,Black-pencilled marmoset,"androgen receptor, partial",761.14,N,31,30.56,40.31,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AME29412.1,86,Mammalia,Mammalia,Callithrix kuhlii,Wied's marmoset,"androgen receptor, partial",761.14,N,31,30.56,40.31,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KFW77147.1,37344,Aves,Aves,Manacus vitellinus,Golden-collared manakin,"Androgen receptor, partial",760.37,N,31,30.56,40.27,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KFQ63000.1,28643,Aves,Aves,Pelecanus crispus,Dalmatian pelican,"Androgen receptor, partial",760.37,N,31,30.56,40.27,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_028923054.1,43718,Mammalia,Mammalia,Ornithorhynchus anatinus,Platypus,LOW QUALITY PROTEIN: androgen receptor,759.21,N,31,30.56,40.21,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_009878987.1,30750,Aves,Aves,Charadrius vociferus,Killdeer,PREDICTED: androgen receptor,756.9,N,31,30.56,40.09,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KFZ58156.1,29281,Aves,Aves,Antrostomus carolinensis,Chuck-will's-widow,"Androgen receptor, partial",756.9,N,31,30.56,40.09,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,EOB00303.1,58659,Aves,Aves,Anas platyrhynchos,Mallard,"Androgen receptor, partial",756.9,N,31,30.56,40.09,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KFP90518.1,26553,Aves,Aves,Apaloderma vittatum,Bar-tailed trogon,"Androgen receptor, partial",756.13,N,31,30.56,40.04,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_013151847.2,31320,Aves,Aves,Falco peregrinus,Peregrine falcon,androgen receptor,755.75,N,31,30.56,40.02,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_009332558.1,29764,Aves,Aves,Pygoscelis adeliae,Adelie penguin,PREDICTED: androgen receptor,755.75,N,31,30.56,40.02,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KFQ97104.1,31488,Aves,Aves,Nipponia nippon,Crested ibis,"Androgen receptor, partial",755.75,N,31,30.56,40.02,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_005441058.1,30432,Aves,Aves,Falco cherrug,Saker falcon,androgen receptor,755.75,N,31,30.56,40.02,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_013051573.1,31835,Aves,Aves,Anser cygnoides domesticus,Swan goose,PREDICTED: androgen receptor,755.75,N,31,30.56,40.02,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_023781741.1,31622,Aves,Aves,Cyanistes caeruleus,Blue tit,androgen receptor,754.59,N,31,30.56,39.96,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAJ15432.1,204,Lepidosauria,Lepidosauria,Elaphe quadrivirgata,Japanese four-lined ratsnake,androgen receptor,754.59,N,31,30.56,39.96,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026650071.1,26676,Aves,Aves,Zonotrichia albicollis,White-throated sparrow,androgen receptor,753.82,N,31,30.56,39.92,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF1540212.1,15475,Aves,Aves,Eudyptula minor,Little blue penguin,"Androgen receptor, partial",753.44,N,31,30.56,39.9,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF1642272.1,12893,Aves,Aves,Eudyptes chrysocome,Rockhopper penguin,"Androgen receptor, partial",753.44,N,31,30.56,39.9,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF1415482.1,15574,Aves,Aves,Spheniscus magellanicus,Magellanic penguin,"Androgen receptor, partial",753.44,N,31,30.56,39.9,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF1521076.1,12813,Aves,Aves,Eudyptes sclateri,Erect-crested penguin,"Androgen receptor, partial",753.44,N,31,30.56,39.9,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF1600035.1,14636,Aves,Aves,Eudyptes chrysolophus,Macaroni penguin,"Androgen receptor, partial",753.44,N,31,30.56,39.9,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF1660980.1,13983,Aves,Aves,Aptenodytes patagonicus,King penguin,"Androgen receptor, partial",753.44,N,31,30.56,39.9,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF1453100.1,14261,Aves,Aves,Spheniscus demersus,Jackass penguin,"Androgen receptor, partial",753.44,N,31,30.56,39.9,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF1533857.1,15152,Aves,Aves,Eudyptula albosignata,White-flippered penguin,"Androgen receptor, partial",753.44,N,31,30.56,39.9,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF1395903.1,14632,Aves,Aves,Spheniscus mendiculus,Galapagos penguin,"Androgen receptor, partial",753.44,N,31,30.56,39.9,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF1629317.1,12980,Aves,Aves,Eudyptes filholi,Southern rockhopper penguin,"Androgen receptor, partial",753.44,N,31,30.56,39.9,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF1471802.1,14555,Aves,Aves,Megadyptes antipodes antipodes,Yellow-eyed penguin,"Androgen receptor, partial",753.44,N,31,30.56,39.9,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KFM13400.1,32685,Aves,Aves,Aptenodytes forsteri,Emperor penguin,"Androgen receptor, partial",753.44,N,31,30.56,39.9,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF1473077.1,14259,Aves,Aves,Pygoscelis antarcticus,Chinstrap penguin,"Androgen receptor, partial",752.67,N,31,30.56,39.86,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF1674193.1,15059,Aves,Aves,Pygoscelis papua,Gentoo penguin,"Androgen receptor, partial",752.67,N,31,30.56,39.86,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KFQ36661.1,29427,Aves,Aves,Mesitornis unicolor,Brown roatelo,"Androgen receptor, partial",752.28,N,31,30.56,39.84,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KFO72045.1,30535,Aves,Aves,Cuculus canorus,Common cuckoo,"Androgen receptor, partial",751.89,N,31,30.56,39.82,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KFV08368.1,27088,Aves,Aves,Pterocles gutturalis,Yellow-throated sandgrouse,"Androgen receptor, partial",751.89,N,31,30.56,39.82,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_010217956.1,31367,Aves,Aves,Tinamus guttatus,White-throated tinamou,PREDICTED: androgen receptor,751.51,N,31,30.56,39.8,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AME29415.1,114,Mammalia,Mammalia,Leontopithecus rosalia,Golden lion tamarin,"androgen receptor, partial",751.51,N,31,30.56,39.8,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_010570824.1,25371,Aves,Aves,Haliaeetus leucocephalus,Bald eagle,PREDICTED: androgen receptor,750.36,N,31,30.56,39.74,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_025922078.1,37668,Aves,Aves,Apteryx rowi,Okarito brown kiwi,androgen receptor,749.97,N,31,30.56,39.72,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030918538.1,20676,Aves,Aves,Geospiza fortis,Medium ground-finch,androgen receptor,749.2,N,31,30.56,39.68,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_013809075.1,22840,Aves,Aves,Apteryx mantelli mantelli,North Island brown kiwi,PREDICTED: androgen receptor,746.89,N,31,30.56,39.55,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_009675620.1,39517,Aves,Aves,Struthio camelus australis,African ostrich,PREDICTED: androgen receptor,742.65,N,31,30.56,39.33,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_031410502.1,30531,Aves,Aves,Meleagris gallopavo,Turkey,androgen receptor,739.57,N,31,30.56,39.17,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,Q7T1K4.1,30189,Amphibia,Amphibia,Lithobates catesbeianus,American bullfrog,RecName: Full=Androgen receptor; Short=bfAR; AltName: Full=Dihydrotestosterone receptor; AltName: Full=Nuclear receptor subfamily 3 group C member 4,739.18,N,31,30.56,39.15,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ETE65931.1,18686,Lepidosauria,Lepidosauria,Ophiophagus hannah,King cobra,"Androgen receptor, partial",731.87,N,31,30.56,38.76,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AME29414.1,63,Mammalia,Mammalia,Saguinus midas,Midas tamarin,"androgen receptor, partial",728.01,N,31,30.56,38.56,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AME29416.1,139,Mammalia,Mammalia,Callimico goeldii,Goeldi's marmoset,"androgen receptor, partial",728.01,N,31,30.56,38.56,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_008526172.1,38537,Mammalia,Mammalia,Equus przewalskii,Przewalski's horse,PREDICTED: androgen receptor-like,706.83,N,31,30.56,37.43,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,TRZ08387.1,22656,Aves,Aves,Zosterops borbonicus,White-eyes,"hypothetical protein HGM15179_018721, partial",698.35,N,31,30.56,36.98,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,VTJ78790.1,42055,Mammalia,Mammalia,Marmota monax,Woodchuck,Hypothetical predicted protein,677.94,N,31,30.56,35.9,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CCP19126.1,237,Coelacanthimorpha,Coelacanthimorpha,Latimeria menadoensis,Menado coelacanth,"androgen receptor, partial",672.16,N,31,30.56,35.6,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAM10999.1,137,Amphibia,Amphibia,Buergeria buergeri,Buerger's frog,"androgen receptor, partial",667.15,N,31,30.56,35.33,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_009638408.1,29746,Aves,Aves,Egretta garzetta,Little egret,PREDICTED: LOW QUALITY PROTEIN: androgen receptor,662.14,N,31,30.56,35.07,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,OXB79573.1,17219,Aves,Aves,Colinus virginianus,Northern bobwhite,hypothetical protein H355_010959,648.66,N,31,30.56,34.35,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_009502702.1,26171,Aves,Aves,Phalacrocorax carbo,Great cormorant,"PREDICTED: androgen receptor, partial",648.28,N,31,30.56,34.33,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_006632826.1,41861,Actinopteri,Actinopteri,Lepisosteus oculatus,Spotted gar,PREDICTED: androgen receptor,643.27,N,31,30.56,34.07,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_010893698.1,59380,Actinopteri,Actinopteri,Esox lucius,Northern pike,androgen receptor isoform X1,625.93,N,31,30.56,33.15,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_028671330.1,35767,Cladistia,Cladistia,Erpetoichthys calabaricus,Reedfish,androgen receptor,622.08,N,31,30.56,32.95,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_028838042.1,50097,Actinopteri,Actinopteri,Denticeps clupeoides,Denticle herring,androgen receptor-like,620.93,N,31,30.56,32.88,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_023689872.1,55295,Actinopteri,Actinopteri,Paramormyrops kingsleyae,Elephantfishes,androgen receptor-like,618.62,N,31,30.56,32.76,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_008301461.1,31742,Actinopteri,Actinopteri,Stegastes partitus,Bicolor damselfish,PREDICTED: androgen receptor-like isoform X2,615.53,N,31,30.56,32.6,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026104666.1,98570,Actinopteri,Actinopteri,Carassius auratus,Goldfish,androgen receptor-like,615.15,N,31,30.56,32.58,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,NP_001117657.1,124308,Actinopteri,Actinopteri,Oncorhynchus mykiss,Rainbow trout,androgen receptor beta,614.38,N,31,30.56,32.54,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_020319720.1,89411,Actinopteri,Actinopteri,Oncorhynchus kisutch,Coho salmon,androgen receptor-like isoform X1,614.38,N,31,30.56,32.54,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_024250063.1,73754,Actinopteri,Actinopteri,Oncorhynchus tshawytscha,Chinook salmon,androgen receptor-like isoform X1,614.38,N,31,30.56,32.54,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_029526655.1,69381,Actinopteri,Actinopteri,Oncorhynchus nerka,Sockeye salmon,androgen receptor-like isoform X1,613.99,N,31,30.56,32.52,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_029556707.1,88602,Actinopteri,Actinopteri,Salmo trutta,River trout,androgen receptor-like isoform X1,612.84,N,31,30.56,32.46,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_014052302.1,111551,Actinopteri,Actinopteri,Salmo salar,Atlantic salmon,PREDICTED: androgen receptor isoform X1,612.84,N,31,30.56,32.46,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAA83805.1,690,Actinopteri,Actinopteri,Anguilla japonica,Japanese eel,androgen receptor-beta,612.45,N,31,30.56,32.44,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CBV44425.1,802,Actinopteri,Actinopteri,Anguilla anguilla,European eel,androgene receptor beta,611.68,N,31,30.56,32.39,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_029113724.1,72410,Actinopteri,Actinopteri,Scleropages formosus,Asian bonytongue,androgen receptor,611.3,N,31,30.56,32.37,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_012678441.2,43039,Actinopteri,Actinopteri,Clupea harengus,Atlantic herring,androgen receptor,610.91,N,31,30.56,32.35,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AIQ77651.1,88734,Actinopteri,Actinopteri,Acipenser ruthenus,Sterlet,androgen receptor,610.53,N,31,30.56,32.33,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ADC35724.1,357,Actinopteri,Actinopteri,Gobiocypris rarus,Carps and others,androgen receptor,610.14,N,31,30.56,32.31,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AKP99415.1,571,Actinopteri,Actinopteri,Carassius gibelio,Silver crucian carp,androgen receptor,609.76,N,31,30.56,32.29,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_014340971.1,34488,Coelacanthimorpha,Coelacanthimorpha,Latimeria chalumnae,Coelacanth,PREDICTED: androgen receptor,609.37,N,31,30.56,32.27,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030648983.1,30134,Actinopteri,Actinopteri,Chanos chanos,Milkfish,androgen receptor,607.83,N,31,30.56,32.19,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_022067774.1,36647,Actinopteri,Actinopteri,Acanthochromis polyacanthus,Spiny chromis,androgen receptor,605.9,N,31,30.56,32.09,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_016430523.1,68581,Actinopteri,Actinopteri,Sinocyclocheilus rhinocerous,Carps and others,PREDICTED: androgen receptor-like,605.9,N,31,30.56,32.09,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ANA50341.1,5,Actinopteri,Actinopteri,Cyprinus carpio 'singuonensis',Common carp,androgen receptor,605.52,N,31,30.56,32.07,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_023153051.1,39307,Actinopteri,Actinopteri,Amphiprion ocellaris,Clown anemonefish,androgen receptor,603.98,N,31,30.56,31.99,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAU09477.1,87,Actinopteri,Actinopteri,Micropogonias undulatus,Atlantic croaker,nuclear androgen receptor,602.82,N,31,30.56,31.93,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ABW79801.1,333,Chondrichthyes,Chondrichthyes,Leucoraja erinacea,Little skate,"testicular androgen receptor, partial",602.82,N,31,30.56,31.93,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAF88138.2,332,Actinopteri,Actinopteri,Pimephales promelas,Fathead minnow,androgen receptor,602.82,N,31,30.56,31.93,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_034461725.1,47299,Actinopteri,Actinopteri,Hippoglossus hippoglossus,Atlantic halibut,androgen receptor-like isoform X6,602.82,N,31,30.56,31.93,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_028276724.1,41003,Actinopteri,Actinopteri,Parambassis ranga,Indian glassy fish,androgen receptor,602.44,N,31,30.56,31.9,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AGV29986.1,37762,Actinopteri,Actinopteri,Paralichthys olivaceus,Japanese flounder,androgen receptor beta,602.05,N,31,30.56,31.88,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AEO13404.1,54063,Actinopteri,Actinopteri,Sparus aurata,Gilthead seabream,androgen receptor,601.28,N,31,30.56,31.84,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AMQ81677.1,63,Actinopteri,Actinopteri,Luciobarbus capito,Bulatmai barbel,androgen receptor protein,600.51,N,31,30.56,31.8,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,RXN28713.1,37694,Actinopteri,Actinopteri,Labeo rohita,Rohu,androgen receptor,600.13,N,31,30.56,31.78,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,NP_001076592.1,87478,Actinopteri,Actinopteri,Danio rerio,Zebrafish,androgen receptor,600.13,N,31,30.56,31.78,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_032885987.1,38957,Chondrichthyes,Chondrichthyes,Amblyraja radiata,Thorny skate,LOW QUALITY PROTEIN: androgen receptor,599.74,N,31,30.56,31.76,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAT76433.1,2683,Actinopteri,Actinopteri,Dicentrarchus labrax,European seabass,androgen receptor,599.74,N,31,30.56,31.76,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_016358255.1,68487,Actinopteri,Actinopteri,Sinocyclocheilus anshuiensis,Carps and others,PREDICTED: androgen receptor-like,599.74,N,31,30.56,31.76,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAA33451.1,324,Actinopteri,Actinopteri,Pagrus major,Red seabream,androgen receptor,598.59,N,31,30.56,31.7,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAM48919.1,42,Actinopteri,Actinopteri,Anguilla australis,Australian shortfin eel,"androgen receptor beta, partial",598.59,N,31,30.56,31.7,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_034539180.1,38814,Actinopteri,Actinopteri,Notolabrus celidotus,New Zealand spotty,androgen receptor isoform X2,598.2,N,31,30.56,31.68,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,GCC22146.1,33620,Chondrichthyes,Chondrichthyes,Chiloscyllium punctatum,Brownbanded bambooshark,hypothetical protein,597.82,N,31,30.56,31.66,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026227849.1,40551,Actinopteri,Actinopteri,Anabas testudineus,Climbing perch,androgen receptor,597.82,N,31,30.56,31.66,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,NP_001290296.1,94424,Actinopteri,Actinopteri,Larimichthys crocea,Large yellow croaker,androgen receptor,597.04,N,31,30.56,31.62,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_031610595.1,34822,Actinopteri,Actinopteri,Oreochromis aureus,Blue tilapia,androgen receptor isoform X1,596.66,N,31,30.56,31.6,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_004557452.2,46436,Actinopteri,Actinopteri,Maylandia zebra,Zebra mbuna,androgen receptor,596.27,N,31,30.56,31.58,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_020789247.1,25367,Actinopteri,Actinopteri,Boleophthalmus pectinirostris,Great blue-spotted mudskipper,androgen receptor-like,596.27,N,31,30.56,31.58,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ADI24924.1,54,Actinopteri,Actinopteri,Pseudolabrus sieboldi,Bambooleaf wrasse,androgen receptor,596.27,N,31,30.56,31.58,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,TKS83515.1,28544,Actinopteri,Actinopteri,Collichthys lucidus,Big head croaker,Androgen receptor,595.5,N,31,30.56,31.54,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAI58984.1,47277,Actinopteri,Actinopteri,Oryzias latipes,Japanese medaka,androgen receptor beta subtype,594.73,N,31,30.56,31.5,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AYM51328.1,49247,Actinopteri,Actinopteri,Betta splendens,Siamese fighting fish,androgen receptor ARb,594.73,N,31,30.56,31.5,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_015816533.1,37068,Actinopteri,Actinopteri,Nothobranchius furzeri,Turquoise killifish,PREDICTED: androgen receptor,593.96,N,31,30.56,31.46,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_034034639.1,36362,Actinopteri,Actinopteri,Thalassophryne amazonica,Poison toadfishes,androgen receptor-like isoform X1,593.58,N,31,30.56,31.44,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_031175918.1,47978,Actinopteri,Actinopteri,Sander lucioperca,Pike-perch,androgen receptor-like isoform X2,593.58,N,31,30.56,31.44,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030601688.1,41124,Actinopteri,Actinopteri,Archocentrus centrarchus,Flier cichlid,androgen receptor-like,593.19,N,31,30.56,31.42,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_032389182.1,64529,Actinopteri,Actinopteri,Etheostoma spectabile,Orangethroat darter,androgen receptor-like isoform X2,593.19,N,31,30.56,31.42,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_025766635.1,63355,Actinopteri,Actinopteri,Oreochromis niloticus,Nile tilapia,androgen receptor-like,592.81,N,31,30.56,31.39,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAO83572.1,2292,Actinopteri,Actinopteri,Gasterosteus aculeatus,Three-spined stickleback,"androgen receptor beta 2, partial",592.81,N,31,30.56,31.39,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AWT24623.1,348,Dipnoi,Dipnoi,Protopterus annectens,West African lungfish,AR,592.81,N,31,30.56,31.39,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,QIA46600.1,88,Actinopteri,Actinopteri,Oryzias curvinotus,Medakas,androgen receptor beta,592.42,N,31,30.56,31.37,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_031712793.1,41910,Actinopteri,Actinopteri,Anarrhichthys ocellatus,Wolf-eel,androgen receptor-like,592.04,N,31,30.56,31.35,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_018547304.1,45606,Actinopteri,Actinopteri,Lates calcarifer,Barramundi perch,PREDICTED: androgen receptor-like,591.65,N,31,30.56,31.33,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_028451343.1,65046,Actinopteri,Actinopteri,Perca flavescens,Yellow perch,androgen receptor-like isoform X2,591.65,N,31,30.56,31.33,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_033834092.1,27064,Actinopteri,Actinopteri,Periophthalmus magnuspinnatus,Gobies,androgen receptor isoform X1,591.65,N,31,30.56,31.33,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_017315035.1,51421,Actinopteri,Actinopteri,Ictalurus punctatus,Channel catfish,PREDICTED: androgen receptor,591.65,N,31,30.56,31.33,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_024118528.1,42773,Actinopteri,Actinopteri,Oryzias melastigma,Indian medaka,androgen receptor-like isoform X2,591.27,N,31,30.56,31.31,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_022601703.1,32874,Actinopteri,Actinopteri,Seriola dumerili,Greater amberjack,androgen receptor-like isoform X2,591.27,N,31,30.56,31.31,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAI49424.1,6,Actinopteri,Actinopteri,Acipenser ruthenus x Huso huso,Bester,androgen receptor,591.27,N,31,30.56,31.31,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_034407052.1,38023,Actinopteri,Actinopteri,Cyclopterus lumpus,Lumpfish,androgen receptor-like isoform X1,591.27,N,31,30.56,31.31,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,QAV54758.1,254,Actinopteri,Actinopteri,Bostrychus sinensis,Four-eyed sleeper,androgen receptor beta,589.73,N,31,30.56,31.23,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAO61694.1,282,Actinopteri,Actinopteri,Acanthopagrus schlegelii,Black porgy,androgen receptor,589.73,N,31,30.56,31.23,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_023266520.1,38822,Actinopteri,Actinopteri,Seriola lalandi dorsalis,Yellowtail amberjack,androgen receptor,589.73,N,31,30.56,31.23,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAI50383.1,77,Lepidosauria,Lepidosauria,Leiolepis reevesii rubritaeniata,Reeves' butterfly lizard,"androgen receptor, partial",589.73,N,31,30.56,31.23,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAD52084.1,19596,Actinopteri,Actinopteri,Gambusia affinis,Western mosquitofish,androgen receptor,589.34,N,31,30.56,31.21,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_014822347.1,47806,Actinopteri,Actinopteri,Poecilia mexicana,Shortfin molly,PREDICTED: androgen receptor-like,589.34,N,31,30.56,31.21,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_027887592.1,47114,Actinopteri,Actinopteri,Xiphophorus couchianus,Monterrey platyfish,androgen receptor-like,589.34,N,31,30.56,31.21,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AKJ74870.1,49655,Actinopteri,Actinopteri,Poecilia formosa,Amazon molly,androgen receptor beta,589.34,N,31,30.56,31.21,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_012720156.1,38839,Actinopteri,Actinopteri,Fundulus heteroclitus,Mummichog,androgen receptor-like,589.34,N,31,30.56,31.21,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_014901310.1,47231,Actinopteri,Actinopteri,Poecilia latipinna,Sailfin molly,PREDICTED: androgen receptor-like,588.96,N,31,30.56,31.19,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_005806705.1,43733,Actinopteri,Actinopteri,Xiphophorus maculatus,Southern platyfish,androgen receptor,588.96,N,31,30.56,31.19,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF4073461.1,24479,Actinopteri,Actinopteri,Ameiurus melas,Black bullhead,"hypothetical protein AMELA_G00258820, partial",588.57,N,31,30.56,31.17,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030217061.1,46937,Actinopteri,Actinopteri,Gadus morhua,Atlantic cod,androgen receptor-like,588.19,N,31,30.56,31.15,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,RVE63645.1,21529,Actinopteri,Actinopteri,Oryzias javanicus,Javanese ricefish,hypothetical protein OJAV_G00138350,588.19,N,31,30.56,31.15,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AIZ00467.1,24,Actinopteri,Actinopteri,Melanotaenia fluviatilis,Murray River rainbowfish,androgen receptor beta,588.19,N,31,30.56,31.15,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_032432731.1,46432,Actinopteri,Actinopteri,Xiphophorus hellerii,Green swordtail,androgen receptor-like,588.19,N,31,30.56,31.15,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_008425737.1,45397,Actinopteri,Actinopteri,Poecilia reticulata,Guppy,PREDICTED: androgen receptor-like isoform X1,588.19,N,31,30.56,31.15,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ADQ43815.1,1758,Actinopteri,Actinopteri,Epinephelus coioides,Orange-spotted grouper,androgen receptor,587.8,N,31,30.56,31.13,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_029132506.1,36730,Actinopteri,Actinopteri,Labrus bergylta,Ballan wrasse,androgen receptor-like,587.8,N,31,30.56,31.13,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_033465903.1,43071,Actinopteri,Actinopteri,Epinephelus lanceolatus,Giant grouper,androgen receptor-like,587.8,N,31,30.56,31.13,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026184784.1,42444,Actinopteri,Actinopteri,Mastacembelus armatus,Zig-zag eel,androgen receptor-like,587.03,N,31,30.56,31.09,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_024866192.1,43259,Actinopteri,Actinopteri,Kryptolebias marmoratus,Mangrove rivulus,androgen receptor-like isoform X1,586.64,N,31,30.56,31.07,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_015239533.1,36660,Actinopteri,Actinopteri,Cyprinodon variegatus,Sheepshead minnow,PREDICTED: androgen receptor-like,585.87,N,31,30.56,31.03,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF1378774.1,24537,Actinopteri,Actinopteri,Perca fluviatilis,European perch,hypothetical protein PFLUV_G00193990,585.49,N,31,30.56,31.01,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AGN52747.1,250,Actinopteri,Actinopteri,Acipenser schrenckii,Amur sturgeon,androgen receptor,585.1,N,31,30.56,30.99,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_029956536.1,39283,Actinopteri,Actinopteri,Salarias fasciatus,Jewelled blenny,androgen receptor-like,585.1,N,31,30.56,30.99,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAZ14095.3,79,Actinopteri,Actinopteri,Porichthys notatus,Plainfin midshipman,"androgen receptor beta, partial",585.1,N,31,30.56,30.99,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_005737903.1,38742,Actinopteri,Actinopteri,Pundamilia nyererei,Cichlids,PREDICTED: androgen receptor,584.72,N,31,30.56,30.97,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_034082531.1,45845,Actinopteri,Actinopteri,Gymnodraco acuticeps,Antarctic dragonfishes,LOW QUALITY PROTEIN: androgen receptor-like,583.95,N,31,30.56,30.93,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_006799593.1,31419,Actinopteri,Actinopteri,Neolamprologus brichardi,Lyretail cichlid,PREDICTED: androgen receptor-like,583.56,N,31,30.56,30.91,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_028321907.1,43562,Actinopteri,Actinopteri,Gouania willdenowi,Blunt-snouted clingfish,androgen receptor-like isoform X1,583.56,N,31,30.56,30.91,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_033969271.1,41268,Actinopteri,Actinopteri,Trematomus bernacchii,Emerald rockcod,androgen receptor isoform X2,583.18,N,31,30.56,30.88,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,RLW02513.1,19058,Aves,Aves,Erythrura gouldiae,Gouldian finch,hypothetical protein DV515_00007180,583.18,N,31,30.56,30.88,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_033954632.1,37990,Actinopteri,Actinopteri,Pseudochaenichthys georgianus,South Georgia icefish,androgen receptor,581.25,N,31,30.56,30.78,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_029303737.1,37868,Actinopteri,Actinopteri,Cottoperca gobio,Thornfishes,androgen receptor isoform X2,580.87,N,31,30.56,30.76,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KFO53781.1,43283,Aves,Aves,Corvus brachyrhynchos,American crow,"Androgen receptor, partial",580.48,N,31,30.56,30.74,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ACP18860.2,40888,Actinopteri,Actinopteri,Monopterus albus,Swamp eel,androgen receptor long form,580.48,N,31,30.56,30.74,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAG48340.1,80,Actinopteri,Actinopteri,Halichoeres trimaculatus,Threespot wrasse,"androgen receptor, partial",580.1,N,31,30.56,30.72,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_011609787.2,49042,Actinopteri,Actinopteri,Takifugu rubripes,Torafugu,androgen receptor-like isoform X2,579.33,N,31,30.56,30.68,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_022540802.1,42865,Actinopteri,Actinopteri,Astyanax mexicanus,Mexican tetra,androgen receptor,578.94,N,31,30.56,30.66,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_013862230.1,35358,Actinopteri,Actinopteri,Austrofundulus limnaeus,New World rivulines,PREDICTED: androgen receptor,578.17,N,31,30.56,30.62,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_009073792.1,28124,Aves,Aves,Acanthisitta chloris,Rifleman,PREDICTED: androgen receptor,577.4,N,31,30.56,30.58,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_008331219.2,39993,Actinopteri,Actinopteri,Cynoglossus semilaevis,Tongue sole,androgen receptor,577.4,N,31,30.56,30.58,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AFQ62062.1,357,Amphibia,Amphibia,Rana sylvatica,Wood frog,"androgen receptor, partial",577.01,N,31,30.56,30.56,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ALU58281.1,47806,Actinopteri,Actinopteri,Tachysurus fulvidraco,Yellow catfish,"androgen receptor, partial",576.63,N,31,30.56,30.54,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ADD52201.1,333,Actinopteri,Actinopteri,Rutilus rutilus,Roach minnow,"androgen receptor, partial",576.24,N,31,30.56,30.52,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF3705889.1,22726,Actinopteri,Actinopteri,Channa argus,Northern snakehead,Androgen receptor Dihydrotestosterone receptor Nuclear receptor subfamily 3 group C member 4,574.7,N,31,30.56,30.44,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_034156502.1,66299,Actinopteri,Actinopteri,Pangasianodon hypophthalmus,Striped catfish,LOW QUALITY PROTEIN: androgen receptor,574.7,N,31,30.56,30.44,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,POI27812.1,18020,Aves,Aves,Bambusicola thoracicus,Chinese bamboo-partridge,"hypothetical protein CIB84_008438, partial",570.85,N,31,30.56,30.23,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_029375954.1,38275,Actinopteri,Actinopteri,Echeneis naucrates,Live sharksucker,androgen receptor,570.47,N,31,30.56,30.21,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AWP00295.1,53722,Actinopteri,Actinopteri,Scophthalmus maximus,Turbot,Androgen receptor,569.31,N,31,30.56,30.15,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CAG02975.1,28632,Actinopteri,Actinopteri,Tetraodon nigroviridis,Spotted green pufferfish,"unnamed protein product, partial",566.23,N,31,30.56,29.99,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AGL91133.1,320,Actinopteri,Actinopteri,Lateolabrax japonicus,Japanese seabass,"nuclear androgen receptor, partial",554.29,N,31,30.56,29.35,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_019719865.1,42020,Actinopteri,Actinopteri,Hippocampus comes,Tiger tail seahorse,PREDICTED: androgen receptor-like,547.35,N,31,30.56,28.99,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_007892483.1,32969,Chondrichthyes,Chondrichthyes,Callorhinchus milii,Elephant shark,PREDICTED: androgen receptor isoform X2,546.97,N,31,30.56,28.97,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ABY59993.1,328,Amphibia,Amphibia,Rana pipiens,Northern leopard frog,"androgen receptor, partial",532.72,N,31,30.56,28.21,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ALN70155.1,257,Dipnoi,Dipnoi,Neoceratodus forsteri,Australian lungfish,"androgen receptor, partial",503.44,N,31,30.56,26.66,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAI58986.1,119,Actinopteri,Actinopteri,Osteoglossum bicirrhosum,Silver arawana,"androgen receptor beta, partial",491.12,N,31,30.56,26.01,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,GCB67008.1,27742,Chondrichthyes,Chondrichthyes,Scyliorhinus torazame,Cloudy catshark,hypothetical protein,479.94,N,31,30.56,25.42,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAI58985.1,167,Cladistia,Cladistia,Polypterus senegalus,Gray bichir,"androgen receptor, partial",479.56,N,31,30.56,25.4,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_017568858.1,44448,Actinopteri,Actinopteri,Pygocentrus nattereri,Red-bellied piranha,PREDICTED: androgen receptor-like isoform X2,475.32,N,31,30.56,25.17,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAY41828.1,17,Aves,Aves,Streptopelia risoria,Ringneck dove,"androgen receptor, partial",475.32,N,31,30.56,25.17,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_020022192.1,37572,Mammalia,Mammalia,Castor canadensis,American beaver,progesterone receptor isoform X1,464.15,N,31,30.56,24.58,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,A7X8B9.1,1611,Mammalia,Mammalia,Pongo pygmaeus,Bornean orangutan,RecName: Full=Progesterone receptor; Short=PR; AltName: Full=Nuclear receptor subfamily 3 group C member 3,464.15,N,31,30.56,24.58,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,A7X8C2.1,556,Mammalia,Mammalia,Hylobates lar,Common gibbon,RecName: Full=Progesterone receptor; Short=PR; AltName: Full=Nuclear receptor subfamily 3 group C member 3,463.77,N,31,30.56,24.56,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,A7X8C4.1,126,Mammalia,Mammalia,Macaca sylvanus,Barbary ape,RecName: Full=Progesterone receptor; Short=PR; AltName: Full=Nuclear receptor subfamily 3 group C member 3,463.38,N,31,30.56,24.54,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ABB72142.1,1692,Mammalia,Mammalia,Gorilla gorilla,Western gorilla,progesterone receptor,463.38,N,31,30.56,24.54,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,A7X8C9.1,944,Mammalia,Mammalia,Chlorocebus aethiops,Grivet,RecName: Full=Progesterone receptor; Short=PR; AltName: Full=Nuclear receptor subfamily 3 group C member 3,462.61,N,31,30.56,24.5,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ASA40269.1,240,Actinopteri,Actinopteri,Channa punctata,Spotted snakehead,"androgen receptor beta, partial",461.84,N,31,30.56,24.46,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,A7X8D2.1,354,Mammalia,Mammalia,Colobus guereza,Mantled guereza,RecName: Full=Progesterone receptor; Short=PR; AltName: Full=Nuclear receptor subfamily 3 group C member 3,461.07,N,31,30.56,24.42,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_010846533.1,35574,Mammalia,Mammalia,Bison bison bison,American bison,PREDICTED: progesterone receptor,460.3,N,31,30.56,24.38,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_032811371.1,40468,Hyperoartia,Hyperoartia,Petromyzon marinus,Sea lamprey,mineralocorticoid receptor isoform X2,460.3,N,31,30.56,24.38,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,A7X8D4.1,85,Mammalia,Mammalia,Trachypithecus obscurus,Dusky leaf-monkey,RecName: Full=Progesterone receptor; Short=PR; AltName: Full=Nuclear receptor subfamily 3 group C member 3,459.14,N,31,30.56,24.32,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AIN41695.1,426,Actinopteri,Actinopteri,Solea senegalensis,Senegalese sole,"androgen receptor alpha, partial",458.37,N,31,30.56,24.28,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,OPJ68627.1,24828,Aves,Aves,Patagioenas fasciata monilis,Band-tailed pigeon,progesterone receptor,457.22,N,31,30.56,24.21,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_010333012.1,36294,Mammalia,Mammalia,Saimiri boliviensis boliviensis,Bolivian squirrel monkey,PREDICTED: progesterone receptor,456.06,N,31,30.56,24.15,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,TNM98841.1,20156,Actinopteri,Actinopteri,Takifugu bimaculatus,Puffers,hypothetical protein fugu_013405,455.68,N,31,30.56,24.13,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,Q8AYI2.1,221,Amphibia,Amphibia,Rana dybowskii,Riparian frogs,RecName: Full=Progesterone receptor; Short=PR; AltName: Full=Nuclear receptor subfamily 3 group C member 3; AltName: Full=dyPR,455.68,N,31,30.56,24.13,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,A7XW20.1,18,Mammalia,Mammalia,Pithecia irrorata,Bald-faced saki,RecName: Full=Progesterone receptor; Short=PR; AltName: Full=Nuclear receptor subfamily 3 group C member 3,454.14,N,31,30.56,24.05,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,PKU45950.1,23022,Aves,Aves,Limosa lapponica baueri,Bar-tailed godwit,progesterone receptor,453.37,N,31,30.56,24.01,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF1395716.1,15371,Aves,Aves,Spheniscus humboldti,Humboldt's penguin,"Progesterone receptor, partial",452.98,N,31,30.56,23.99,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF1567971.1,15573,Aves,Aves,Eudyptes robustus,Snares penguin,"Progesterone receptor, partial",452.21,N,31,30.56,23.95,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF1569999.1,15781,Aves,Aves,Eudyptes schlegeli,Royal penguin,"Progesterone receptor, partial",452.21,N,31,30.56,23.95,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF3838057.1,29423,Actinopteri,Actinopteri,Dissostichus mawsoni,Antarctic toothfish,hypothetical protein F7725_009825,451.44,N,31,30.56,23.91,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_008936915.1,26799,Aves,Aves,Merops nubicus,Carmine bee-eater,"PREDICTED: progesterone receptor, partial",451.06,N,31,30.56,23.89,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_010151496.1,27328,Aves,Aves,Eurypyga helias,Sunbittern,"PREDICTED: progesterone receptor, partial",451.06,N,31,30.56,23.89,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KFV13273.1,28596,Aves,Aves,Tauraco erythrolophus,Red-crested turaco,"Progesterone receptor, partial",449.9,N,31,30.56,23.83,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,A7XW25.1,64,Mammalia,Mammalia,Ateles paniscus,Black spider monkey,RecName: Full=Progesterone receptor; Short=PR; AltName: Full=Nuclear receptor subfamily 3 group C member 3,449.13,N,31,30.56,23.79,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_010202267.1,26938,Aves,Aves,Colius striatus,Speckled mousebird,"PREDICTED: androgen receptor, partial",449.13,N,31,30.56,23.79,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ABD46743.1,158,Myxini,Myxini,Myxine glutinosa,Atlantic hagfish,steroid receptor 2,448.74,N,31,30.56,23.77,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,TNN47793.1,68294,Actinopteri,Actinopteri,Liparis tanakae,Tanaka's snailfish,Androgen receptor,446.05,N,31,30.56,23.62,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ATO92585.1,94,Lepidosauria,Lepidosauria,Hemidactylus flaviviridis,Geckos,"progesterone receptor, partial",444.12,N,31,30.56,23.52,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ACJ45777.2,66,Lepidosauria,Lepidosauria,Aspidoscelis inornatus,Little striped whiptail,progesterone receptor,437.19,N,31,30.56,23.15,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026865875.1,37845,Actinopteri,Actinopteri,Electrophorus electricus,Electric eel,progesterone receptor,436.03,N,31,30.56,23.09,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CAB1324957.1,41735,Actinopteri,Actinopteri,Coregonus sp. 'balchen',Whitefishes,unnamed protein product,432.95,N,31,30.56,22.93,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,GCF49430.1,26796,Lepidosauria,Lepidosauria,Paroedura picta,Geckos,hypothetical protein parPi_0010087,430.25,N,31,30.56,22.79,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KTG39971.1,116951,Actinopteri,Actinopteri,Cyprinus carpio,Common carp,hypothetical protein cypCar_00004750,429.1,N,31,30.56,22.72,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ROJ25342.1,23904,Actinopteri,Actinopteri,Anabarilius grahami,Carps and others,Progesterone receptor,427.56,N,31,30.56,22.64,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AWX94614.1,231,Actinopteri,Actinopteri,Culter alburnus,Topmouth culter,progesterone receptor,427.56,N,31,30.56,22.64,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_020370084.1,27961,Chondrichthyes,Chondrichthyes,Rhincodon typus,Whale shark,glucocorticoid receptor,418.7,N,31,30.56,22.17,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAV17691.1,94,Actinopteri,Actinopteri,Atractosteus tropicus,Tropical gar,mineralocorticoid receptor,418.31,N,31,30.56,22.15,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,TRY93834.1,35332,Actinopteri,Actinopteri,Danionella translucida,Carps and others,hypothetical protein DNTS_023757,416.39,N,31,30.56,22.05,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_010789352.1,32357,Actinopteri,Actinopteri,Notothenia coriiceps,Black rockcod,PREDICTED: progesterone receptor isoform X2,416,N,31,30.56,22.03,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AXS75746.1,258,Actinopteri,Actinopteri,Rhamdia quelen,Silver catfish,mineralocorticoid receptor,415.23,N,31,30.56,21.99,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAK01303.1,448,Mammalia,Mammalia,Saimiri sciureus,Common squirrel monkey,glucocorticoid receptor,409.45,N,31,30.56,21.68,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAB81722.1,249,Crocodylia,Crocodylia,Crocodylus siamensis,Siamese crocodile,"progesterone receptor protein homolog, partial",409.45,N,31,30.56,21.68,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,P79269.1,467,Mammalia,Mammalia,Saguinus oedipus,Cotton-top tamarin,RecName: Full=Glucocorticoid receptor; Short=GR; AltName: Full=Nuclear receptor subfamily 3 group C member 1,408.3,N,31,30.56,21.62,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AFK14016.1,179,Actinopteri,Actinopteri,Pantodon buchholzi,Freshwater butterflyfish,glucocorticoid receptor 2b,407.91,N,31,30.56,21.6,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AHX24114.1,236,Aves,Aves,Passer montanus,Eurasian tree sparrow,glucocorticoid receptor,407.14,N,31,30.56,21.56,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,Q95267.1,372,Mammalia,Mammalia,Tupaia belangeri,Northern tree shrew,RecName: Full=Glucocorticoid receptor; Short=GR; AltName: Full=Nuclear receptor subfamily 3 group C member 1,402.52,N,31,30.56,21.32,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ADZ24980.1,139,Actinopteri,Actinopteri,Oryzias dancena,Mundakanni,glucocorticoid receptor 2,401.75,N,31,30.56,21.28,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAN57324.1,531,Actinopteri,Actinopteri,Oreochromis mossambicus,Mozambique tilapia,glucocorticoid receptor isoform 1,401.36,N,31,30.56,21.26,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KFP65701.1,27846,Aves,Aves,Cariama cristata,Red-legged seriema,Glucocorticoid receptor,400.21,N,31,30.56,21.19,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ADE06402.1,50,Actinopteri,Actinopteri,Tautogolabrus adspersus,Cunner,glucocorticoid receptor,399.05,N,31,30.56,21.13,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAJ61740.1,524,Amphibia,Amphibia,Cynops pyrrhogaster,Japanese firebelly newt,glucocorticoid receptor,399.05,N,31,30.56,21.13,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ADX07108.1,164,Actinopteri,Actinopteri,Odontesthes bonariensis,Pejerrey,"glucocorticoid receptor 1, partial",398.67,N,31,30.56,21.11,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KFP48421.1,11453,Aves,Aves,Cathartes aura,Turkey vulture,Glucocorticoid receptor,398.28,N,31,30.56,21.09,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AJO68025.1,226,Actinopteri,Actinopteri,Coilia nasus,Japanese grenadier anchovy,glucocorticoid receptor,397.51,N,31,30.56,21.05,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,QBS13820.1,336,Actinopteri,Actinopteri,Plecoglossus altivelis,Ayu,glucocorticoid receptor,396.36,N,31,30.56,20.99,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CEP28034.1,52,Actinopteri,Actinopteri,Coregonus maraena,Maraena whitefish,"nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)",394.43,N,31,30.56,20.89,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AFV36364.1,24,Actinopteri,Actinopteri,Thamnaconus septentrionalis,Pufferfishes and others,"androgen receptor, partial",394.43,N,31,30.56,20.89,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AEX56589.1,314,Actinopteri,Actinopteri,Platichthys flesus,European flounder,"glucocorticoid receptor 2, partial",393.27,N,31,30.56,20.83,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AJA37727.1,10,Aves,Aves,Turnix suscitator,Barred buttonquail,"androgen receptor, partial",393.27,N,31,30.56,20.83,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ABF20060.1,55,Aves,Aves,Centropus grillii,Cuckoos and others,"androgen receptor, partial",391.35,N,31,30.56,20.73,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ALV13263.1,80,Aves,Aves,Emberiza bruniceps,Red-headed bunting,"androgen receptor, partial",390.19,N,31,30.56,20.66,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KQK83628.1,16224,Aves,Aves,Amazona aestiva,Blue-fronted amazon,mineralocorticoid receptor isoform X1,389.04,N,31,30.56,20.6,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ADI48099.1,200,Actinopteri,Actinopteri,Sciaenops ocellatus,Red drum,glucocorticoid hormone receptor a long isoform,387.11,N,31,30.56,20.5,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,TTD47737.1,17264,Actinopteri,Actinopteri,Bagarius yarrelli,Goonch,Mineralocorticoid receptor,381.72,N,31,30.56,20.22,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AIN76810.1,173,Actinopteri,Actinopteri,Hippocampus abdominalis,Big-belly seahorse,glucocorticoid receptor,381.33,N,31,30.56,20.2,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KFZ57396.1,11722,Aves,Aves,Podiceps cristatus,Great crested grebe,"Mineralocorticoid receptor, partial",379.41,N,31,30.56,20.09,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAB35740.2,17,Lepidosauria,Lepidosauria,Aspidoscelis uniparens,Whiptails,"progesterone receptor, partial",374.01,N,31,30.56,19.81,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ADC42119.1,78,Actinopteri,Actinopteri,Cirrhinus molitorella,Mud carp,"androgen receptor protein, partial",358.99,N,31,30.56,19.01,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ABS11148.1,95,Actinopteri,Actinopteri,Neolamprologus pulcher,Cichlids,"mineralocorticoid receptor, partial",357.07,N,31,30.56,18.91,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AWY62802.1,216,Actinopteri,Actinopteri,Acipenser sinensis,Chinese sturgeon,"androgen receptor, partial",351.67,N,31,30.56,18.62,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,QEP28949.1,498,Actinopteri,Actinopteri,Oncorhynchus keta,Chum salmon,"glucocorticoid receptor 2a, partial",350.9,N,31,30.56,18.58,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ANJ46840.1,309,Actinopteri,Actinopteri,Rachycentron canadum,Cobia,"androgen receptor, partial",343.97,N,31,30.56,18.22,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AVA10037.1,566,Amphibia,Amphibia,Pelophylax nigromaculatus,Dark-spotted frog,"androgen receptor, partial",343.58,N,31,30.56,18.2,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ASU91839.1,149,Actinopteri,Actinopteri,Tribolodon brandtii,Pacific redfin,"androgen receptor, partial",334.72,N,31,30.56,17.73,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ACR43485.1,145,Actinopteri,Actinopteri,Takifugu obscurus,Mefugu,"mineralocorticoid receptor, partial",333.57,N,31,30.56,17.67,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AEA77170.1,79,Actinopteri,Actinopteri,Opsanus beta,Gulf toadfish,"beta glucocorticoid receptor, partial",317.39,N,31,30.56,16.81,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AQM55159.1,180,Lepidosauria,Lepidosauria,Eremias argus,Split-tongued squamates,"androgen receptor, partial",314.69,N,31,30.56,16.67,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ACF75917.1,40,Actinopteri,Actinopteri,Salmo marmoratus,"Trouts, salmons & chars","glucocorticoid receptor, partial",298.52,N,31,30.56,15.81,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AEF12277.1,712,Chondrichthyes,Chondrichthyes,Scyliorhinus canicula,Smaller spotted catshark,"glucocorticoid receptor, partial",290.43,N,31,30.56,15.38,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AEF12278.1,33,Chondrichthyes,Chondrichthyes,Hypanus sabinus,Atlantic stingray,"glucocorticoid receptor, partial",284.65,N,31,30.56,15.07,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AZU89677.1,106,Mammalia,Mammalia,Odobenus rosmarus,Walrus,"nuclear receptor subfamily 3 group C member 1, partial",284.26,N,31,30.56,15.05,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AEF12275.1,20,Chondrichthyes,Chondrichthyes,Rhizoprionodon terraenovae,Atlantic sharpnose shark,"glucocorticoid receptor, partial",278.1,N,31,30.56,14.73,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CAJ29885.1,69,Mammalia,Mammalia,Sminthopsis macroura,Stripe-faced dunnart,"putative glucocorticoid receptor, partial",246.13,N,31,30.56,13.03,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,MBV96764.1,11098,Mammalia,Mammalia,Eschrichtius robustus,Grey whale,Progesterone receptor,204.53,N,31,30.56,10.83,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ADC79403.1,604,Aves,Aves,Passer domesticus,House sparrow,"mineralocorticoid receptor, partial",196.82,N,31,30.56,10.42,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_006824830.1,22970,Enteropneusta,Enteropneusta,Saccoglossus kowalevskii,Acorn worms,PREDICTED: estrogen receptor-like isoform X2,177.18,N,31,30.56,9.38,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,QAA78762.1,372,Aves,Aves,Anser cygnoides,Swan goose,"estrogen receptor 1, partial",175.64,N,31,30.56,9.3,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAH01723.1,53,Aves,Aves,Gyps africanus,White-backed vulture,estrogen receptor alpha,175.25,N,31,30.56,9.28,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ACF28457.1,124,Testudines,Testudines,Lepidochelys olivacea,Pacific ridley,estrogen receptor alpha,174.87,N,31,30.56,9.26,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAM48573.1,876,Hyperoartia,Hyperoartia,Lethenteron camtschaticum,Arctic lamprey,estrogen receptor 1,174.87,N,31,30.56,9.26,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAH01724.1,16,Aves,Aves,Torgos tracheliotos,Lappet-faced vulture,estrogen receptor alpha,174.87,N,31,30.56,9.26,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AID55019.1,18,Aves,Aves,Gymnogyps californianus,California condor,estrogen receptor 1,174.48,N,31,30.56,9.24,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAJ05031.1,17,Amphibia,Amphibia,Sclerophrys capensis,Raucous toad,estrogen receptor alpha,174.1,N,31,30.56,9.22,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAG82648.1,139,Dipnoi,Dipnoi,Protopterus dolloi,Slender lungfish,estrogen receptor alpha,173.71,N,31,30.56,9.2,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ART92267.1,128,Testudines,Testudines,Malaclemys terrapin,Diamondback terrapin,estrogen receptor 1,173.71,N,31,30.56,9.2,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAB79436.1,195,Crocodylia,Crocodylia,Caiman crocodilus,Spectacled caiman,estrogen receptor,173.33,N,31,30.56,9.18,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AEY83591.1,96,Mammalia,Mammalia,Rhinoceros unicornis,Greater Indian rhinoceros,estrogen receptor alpha,172.94,N,31,30.56,9.16,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAE45626.1,246,Crocodylia,Crocodylia,Crocodylus niloticus,Nile crocodile,estrogen receptor alpha,172.94,N,31,30.56,9.16,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,NP_001269175.1,213,Testudines,Testudines,Chrysemys picta,Painted turtle,estrogen receptor,172.56,N,31,30.56,9.14,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AFK26306.1,218,Bivalvia,Bivalvia,Crassostrea angulata,Portugese oyster,estrogen receptor,172.56,N,31,30.56,9.14,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAJ05029.1,592,Amphibia,Amphibia,Ambystoma mexicanum,Axolotl,estrogen receptor alpha,172.56,N,31,30.56,9.14,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAF45381.1,63743,Bivalvia,Bivalvia,Crassostrea gigas,Pacific oyster,estrogen receptor,172.17,N,31,30.56,9.12,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAJ05027.1,150,Amphibia,Amphibia,Hynobius tokyoensis,Tokyo salamander,estrogen receptor alpha,172.17,N,31,30.56,9.12,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AUW64608.1,1064,Amphibia,Amphibia,Andrias davidianus,Chinese giant salamander,estrogen receptor alpha,171.4,N,31,30.56,9.08,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAF30926.1,54,Amphibia,Amphibia,Andrias japonicus,Japanese giant salamander,estrogen receptor alpha,171.4,N,31,30.56,9.08,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ABW24738.1,307,Amphibia,Amphibia,Pleurodeles waltl,Iberian ribbed newt,estrogen receptor alpha,171.4,N,31,30.56,9.08,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ANC90315.1,31,Bivalvia,Bivalvia,Saccostrea glomerata,Sydney rock oyster,estrogen receptor,171.01,N,31,30.56,9.06,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_022331059.1,60512,Bivalvia,Bivalvia,Crassostrea virginica,Eastern oyster,LOW QUALITY PROTEIN: estrogen receptor beta-like,171.01,N,31,30.56,9.06,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ALF04772.1,642,Myxini,Myxini,Eptatretus burgeri,Inshore hagfish,estrogen receptor 1,170.63,N,31,30.56,9.04,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAU36956.1,37,Lepidosauria,Lepidosauria,Bradypodion pumilum,Iguanian lizards,estrogen receptor alpha,170.63,N,31,30.56,9.04,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,APL97835.1,507,Mammalia,Mammalia,Castor fiber,Eurasian beaver,estrogen receptor 1,169.09,N,31,30.56,8.95,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAA25900.1,2,Actinopteri,Actinopteri,Oryzias sp.,Medakas,estrogen receptor,168.32,N,31,30.56,8.91,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CAC37560.1,357,Actinopteri,Actinopteri,Clarias gariepinus,North African catfish,estrogen receptor alpha,168.32,N,31,30.56,8.91,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,PSN48477.1,30150,Insecta,Insecta,Blattella germanica,German cockroach,Estrogen-related receptor gamma,168.32,N,31,30.56,8.91,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAF34908.2,5076,Bivalvia,Bivalvia,Mytilus galloprovincialis,Mediterranean mussel,"estrogen receptor, partial",167.93,N,31,30.56,8.89,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ACN39246.2,176,Actinopteri,Actinopteri,Sebastes schlegelii,Schlegel's black rockfish,estrogen receptor alpha,167.93,N,31,30.56,8.89,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAF34366.2,966,Bivalvia,Bivalvia,Mytilus edulis,Blue mussel,estrogen receptor,167.93,N,31,30.56,8.89,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAP72178.1,53,Actinopteri,Actinopteri,Halichoeres tenuispinis,Chinese wrasse,estrogen receptor alpha,167.16,N,31,30.56,8.85,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_023711770.1,59780,Insecta,Insecta,Cryptotermes secundus,Powder-post termites,steroid hormone receptor ERR1 isoform X2,167.16,N,31,30.56,8.85,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AHM88214.1,996,Mammalia,Mammalia,Bos grunniens,Domestic yak,estrogen receptor 1,167.16,N,31,30.56,8.85,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CAD32175.1,70,Actinopteri,Actinopteri,Candidia barbata,Lake Candidus dace,putative estrogen receptor alpha,166.39,N,31,30.56,8.81,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ABQ96884.1,65,Gastropoda,Gastropoda,Nucella lapillus,Mesogastropoda,estrogen receptor,166.39,N,31,30.56,8.81,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ABB96483.1,9,Actinopteri,Actinopteri,Pseudolabrus japonicus,Wrasses,estrogen receptor alpha,165.62,N,31,30.56,8.77,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ABS87677.1,347,Actinopteri,Actinopteri,Tanichthys albonubes,White cloud mountain minnow,estrogen receptor alpha,165.62,N,31,30.56,8.77,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAO66473.1,52,Actinopteri,Actinopteri,Zoarces viviparus,Viviparous blenny,estrogen receptor alpha,165.24,N,31,30.56,8.75,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_011696828.1,24351,Insecta,Insecta,Wasmannia auropunctata,Little fire ant,PREDICTED: steroid hormone receptor ERR1 isoform X2,165.24,N,31,30.56,8.75,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAF46102.1,28,Actinopteri,Actinopteri,Acanthogobius flavimanus,Yellowfin goby,estrogen receptor alpha,164.85,N,31,30.56,8.73,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_021941214.1,44814,Insecta,Insecta,Zootermopsis nevadensis,Damp wood termites,steroid hormone receptor ERR1 isoform X2,164.47,N,31,30.56,8.71,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,QEP54294.1,11,Actinopteri,Actinopteri,Epinephelus fuscoguttatus x Epinephelus polyphekadion,Sea basses,estrogen receptor alpha,164.47,N,31,30.56,8.71,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_024887200.1,27309,Insecta,Insecta,Temnothorax curvispinosus,"Wasps, ants, and bees",steroid hormone receptor ERR2 isoform X6,164.47,N,31,30.56,8.71,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AEB71792.1,56,Actinopteri,Actinopteri,Acheilognathus yamatsutae,Korean striped bitterling,estrogen receptor alpha,164.08,N,31,30.56,8.69,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAU36958.1,5,Lepidosauria,Lepidosauria,Plestiodon finitimus,Skinks,estrogen receptor alpha,164.08,N,31,30.56,8.69,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AOV94191.1,347,Actinopteri,Actinopteri,Scatophagus argus,Scats,estrogen receptor a,163.7,N,31,30.56,8.67,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_018314008.1,33373,Insecta,Insecta,Trachymyrmex zeteki,"Wasps, ants, and bees",PREDICTED: steroid hormone receptor ERR1 isoform X4,162.93,N,31,30.56,8.63,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ACM16808.1,362,Bivalvia,Bivalvia,Azumapecten farreri,Farrer's scallop,estrogen receptor,162.54,N,31,30.56,8.61,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ABP96712.1,198,Actinopteri,Actinopteri,Lepomis macrochirus,Bluegill,estrogen receptor alpha1,162.54,N,31,30.56,8.61,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CAD67996.3,89,Actinopteri,Actinopteri,Onychostoma barbatulum,Taiwan shoveljaw carp,putative estrogen receptor alpha protein,162.54,N,31,30.56,8.61,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_011057172.1,34244,Insecta,Insecta,Acromyrmex echinatior,Panamanian leafcutter ant,PREDICTED: steroid hormone receptor ERR1 isoform X5,162.54,N,31,30.56,8.61,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_011867574.1,26316,Insecta,Insecta,Vollenhovia emeryi,"Wasps, ants, and bees",PREDICTED: steroid hormone receptor ERR1 isoform X2,162.16,N,31,30.56,8.59,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KOX78864.1,14307,Insecta,Insecta,Melipona quadrifasciata,Stingless bees,Steroid hormone receptor ERR2,162.16,N,31,30.56,8.59,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_018396982.1,31479,Insecta,Insecta,Cyphomyrmex costatus,"Wasps, ants, and bees",PREDICTED: steroid hormone receptor ERR1 isoform X2,162.16,N,31,30.56,8.59,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_025988739.1,25598,Insecta,Insecta,Solenopsis invicta,Red fire ant,steroid hormone receptor ERR2 isoform X5,162.16,N,31,30.56,8.59,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AXA19790.1,2012,Actinopteri,Actinopteri,Ctenopharyngodon idella,Grass carp,estrogen receptor-alpha,162.16,N,31,30.56,8.59,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_033299043.1,24024,Insecta,Insecta,Bombus bifarius,Bumble bees,steroid hormone receptor ERR1 isoform X3,161.77,N,31,30.56,8.57,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_012243858.1,24525,Insecta,Insecta,Bombus impatiens,Common eastern bumble bee,steroid hormone receptor ERR1 isoform X3,161.77,N,31,30.56,8.57,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_033344978.1,24081,Insecta,Insecta,Bombus vosnesenskii,Bumble bees,steroid hormone receptor ERR1 isoform X3,161.77,N,31,30.56,8.57,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_033205870.1,24326,Insecta,Insecta,Bombus vancouverensis nearcticus,Bumble bees,steroid hormone receptor ERR1 isoform X3,161.77,N,31,30.56,8.57,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_012164169.1,22376,Insecta,Insecta,Bombus terrestris,Buff-tailed bumblebee,steroid hormone receptor ERR1 isoform X3,161.77,N,31,30.56,8.57,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_011644938.1,19250,Insecta,Insecta,Pogonomyrmex barbatus,Red harvester ant,steroid hormone receptor ERR2 isoform X2,161.38,N,31,30.56,8.55,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_033733859.1,40008,Bivalvia,Bivalvia,Pecten maximus,Scallops,estrogen receptor-like isoform X2,161.38,N,31,30.56,8.55,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_018056402.1,31131,Insecta,Insecta,Atta colombica,Leaf cutting ants,PREDICTED: steroid hormone receptor ERR1 isoform X3,161,N,31,30.56,8.53,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAK71317.1,177,Mammalia,Mammalia,Macaca arctoides,Stump-tailed macaque,estrogen receptor beta 2,161,N,31,30.56,8.53,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BBA54721.1,189,Actinopteri,Actinopteri,Oncorhynchus clarkii,Cutthroat trout,estrogen receptor alpha1,160.61,N,31,30.56,8.51,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAG44622.2,339,Actinopteri,Actinopteri,Micropterus salmoides,Largemouth bass,estrogen receptor alpha,160.61,N,31,30.56,8.51,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_018346890.1,35683,Insecta,Insecta,Trachymyrmex septentrionalis,"Wasps, ants, and bees",PREDICTED: steroid hormone receptor ERR1 isoform X2,160.61,N,31,30.56,8.51,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,NP_001155988.1,26782,Insecta,Insecta,Apis mellifera,Honey bee,estrogen-related receptor,160.23,N,31,30.56,8.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_003696588.1,18894,Insecta,Insecta,Apis florea,Little honeybee,steroid hormone receptor ERR2 isoform X10,160.23,N,31,30.56,8.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_018358009.1,40046,Insecta,Insecta,Trachymyrmex cornetzi,"Wasps, ants, and bees",PREDICTED: steroid hormone receptor ERR1 isoform X3,160.23,N,31,30.56,8.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_016912222.1,21840,Insecta,Insecta,Apis cerana,Asiatic honeybee,steroid hormone receptor ERR2 isoform X6,160.23,N,31,30.56,8.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAC66480.2,150,Gastropoda,Gastropoda,Reishia clavigera,Mesogastropoda,estrogen receptor,160.23,N,31,30.56,8.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_006608071.1,20390,Insecta,Insecta,Apis dorsata,Giant honeybee,steroid hormone receptor ERR2 isoform X10,160.23,N,31,30.56,8.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ACT33953.1,615,Mammalia,Mammalia,Cervus elaphus,Red deer,estrogen receptor beta transcript variant 2,160.23,N,31,30.56,8.49,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AKQ06251.1,10309,Insecta,Insecta,Apis cerana cerana,Asiatic honeybee,ERR,160.23,N,31,30.56,8.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_022688888.1,26233,Arachnida,Arachnida,Varroa jacobsoni,Mites and ticks,steroid hormone receptor ERR1-like isoform X6,160.23,N,31,30.56,8.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_011352622.1,53796,Insecta,Insecta,Ooceraea biroi,Clonal raider ant,steroid hormone receptor ERR2 isoform X10,159.84,N,31,30.56,8.47,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026671089.1,23322,Insecta,Insecta,Ceratina calcarata,Carpenter bees,steroid hormone receptor ERR1 isoform X3,159.84,N,31,30.56,8.47,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_031846631.1,25323,Insecta,Insecta,Nomia melanderi,Alkali bee,steroid hormone receptor ERR1 isoform X2,159.84,N,31,30.56,8.47,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_015171696.1,20990,Insecta,Insecta,Polistes dominula,European paper wasp,PREDICTED: steroid hormone receptor ERR1 isoform X5,159.46,N,31,30.56,8.44,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_029670570.1,22522,Insecta,Insecta,Formica exsecta,"Wasps, ants, and bees",steroid hormone receptor ERR1 isoform X7,159.46,N,31,30.56,8.44,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_012149926.1,26086,Insecta,Insecta,Megachile rotundata,Alfalfa leafcutting bee,PREDICTED: steroid hormone receptor ERR1 isoform X3,159.46,N,31,30.56,8.44,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_020278714.1,23521,Insecta,Insecta,Pseudomyrmex gracilis,"Wasps, ants, and bees",steroid hormone receptor ERR1 isoform X2,159.46,N,31,30.56,8.44,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_033324395.1,22393,Insecta,Insecta,Megalopta genalis,Sweat bees,steroid hormone receptor ERR1 isoform X2,159.46,N,31,30.56,8.44,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ABY64738.1,41,Mammalia,Mammalia,Plecturocebus donacophilus,Bolivian titi,estrogen receptor beta,159.46,N,31,30.56,8.44,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_012231091.1,21807,Insecta,Insecta,Linepithema humile,Argentine ant,PREDICTED: steroid hormone receptor ERR2 isoform X2,159.07,N,31,30.56,8.42,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_025156384.1,41890,Insecta,Insecta,Harpegnathos saltator,Jerdon's jumping ant,steroid hormone receptor ERR2 isoform X13,159.07,N,31,30.56,8.42,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,TGZ54809.1,13122,Insecta,Insecta,Temnothorax longispinosus,"Wasps, ants, and bees",Estrogen-related receptor,159.07,N,31,30.56,8.42,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_014219263.1,17495,Insecta,Insecta,Copidosoma floridanum,"Wasps, ants, and bees",steroid hormone receptor ERR1 isoform X2,159.07,N,31,30.56,8.42,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_013094385.1,37571,Gastropoda,Gastropoda,Biomphalaria glabrata,Bloodfluke planorb,PREDICTED: probable nuclear hormone receptor HR38,159.07,N,31,30.56,8.42,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_021374788.1,64377,Bivalvia,Bivalvia,Mizuhopecten yessoensis,Yesso scallop,estrogen receptor-like isoform X2,159.07,N,31,30.56,8.42,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_025103791.1,62092,Gastropoda,Gastropoda,Pomacea canaliculata,Mesogastropoda,uncharacterized protein LOC112569923,159.07,N,31,30.56,8.42,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF3428292.1,11133,Insecta,Insecta,Frieseomelitta varia,Stingless bees,hypothetical protein E2986_05317,158.69,N,31,30.56,8.4,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_012285430.1,19714,Insecta,Insecta,Orussus abietinus,Parasitic wood wasps,steroid hormone receptor ERR1 isoform X2,158.69,N,31,30.56,8.4,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_014605812.1,19304,Insecta,Insecta,Polistes canadensis,Paper wasps,PREDICTED: steroid hormone receptor ERR1 isoform X2,158.69,N,31,30.56,8.4,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_034177353.1,25969,Insecta,Insecta,Osmia lignaria,Orchard mason bee,steroid hormone receptor ERR2 isoform X2,158.69,N,31,30.56,8.4,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ALB78124.1,129,Mammalia,Mammalia,Ateles fusciceps,Brown-headed spider monkey,estrogen receptor beta,158.3,N,31,30.56,8.38,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KFM71034.1,27105,Arachnida,Arachnida,Stegodyphus mimosarum,Eight-eyed spiders,"Estrogen-related receptor gamma, partial",158.3,N,31,30.56,8.38,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ABY64737.1,99,Mammalia,Mammalia,Pithecia pithecia,White-faced saki,estrogen receptor beta,158.3,N,31,30.56,8.38,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KOC66682.1,25093,Insecta,Insecta,Habropoda laboriosa,Digger bees,"Steroid hormone receptor ERR2, partial",158.3,N,31,30.56,8.38,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_003743687.1,11978,Arachnida,Arachnida,Galendromus occidentalis,Western predatory mite,steroid hormone receptor ERR1,158.3,N,31,30.56,8.38,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,NP_001191648.1,28801,Gastropoda,Gastropoda,Aplysia californica,California sea hare,estrogen receptor,157.92,N,31,30.56,8.36,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_029045725.1,24844,Insecta,Insecta,Osmia bicornis bicornis,Red mason bee,steroid hormone receptor ERR2 isoform X7,157.92,N,31,30.56,8.36,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ADB43256.1,936,Malacostraca,Malacostraca,Scylla paramamosain,Green mud crab,estrogen-related receptor,157.53,N,31,30.56,8.34,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_019623148.1,35240,Leptocardii,Leptocardii,Branchiostoma belcheri,Belcher's lancelet,PREDICTED: estrogen-related receptor gamma-like isoform X6,157.53,N,31,30.56,8.34,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_025017986.1,16232,Arachnida,Arachnida,Tetranychus urticae,Two-spotted spider mite,steroid hormone receptor ERR1 isoform X2,157.53,N,31,30.56,8.34,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,NP_001071700.1,23440,Ascidiacea,Ascidiacea,Ciona intestinalis,Vase tunicate,nuclear receptor,157.53,N,31,30.56,8.34,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_029169484.1,24986,Insecta,Insecta,Nylanderia fulva,"Wasps, ants, and bees",steroid hormone receptor ERR2 isoform X6,157.53,N,31,30.56,8.34,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KMQ89782.1,18322,Insecta,Insecta,Lasius niger,"Wasps, ants, and bees",steroid hormone receptor err2,157.15,N,31,30.56,8.32,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_015585202.1,32236,Insecta,Insecta,Cephus cinctus,Wheat stem sawfly,steroid hormone receptor ERR1 isoform X2,157.15,N,31,30.56,8.32,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_033216257.1,25334,Insecta,Insecta,Belonocnema treatae,Oak gall wasps,steroid hormone receptor ERR1 isoform X4,157.15,N,31,30.56,8.32,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAU88063.1,29682,Leptocardii,Leptocardii,Branchiostoma floridae,Florida lancelet,estrogen receptor-related receptor short isoform,157.15,N,31,30.56,8.32,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,QIL68862.1,156,Malacostraca,Malacostraca,Palaemon carinicauda,Palaemonid shrimps,estrogen-related receptor,157.15,N,31,30.56,8.32,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_022662920.1,30441,Arachnida,Arachnida,Varroa destructor,Honeybee mite,steroid hormone receptor ERR1-like isoform X2,156.76,N,31,30.56,8.3,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAF43298.1,664,Actinopteri,Actinopteri,Mugil cephalus,Flathead mullet,"estrogen receptor alpha, partial",156.76,N,31,30.56,8.3,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_002431237.1,21849,Insecta,Insecta,Pediculus humanus corporis,Human body louse,"retinoid X receptor, putative",156.76,N,31,30.56,8.3,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_014229048.1,21179,Insecta,Insecta,Trichogramma pretiosum,Trichogrammid wasps,steroid hormone receptor ERR2 isoform X2,156.38,N,31,30.56,8.28,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AFC36881.1,272,Actinopteri,Actinopteri,Paramisgurnus dabryanus,Loaches,estrogen receptor alpha,156.38,N,31,30.56,8.28,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_015512856.1,16016,Insecta,Insecta,Neodiprion lecontei,Redheaded pine sawfly,PREDICTED: steroid hormone receptor ERR2 isoform X1,156.38,N,31,30.56,8.28,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_015120014.1,19520,Insecta,Insecta,Diachasma alloeum,"Wasps, ants, and bees",steroid hormone receptor ERR1 isoform X5,155.99,N,31,30.56,8.26,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ATU32602.1,7,Gastropoda,Gastropoda,Parafossarulus striatulus,Mesogastropoda,estrogen receptor,155.99,N,31,30.56,8.26,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_009064842.1,47713,Gastropoda,Gastropoda,Lottia gigantea,Owl limpet,hypothetical protein LOTGIDRAFT_132166,155.61,N,31,30.56,8.24,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_011267689.1,38868,Insecta,Insecta,Camponotus floridanus,Florida carpenter ant,steroid hormone receptor ERR1 isoform X8,155.61,N,31,30.56,8.24,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ADJ96333.1,83,Actinopteri,Actinopteri,Amphiprion melanopus,Fire clownfish,"estrogen receptor beta 1, partial",155.22,N,31,30.56,8.22,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_014668376.1,20794,Priapulimorpha,Priapulimorpha,Priapulus caudatus,Priapulids,PREDICTED: estrogen receptor beta-like,154.84,N,31,30.56,8.2,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_032684548.1,29187,Insecta,Insecta,Odontomachus brunneus,"Wasps, ants, and bees",steroid hormone receptor ERR2 isoform X2,154.84,N,31,30.56,8.2,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_012257458.1,22153,Insecta,Insecta,Athalia rosae,Coleseed sawfly,steroid hormone receptor ERR2 isoform X5,154.84,N,31,30.56,8.2,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,NP_001135406.1,42295,Insecta,Insecta,Tribolium castaneum,Red flour beetle,estrogen-related receptor,154.84,N,31,30.56,8.2,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ELT99464.1,32034,Polychaeta,Polychaeta,Capitella teleta,Capitella sp. MKJ-2016,hypothetical protein CAPTEDRAFT_108381,154.84,N,31,30.56,8.2,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_028047803.1,23264,Insecta,Insecta,Monomorium pharaonis,Pharaoh ant,steroid hormone receptor ERR2 isoform X2,154.84,N,31,30.56,8.2,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030765079.1,23713,Insecta,Insecta,Sitophilus oryzae,Rice weevil,steroid hormone receptor ERR2 isoform X2,154.45,N,31,30.56,8.18,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_012057256.1,10762,Insecta,Insecta,Atta cephalotes,Leaf cutting ants,PREDICTED: steroid hormone receptor ERR1,154.07,N,31,30.56,8.16,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,QIH29348.1,1129,Gastropoda,Gastropoda,Lymnaea stagnalis,Great pond snail,estrogen receptor,153.68,N,31,30.56,8.14,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_011312293.1,18958,Insecta,Insecta,Fopius arisanus,"Wasps, ants, and bees",PREDICTED: steroid hormone receptor ERR2 isoform X2,153.68,N,31,30.56,8.14,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CAB3243764.1,9702,Ascidiacea,Ascidiacea,Phallusia mammillata,Warty sea squirt,ERR estrogen-related receptor,153.68,N,31,30.56,8.14,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ABI97117.1,44,Gastropoda,Gastropoda,Marisa cornuarietis,Mesogastropoda,estrogen receptor-like protein isoform variant 1,153.29,N,31,30.56,8.12,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KZC06469.1,23639,Insecta,Insecta,Dufourea novaeangliae,Bees,Steroid hormone receptor ERR2,153.29,N,31,30.56,8.12,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ACY66850.1,250,Insecta,Insecta,Chironomus riparius,Nonbiting midges,estrogen-related receptor,152.91,N,31,30.56,8.1,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_029847411.1,54103,Arachnida,Arachnida,Ixodes scapularis,Black-legged tick,steroid hormone receptor ERR1 isoform X2,152.91,N,31,30.56,8.1,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CAB3372817.1,31082,Insecta,Insecta,Cloeon dipterum,Small minnow mayflies,Hypothetical predicted protein,152.91,N,31,30.56,8.1,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ABR88112.1,42,Insecta,Insecta,Polyrhachis vicina,Edible Chinese black ant,estrogen-related receptor,152.91,N,31,30.56,8.1,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_017761351.1,26943,Insecta,Insecta,Eufriesea mexicana,Orchid bees,PREDICTED: steroid hormone receptor ERR1,152.53,N,31,30.56,8.08,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,MPC32344.1,99902,Malacostraca,Malacostraca,Portunus trituberculatus,Swimming crab,Estrogen-related receptor gamma,152.53,N,31,30.56,8.08,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_014467184.1,22420,Insecta,Insecta,Dinoponera quadriceps,"Wasps, ants, and bees",PREDICTED: steroid hormone receptor ERR2 isoform X2,152.53,N,31,30.56,8.08,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AQN67829.1,20099,Insecta,Insecta,Leptinotarsa decemlineata,Colorado potato beetle,estrogen related receptor,152.14,N,31,30.56,8.06,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_031785280.2,33927,Insecta,Insecta,Nasonia vitripennis,Jewel wasp,steroid hormone receptor ERR2 isoform X5,152.14,N,31,30.56,8.06,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CRL02986.1,22648,Insecta,Insecta,Clunio marinus,Nonbiting midges,"CLUMA_CG016461, isoform A",151.37,N,31,30.56,8.02,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_015925326.1,27786,Arachnida,Arachnida,Parasteatoda tepidariorum,Common house spider,estrogen-related receptor gamma isoform X2,151.37,N,31,30.56,8.02,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AXU37748.1,676,Malacostraca,Malacostraca,Eriocheir sinensis,Chinese mitten crab,estrogen-related receptor,150.98,N,31,30.56,8,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,QIM58148.1,1685,Hyperoartia,Hyperoartia,Lampetra planeri,European brook lamprey,"estrogen related receptor a, partial",150.6,N,31,30.56,7.98,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AGO64304.1,234,Actinopteri,Actinopteri,Pomatoschistus minutus,Sand goby,"oestrogen receptor alpha, partial",149.83,N,31,30.56,7.93,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KZS19653.1,55132,Branchiopoda,Branchiopoda,Daphnia magna,Common water fleas,Estrogen-related receptor splice variant,149.83,N,31,30.56,7.93,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ROT74072.1,59967,Malacostraca,Malacostraca,Penaeus vannamei,Pacific white shrimp,estrogen-related receptor,149.44,N,31,30.56,7.91,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026314901.1,20440,Insecta,Insecta,Hyposmocoma kahamanoa,Cosmet moths,steroid hormone receptor ERR1,149.44,N,31,30.56,7.91,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ABO42263.1,349,Ascidiacea,Ascidiacea,Halocynthia roretzi,Sea squirts,estrogen-related receptor isoform 1,149.44,N,31,30.56,7.91,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ACW84414.1,72,Insecta,Insecta,Teleogryllus emma,Emma field cricket,estrogen receptor-like protein,149.06,N,31,30.56,7.89,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AHY03422.1,67,Polychaeta,Polychaeta,Perinereis aibuhitensis,Sandworms,estrogen receptor,149.06,N,31,30.56,7.89,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_024216821.1,26429,Insecta,Insecta,Halyomorpha halys,Brown marmorated stink bug,steroid hormone receptor ERR1 isoform X1,148.67,N,31,30.56,7.87,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ENN81341.1,49511,Insecta,Insecta,Dendroctonus ponderosae,Mountain pine beetle,"hypothetical protein YQE_02252, partial",148.67,N,31,30.56,7.87,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_017785267.1,19616,Insecta,Insecta,Nicrophorus vespilloides,Sexton beetles,PREDICTED: steroid hormone receptor ERR2,148.67,N,31,30.56,7.87,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_011496296.1,12848,Insecta,Insecta,Ceratosolen solmsi marchali,Fig wasps,PREDICTED: steroid hormone receptor ERR2 isoform X2,148.29,N,31,30.56,7.85,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CAL09961.1,464,Actinopteri,Actinopteri,Solea solea,Common sole,estrogen receptor beta,147.9,N,31,30.56,7.83,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_018328922.1,22237,Insecta,Insecta,Agrilus planipennis,Emerald ash borer,steroid hormone receptor ERR1 isoform X2,147.9,N,31,30.56,7.83,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAA49552.1,2,Actinopteri,Actinopteri,Oncorhynchus mykiss irideus,Rainbow trout,"estrogen receptor, partial",146.75,N,31,30.56,7.77,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_019880248.1,17651,Insecta,Insecta,Aethina tumida,Small hive beetle,PREDICTED: steroid hormone receptor ERR1 isoform X2,146.36,N,31,30.56,7.75,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_022244536.1,39087,Merostomata,Merostomata,Limulus polyphemus,Atlantic horseshoe crab,steroid hormone receptor ERR1-like,146.36,N,31,30.56,7.75,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_018913880.1,29011,Insecta,Insecta,Bemisia tabaci,Sweet potato whitefly,PREDICTED: steroid hormone receptor ERR1 isoform X4,146.36,N,31,30.56,7.75,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_013193713.1,18524,Insecta,Insecta,Amyelois transitella,Snout moths,PREDICTED: steroid hormone receptor ERR1 isoform X1,145.98,N,31,30.56,7.73,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_022913055.1,21694,Insecta,Insecta,Onthophagus taurus,Dung beetles & tumblebugs,steroid hormone receptor ERR1 isoform X2,145.98,N,31,30.56,7.73,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ADO51071.1,196,Merostomata,Merostomata,Tachypleus tridentatus,Chinese horseshoe crab,estrogen-related receptor,145.98,N,31,30.56,7.73,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_021944806.1,54770,Collembola,Collembola,Folsomia candida,Smooth springtails,steroid hormone receptor ERR2-like,145.59,N,31,30.56,7.71,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026276829.1,40708,Insecta,Insecta,Frankliniella occidentalis,Western flower thrips,steroid hormone receptor ERR1 isoform X3,145.59,N,31,30.56,7.71,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_034238593.1,27539,Insecta,Insecta,Thrips palmi,True thrips,steroid hormone receptor ERR1 isoform X2,145.59,N,31,30.56,7.71,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_018575647.1,20920,Insecta,Insecta,Anoplophora glabripennis,Asian longhorned beetle,steroid hormone receptor ERR1 isoform X2,145.21,N,31,30.56,7.69,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,RUS86260.1,23933,Gastropoda,Gastropoda,Elysia chlorotica,Eastern emerald elysia,hypothetical protein EGW08_006002,145.21,N,31,30.56,7.69,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_031358871.1,48187,Insecta,Insecta,Photinus pyralis,Common eastern firefly,steroid hormone receptor ERR1-like,144.82,N,31,30.56,7.67,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,QJE49261.1,22,Branchiopoda,Branchiopoda,Diaphanosoma celebensis,Water fleas,estrogen-related receptor,144.82,N,31,30.56,7.67,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ABU88378.1,240,Actinopteri,Actinopteri,Salmo trutta fario,River trout,"mineralocorticoid receptor, partial",144.82,N,31,30.56,7.67,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ADU54204.1,241,Actinopteri,Actinopteri,Morone saxatilis,Striped sea-bass,"estrogen receptor type B, partial",144.44,N,31,30.56,7.65,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,PCG77221.1,19089,Insecta,Insecta,Heliothis virescens,Tobacco budworm,hypothetical protein B5V51_7898,144.44,N,31,30.56,7.65,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAE9443446.1,22833,Insecta,Insecta,Apolygus lucorum,Plant bugs,hypothetical protein GE061_03084,144.05,N,31,30.56,7.63,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_021712962.1,49405,Insecta,Insecta,Aedes aegypti,Yellow fever mosquito,steroid hormone receptor ERR2 isoform X2,144.05,N,31,30.56,7.63,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,GBM86989.1,279008,Arachnida,Arachnida,Araneus ventricosus,Orb weavers,Steroid hormone receptor ERR2,143.66,N,31,30.56,7.61,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AOZ56905.1,277,Insecta,Insecta,Agrotis ipsilon,Black cutworm moth,estrogen-related receptor,143.66,N,31,30.56,7.61,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_021196875.1,40199,Insecta,Insecta,Helicoverpa armigera,Cotton bollworm,steroid hormone receptor ERR1 isoform X2,143.66,N,31,30.56,7.61,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ALT07179.1,191,Insecta,Insecta,Dastarcus helophoroides,Dry bark beetles,estrogen-related receptor,143.66,N,31,30.56,7.61,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,O76202.1,243,Insecta,Insecta,Choristoneura fumiferana,Eastern spruce budworm,RecName: Full=Protein ultraspiracle homolog; AltName: Full=Nuclear receptor subfamily 2 group B member 4,143.66,N,31,30.56,7.61,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AID52852.1,524,Hexanauplia,Hexanauplia,Tigriopus japonicus,Copepods,estrogen related receptor,143.66,N,31,30.56,7.61,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_022817483.1,25340,Insecta,Insecta,Spodoptera litura,Owlet moths,steroid hormone receptor ERR1 isoform X2,143.66,N,31,30.56,7.61,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ANS60466.1,28455,Insecta,Insecta,Bombyx mori,Domestic silkworm,estrogen-related receptor,143.28,N,31,30.56,7.59,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ACD11039.1,23,Polychaeta,Polychaeta,Capitella capitata,Polychaetes,"estrogen receptor, partial",143.28,N,31,30.56,7.59,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_028031248.1,19920,Insecta,Insecta,Bombyx mandarina,Wild silkworm,steroid hormone receptor ERR1 isoform X4,143.28,N,31,30.56,7.59,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_008549918.1,18603,Insecta,Insecta,Microplitis demolitor,"Wasps, ants, and bees",PREDICTED: steroid hormone receptor ERR1,142.9,N,31,30.56,7.57,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,EFX85143.1,33742,Branchiopoda,Branchiopoda,Daphnia pulex,Common water flea,"hypothetical protein DAPPUDRAFT_46682, partial",142.9,N,31,30.56,7.57,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_028162042.1,24619,Insecta,Insecta,Ostrinia furnacalis,Asian corn borer,steroid hormone receptor ERR1-like isoform X3,142.51,N,31,30.56,7.55,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_023932889.1,41479,Lingulata,Lingulata,Lingula anatina,Lampshells,estrogen-related receptor gamma,142.12,N,31,30.56,7.53,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,RVE55258.1,16608,Insecta,Insecta,Chilo suppressalis,Striped riceborer,hypothetical protein evm_000156,142.12,N,31,30.56,7.53,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_023939533.1,21983,Insecta,Insecta,Bicyclus anynana,Squinting bush brown,steroid hormone receptor ERR2,142.12,N,31,30.56,7.53,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_011550568.1,23000,Insecta,Insecta,Plutella xylostella,Diamondback moth,PREDICTED: steroid hormone receptor ERR1-like,141.74,N,31,30.56,7.51,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,RXG52466.1,19212,Malacostraca,Malacostraca,Armadillidium vulgare,Common pillbug,"Estrogen-related receptor gamma, partial",141.74,N,31,30.56,7.51,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,OWR55793.1,34980,Insecta,Insecta,Danaus plexippus plexippus,Monarch butterfly,Steroid hormone receptor ERR2,141.74,N,31,30.56,7.51,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_009020000.1,46878,Clitellata,Clitellata,Helobdella robusta,Leeches,hypothetical protein HELRODRAFT_106750,141.35,N,31,30.56,7.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,QCI03097.1,294,Clitellata,Clitellata,Eisenia fetida,Common brandling worm,estrogen receptor,141.35,N,31,30.56,7.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CAB3246412.1,38602,Insecta,Insecta,Arctia plantaginis,Tiger moths,unnamed protein product,141.35,N,31,30.56,7.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF2353317.1,25903,Malacostraca,Malacostraca,Trinorchestia longiramus,"Beach hoppers, scuds and well shrimps",Nuclear hormone receptor ligand-binding domain,141.35,N,31,30.56,7.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,TRY71690.1,16351,Hexanauplia,Hexanauplia,Tigriopus californicus,Tidepool copepod,hypothetical protein TCAL_01014,140.97,N,31,30.56,7.47,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026757001.1,20703,Insecta,Insecta,Galleria mellonella,Greater wax moth,protein ultraspiracle homolog isoform X1,140.97,N,31,30.56,7.47,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_022197688.1,26528,Insecta,Insecta,Nilaparvata lugens,Brown planthopper,steroid hormone receptor ERR2-like isoform X4,140.58,N,31,30.56,7.45,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_029713781.1,59061,Insecta,Insecta,Aedes albopictus,Asian tiger mosquito,steroid hormone receptor ERR2-like isoform X2,140.58,N,31,30.56,7.45,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026725744.1,24061,Insecta,Insecta,Trichoplusia ni,Cabbage looper,steroid hormone receptor ERR1 isoform X2,140.2,N,31,30.56,7.42,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026490955.1,18776,Insecta,Insecta,Vanessa tameamea,"Tortoiseshells, admirals &c.",steroid hormone receptor ERR1 isoform X3,140.2,N,31,30.56,7.42,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ACJ22907.1,561,Amphibia,Amphibia,Bombina orientalis,Oriental fire-bellied toad,"estrogen receptor alpha 1, partial",139.81,N,31,30.56,7.4,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_028134004.1,28182,Insecta,Insecta,Diabrotica virgifera virgifera,Western corn rootworm,steroid hormone receptor ERR1,139.43,N,31,30.56,7.38,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAA0195992.1,32118,Malacostraca,Malacostraca,Hyalella azteca,"Beach hoppers, scuds and well shrimps",Estrogen-related receptor,139.04,N,31,30.56,7.36,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_029644784.1,26163,Cephalopoda,Cephalopoda,Octopus vulgaris,Common octopus,estrogen receptor-like isoform X2,139.04,N,31,30.56,7.36,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ODN05709.1,20400,Collembola,Collembola,Orchesella cincta,Slender springtails,Estrogen-related receptor gamma,139.04,N,31,30.56,7.36,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AMR55387.1,53,Cephalopoda,Cephalopoda,Sepiella maindroni,Cuttlefish,estrogen receptor,139.04,N,31,30.56,7.36,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAD02929.1,120,Actinopteri,Actinopteri,Conger myriaster,Whitespotted conger,estrogen receptor beta,138.66,N,31,30.56,7.34,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AXP83834.1,77,Cephalopoda,Cephalopoda,Sepiella japonica,Japanese spineless cuttlefish,estrogen-related receptor gamma,138.66,N,31,30.56,7.34,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ASL70079.1,18432,Insecta,Insecta,Laodelphax striatellus,Small brown planthopper,estrogen-related receptor,138.27,N,31,30.56,7.32,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_022113315.1,19658,Insecta,Insecta,Pieris rapae,Cabbage white,steroid hormone receptor ERR2 isoform X3,137.89,N,31,30.56,7.3,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_014784337.1,62924,Cephalopoda,Cephalopoda,Octopus bimaculoides,Cephalopods,"PREDICTED: estrogen receptor-like, partial",137.89,N,31,30.56,7.3,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AGT02381.1,24,Insecta,Insecta,Omphisa fuscidentalis,Bamboo borer,ultraspiracle protein isoform 2,137.89,N,31,30.56,7.3,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ARD05166.1,325,Insecta,Insecta,Antheraea pernyi,Chinese oak silkmoth,ultraspiracle protein 1,137.89,N,31,30.56,7.3,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BBE52666.1,48,Insecta,Insecta,Adoxophyes honmai,Smaller tea tortrix,Ultraspiracle,137.12,N,31,30.56,7.26,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_017492231.1,34625,Insecta,Insecta,Rhagoletis zephyria,Snowberry fruit fly,"PREDICTED: steroid hormone receptor ERR2-like, partial",137.12,N,31,30.56,7.26,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ADO64596.1,496,Insecta,Insecta,Spodoptera littoralis,African cotton leafworm,ultraspiracle,137.12,N,31,30.56,7.26,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030037836.1,23019,Insecta,Insecta,Manduca sexta,Tobacco hornworm,steroid hormone receptor ERR2 isoform X2,137.12,N,31,30.56,7.26,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_001862599.1,38591,Insecta,Insecta,Culex quinquefasciatus,Southern house mosquito,estrogen-related receptor,136.35,N,31,30.56,7.22,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AFX60116.1,1284,Insecta,Insecta,Spodoptera frugiperda,Fall armyworm,nuclear receptor USP isoform 1,136.35,N,31,30.56,7.22,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AHN16691.1,43,Hexanauplia,Hexanauplia,Calanus finmarchicus,Copepods,"putative estrogen related nuclear receptor, partial",136.35,N,31,30.56,7.22,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KPJ10088.1,33325,Insecta,Insecta,Papilio machaon,Common yellow swallowtail,Steroid hormone receptor ERR2,135.96,N,31,30.56,7.2,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026478160.1,22186,Insecta,Insecta,Ctenocephalides felis,Cat flea,steroid hormone receptor ERR2-like,135.96,N,31,30.56,7.2,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAE96770.1,484,Insecta,Insecta,Anopheles stephensi,Asian malaria mosquito,estrogen receptor-related receptor homolog,135.58,N,31,30.56,7.18,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AOY10609.1,615,Malacostraca,Malacostraca,Macrobrachium rosenbergii,Giant freshwater prawn,estrogen-related receptor,135.58,N,31,30.56,7.18,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030854544.1,40378,Echinoidea,Echinoidea,Strongylocentrotus purpuratus,Purple sea urchin,estrogen-related receptor gamma,134.81,N,31,30.56,7.14,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_023033105.1,34285,Insecta,Insecta,Drosophila willistoni,Fruit flies,steroid hormone receptor ERR2,134.81,N,31,30.56,7.14,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_017842967.2,31259,Insecta,Insecta,Drosophila busckii,Fruit flies,LOW QUALITY PROTEIN: steroid hormone receptor ERR2,134.81,N,31,30.56,7.14,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AYJ00905.1,603,Bivalvia,Bivalvia,Ruditapes philippinarum,Manila clam,"estrogen receptor, partial",134.42,N,31,30.56,7.12,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF0288423.1,28245,Hexanauplia,Hexanauplia,Amphibalanus amphitrite,Acorn barnacles,Steroid hormone receptor ERR2,134.42,N,31,30.56,7.12,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_031627642.1,24972,Insecta,Insecta,Contarinia nasturtii,Swede midge,steroid hormone receptor ERR2 isoform X1,134.42,N,31,30.56,7.12,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KPJ01521.1,39488,Insecta,Insecta,Papilio xuthus,Asian swallowtail,Estrogen-related receptor gamma,134.03,N,31,30.56,7.1,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AZZ69695.1,180,Bivalvia,Bivalvia,Scapharca broughtonii,Blood clam,estrogen receptor,134.03,N,31,30.56,7.1,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_034102522.1,23268,Insecta,Insecta,Drosophila albomicans,Fruit flies,steroid hormone receptor ERR2,133.26,N,31,30.56,7.06,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ADL71443.1,151,Echinoidea,Echinoidea,Mesocentrotus nudus,Sea urchins,estrogen receptor-like receptor,133.26,N,31,30.56,7.06,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_020809520.1,20997,Insecta,Insecta,Drosophila serrata,Fruit flies,steroid hormone receptor ERR2 isoform X2,132.88,N,31,30.56,7.04,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_023331701.1,30614,Hexanauplia,Hexanauplia,Eurytemora affinis,Copepods,uncharacterized protein LOC111703860 isoform X2,132.88,N,31,30.56,7.04,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_013147747.1,17824,Insecta,Insecta,Papilio polytes,Common Mormon,PREDICTED: steroid hormone receptor ERR1-like isoform X4,132.49,N,31,30.56,7.02,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ANP24206.1,613,Leptocardii,Leptocardii,Branchiostoma lanceolatum,Amphioxus,retinoid X receptor,132.11,N,31,30.56,7,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_022215374.1,26945,Insecta,Insecta,Drosophila obscura,Fruit flies,steroid hormone receptor ERR2,132.11,N,31,30.56,7,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAT44330.1,206,Insecta,Insecta,Plodia interpunctella,Indianmeal moth,USP,132.11,N,31,30.56,7,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_001983597.1,35106,Insecta,Insecta,Drosophila grimshawi,Fruit flies,steroid hormone receptor ERR2,131.34,N,31,30.56,6.96,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_017018411.1,22493,Insecta,Insecta,Drosophila kikkawai,Fruit flies,PREDICTED: steroid hormone receptor ERR1 isoform X2,131.34,N,31,30.56,6.96,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAL41655.1,124,Insecta,Insecta,Scirpophaga incertulas,Grass moths,ultraspiracle protein,130.95,N,31,30.56,6.94,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AHM10266.1,12,Gastropoda,Gastropoda,Bithynia tentaculata,Mesogastropoda,"estrogen receptor, partial",130.95,N,31,30.56,6.94,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,GAV07733.1,23050,Eutardigrada,Eutardigrada,Ramazzottius varieornatus,Water bears,hypothetical protein RvY_17540,130.57,N,31,30.56,6.91,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_034482804.1,19612,Insecta,Insecta,Drosophila innubila,Fruit flies,steroid hormone receptor ERR2,130.18,N,31,30.56,6.89,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ACD39740.1,1200,Insecta,Insecta,Spodoptera exigua,Beet armyworm,ultraspiracle protein,130.18,N,31,30.56,6.89,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_023215958.1,35601,Arachnida,Arachnida,Centruroides sculpturatus,Bark scorpion,nuclear hormone receptor FTZ-F1 beta-like isoform X3,130.18,N,31,30.56,6.89,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_015042418.2,29521,Insecta,Insecta,Drosophila pseudoobscura,Fruit flies,steroid hormone receptor ERR2 isoform X2,129.8,N,31,30.56,6.87,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AXP83841.1,60,Cephalopoda,Cephalopoda,Sepia latimanus,Cuttlefish,estrogen-related receptor gamma,129.8,N,31,30.56,6.87,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_002024605.1,37444,Insecta,Insecta,Drosophila persimilis,Fruit flies,steroid hormone receptor ERR2,129.41,N,31,30.56,6.85,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_022080403.1,33296,Asteroidea,Asteroidea,Acanthaster planci,Crown-of-thorns starfish,hepatocyte nuclear factor 4-gamma-like isoform X3,129.03,N,31,30.56,6.83,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_017157033.1,33734,Insecta,Insecta,Drosophila miranda,Fruit flies,steroid hormone receptor ERR2,129.03,N,31,30.56,6.83,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ABP98990.1,729,Actinopteri,Actinopteri,Misgurnus anguillicaudatus,Oriental weatherfish,"estrogen receptor beta, partial",129.03,N,31,30.56,6.83,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_034136819.1,40506,Insecta,Insecta,Drosophila guanche,Fruit flies,steroid hormone receptor ERR2 isoform X2,129.03,N,31,30.56,6.83,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AUF71655.1,1674,Insecta,Insecta,Lymantria dispar,Gypsy moth,ultraspiracle,128.64,N,31,30.56,6.81,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ASL70568.1,52949,Monogononta,Monogononta,Brachionus plicatilis,Rotifers,nuclear receptor,128.64,N,31,30.56,6.81,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_027197908.1,13039,Arachnida,Arachnida,Dermatophagoides pteronyssinus,European house dust mite,estrogen-related receptor gamma-like,128.26,N,31,30.56,6.79,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_014765163.1,45606,Insecta,Insecta,Drosophila ananassae,Fruit flies,steroid hormone receptor ERR2 isoform X2,128.26,N,31,30.56,6.79,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_004523856.1,23782,Insecta,Insecta,Ceratitis capitata,Mediterranean fruit fly,steroid hormone receptor ERR1,127.87,N,31,30.56,6.77,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,OQV20521.1,20953,Eutardigrada,Eutardigrada,Hypsibius dujardini,Water bears,Estrogen-related receptor gamma,127.49,N,31,30.56,6.75,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AER38412.1,253,Insecta,Insecta,Sesamia nonagrioides,Mediterranean corn borer,"ultraspiracle, partial",127.49,N,31,30.56,6.75,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_033096325.1,32797,Crinoidea,Crinoidea,Anneissia japonica,Crinoids,steroid hormone receptor ERR1-like,127.1,N,31,30.56,6.73,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_017088436.1,23646,Insecta,Insecta,Drosophila bipectinata,Fruit flies,PREDICTED: steroid hormone receptor ERR2 isoform X2,127.1,N,31,30.56,6.73,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_023161034.2,21595,Insecta,Insecta,Drosophila hydei,Fruit flies,steroid hormone receptor ERR2,126.72,N,31,30.56,6.71,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030560705.1,20257,Insecta,Insecta,Drosophila novamexicana,Fruit flies,steroid hormone receptor ERR2,126.72,N,31,30.56,6.71,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_017957580.1,35897,Insecta,Insecta,Drosophila navojoa,Fruit flies,steroid hormone receptor ERR2,126.72,N,31,30.56,6.71,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_002046422.1,44776,Insecta,Insecta,Drosophila virilis,Fruit flies,steroid hormone receptor ERR2,126.33,N,31,30.56,6.69,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ALD83751.1,359,Insecta,Insecta,Grapholita molesta,Oriental fruit moth,ultraspiracle,126.33,N,31,30.56,6.69,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,TKR93290.1,36673,Chromadorea,Chromadorea,Steinernema carpocapsae,Steinernema sp. LE-2017,hypothetical protein L596_007774,125.56,N,31,30.56,6.65,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,PIK58754.1,30778,Holothuroidea,Holothuroidea,Apostichopus japonicus,Japanese sea cucumber,estrogen receptor-like receptor,125.56,N,31,30.56,6.65,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,GBP51082.1,96442,Insecta,Insecta,Eumeta japonica,Bagworm moths,Estrogen-related receptor gamma,125.56,N,31,30.56,6.65,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_017863345.1,20062,Insecta,Insecta,Drosophila arizonae,Fruit flies,PREDICTED: steroid hormone receptor ERR2 isoform X2,125.56,N,31,30.56,6.65,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_002012072.1,42659,Insecta,Insecta,Drosophila mojavensis,Fruit flies,steroid hormone receptor ERR2,125.56,N,31,30.56,6.65,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_014095280.1,19286,Insecta,Insecta,Bactrocera oleae,Olive fruit fly,PREDICTED: steroid hormone receptor ERR1,125.18,N,31,30.56,6.63,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030535137.1,42574,Magnoliopsida,Magnoliopsida,Rhodamnia argentea,Silver malletwood,steroid hormone receptor ERR2-like,124.41,N,31,30.56,6.59,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,OQR80014.1,14365,Arachnida,Arachnida,Tropilaelaps mercedesae,Mites and ticks,transcription factor HNF-4-like,124.41,N,31,30.56,6.59,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ASL70522.1,948,Monogononta,Monogononta,Brachionus calyciflorus,Rotifers,nuclear receptor,124.02,N,31,30.56,6.57,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,NP_648183.3,112827,Insecta,Insecta,Drosophila melanogaster,Fruit fly,"estrogen-related receptor, isoform B",124.02,N,31,30.56,6.57,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CCA61271.1,10,Chilopoda,Chilopoda,Lithobius peregrinus,Centipedes,"retinoid X receptor, isoform S, partial",124.02,N,31,30.56,6.57,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_033157227.1,24100,Insecta,Insecta,Drosophila mauritiana,Fruit flies,steroid hormone receptor ERR2 isoform X1,123.64,N,31,30.56,6.55,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026833630.1,42797,Insecta,Insecta,Drosophila erecta,Fruit flies,steroid hormone receptor ERR2 isoform X1,123.64,N,31,30.56,6.55,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_002029675.1,39995,Insecta,Insecta,Drosophila sechellia,Fruit flies,steroid hormone receptor ERR2 isoform X1,123.64,N,31,30.56,6.55,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,OAF71737.1,8724,Rhopaluridae,Rhopaluridae,Intoshia linei,Metazoans,ER-beta,123.64,N,31,30.56,6.55,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_002084068.2,69950,Insecta,Insecta,Drosophila simulans,Fruit flies,"uncharacterized protein Dsimw501_GD13012, isoform A",123.64,N,31,30.56,6.55,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_002094133.1,48506,Insecta,Insecta,Drosophila yakuba,Fruit flies,"uncharacterized protein Dyak_GE20365, isoform A",123.25,N,31,30.56,6.53,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,RWS15167.1,19015,Arachnida,Arachnida,Dinothrombium tinctorium,Velvet mites,"Estrogen-related receptor gamma-like protein, partial",123.25,N,31,30.56,6.53,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAJ99093.1,27012,Magnoliopsida,Magnoliopsida,Hordeum vulgare subsp. vulgare,Domesticated barley,"predicted protein, partial",123.25,N,31,30.56,6.53,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_032219162.1,60011,Anthozoa,Anthozoa,Nematostella vectensis,Starlet sea anemone,hepatocyte nuclear factor 4-gamma,123.25,N,31,30.56,6.53,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ETN59829.1,10783,Insecta,Insecta,Anopheles darlingi,American malaria mosquito,retinoid x receptor (rxr),122.86,N,31,30.56,6.51,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_017074092.1,24307,Insecta,Insecta,Drosophila eugracilis,Fruit flies,PREDICTED: steroid hormone receptor ERR2 isoform X1,122.86,N,31,30.56,6.51,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAE9555720.1,10997,Chromadorea,Chromadorea,Halicephalobus sp. NKZ332,Roundworms,hypothetical protein FO519_001072,122.48,N,31,30.56,6.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_017011887.1,24128,Insecta,Insecta,Drosophila takahashii,Fruit flies,PREDICTED: steroid hormone receptor ERR2 isoform X2,121.71,N,31,30.56,6.45,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_017042641.1,23940,Insecta,Insecta,Drosophila ficusphila,Fruit flies,PREDICTED: steroid hormone receptor ERR2 isoform X1,121.71,N,31,30.56,6.45,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_016969063.1,23499,Insecta,Insecta,Drosophila rhopaloa,Fruit flies,PREDICTED: steroid hormone receptor ERR2 isoform X1,121.71,N,31,30.56,6.45,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_016934213.1,23394,Insecta,Insecta,Drosophila suzukii,Fruit flies,PREDICTED: steroid hormone receptor ERR2 isoform X2,121.71,N,31,30.56,6.45,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_016966349.1,22747,Insecta,Insecta,Drosophila biarmipes,Fruit flies,PREDICTED: steroid hormone receptor ERR2 isoform X1,121.71,N,31,30.56,6.45,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KFB42164.1,19894,Insecta,Insecta,Anopheles sinensis,Mosquitos,AGAP002095-PA-like protein,121.71,N,31,30.56,6.45,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_017129531.1,24328,Insecta,Insecta,Drosophila elegans,Fruit flies,PREDICTED: steroid hormone receptor ERR2 isoform X1,121.71,N,31,30.56,6.45,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_003436029.1,28139,Insecta,Insecta,Anopheles gambiae str. PEST,African malaria mosquito,AGAP002095-PB,120.94,N,31,30.56,6.4,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_033625708.1,24292,Asteroidea,Asteroidea,Asterias rubens,European starfish,hepatocyte nuclear factor 4-beta-like,120.94,N,31,30.56,6.4,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ATB56337.1,187,Arachnida,Arachnida,Panonychus citri,Citrus red mite,retinoid-X-receptor 1,120.55,N,31,30.56,6.38,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,RWS30537.1,14705,Arachnida,Arachnida,Leptotrombidium deliense,Scrub typhus mite,"Estrogen-related receptor gamma-like protein, partial",120.17,N,31,30.56,6.36,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_028393411.1,28760,Anthozoa,Anthozoa,Dendronephthya gigantea,Soft corals,nuclear receptor subfamily 4 group A member 1-like,120.17,N,31,30.56,6.36,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_015365917.1,17635,Insecta,Insecta,Diuraphis noxia,Russian wheat aphid,PREDICTED: nuclear hormone receptor FTZ-F1 beta,120.17,N,31,30.56,6.36,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,VVC40734.1,22242,Insecta,Insecta,Cinara cedri,Aphids,"Zinc finger, nuclear hormone receptor-type,Nuclear hormone receptor, ligand-binding",119.78,N,31,30.56,6.34,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ATO74592.1,236,Arachnida,Arachnida,Tetranychus cinnabarinus,Carmine spider mite,hepatocyte nuclear factor 4,119.78,N,31,30.56,6.34,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AEJ86349.1,204,Actinopteri,Actinopteri,Thunnus thynnus,Atlantic bluefin tuna,"estrogen receptor a, partial",119.78,N,31,30.56,6.34,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ANW09591.1,252,Insecta,Insecta,Monochamus alternatus,Japanese pine sawyer,USP,119.78,N,31,30.56,6.34,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF4514233.1,18567,Insecta,Insecta,Ephemera danica,Common burrower mayflies,hypothetical protein B566_EDAN019510,119.78,N,31,30.56,6.34,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CAB0029380.1,14108,Insecta,Insecta,Trichogramma brassicae,Trichogrammid wasps,unnamed protein product,119.78,N,31,30.56,6.34,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAM66778.1,80,Ascidiacea,Ascidiacea,Polyandrocarpa misakiensis,Sea squirts,retinoid X receptor,119.78,N,31,30.56,6.34,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,QJG66098.1,127,Xenoturbellidae,Xenoturbellidae,Xenoturbella bocki,Metazoans,retinoid X receptor,119.4,N,31,30.56,6.32,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_025208908.1,19134,Insecta,Insecta,Melanaphis sacchari,Aphids,nuclear hormone receptor FTZ-F1 beta,119.4,N,31,30.56,6.32,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026812477.1,19570,Insecta,Insecta,Rhopalosiphum maidis,Corn leaf aphid,nuclear hormone receptor FTZ-F1 beta,119.01,N,31,30.56,6.3,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAE9532977.1,18677,Insecta,Insecta,Aphis glycines,Soybean aphid,hypothetical protein AGLY_009405,119.01,N,31,30.56,6.3,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_027852196.1,19374,Insecta,Insecta,Aphis gossypii,Cotton aphid,nuclear hormone receptor FTZ-F1 beta,119.01,N,31,30.56,6.3,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KPM04557.1,10855,Arachnida,Arachnida,Sarcoptes scabiei,Mites and ticks,estrogen-related receptor gamma-like protein,118.63,N,31,30.56,6.28,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_031559605.1,27085,Anthozoa,Anthozoa,Actinia tenebrosa,Australian red waratah sea anemone,hepatocyte nuclear factor 4-gamma-like isoform X1,118.63,N,31,30.56,6.28,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_022165907.1,24372,Insecta,Insecta,Myzus persicae,Green peach aphid,nuclear hormone receptor FTZ-F1 beta,118.63,N,31,30.56,6.28,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,QIX02989.1,121,Actinopteri,Actinopteri,Clarias magur,Airbreathing catfishes,estrogen receptor beta,118.24,N,31,30.56,6.26,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_027056739.1,51030,Anthozoa,Anthozoa,Pocillopora damicornis,Cauliflower coral,hepatocyte nuclear factor 4-gamma-like,118.24,N,31,30.56,6.26,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_018797749.1,22766,Insecta,Insecta,Bactrocera latifrons,Fruit flies,"PREDICTED: steroid receptor seven-up, isoforms B/C isoform X1",117.86,N,31,30.56,6.24,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF0761840.1,32310,Insecta,Insecta,Aphis craccivora,Cowpea aphid,nuclear hormone receptor FTZ-F1 beta,117.86,N,31,30.56,6.24,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_028893569.1,24719,Insecta,Insecta,Zeugodacus cucurbitae,Melon fly,"steroid receptor seven-up, isoforms B/C isoform X1",117.86,N,31,30.56,6.24,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_011208146.1,23528,Insecta,Insecta,Bactrocera dorsalis,Oriental fruit fly,"steroid receptor seven-up, isoforms B/C isoform X1",117.86,N,31,30.56,6.24,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_025417508.1,21321,Insecta,Insecta,Sipha flava,Yellow sugarcane aphid,nuclear hormone receptor FTZ-F1 beta isoform X2,117.47,N,31,30.56,6.22,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_022808660.1,57612,Anthozoa,Anthozoa,Stylophora pistillata,Stony corals,hepatocyte nuclear factor 4-gamma-like isoform X2,117.47,N,31,30.56,6.22,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_029345434.1,31402,Insecta,Insecta,Acyrthosiphon pisum,Pea aphid,nuclear hormone receptor FTZ-F1 beta isoform X2,117.47,N,31,30.56,6.22,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AVR59237.1,786,Polychaeta,Polychaeta,Platynereis dumerilii,Dumeril's clam worm,retinoid X receptor,117.09,N,31,30.56,6.2,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_026687734.1,25809,Insecta,Insecta,Diaphorina citri,Asian citrus psyllid,"steroid hormone receptor ERR1-like, partial",116.7,N,31,30.56,6.18,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,RZC35155.1,15282,Insecta,Insecta,Asbolus verrucosus,Darkling ground beetles,"hepatocyte nuclear factor 4-gamma, partial",116.7,N,31,30.56,6.18,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ASL70607.1,385,Monogononta,Monogononta,Brachionus koreanus,Brachionus sp. 'koreanus',nuclear receptor,116.32,N,31,30.56,6.16,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAF85823.1,10,Arachnida,Arachnida,Liocheles australasiae,Scorpions,ultraspiracle,116.32,N,31,30.56,6.16,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_030373548.1,19868,Insecta,Insecta,Scaptodrosophila lebanonensis,Pomace flies,steroid receptor seven-up isoform X1,115.93,N,31,30.56,6.14,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BBG43847.1,223,Mammalia,Mammalia,Pseudorca crassidens,False killer whale,"retinoid X receptor, beta",115.93,N,31,30.56,6.14,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AVD96648.1,60,Holothuroidea,Holothuroidea,Holothuria glaberrima,Sea cucumbers,retinoic acid receptor isoform 1,115.93,N,31,30.56,6.14,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_015751727.1,34225,Anthozoa,Anthozoa,Acropora digitifera,Staghorn corals,PREDICTED: hepatocyte nuclear factor 4-gamma-like isoform X1,115.93,N,31,30.56,6.14,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ACD77184.1,31374,Insecta,Insecta,Callosobruchus maculatus,Cowpea weevil,putative hepatocyte nuclear factor 4 nuclear hormone receptor,115.93,N,31,30.56,6.14,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF2881561.1,27570,Insecta,Insecta,Ignelater luminosus,Click beetles,hypothetical protein ILUMI_24610,115.93,N,31,30.56,6.14,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AEZ64364.1,128,Insecta,Insecta,Diploptera punctata,Pacific beetle cockroach,ecdysone receptor isoform B1,115.55,N,31,30.56,6.12,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,QJG66094.1,1,Rhynchonellata,Rhynchonellata,Megathiris detruncata,Lampshells,retinoid X receptor,115.55,N,31,30.56,6.12,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_020896639.1,53890,Anthozoa,Anthozoa,Exaiptasia pallida,Sea anemones,hepatocyte nuclear factor 4-gamma isoform X2,115.55,N,31,30.56,6.12,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_013101025.1,22827,Insecta,Insecta,Stomoxys calcitrans,Stable fly,"PREDICTED: steroid receptor seven-up, isoforms B/C isoform X1",115.55,N,31,30.56,6.12,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,QGX48189.1,239,Bivalvia,Bivalvia,Sinonovacula constricta,Chinese razor clam,RXR,115.55,N,31,30.56,6.12,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AOZ21145.1,940,Malacostraca,Malacostraca,Procambarus clarkii,Red swamp crayfish,retinoid X receptor 3,115.16,N,31,30.56,6.1,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_012558006.1,23139,Hydrozoa,Hydrozoa,Hydra vulgaris,Hydras,PREDICTED: retinoic acid receptor RXR-alpha-B-like,115.16,N,31,30.56,6.1,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AIG59977.1,772,Actinopteri,Actinopteri,Megalobrama amblycephala,Wuchang bream,nr2f6a,114.78,N,31,30.56,6.08,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ATU47256.1,493,Insecta,Insecta,Rhynchophorus ferrugineus,Red palm weevil,"ecdysone receptor isoform A, partial",114.78,N,31,30.56,6.08,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_014243600.1,24331,Insecta,Insecta,Cimex lectularius,Bed bug,transcription factor HNF-4 homolog isoform X8,114.39,N,31,30.56,6.06,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_005179658.2,22176,Insecta,Insecta,Musca domestica,House fly,"PREDICTED: steroid receptor seven-up, isoforms B/C isoform X2",114.39,N,31,30.56,6.06,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,VDN02678.1,11025,Chromadorea,Chromadorea,Thelazia callipaeda,Thelaziosis nematode,unnamed protein product,114.39,N,31,30.56,6.06,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BBC78045.1,1,Bivalvia,Bivalvia,Nodularia douglasiae biwae,Bivalves,retinoid X receptor,114,N,31,30.56,6.04,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,QDK54779.1,81,Actinopteri,Actinopteri,Mugil incilis,Parassi mullet,"retinoic acid receptor RXR-alpha isoform X2, partial",114,N,31,30.56,6.04,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ADM73292.1,43,Enopla,Enopla,Paranemertes peregrina,Ribbon worms,estrogen-related receptor,114,N,31,30.56,6.04,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ADK60866.1,219,Gastropoda,Gastropoda,Haliotis diversicolor,Abalones,retinoid X receptor,113.62,N,31,30.56,6.02,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAF1328054.1,20500,Trematoda,Trematoda,Schistosoma haematobium,Blood flukes,putative hepatocyte nuclear factor 4-alpha (hnf-4-alpha),113.62,N,31,30.56,6.02,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AFT63499.1,23,Insecta,Insecta,Bradysia coprophila,Black fungus gnats,ultraspiracle,113.23,N,31,30.56,6,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAN21221.1,1721,Insecta,Insecta,Riptortus pedestris,Broad-headed bugs,hepatocyte nuclear factor 4,113.23,N,31,30.56,6,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ALO17612.1,420,Insecta,Insecta,Schistocerca gregaria,Desert locust,ecysone receptor isoform A,113.23,N,31,30.56,6,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_029203020.1,35597,Anthozoa,Anthozoa,Acropora millepora,Staghorn corals,retinoic acid receptor RXR-gamma-B-like,113.23,N,31,30.56,6,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ACG63787.1,230,Malacostraca,Malacostraca,Carcinus maenas,Green crab,retinoid X receptor splice variant RXR-I,113.23,N,31,30.56,6,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_020624574.1,32639,Anthozoa,Anthozoa,Orbicella faveolata,Stony corals,hepatocyte nuclear factor 4-gamma-like isoform X4,113.23,N,31,30.56,6,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,PRD31115.1,22873,Arachnida,Arachnida,Trichonephila clavipes,Eight-eyed spiders,Estrogen-related receptor gamma,112.85,N,31,30.56,5.98,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_018652848.1,26445,Trematoda,Trematoda,Schistosoma mansoni,Blood flukes,putative hepatocyte nuclear factor 4-alpha (hnf-4-alpha),112.85,N,31,30.56,5.98,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AGB34183.1,348,Malacostraca,Malacostraca,Callinectes sapidus,Blue crab,retinoid-X receptor-2,112.85,N,31,30.56,5.98,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAC80008.1,98,Cubozoa,Cubozoa,Tripedalia cystophora,Sea wasps,retinoic acid X receptor,112.85,N,31,30.56,5.98,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,QJG66097.1,288,Gymnolaemata,Gymnolaemata,Bugula neritina,Bryozoans,retinoid X receptor 2,112.46,N,31,30.56,5.96,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAA3675458.1,12923,Trematoda,Trematoda,Paragonimus westermani,Flukes,uncharacterized protein DEA37_0011783,112.46,N,31,30.56,5.96,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AEA29832.1,382,Malacostraca,Malacostraca,Homarus americanus,American lobster,retinoid X receptor splice variant,112.08,N,31,30.56,5.94,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_023291701.1,33825,Insecta,Insecta,Lucilia cuprina,Australian sheep blowfly,"steroid receptor seven-up, isoforms B/C isoform X2",112.08,N,31,30.56,5.94,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,TMW47646.1,15898,Insecta,Insecta,Sarcophaga bullata,Grey fleshfly,hypothetical protein DOY81_007273,112.08,N,31,30.56,5.94,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KAB7506312.1,14632,Malacostraca,Malacostraca,Armadillidium nasatum,Pillbugs,"Estrogen-related receptor gamma, partial",112.08,N,31,30.56,5.94,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ANF34832.1,198,Insecta,Insecta,Sitodiplosis mosellana,Orange wheat blossom midge,ultraspiracle protein,112.08,N,31,30.56,5.94,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,VIO89460.1,43408,Chromadorea,Chromadorea,Brugia malayi,Agent of lymphatic filariasis,"nuclear receptor RXR, putative",111.69,N,31,30.56,5.92,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CAB75361.1,726,Insecta,Insecta,Tenebrio molitor,Yellow mealworm,USP protein,111.69,N,31,30.56,5.92,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,VDM59965.1,13409,Chromadorea,Chromadorea,Angiostrongylus costaricensis,American rat lungworm,unnamed protein product,111.69,N,31,30.56,5.92,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CBY36412.1,31306,Appendicularia,Appendicularia,Oikopleura dioica,Appendicularians,unnamed protein product,111.69,N,31,30.56,5.92,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AFH35109.1,92,Actinopteri,Actinopteri,Siganus canaliculatus,White-spotted rabbitfish,hepatic nuclear factor 4 alpha,111.69,N,31,30.56,5.92,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,VVC93315.1,20058,Insecta,Insecta,Leptidea sinapis,"White, yellow and sulphur butterflies",unnamed protein product,111.31,N,31,30.56,5.89,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAD19828.1,1563,Insecta,Insecta,Locusta migratoria,Migratory locust,ecdysone receptor,111.31,N,31,30.56,5.89,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ACY76263.1,194,Aves,Aves,Cairina moschata,Muscovy duck,liver X receptor alpha protein,111.31,N,31,30.56,5.89,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,PIC20753.1,44576,Chromadorea,Chromadorea,Caenorhabditis nigoni,Caenorhabditis sp. 9 JU1325,hypothetical protein B9Z55_025837,110.92,N,31,30.56,5.87,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BBB46091.1,5,Gastropoda,Gastropoda,Babylonia japonica,Mesogastropoda,retinoid X receptor isoform 1,110.92,N,31,30.56,5.87,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KOB70144.1,17113,Insecta,Insecta,Operophtera brumata,Winter moth,"Hormone receptor 39, partial",110.54,N,31,30.56,5.85,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CAP27470.2,42510,Chromadorea,Chromadorea,Caenorhabditis briggsae,Caenorhabditis briggsae AF16,Protein CBR-NHR-91,110.54,N,31,30.56,5.85,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BBC78046.1,12,Bivalvia,Bivalvia,Corbicula sandai,Bivalves,retinoid X receptor,110.54,N,31,30.56,5.85,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,VDP16058.1,25608,Trematoda,Trematoda,Schistosoma margrebowiei,Blood flukes,unnamed protein product,110.54,N,31,30.56,5.85,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAB37686.1,25,Amphibia,Amphibia,Xenopus,Tongueless frogs,xCOUP-TF-B=proposed retinoid receptor-mediated transcriptional activation negative regulator ,110.54,N,31,30.56,5.85,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAM08268.1,251,Chromadorea,Chromadorea,Dirofilaria immitis,Dog heartworm nematode,nuclear receptor RXR,110.15,N,31,30.56,5.83,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AVP39744.1,23209,Trichoplacidae,Trichoplacidae,Trichoplax adhaerens,Placozoans,retinoid X receptor,110.15,N,31,30.56,5.83,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,QJG66093.1,2,Phoronopsis,Phoronopsis,Phoronopsis californica,Phoronid worms,retinoid X receptor,110.15,N,31,30.56,5.83,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AOX49913.1,24,Actinopteri,Actinopteri,Clevelandia ios,Arrow goby,"estrogen receptor gamma, partial",110.15,N,31,30.56,5.83,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,RDD45367.1,12174,Trichoplacidae,Trichoplacidae,Trichoplax sp. H2,Placozoans,Retinoic acid receptor RXR-gamma-A,110.15,N,31,30.56,5.83,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAG15181.1,70847,Chromadorea,Chromadorea,Caenorhabditis elegans,Roundworm,"nuclear receptor NHR-91, partial",110.15,N,31,30.56,5.83,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AMM72863.1,200,Actinopteri,Actinopteri,Acanthogobius hasta,Javeline goby,liver X receptor,109.77,N,31,30.56,5.81,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AJT60337.1,442,Malacostraca,Malacostraca,Cherax quadricarinatus,Australian red claw crayfish,retinoid X receptor,109.77,N,31,30.56,5.81,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,TGZ44693.1,20942,Trematoda,Trematoda,Opisthorchis felineus,Cat liver fluke,hypothetical protein CRM22_011202,109.77,N,31,30.56,5.81,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ACO44668.1,413,Malacostraca,Malacostraca,Crangon crangon,Crustaceans,retinoid X receptor isoform 1,109.77,N,31,30.56,5.81,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAP15929.1,69,Insecta,Insecta,Henosepilachna vigintioctopunctata,Ladybird beetles,ultraspiracle 2 isoform,109.38,N,31,30.56,5.79,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAL14642.1,374,Mammalia,Mammalia,Neovison vison,American mink,"retinoid X receptor beta, partial",109.38,N,31,30.56,5.79,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,EGT40508.1,31595,Chromadorea,Chromadorea,Caenorhabditis brenneri,Caenorhabditis n. sp. CB5161,CBN-NHR-91 protein,109,N,31,30.56,5.77,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,QAX24918.1,41,Polyplacophora,Polyplacophora,Acanthochitona crinita,Ischnochitonina,retinoid X receptor,109,N,31,30.56,5.77,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,VDK73104.1,10063,Chromadorea,Chromadorea,Litomosoides sigmodontis,Roundworms,unnamed protein product,109,N,31,30.56,5.77,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ASL70496.1,174,Monogononta,Monogononta,Brachionus rotundiformis,Rotifers,nuclear receptor,109,N,31,30.56,5.77,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AHA33388.1,476,Malacostraca,Malacostraca,Macrobrachium nipponense,Oriental river prawn,retinoid X receptor,108.61,N,31,30.56,5.75,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ALQ43971.1,107,Gastropoda,Gastropoda,Patella vulgata,Common limpet,retinoid X receptor,108.61,N,31,30.56,5.75,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ALP73432.1,176,Actinopteri,Actinopteri,Acipenser gueldenstaedtii,Russian sturgeon,liver X recepor,108.61,N,31,30.56,5.75,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAF75376.1,836,Malacostraca,Malacostraca,Penaeus japonicus,Penaeid shrimps,retinoid X receptor,108.61,N,31,30.56,5.75,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAB03286.1,211,Mammalia,Mammalia,Tamias sibiricus,Siberian chipmunk,hepatocyte nuclear factor 4,108.61,N,31,30.56,5.75,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,APP91326.1,952,Malacostraca,Malacostraca,Penaeus monodon,Black tiger shrimp,retinoid X receptor,108.23,N,31,30.56,5.73,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,P18514.1,423,Amphibia,Amphibia,Notophthalmus viridescens,Eastern newt,RecName: Full=Retinoic acid receptor alpha; Short=RAR-alpha; AltName: Full=Nuclear receptor subfamily 1 group B member 1,108.23,N,31,30.56,5.73,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAD23397.1,343,Aves,Aves,Coturnix coturnix,Common quail,retinoic acid receptor beta-1,108.23,N,31,30.56,5.73,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AGX85511.1,251,Malacostraca,Malacostraca,Scylla serrata,Giant mud crab,"retinoid X receptor, partial",108.23,N,31,30.56,5.73,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ACN78601.1,314,Malacostraca,Malacostraca,Penaeus chinensis,Fleshy prawn,retinoid X receptor 1,108.23,N,31,30.56,5.73,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,RCN46524.1,30338,Chromadorea,Chromadorea,Ancylostoma caninum,Dog hookworm,Ligand-binding domain of nuclear hormone receptor,107.84,N,31,30.56,5.71,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ADT64887.1,178,Insecta,Insecta,Gryllus firmus,Field crickets,ecdysone receptor,107.46,N,31,30.56,5.69,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AFF18489.1,1629,Rhabditophora,Rhabditophora,Schmidtea mediterranea,Freshwater planarian,HNF4,107.46,N,31,30.56,5.69,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,EYB91076.1,81567,Chromadorea,Chromadorea,Ancylostoma ceylanicum,Roundworms,hypothetical protein Y032_0211g2217,107.46,N,31,30.56,5.69,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAC15588.1,115,Arachnida,Arachnida,Amblyomma americanum,Lone Star tick,retinoid X receptor,107.46,N,31,30.56,5.69,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_013297850.1,38484,Chromadorea,Chromadorea,Necator americanus,Roundworms,Ligand-binding domain of nuclear hormone receptor,107.07,N,31,30.56,5.67,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AGS58253.1,628,Actinopteri,Actinopteri,Clarias batrachus,Walking catfish,retinoid X receptor beta b,107.07,N,31,30.56,5.67,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,VDO41287.1,21560,Chromadorea,Chromadorea,Haemonchus placei,Roundworms,unnamed protein product,107.07,N,31,30.56,5.67,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAM63276.2,554,Insecta,Insecta,Periplaneta americana,American cockroach,retinoid X receptor,107.07,N,31,30.56,5.67,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CDW54682.1,9847,Enoplea,Enoplea,Trichuris trichiura,Human whipworm,COUP transcription factor 1,107.07,N,31,30.56,5.67,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KHJ45749.1,38519,Enoplea,Enoplea,Trichuris suis,Pig whipworm,"zinc finger, C4 type",106.69,N,31,30.56,5.65,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,QJG66095.1,6,Polychaeta,Polychaeta,Bonellia viridis,Spoonworms,retinoid X receptor,106.69,N,31,30.56,5.65,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAC32789.3,103,Malacostraca,Malacostraca,Leptuca pugilator,Atlantic sand fiddler crab,retinoid X receptor homolog,106.69,N,31,30.56,5.65,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAZ20369.1,69,Malacostraca,Malacostraca,Gecarcinus lateralis,Blackback land crab,RXRb nuclear hormone receptor,106.69,N,31,30.56,5.65,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AMY62087.1,719,Actinopteri,Actinopteri,Siniperca chuatsi,Mandarin fish,"oxysterols receptor LXR-alpha, partial",106.3,N,31,30.56,5.63,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAF91724.1,129,Arachnida,Arachnida,Ornithodoros moubata,Relapsing fever ticks,retinoid X receptor,106.3,N,31,30.56,5.63,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_024349436.1,36472,Cestoda,Cestoda,Echinococcus granulosus,Tapeworms,Hepatocyte nuclear factor 4-alpha,106.3,N,31,30.56,5.63,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,VBB33223.1,10213,Chromadorea,Chromadorea,Acanthocheilonema viteae,Roundworms,"unnamed protein product, partial",106.3,N,31,30.56,5.63,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AQZ36539.1,38,Bivalvia,Bivalvia,Argopecten irradians irradians,Bay scallop,"retinoid X receptor isoform alpha, partial",105.92,N,31,30.56,5.61,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,RJW64856.1,28618,Trematoda,Trematoda,Clonorchis sinensis,Oriental liver fluke,Hepatocyte nuclear factor 4-alpha,105.92,N,31,30.56,5.61,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AEB21388.1,148,Hydrozoa,Hydrozoa,Hydractinia echinata,Hydractinia sp. OM-2002,"COUP-TF protein, partial",105.92,N,31,30.56,5.61,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KRT86430.1,8838,Insecta,Insecta,Oryctes borbonicus,"Rhinoceros beetles, hercules beetles & elephant beetles","nuclear receptor, partial",105.53,N,31,30.56,5.59,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KRZ93024.1,18432,Enoplea,Enoplea,Trichinella sp. T8,Roundworms,Nuclear receptor subfamily 4 group A member 1,105.14,N,31,30.56,5.57,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAX37291.1,5,Insecta,Insecta,Xenos peckii,Twisted-wing parasites,nuclear receptor usp/RXR,105.14,N,31,30.56,5.57,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AEX68678.1,156,Actinopteri,Actinopteri,Acanthopagrus latus,Yellowfin seabream,"estrogen receptor beta1, partial",105.14,N,31,30.56,5.57,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AGO28202.1,219,Hydrozoa,Hydrozoa,Clytia hemisphaerica,Hydrozoans,retinoid X receptor,104.76,N,31,30.56,5.55,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CAB3399873.1,15165,Chromadorea,Chromadorea,Caenorhabditis bovis,Roundworms,unnamed protein product,104.76,N,31,30.56,5.55,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AAO18151.1,95,Chilopoda,Chilopoda,Lithobius forficatus,Centipedes,"USP-RXR, partial",104.76,N,31,30.56,5.55,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ACK57879.1,260,Insecta,Insecta,Anthonomus grandis,Boll weevil,"ecdysteroid receptor, partial",104.76,N,31,30.56,5.55,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_009166620.1,43605,Trematoda,Trematoda,Opisthorchis viverrini,Southeast Asian liver fluke,hypothetical protein T265_03785,104.76,N,31,30.56,5.55,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AIE45497.1,3576,Hexanauplia,Hexanauplia,Lepeophtheirus salmonis,Salmon louse,retinoid X receptor,104.76,N,31,30.56,5.55,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KRX43734.1,18644,Enoplea,Enoplea,Trichinella murrelli,Trichinella sp. T5,Nuclear receptor subfamily 4 group A member 1,104.76,N,31,30.56,5.55,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AHF52925.1,192,Insecta,Insecta,Colaphellus bowringi,Leaf beetles,ecdysone receptor isoform A,104.76,N,31,30.56,5.55,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,VDO25925.1,24241,Chromadorea,Chromadorea,Onchocerca flexuosa,Roundworms,unnamed protein product,104.76,N,31,30.56,5.55,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KRY51624.1,20888,Enoplea,Enoplea,Trichinella britovi,Roundworms,Nuclear receptor subfamily 4 group A member 1,104.38,N,31,30.56,5.53,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,VDL76123.1,22832,Chromadorea,Chromadorea,Nippostrongylus brasiliensis,Roundworms,unnamed protein product,104.38,N,31,30.56,5.53,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,VDK73764.1,13785,Chromadorea,Chromadorea,Onchocerca ochengi,Roundworms,unnamed protein product,103.99,N,31,30.56,5.51,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KRY28608.1,35911,Enoplea,Enoplea,Trichinella spiralis,Roundworms,Nuclear receptor subfamily 2 group F member 1-A,103.99,N,31,30.56,5.51,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,XP_003109326.1,141982,Chromadorea,Chromadorea,Caenorhabditis remanei,Roundworms,CRE-NHR-69 protein,103.99,N,31,30.56,5.51,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KRZ50646.1,27811,Enoplea,Enoplea,Trichinella nativa,Roundworms,Nuclear receptor subfamily 2 group F member 1-A,103.99,N,31,30.56,5.51,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KRX25312.1,17020,Enoplea,Enoplea,Trichinella nelsoni,Roundworms,Nuclear receptor subfamily 4 group A member 1,103.99,N,31,30.56,5.51,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KRX67387.1,18540,Enoplea,Enoplea,Trichinella sp. T9,Roundworms,Nuclear receptor subfamily 4 group A member 1,103.99,N,31,30.56,5.51,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KRX80233.1,19492,Enoplea,Enoplea,Trichinella sp. T6,Roundworms,Nuclear receptor subfamily 2 group F member 1-A,103.99,N,31,30.56,5.51,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KRY18006.1,19506,Enoplea,Enoplea,Trichinella patagoniensis,Trichinella sp. SJK-2011,Nuclear receptor subfamily 2 group F member 1-A,103.99,N,31,30.56,5.51,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ABB00308.1,4,Insecta,Insecta,Scaptotrigona depilis,Stingless bees,ultraspiracle protein,103.99,N,31,30.56,5.51,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ADF36184.1,207,Actinopteri,Actinopteri,Micropterus dolomieu,Smallmouth bass,"estrogen receptor alpha, partial",103.99,N,31,30.56,5.51,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,PAA60438.1,49034,Rhabditophora,Rhabditophora,Macrostomum lignano,Flatworms,hypothetical protein BOX15_Mlig018226g1,103.61,N,31,30.56,5.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KRZ67103.1,16253,Enoplea,Enoplea,Trichinella papuae,Roundworms,Nuclear receptor subfamily 2 group F member 1-A,103.61,N,31,30.56,5.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CAB0008547.1,24767,Insecta,Insecta,Nesidiocoris tenuis,Plant bugs,unnamed protein product,103.61,N,31,30.56,5.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CAF21856.1,59,Insecta,Insecta,Periplaneta australasiae,Australian cockroach,"ultraspiracle protein homolog of mammalian RXR, partial",103.61,N,31,30.56,5.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CAF21860.1,58,Insecta,Insecta,Blatta orientalis,Oriental cockroach,"ultraspiracle protein homolog of mammalian RXR, partial",103.61,N,31,30.56,5.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AGT42223.1,185,Scyphozoa,Scyphozoa,Aurelia aurita,Moon jelly,retinoid X receptor,103.61,N,31,30.56,5.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,PAV67724.1,38237,Chromadorea,Chromadorea,Diploscapter pachys,Roundworms,hypothetical protein WR25_04235,103.61,N,31,30.56,5.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CAF21857.1,61,Insecta,Insecta,Periplaneta brunnea,Brown cockroach,"ultraspiracle protein homolog of mammalian RXR, partial",103.61,N,31,30.56,5.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KRY65790.1,81560,Enoplea,Enoplea,Trichinella pseudospiralis,Roundworms,Nuclear receptor subfamily 2 group F member 1-A,103.61,N,31,30.56,5.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CAH59197.1,395,Arachnida,Arachnida,Cupiennius salei,Wandering spiders,"seven-up protein, partial",103.61,N,31,30.56,5.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,KRZ03223.1,19285,Enoplea,Enoplea,Trichinella zimbabwensis,Roundworms,Nuclear receptor subfamily 2 group F member 1-A,103.61,N,31,30.56,5.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CAF21858.1,60,Insecta,Insecta,Periplaneta fuliginosa,Smokybrown cockroach,"ultraspiracle protein homolog of mammalian RXR, partial",103.61,N,31,30.56,5.49,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CAF21859.1,6,Insecta,Insecta,Periplaneta japonica,American cockroach family,"ultraspiracle protein homolog of mammalian RXR, partial",103.22,N,31,30.56,5.47,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,VDM65280.1,20957,Chromadorea,Chromadorea,Strongylus vulgaris,Bloodworm,unnamed protein product,103.22,N,31,30.56,5.47,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,OXU30115.1,16087,Insecta,Insecta,Trichomalopsis sarcophagae,"Wasps, ants, and bees",hypothetical protein TSAR_003791,102.83,N,31,30.56,5.45,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ACZ54253.1,533,Mammalia,Mammalia,Stenella coeruleoalba,Striped dolphin,"estrogen receptor 1, partial",102.45,N,31,30.56,5.43,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,OZG24059.1,25622,Chromadorea,Chromadorea,Caenorhabditis latens,Caenorhabditis sp. 23 KK-2011,"hypothetical protein FL83_01766, partial",102.45,N,31,30.56,5.43,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,VDO61808.1,27549,Chromadorea,Chromadorea,Heligmosomoides polygyrus,Roundworms,unnamed protein product,102.45,N,31,30.56,5.43,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,CDJ80691.1,19605,Chromadorea,Chromadorea,Haemonchus contortus,Barber pole worm,Zinc finger and Nuclear hormone receptor domain containing protein,102.06,N,31,30.56,5.41,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AIN41185.1,230,Hyperoartia,Hyperoartia,Lampetra fluviatilis,European river lamprey,"retinoid acid receptor 4, partial",102.06,N,31,30.56,5.41,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,VDM44364.1,38973,Chromadorea,Chromadorea,Toxocara canis,Dog roundworm,unnamed protein product,101.68,N,31,30.56,5.38,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAH03349.1,58,Hyperoartia,Hyperoartia,Mordacia mordax,Southern lamprey,"retinoic acid receptor 2, partial",101.68,N,31,30.56,5.38,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,VDO95922.1,13207,Enoplea,Enoplea,Soboliphyme baturini,Roundworms,unnamed protein product,101.68,N,31,30.56,5.38,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,BAH03355.1,61,Chondrichthyes,Chondrichthyes,Callorhinchus callorynchus,Elephantfish,"retinoic acid receptor beta, partial",100.52,N,31,30.56,5.32,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,VDK43959.1,21525,Chromadorea,Chromadorea,Anisakis simplex,Herring worm,unnamed protein product,100.52,N,31,30.56,5.32,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,VDO31195.1,15878,Chromadorea,Chromadorea,Brugia timori,Roundworms,unnamed protein product,100.14,N,31,30.56,5.3,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ABS00396.1,262,Testudines,Testudines,Caretta caretta,Loggerhead turtle,"estrogen receptor a, partial",100.14,N,31,30.56,5.3,Y,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,VDN21493.1,27183,Chromadorea,Chromadorea,Gongylonema pulchrum,Roundworms,unnamed protein product,98.21,N,31,30.56,5.2,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,ALP06129.1,2,Malacostraca,Malacostraca,Oziotelphusa wagrakarowensis,Short-tailed crabs,"retinoid X receptor, partial",97.83,N,31,30.56,5.18,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,VDN57622.1,11204,Chromadorea,Chromadorea,Dracunculus medinensis,Guinea worm,unnamed protein product,97.83,N,31,30.56,5.18,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,AGW82186.1,8,Malacostraca,Malacostraca,Oziotelphusa senex,Short-tailed crabs,"retinoid X receptor, partial",97.06,N,31,30.56,5.14,N,2021 04 23 13:27:43,Y,Explore in ECOTOX
+5,PIO68126.1,25764,Chromadorea,Chromadorea,Teladorsagia circumcincta,Roundworms,"zinc finger, C4 type, partial",96.29,N,31,30.56,5.1,N,2021 04 23 13:27:43,Y,Explore in ECOTOX

@@ -1,0 +1,830 @@
+Data Version,NCBI Accession,Protein Count,Taxonomic Group,Filtered Taxonomic Group,Scientific Name,Common Name,Protein Name,BLASTp Bitscore,Ortholog Candidate,Ortholog Count,Cut-off,Percent Similarity,Susceptibility Prediction,Analysis Completed,Eukaryote,ECOTOX
+5,P29274.2,1802968,Mammalia,Mammalia,Homo sapiens,Human,RecName: Full=Adenosine receptor A2a,842.03,Y,114,26.53,100,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_003317189.1,171847,Mammalia,Mammalia,Pan troglodytes,Chimpanzee,adenosine receptor A2a,839.72,Y,114,26.53,99.73,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_024782896.1,51215,Mammalia,Mammalia,Pan paniscus,Pygmy chimpanzee,adenosine receptor A2a,839.72,Y,114,26.53,99.73,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_009232469.2,141140,Mammalia,Mammalia,Pongo abelii,Sumatran orangutan,adenosine receptor A2a,833.94,Y,114,26.53,99.04,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_031995324.1,54502,Mammalia,Mammalia,Hylobates moloch,Silvery gibbon,LOW QUALITY PROTEIN: adenosine receptor A2a,833.56,Y,114,26.53,98.99,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,EHH65694.1,97446,Mammalia,Mammalia,Macaca fascicularis,Crab-eating macaque,"hypothetical protein EGM_02512, partial",831.63,Y,114,26.53,98.76,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_033058581.1,63302,Mammalia,Mammalia,Trachypithecus francoisi,Francois's langur,LOW QUALITY PROTEIN: adenosine receptor A2a,831.63,Y,114,26.53,98.76,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_011781325.1,38676,Mammalia,Mammalia,Colobus angolensis palliatus,Angolan colobus,PREDICTED: adenosine receptor A2a,829.71,Y,114,26.53,98.54,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_023053589.3,55377,Mammalia,Mammalia,Piliocolobus tephrosceles,Ugandan red Colobus,adenosine receptor A2a isoform X1,829.71,Y,114,26.53,98.54,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_017745285.1,49687,Mammalia,Mammalia,Rhinopithecus bieti,Black snub-nosed monkey,PREDICTED: adenosine receptor A2a,827.01,Y,114,26.53,98.22,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010374609.1,53902,Mammalia,Mammalia,Rhinopithecus roxellana,Golden snub-nosed monkey,adenosine receptor A2a,827.01,Y,114,26.53,98.22,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_011894065.1,66421,Mammalia,Mammalia,Cercocebus atys,Sooty mangabey,PREDICTED: adenosine receptor A2a isoform X1,826.62,Y,114,26.53,98.17,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032112513.1,62479,Mammalia,Mammalia,Sapajus apella,Tufted capuchin,LOW QUALITY PROTEIN: adenosine receptor A2a,803.51,Y,114,26.53,95.43,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_012604767.1,59986,Mammalia,Mammalia,Microcebus murinus,Gray mouse lemur,adenosine receptor A2a,803.13,Y,114,26.53,95.38,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_019322641.1,58569,Mammalia,Mammalia,Panthera pardus,Leopard,PREDICTED: adenosine receptor A2a isoform X1,795.42,Y,114,26.53,94.46,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_025789439.1,23618,Mammalia,Mammalia,Puma concolor,Puma,adenosine receptor A2a isoform X1,793.88,Y,114,26.53,94.28,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_007092364.1,29960,Mammalia,Mammalia,Panthera tigris altaica,Amur tiger,PREDICTED: adenosine receptor A2a isoform X1,793.88,Y,114,26.53,94.28,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,VFV45560.1,31243,Mammalia,Mammalia,Lynx pardinus,Spanish lynx,adenosine receptor a2a,793.88,Y,114,26.53,94.28,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_014933087.1,56435,Mammalia,Mammalia,Acinonyx jubatus,Cheetah,adenosine receptor A2a isoform X1,793.88,Y,114,26.53,94.28,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_003994883.1,57491,Mammalia,Mammalia,Felis catus,Domestic cat,adenosine receptor A2a isoform X1,793.11,Y,114,26.53,94.19,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_003803187.1,33085,Mammalia,Mammalia,Otolemur garnettii,Small-eared galago,adenosine receptor A2a,790.03,Y,114,26.53,93.82,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_025838472.1,38429,Mammalia,Mammalia,Vulpes vulpes,Red fox,adenosine receptor A2a,789.64,Y,114,26.53,93.78,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,NP_001003278.1,67615,Mammalia,Mammalia,Canis lupus familiaris,Dog,adenosine receptor A2a,788.1,Y,114,26.53,93.6,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032253500.1,45571,Mammalia,Mammalia,Phoca vitulina,Harbor seal,adenosine receptor A2a,785.79,Y,114,26.53,93.32,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF3813773.1,19789,Mammalia,Mammalia,Mirounga leonina,Southern elephant seal,hypothetical protein GH733_018305,782.33,Y,114,26.53,92.91,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_027432265.1,59271,Mammalia,Mammalia,Zalophus californianus,California sea lion,adenosine receptor A2a,781.56,Y,114,26.53,92.82,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_004400602.1,31381,Mammalia,Mammalia,Odobenus rosmarus divergens,Pacific walrus,PREDICTED: adenosine receptor A2a,781.56,Y,114,26.53,92.82,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_027949960.1,40113,Mammalia,Mammalia,Eumetopias jubatus,Steller sea lion,adenosine receptor A2a,781.56,Y,114,26.53,92.82,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_025713049.1,46265,Mammalia,Mammalia,Callorhinus ursinus,Northern fur seal,adenosine receptor A2a,781.56,Y,114,26.53,92.82,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_006750447.1,40460,Mammalia,Mammalia,Leptonychotes weddellii,Weddell seal,adenosine receptor A2a,778.47,Y,114,26.53,92.45,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032954444.1,48727,Mammalia,Mammalia,Rhinolophus ferrumequinum,Greater horseshoe bat,adenosine receptor A2a,777.32,Y,114,26.53,92.31,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF0886282.1,17459,Mammalia,Mammalia,Crocuta crocuta,Spotted hyena,"AA2AR protein, partial",772.7,Y,114,26.53,91.77,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_021543566.1,28446,Mammalia,Mammalia,Neomonachus schauinslandi,Hawaiian monk seal,adenosine receptor A2a,772.31,Y,114,26.53,91.72,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,EFB19472.1,73097,Mammalia,Mammalia,Ailuropoda melanoleuca,Giant panda,"hypothetical protein PANDA_014549, partial",770.77,Y,114,26.53,91.54,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_004742510.1,48578,Mammalia,Mammalia,Mustela putorius furo,Domestic ferret,PREDICTED: adenosine receptor A2a,770.77,Y,114,26.53,91.54,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032165266.1,60642,Mammalia,Mammalia,Mustela erminea,Ermine,adenosine receptor A2a,770.77,Y,114,26.53,91.54,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_015355788.1,31063,Mammalia,Mammalia,Marmota marmota marmota,Alpine marmot,PREDICTED: adenosine receptor A2a,766.15,Y,114,26.53,90.99,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_027779159.1,37707,Mammalia,Mammalia,Marmota flaviventris,Yellow-bellied marmot,adenosine receptor A2a,766.15,Y,114,26.53,90.99,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,VTJ80194.1,42055,Mammalia,Mammalia,Marmota monax,Woodchuck,Hypothetical predicted protein,766.15,Y,114,26.53,90.99,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_015981643.1,49042,Mammalia,Mammalia,Rousettus aegyptiacus,Egyptian rousette,PREDICTED: adenosine receptor A2a,764.99,Y,114,26.53,90.85,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032731929.1,48403,Mammalia,Mammalia,Lontra canadensis,Northern American river otter,adenosine receptor A2a,764.99,Y,114,26.53,90.85,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_022351536.1,36593,Mammalia,Mammalia,Enhydra lutris kenyoni,Sea otter,adenosine receptor A2a,764.61,Y,114,26.53,90.8,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_011354315.1,43865,Mammalia,Mammalia,Pteropus vampyrus,Large flying fox,adenosine receptor A2a isoform X1,764.22,Y,114,26.53,90.76,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_012927143.1,82643,Mammalia,Mammalia,Heterocephalus glaber,Naked mole-rat,adenosine receptor A2a,762.3,Y,114,26.53,90.53,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_030692070.1,54641,Mammalia,Mammalia,Globicephala melas,Long-finned pilot whale,adenosine receptor A2a,759.21,Y,114,26.53,90.16,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_024900321.1,59370,Mammalia,Mammalia,Pteropus alecto,Black flying fox,LOW QUALITY PROTEIN: adenosine receptor A2a,757.67,Y,114,26.53,89.98,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_024619654.1,38185,Mammalia,Mammalia,Neophocaena asiaeorientalis asiaeorientalis,Yangtze finless porpoise,adenosine receptor A2a,757.67,Y,114,26.53,89.98,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_028383748.1,33129,Mammalia,Mammalia,Phyllostomus discolor,Pale spear-nosed bat,adenosine receptor A2a,756.9,Y,114,26.53,89.89,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,TEA23467.1,19920,Mammalia,Mammalia,Sousa chinensis,Indo-pacific humpbacked dolphin,"hypothetical protein DBR06_SOUSAS910146, partial",756.52,Y,114,26.53,89.84,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_007451101.1,27194,Mammalia,Mammalia,Lipotes vexillifer,Yangtze River dolphin,PREDICTED: adenosine receptor A2a,755.75,Y,114,26.53,89.75,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_004276104.1,59479,Mammalia,Mammalia,Orcinus orca,Killer whale,adenosine receptor A2a,755.75,Y,114,26.53,89.75,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_004319113.1,56999,Mammalia,Mammalia,Tursiops truncatus,Common bottlenose dolphin,adenosine receptor A2a,755.75,Y,114,26.53,89.75,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_024422915.1,30697,Mammalia,Mammalia,Desmodus rotundus,Common vampire bat,adenosine receptor A2a,754.21,Y,114,26.53,89.57,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,NP_001075366.1,67727,Mammalia,Mammalia,Equus caballus,Horse,adenosine receptor A2a,753.05,Y,114,26.53,89.43,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_004680972.1,29269,Mammalia,Mammalia,Condylura cristata,Star-nosed mole,PREDICTED: adenosine receptor A2a,752.67,Y,114,26.53,89.39,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_008534905.1,38537,Mammalia,Mammalia,Equus przewalskii,Przewalski's horse,PREDICTED: adenosine receptor A2a,751.89,Y,114,26.53,89.3,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_014721771.1,42730,Mammalia,Mammalia,Equus asinus,Ass,PREDICTED: adenosine receptor A2a,751.12,Y,114,26.53,89.2,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_014652825.1,33628,Mammalia,Mammalia,Ceratotherium simum simum,Southern white rhinoceros,PREDICTED: adenosine receptor A2a,746.12,Y,114,26.53,88.61,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_004467752.1,38736,Mammalia,Mammalia,Dasypus novemcinctus,Nine-banded armadillo,adenosine receptor A2a,743.81,Y,114,26.53,88.33,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_006213343.1,44301,Mammalia,Mammalia,Vicugna pacos,Alpaca,adenosine receptor A2a,743.04,Y,114,26.53,88.24,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_005007262.1,49128,Mammalia,Mammalia,Cavia porcellus,Domestic guinea pig,adenosine receptor A2a isoform X1,732.63,Y,114,26.53,87.01,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_004607491.1,24062,Mammalia,Mammalia,Sorex araneus,European shrew,PREDICTED: adenosine receptor A2a,686.41,Y,114,26.53,81.52,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_005360243.1,37992,Mammalia,Mammalia,Microtus ochrogaster,Prairie vole,adenosine receptor A2a,660.22,Y,114,26.53,78.41,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_025123029.1,60996,Mammalia,Mammalia,Bubalus bubalis,Water buffalo,LOW QUALITY PROTEIN: adenosine receptor A2a,624.78,Y,114,26.53,74.2,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_006901488.1,25292,Mammalia,Mammalia,Elephantulus edwardii,Cape elephant shrew,PREDICTED: adenosine receptor A2a,624.39,Y,114,26.53,74.15,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_027421953.1,54423,Mammalia,Mammalia,Bos indicus x Bos taurus,Hybrid cattle,LOW QUALITY PROTEIN: adenosine receptor A2a,615.92,Y,114,26.53,73.15,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_014388841.1,60290,Mammalia,Mammalia,Myotis brandtii,Brandt's bat,"PREDICTED: adenosine receptor A2a, partial",585.49,Y,114,26.53,69.53,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_028913685.1,43718,Mammalia,Mammalia,Ornithorhynchus anatinus,Platypus,adenosine receptor A2a,555.06,Y,114,26.53,65.92,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_009278307.1,32685,Aves,Aves,Aptenodytes forsteri,Emperor penguin,PREDICTED: adenosine receptor A2a,523.86,Y,114,26.53,62.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_017669935.1,36875,Aves,Aves,Lepidothrix coronata,Blue-crowned manakin,PREDICTED: adenosine receptor A2a,521.93,Y,114,26.53,61.98,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_009329130.1,29764,Aves,Aves,Pygoscelis adeliae,Adelie penguin,PREDICTED: adenosine receptor A2a,521.16,Y,114,26.53,61.89,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010215707.1,31367,Aves,Aves,Tinamus guttatus,White-throated tinamou,PREDICTED: adenosine receptor A2a,520,Y,114,26.53,61.76,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_009693804.1,27846,Aves,Aves,Cariama cristata,Red-legged seriema,PREDICTED: adenosine receptor A2a,518.85,Y,114,26.53,61.62,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_021405543.1,43980,Aves,Aves,Lonchura striata domestica,Bengalese finch,adenosine receptor A2a,518.85,Y,114,26.53,61.62,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_030141441.1,45272,Aves,Aves,Taeniopygia guttata,Zebra finch,adenosine receptor A2a isoform X1,518.85,Y,114,26.53,61.62,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_014140471.1,30432,Aves,Aves,Falco cherrug,Saker falcon,adenosine receptor A2a,518.08,Y,114,26.53,61.53,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_013151242.1,31320,Aves,Aves,Falco peregrinus,Peregrine falcon,adenosine receptor A2a,518.08,Y,114,26.53,61.53,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_025893489.1,21536,Aves,Aves,Nothoprocta perdicaria,Tinamous,adenosine receptor A2a,518.08,Y,114,26.53,61.53,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_009958242.1,28860,Aves,Aves,Leptosomus discolor,Cuckoo roller,PREDICTED: adenosine receptor A2a-like,517.69,Y,114,26.53,61.48,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_008940709.1,26799,Aves,Aves,Merops nubicus,Carmine bee-eater,PREDICTED: adenosine receptor A2a-like,516.92,Y,114,26.53,61.39,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_021268528.1,43411,Aves,Aves,Numida meleagris,Helmeted guineafowl,adenosine receptor A2a,516.54,Y,114,26.53,61.34,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010181409.1,29427,Aves,Aves,Mesitornis unicolor,Brown roatelo,PREDICTED: adenosine receptor A2a,516.15,Y,114,26.53,61.3,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_013800342.1,22840,Aves,Aves,Apteryx mantelli mantelli,North Island brown kiwi,PREDICTED: adenosine receptor A2a,515.38,Y,114,26.53,61.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_006019985.1,43349,Crocodylia,Crocodylia,Alligator sinensis,Chinese alligator,adenosine receptor A2a,515,Y,114,26.53,61.16,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010718598.1,30531,Aves,Aves,Meleagris gallopavo,Turkey,adenosine receptor A2a,515,Y,114,26.53,61.16,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032657199.1,44376,Testudines,Testudines,Chelonoidis abingdonii,Abingdon island giant tortoise,adenosine receptor A2a,512.69,Y,114,26.53,60.89,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_030439163.1,50866,Testudines,Testudines,Gopherus evgoodei,Goodes thornscrub tortoise,adenosine receptor A2a,512.3,Y,114,26.53,60.84,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_026516326.1,34211,Testudines,Testudines,Terrapene carolina triunguis,Three-toed box turtle,adenosine receptor A2a,511.53,Y,114,26.53,60.75,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_005288654.1,46668,Testudines,Testudines,Chrysemys picta bellii,Western painted turtle,adenosine receptor A2a,509.99,Y,114,26.53,60.57,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_006136380.1,39116,Testudines,Testudines,Pelodiscus sinensis,Chinese soft-shelled turtle,adenosine receptor A2a,506.14,Y,114,26.53,60.11,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_026125827.1,98570,Actinopteri,Actinopteri,Carassius auratus,Goldfish,adenosine receptor A2b-like isoform X1,479.56,Y,114,26.53,56.95,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_023689545.1,55295,Actinopteri,Actinopteri,Paramormyrops kingsleyae,Elephantfishes,adenosine receptor A2a-like,478.79,Y,114,26.53,56.86,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_007900113.1,32969,Chondrichthyes,Chondrichthyes,Callorhinchus milii,Elephant shark,PREDICTED: adenosine receptor A2a,474.17,Y,114,26.53,56.31,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF1388838.1,24537,Actinopteri,Actinopteri,Perca fluviatilis,European perch,hypothetical protein PFLUV_G00066870,473.78,Y,114,26.53,56.27,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_028433798.1,65046,Actinopteri,Actinopteri,Perca flavescens,Yellow perch,adenosine receptor A2a,473.01,Y,114,26.53,56.17,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,TKS77989.1,28544,Actinopteri,Actinopteri,Collichthys lucidus,Big head croaker,Adenosine receptor A2a,472.63,Y,114,26.53,56.13,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_003974772.2,49042,Actinopteri,Actinopteri,Takifugu rubripes,Torafugu,adenosine receptor A2a isoform X1,465.31,Y,114,26.53,55.26,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_020491994.1,36730,Actinopteri,Actinopteri,Labrus bergylta,Ballan wrasse,adenosine receptor A2a isoform X1,464.92,Y,114,26.53,55.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_024130497.1,42773,Actinopteri,Actinopteri,Oryzias melastigma,Indian medaka,adenosine receptor A2a-like,464.54,Y,114,26.53,55.17,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_030593463.1,41124,Actinopteri,Actinopteri,Archocentrus centrarchus,Flier cichlid,adenosine receptor A2a,463.77,Y,114,26.53,55.08,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_018412941.1,24943,Amphibia,Amphibia,Nanorana parkeri,Frogs and toads,PREDICTED: adenosine receptor A2a isoform X1,463.77,Y,114,26.53,55.08,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_007435444.1,32857,Lepidosauria,Lepidosauria,Python bivittatus,Burmese python,adenosine receptor A2a-like,463.77,Y,114,26.53,55.08,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_029914990.1,38160,Actinopteri,Actinopteri,Myripristis murdjan,Pinecone soldierfish,adenosine receptor A2a-like,463,Y,114,26.53,54.99,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_006797565.1,31419,Actinopteri,Actinopteri,Neolamprologus brichardi,Lyretail cichlid,PREDICTED: adenosine receptor A2a-like,460.69,Y,114,26.53,54.71,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_030623818.1,30134,Actinopteri,Actinopteri,Chanos chanos,Milkfish,adenosine receptor A2b-like,458.37,Y,114,26.53,54.44,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_034452355.1,47299,Actinopteri,Actinopteri,Hippoglossus hippoglossus,Atlantic halibut,adenosine A2a receptor a,458.37,Y,114,26.53,54.44,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ROL47442.1,23904,Actinopteri,Actinopteri,Anabarilius grahami,Carps and others,Adenosine receptor A2a,455.68,Y,114,26.53,54.12,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_016314689.1,68487,Actinopteri,Actinopteri,Sinocyclocheilus anshuiensis,Carps and others,PREDICTED: adenosine receptor A2b-like,455.29,Y,114,26.53,54.07,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_026796686.1,66299,Actinopteri,Actinopteri,Pangasianodon hypophthalmus,Striped catfish,adenosine A2a receptor b,449.51,Y,114,26.53,53.38,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,PWA18453.1,19596,Actinopteri,Actinopteri,Gambusia affinis,Western mosquitofish,hypothetical protein CCH79_00009893,449.51,Y,114,26.53,53.38,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_034294423.1,41491,Lepidosauria,Lepidosauria,Pantherophis guttatus,Colubrid snakes,adenosine receptor A2a,449.51,Y,114,26.53,53.38,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_012695602.2,43039,Actinopteri,Actinopteri,Clupea harengus,Atlantic herring,adenosine receptor A2a,443.74,Y,114,26.53,52.7,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_034066087.1,45845,Actinopteri,Actinopteri,Gymnodraco acuticeps,Antarctic dragonfishes,adenosine A2a receptor a,443.35,Y,114,26.53,52.65,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_003229525.1,35701,Lepidosauria,Lepidosauria,Anolis carolinensis,Green anole,PREDICTED: adenosine receptor A2a,430.25,Y,114,26.53,51.1,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_033734018.1,40008,Bivalvia,Bivalvia,Pecten maximus,Scallops,adenosine receptor A1-like,223.4,Y,114,26.53,26.53,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_030671786.1,51631,Mammalia,Mammalia,Nomascus leucogenys,Northern white-cheeked gibbon,adenosine receptor A2a,832.4,N,114,26.53,98.86,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_007973387.1,62219,Mammalia,Mammalia,Chlorocebus sabaeus,Green monkey,PREDICTED: adenosine receptor A2a,830.09,N,114,26.53,98.58,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_001095531.1,175489,Mammalia,Mammalia,Macaca mulatta,Rhesus monkey,adenosine receptor A2a isoform X1,828.16,N,114,26.53,98.35,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_011768947.1,68519,Mammalia,Mammalia,Macaca nemestrina,Pig-tailed macaque,adenosine receptor A2a isoform X1,828.16,N,114,26.53,98.35,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_025256426.1,52581,Mammalia,Mammalia,Theropithecus gelada,Gelada,adenosine receptor A2a,826.62,N,114,26.53,98.17,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_031512309.1,73457,Mammalia,Mammalia,Papio anubis,Olive baboon,adenosine receptor A2a isoform X1,826.62,N,114,26.53,98.17,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_011844552.1,38457,Mammalia,Mammalia,Mandrillus leucophaeus,Drill,PREDICTED: adenosine receptor A2a,825.47,N,114,26.53,98.03,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010347537.1,36294,Mammalia,Mammalia,Saimiri boliviensis boliviensis,Bolivian squirrel monkey,PREDICTED: adenosine receptor A2a,808.9,N,114,26.53,96.07,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_017353614.1,53173,Mammalia,Mammalia,Cebus capucinus imitator,White-faced sapajou,PREDICTED: adenosine receptor A2a,808.52,N,114,26.53,96.02,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_009006096.1,47726,Mammalia,Mammalia,Callithrix jacchus,White-tufted-ear marmoset,PREDICTED: adenosine receptor A2a,808.52,N,114,26.53,96.02,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_008067289.1,33251,Mammalia,Mammalia,Carlito syrichta,Philippine tarsier,adenosine receptor A2a isoform X1,800.43,N,114,26.53,95.06,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_012309583.1,48088,Mammalia,Mammalia,Aotus nancymaae,Ma's night monkey,adenosine receptor A2a,796.58,N,114,26.53,94.6,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_012516462.1,28331,Mammalia,Mammalia,Propithecus coquereli,Coquerel's sifaka,PREDICTED: adenosine receptor A2a,793.5,N,114,26.53,94.24,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_029777621.1,43342,Mammalia,Mammalia,Suricata suricatta,Meerkat,LOW QUALITY PROTEIN: adenosine receptor A2a,774.24,N,114,26.53,91.95,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_026343683.1,43159,Mammalia,Mammalia,Ursus arctos horribilis,Brown bear,adenosine receptor A2a,771.54,N,114,26.53,91.63,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_008695743.1,29099,Mammalia,Mammalia,Ursus maritimus,Polar bear,PREDICTED: adenosine receptor A2a,771.54,N,114,26.53,91.63,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_016059729.1,29863,Mammalia,Mammalia,Miniopterus natalensis,Common bats,PREDICTED: adenosine receptor A2a,766.15,N,114,26.53,90.99,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_005334505.1,38807,Mammalia,Mammalia,Ictidomys tridecemlineatus,Thirteen-lined ground squirrel,adenosine receptor A2a,764.61,N,114,26.53,90.8,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_026268312.1,36482,Mammalia,Mammalia,Urocitellus parryii,Arctic ground squirrel,adenosine receptor A2a,764.61,N,114,26.53,90.8,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_008572720.1,32194,Mammalia,Mammalia,Galeopterus variegatus,Sunda flying lemur,PREDICTED: adenosine receptor A2a,761.14,N,114,26.53,90.39,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032459238.1,52297,Mammalia,Mammalia,Phocoena sinus,Vaquita,adenosine receptor A2a,759.6,N,114,26.53,90.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_026944607.1,54700,Mammalia,Mammalia,Lagenorhynchus obliquidens,Pacific white-sided dolphin,adenosine receptor A2a,758.44,N,114,26.53,90.07,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_029083662.1,65846,Mammalia,Mammalia,Monodon monoceros,Narwhal,adenosine receptor A2a,756.9,N,114,26.53,89.89,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_022407138.1,50906,Mammalia,Mammalia,Delphinapterus leucas,Beluga whale,adenosine receptor A2a,756.9,N,114,26.53,89.89,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_007127237.1,51261,Mammalia,Mammalia,Physeter catodon,Sperm whale,adenosine receptor A2a,755.36,N,114,26.53,89.71,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_007196391.1,37624,Mammalia,Mammalia,Balaenoptera acutorostrata scammoni,Minke whale,adenosine receptor A2a,755.36,N,114,26.53,89.71,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAB0407365.1,20274,Mammalia,Mammalia,Balaenoptera physalus,Fin whale,hypothetical protein E2I00_016731,754.98,N,114,26.53,89.66,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_008248385.1,48644,Mammalia,Mammalia,Oryctolagus cuniculus,Rabbit,PREDICTED: adenosine receptor A2a,753.44,N,114,26.53,89.48,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010602203.1,67687,Mammalia,Mammalia,Fukomys damarensis,Damara mole-rat,adenosine receptor A2a,749.2,N,114,26.53,88.98,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_004636381.1,42496,Mammalia,Mammalia,Octodon degus,Degu,adenosine receptor A2a,747.66,N,114,26.53,88.79,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_019521027.1,46123,Mammalia,Mammalia,Hipposideros armiger,Great roundleaf bat,PREDICTED: adenosine receptor A2a,746.89,N,114,26.53,88.7,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010985601.1,86205,Mammalia,Mammalia,Camelus dromedarius,Arabian camel,adenosine receptor A2a,745.35,N,114,26.53,88.52,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032327338.1,74403,Mammalia,Mammalia,Camelus ferus,Wild Bactrian camel,adenosine receptor A2a,745.35,N,114,26.53,88.52,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010953735.1,29233,Mammalia,Mammalia,Camelus bactrianus,Bactrian camel,PREDICTED: adenosine receptor A2a,745.35,N,114,26.53,88.52,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_005396439.1,45556,Mammalia,Mammalia,Chinchilla lanigera,Long-tailed chinchilla,PREDICTED: adenosine receptor A2a isoform X1,738.8,N,114,26.53,87.74,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_020025494.1,37572,Mammalia,Mammalia,Castor canadensis,American beaver,adenosine receptor A2a,738.41,N,114,26.53,87.69,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_006157237.1,59499,Mammalia,Mammalia,Tupaia chinensis,Chinese tree shrew,adenosine receptor A2a,730.71,N,114,26.53,86.78,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_008833983.1,49227,Mammalia,Mammalia,Nannospalax galili,Upper Galilee mountains blind mole rat,adenosine receptor A2a,730.71,N,114,26.53,86.78,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_004592090.1,26023,Mammalia,Mammalia,Ochotona princeps,American pika,PREDICTED: adenosine receptor A2a,727.63,N,114,26.53,86.41,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010597015.1,41868,Mammalia,Mammalia,Loxodonta africana,African savanna elephant,adenosine receptor A2a,721.08,N,114,26.53,85.64,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_007533856.1,29615,Mammalia,Mammalia,Erinaceus europaeus,Western European hedgehog,PREDICTED: adenosine receptor A2a,717.23,N,114,26.53,85.18,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_017518717.1,41999,Mammalia,Mammalia,Manis javanica,Malayan pangolin,PREDICTED: adenosine receptor A2a,716.84,N,114,26.53,85.13,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_003483510.2,81816,Mammalia,Mammalia,Sus scrofa,Pig,adenosine receptor A2a,716.07,N,114,26.53,85.04,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032451323.1,42103,Mammalia,Mammalia,Lynx canadensis,Canada lynx,LOW QUALITY PROTEIN: adenosine receptor A2a,712.22,N,114,26.53,84.58,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_025330490.1,62990,Mammalia,Mammalia,Canis lupus dingo,Dingo,LOW QUALITY PROTEIN: adenosine receptor A2a,710.29,N,114,26.53,84.35,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_004672848.1,25743,Mammalia,Mammalia,Jaculus jaculus,Lesser Egyptian jerboa,PREDICTED: adenosine receptor A2a,707.21,N,114,26.53,83.99,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_004386267.1,37488,Mammalia,Mammalia,Trichechus manatus latirostris,Florida manatee,adenosine receptor A2a,704.9,N,114,26.53,83.71,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,VCW85312.1,19820,Mammalia,Mammalia,Gulo gulo,Wolverine,"unnamed protein product, partial",692.58,N,114,26.53,82.25,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,OBS57995.1,24505,Mammalia,Mammalia,Neotoma lepida,Desert woodrat,hypothetical protein A6R68_10879,684.49,N,114,26.53,81.29,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_021501745.1,39112,Mammalia,Mammalia,Meriones unguiculatus,Mongolian gerbil,adenosine receptor A2a,682.17,N,114,26.53,81.02,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_008155485.1,50025,Mammalia,Mammalia,Eptesicus fuscus,Big brown bat,"adenosine receptor A2a, partial",677.55,N,114,26.53,80.47,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_006979137.1,45652,Mammalia,Mammalia,Peromyscus maniculatus bairdii,Prairie deer mouse,PREDICTED: adenosine receptor A2a,669.46,N,114,26.53,79.51,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_031203841.1,54476,Mammalia,Mammalia,Mastomys coucha,Southern multimammate mouse,adenosine receptor A2a,667.92,N,114,26.53,79.32,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_034380158.1,41654,Mammalia,Mammalia,Arvicanthis niloticus,African grass rat,adenosine receptor A2a,665.61,N,114,26.53,79.05,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_021061028.1,42365,Mammalia,Mammalia,Mus pahari,Shrew mouse,adenosine receptor A2a,665.23,N,114,26.53,79,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_028730047.1,42174,Mammalia,Mammalia,Peromyscus leucopus,White-footed mouse,adenosine receptor A2a,663.68,N,114,26.53,78.82,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_028629753.1,38191,Mammalia,Mammalia,Grammomys surdaster,African thicket rats,adenosine receptor A2a,659.45,N,114,26.53,78.32,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_005070818.1,38204,Mammalia,Mammalia,Mesocricetus auratus,Golden hamster,adenosine receptor A2a,659.45,N,114,26.53,78.32,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_006875010.1,25292,Mammalia,Mammalia,Chrysochloris asiatica,Cape golden mole,PREDICTED: adenosine receptor A2a,657.14,N,114,26.53,78.04,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_007955591.1,25532,Mammalia,Mammalia,Orycteropus afer afer,Aardvark,PREDICTED: adenosine receptor A2a,655.98,N,114,26.53,77.9,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_003508133.1,162753,Mammalia,Mammalia,Cricetulus griseus,Chinese hamster,adenosine receptor A2a,655.98,N,114,26.53,77.9,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,CAA73787.1,312727,Mammalia,Mammalia,Mus musculus,House mouse,Adenosine A2a receptor,649.05,N,114,26.53,77.08,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032744833.1,36141,Mammalia,Mammalia,Rattus rattus,Black rat,adenosine receptor A2a,647.12,N,114,26.53,76.85,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AAA11888.1,1241,Mammalia,Mammalia,Rattus sp.,Rats,A2 adenosine receptor,645.58,N,114,26.53,76.67,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,NP_445746.3,151095,Mammalia,Mammalia,Rattus norvegicus,Norway rat,adenosine receptor A2a A2AR,645.58,N,114,26.53,76.67,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_021030603.1,47700,Mammalia,Mammalia,Mus caroli,Ryukyu mouse,adenosine receptor A2a,640.19,N,114,26.53,76.03,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_004716429.1,24942,Mammalia,Mammalia,Echinops telfairi,Small Madagascar hedgehog,adenosine receptor A2a,627.48,N,114,26.53,74.52,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_006768838.1,48716,Mammalia,Mammalia,Myotis davidii,Common bats,"PREDICTED: adenosine receptor A2a, partial",620.16,N,114,26.53,73.65,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF4011536.1,19274,Mammalia,Mammalia,Cervus hanglu yarkandensis,Yarkand deer,hypothetical protein G4228_003900,618.62,N,114,26.53,73.47,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_020763035.1,48218,Mammalia,Mammalia,Odocoileus virginianus texanus,White-tailed deer,adenosine receptor A2a,618.62,N,114,26.53,73.47,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_024833621.1,133369,Mammalia,Mammalia,Bos taurus,Cattle,adenosine receptor A2a,613.61,N,114,26.53,72.87,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAB0362377.1,25799,Mammalia,Mammalia,Muntiacus muntjak,Muntjak,hypothetical protein FD754_006533,593.19,N,114,26.53,70.45,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_014956928.2,51033,Mammalia,Mammalia,Ovis aries,Sheep,adenosine receptor A2a,593.19,N,114,26.53,70.45,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAB0370266.1,26177,Mammalia,Mammalia,Muntiacus reevesi,Reeves' muntjac,hypothetical protein FD755_018228,587.8,N,114,26.53,69.81,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_017900402.1,46853,Mammalia,Mammalia,Capra hircus,Goat,PREDICTED: adenosine receptor A2a,573.16,N,114,26.53,68.07,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,MBV96725.1,11098,Mammalia,Mammalia,Eschrichtius robustus,Grey whale,Adenosine receptor A2a,560.84,N,114,26.53,66.61,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_019832656.1,37725,Mammalia,Mammalia,Bos indicus,Zebu cattle,PREDICTED: adenosine receptor A2a,555.06,N,114,26.53,65.92,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,MXQ97641.1,68301,Mammalia,Mammalia,Bos mutus,Wild yak,hypothetical protein,539.26,N,114,26.53,64.04,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_020833296.1,47241,Mammalia,Mammalia,Phascolarctos cinereus,Koala,adenosine receptor A2a,535.03,N,114,26.53,63.54,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_027701484.1,42715,Mammalia,Mammalia,Vombatus ursinus,Common wombat,adenosine receptor A2a,532.33,N,114,26.53,63.22,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010152255.1,27328,Aves,Aves,Eurypyga helias,Sunbittern,PREDICTED: adenosine receptor A2a,524.24,N,114,26.53,62.26,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_009931522.1,27865,Aves,Aves,Opisthocomus hoazin,Hoatzin,PREDICTED: adenosine receptor A2a,524.24,N,114,26.53,62.26,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010021217.1,27852,Aves,Aves,Nestor notabilis,Kea,PREDICTED: adenosine receptor A2a,524.24,N,114,26.53,62.26,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_027552582.1,39505,Aves,Aves,Neopelma chrysocephalum,Saffron-crested tyrant-manakin,adenosine receptor A2a,523.47,N,114,26.53,62.17,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_030357462.1,43730,Aves,Aves,Strigops habroptila,Kakapo,adenosine receptor A2a,523.09,N,114,26.53,62.12,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_033924368.1,29293,Aves,Aves,Melopsittacus undulatus,Budgerigar,adenosine receptor A2a,522.7,N,114,26.53,62.08,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_027747872.1,34050,Aves,Aves,Empidonax traillii,Willow flycatcher,adenosine receptor A2a,522.7,N,114,26.53,62.08,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010294276.1,28630,Aves,Aves,Phaethon lepturus,White-tailed tropicbird,PREDICTED: adenosine receptor A2a-like,522.32,N,114,26.53,62.03,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_027517427.1,39234,Aves,Aves,Corapipo altera,White-ruffed manakin,adenosine receptor A2a,522.32,N,114,26.53,62.03,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_027570171.1,42564,Aves,Aves,Pipra filicauda,Wire-tailed manakin,adenosine receptor A2a,522.32,N,114,26.53,62.03,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_029819173.1,37344,Aves,Aves,Manacus vitellinus,Golden-collared manakin,adenosine receptor A2a,521.93,N,114,26.53,61.98,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032857369.1,32983,Aves,Aves,Tyto alba alba,Barn owl,adenosine receptor A2a,521.93,N,114,26.53,61.98,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_009875721.1,26553,Aves,Aves,Apaloderma vittatum,Bar-tailed trogon,PREDICTED: adenosine receptor A2a,521.55,N,114,26.53,61.94,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_009074688.1,28124,Aves,Aves,Acanthisitta chloris,Rifleman,PREDICTED: adenosine receptor A2a,521.55,N,114,26.53,61.94,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_029882052.1,48151,Aves,Aves,Aquila chrysaetos chrysaetos,Golden eagle,adenosine receptor A2a,521.16,N,114,26.53,61.89,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_009919649.1,30417,Aves,Aves,Haliaeetus albicilla,White-tailed eagle,PREDICTED: adenosine receptor A2a-like,521.16,N,114,26.53,61.89,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_015272161.1,24674,Lepidosauria,Lepidosauria,Gekko japonicus,Geckos,PREDICTED: adenosine receptor A2a,521.16,N,114,26.53,61.89,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010573473.1,25371,Aves,Aves,Haliaeetus leucocephalus,Bald eagle,PREDICTED: adenosine receptor A2a,521.16,N,114,26.53,61.89,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_009991114.1,28596,Aves,Aves,Tauraco erythrolophus,Red-crested turaco,PREDICTED: adenosine receptor A2a,520.78,N,114,26.53,61.85,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_014750191.1,26793,Aves,Aves,Sturnus vulgaris,Common starling,PREDICTED: adenosine receptor A2a,520.78,N,114,26.53,61.85,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KQL59892.1,16224,Aves,Aves,Amazona aestiva,Blue-fronted amazon,adenosine receptor A2a,520.39,N,114,26.53,61.8,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_009569662.1,30535,Aves,Aves,Cuculus canorus,Common cuckoo,PREDICTED: adenosine receptor A2a,520.39,N,114,26.53,61.8,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_009581324.1,28173,Aves,Aves,Fulmarus glacialis,Northern fulmar,PREDICTED: adenosine receptor A2a,520,N,114,26.53,61.76,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010163552.1,29281,Aves,Aves,Antrostomus carolinensis,Chuck-will's-widow,adenosine receptor A2a,520,N,114,26.53,61.76,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010310917.1,28015,Aves,Aves,Balearica regulorum gibbericeps,East African grey crowned-crane,PREDICTED: adenosine receptor A2a,520,N,114,26.53,61.76,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,PKU40861.1,23022,Aves,Aves,Limosa lapponica baueri,Bar-tailed godwit,adenosine receptor a2a,520,N,114,26.53,61.76,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_026715748.1,27794,Aves,Aves,Athene cunicularia,Burrowing owl,adenosine receptor A2a isoform X1,520,N,114,26.53,61.76,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_009462022.1,31488,Aves,Aves,Nipponia nippon,Crested ibis,PREDICTED: adenosine receptor A2a,520,N,114,26.53,61.76,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032932034.1,35444,Aves,Aves,Catharus ustulatus,Swainson's thrush,adenosine receptor A2a,519.62,N,114,26.53,61.71,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_030316514.1,42950,Aves,Aves,Calypte anna,Anna's hummingbird,adenosine receptor A2a,519.62,N,114,26.53,61.71,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_009090793.1,30517,Aves,Aves,Serinus canaria,Common canary,adenosine receptor A2a,518.85,N,114,26.53,61.62,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,RLV97802.1,19058,Aves,Aves,Erythrura gouldiae,Gouldian finch,hypothetical protein DV515_00011418,518.85,N,114,26.53,61.62,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,OPJ74796.1,24828,Aves,Aves,Patagioenas fasciata monilis,Band-tailed pigeon,adenosine receptor A2a,518.46,N,114,26.53,61.57,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_023793451.1,31622,Aves,Aves,Cyanistes caeruleus,Blue tit,adenosine receptor A2a isoform X1,518.46,N,114,26.53,61.57,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_031984001.1,42323,Aves,Aves,Corvus moneduloides,New Caledonian crow,adenosine receptor A2a,518.46,N,114,26.53,61.57,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,OXB64665.1,17163,Aves,Aves,Callipepla squamata,Scaled quail,hypothetical protein ASZ78_008741,518.46,N,114,26.53,61.57,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_008630343.1,43283,Aves,Aves,Corvus brachyrhynchos,American crow,PREDICTED: adenosine receptor A2a,518.08,N,114,26.53,61.53,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010396419.1,29602,Aves,Aves,Corvus cornix cornix,Hooded crow,adenosine receptor A2a,518.08,N,114,26.53,61.53,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_005054851.1,26767,Aves,Aves,Ficedula albicollis,Collared flycatcher,PREDICTED: adenosine receptor A2a,518.08,N,114,26.53,61.53,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_005524668.1,27656,Aves,Aves,Pseudopodoces humilis,Tibetan ground-tit,PREDICTED: adenosine receptor A2a,518.08,N,114,26.53,61.53,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_005503992.1,50999,Aves,Aves,Columba livia,Rock pigeon,adenosine receptor A2a,518.08,N,114,26.53,61.53,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_015499859.1,39768,Aves,Aves,Parus major,Great Tit,adenosine receptor A2a,517.69,N,114,26.53,61.48,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_009685705.1,39517,Aves,Aves,Struthio camelus australis,African ostrich,PREDICTED: adenosine receptor A2a,517.31,N,114,26.53,61.44,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_005493401.1,26676,Aves,Aves,Zonotrichia albicollis,White-throated sparrow,adenosine receptor A2a,517.31,N,114,26.53,61.44,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF1657625.1,13983,Aves,Aves,Aptenodytes patagonicus,King penguin,"Adenosine receptor A2a, partial",516.92,N,114,26.53,61.39,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_014165576.1,20676,Aves,Aves,Geospiza fortis,Medium ground-finch,adenosine receptor A2a isoform X2,516.92,N,114,26.53,61.39,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_006272268.1,74703,Crocodylia,Crocodylia,Alligator mississippiensis,American alligator,PREDICTED: adenosine receptor A2a,516.92,N,114,26.53,61.39,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_030815008.1,28938,Aves,Aves,Camarhynchus parvulus,Tanagers,adenosine receptor A2a,516.92,N,114,26.53,61.39,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_009891524.1,30750,Aves,Aves,Charadrius vociferus,Killdeer,PREDICTED: adenosine receptor A2a,516.15,N,114,26.53,61.3,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_005023617.1,58659,Aves,Aves,Anas platyrhynchos,Mallard,adenosine receptor A2a,516.15,N,114,26.53,61.3,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010130993.1,27261,Aves,Aves,Buceros rhinoceros silvestris,Rhinoceros hornbill,PREDICTED: adenosine receptor A2a-like,516.15,N,114,26.53,61.3,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032055159.1,27801,Aves,Aves,Aythya fuligula,Tufted duck,adenosine receptor A2a,515.77,N,114,26.53,61.25,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF1672669.1,15059,Aves,Aves,Pygoscelis papua,Gentoo penguin,"Adenosine receptor A2a, partial",515.77,N,114,26.53,61.25,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_015733901.1,41600,Aves,Aves,Coturnix japonica,Japanese quail,adenosine receptor A2a,515.77,N,114,26.53,61.25,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF1489008.1,14259,Aves,Aves,Pygoscelis antarcticus,Chinstrap penguin,"Adenosine receptor A2a, partial",515.77,N,114,26.53,61.25,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF1425106.1,15574,Aves,Aves,Spheniscus magellanicus,Magellanic penguin,"Adenosine receptor A2a, partial",515.38,N,114,26.53,61.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF1577784.1,17574,Aves,Aves,Eudyptes pachyrhynchus,Fiordland penguin,"Adenosine receptor A2a, partial",515.38,N,114,26.53,61.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF1508271.1,15007,Aves,Aves,Eudyptula novaehollandiae,Australian little penguin,"Adenosine receptor A2a, partial",515.38,N,114,26.53,61.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF1613769.1,14636,Aves,Aves,Eudyptes chrysolophus,Macaroni penguin,"Adenosine receptor A2a, partial",515.38,N,114,26.53,61.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF1395935.1,14632,Aves,Aves,Spheniscus mendiculus,Galapagos penguin,"Adenosine receptor A2a, partial",515.38,N,114,26.53,61.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF1538612.1,15781,Aves,Aves,Eudyptes schlegeli,Royal penguin,"Adenosine receptor A2a, partial",515.38,N,114,26.53,61.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_013029077.1,31835,Aves,Aves,Anser cygnoides domesticus,Swan goose,PREDICTED: adenosine receptor A2a,515.38,N,114,26.53,61.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF1464828.1,14261,Aves,Aves,Spheniscus demersus,Jackass penguin,"Adenosine receptor A2a, partial",515.38,N,114,26.53,61.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF1593219.1,15466,Aves,Aves,Eudyptes moseleyi,Northern rockhopper penguin,"Adenosine receptor A2a, partial",515.38,N,114,26.53,61.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF1654021.1,12893,Aves,Aves,Eudyptes chrysocome,Rockhopper penguin,"Adenosine receptor A2a, partial",515.38,N,114,26.53,61.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF1514988.1,12813,Aves,Aves,Eudyptes sclateri,Erect-crested penguin,"Adenosine receptor A2a, partial",515.38,N,114,26.53,61.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF1410009.1,15371,Aves,Aves,Spheniscus humboldti,Humboldt's penguin,"Adenosine receptor A2a, partial",515.38,N,114,26.53,61.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF1542185.1,15475,Aves,Aves,Eudyptula minor,Little blue penguin,"Adenosine receptor A2a, partial",515.38,N,114,26.53,61.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF1466009.1,14555,Aves,Aves,Megadyptes antipodes antipodes,Yellow-eyed penguin,"Adenosine receptor A2a, partial",515.38,N,114,26.53,61.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF1602238.1,15573,Aves,Aves,Eudyptes robustus,Snares penguin,"Adenosine receptor A2a, partial",515.38,N,114,26.53,61.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_019362410.1,27379,Crocodylia,Crocodylia,Gavialis gangeticus,Gharial,PREDICTED: adenosine receptor A2a,515.38,N,114,26.53,61.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_007063840.1,47903,Testudines,Testudines,Chelonia mydas,Green sea turtle,adenosine receptor A2a,515.38,N,114,26.53,61.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF1532070.1,15152,Aves,Aves,Eudyptula albosignata,White-flippered penguin,"Adenosine receptor A2a, partial",515.38,N,114,26.53,61.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_025930973.1,37668,Aves,Aves,Apteryx rowi,Okarito brown kiwi,adenosine receptor A2a,515,N,114,26.53,61.16,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010074727.1,27088,Aves,Aves,Pterocles gutturalis,Yellow-throated sandgrouse,PREDICTED: adenosine receptor A2a-like,514.61,N,114,26.53,61.12,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_031448170.1,28886,Aves,Aves,Phasianus colchicus,Ring-necked pheasant,adenosine receptor A2a,514.61,N,114,26.53,61.12,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AIR95230.1,163,Testudines,Testudines,Chelydra serpentina,Common snapping turtle,adenosine A2a receptor,514.61,N,114,26.53,61.12,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_009476557.1,28643,Aves,Aves,Pelecanus crispus,Dalmatian pelican,PREDICTED: adenosine receptor A2a,514.61,N,114,26.53,61.12,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_009909348.1,29119,Aves,Aves,Picoides pubescens,Downy woodpecker,PREDICTED: adenosine receptor A2a,514.23,N,114,26.53,61.07,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_025974932.1,31573,Aves,Aves,Dromaius novaehollandiae,Emu,adenosine receptor A2a isoform X1,514.23,N,114,26.53,61.07,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,RMC06000.1,34999,Aves,Aves,Hirundo rustica rustica,Barn swallow,hypothetical protein DUI87_17545,514.23,N,114,26.53,61.07,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010003100.1,29270,Aves,Aves,Chaetura pelagica,Chimney swift,PREDICTED: adenosine receptor A2a,513.46,N,114,26.53,60.98,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF4792812.1,18372,Aves,Aves,Turdus rufiventris,Rufous-bellied thrush,Adenosine receptor A2a,513.46,N,114,26.53,60.98,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_015130929.1,70279,Aves,Aves,Gallus gallus,Chicken,adenosine receptor A2a,513.46,N,114,26.53,60.98,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_014820413.1,30957,Aves,Aves,Calidris pugnax,Ruff,PREDICTED: adenosine receptor A2a,512.69,N,114,26.53,60.89,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF1626581.1,12980,Aves,Aves,Eudyptes filholi,Southern rockhopper penguin,"Adenosine receptor A2a, partial",512.69,N,114,26.53,60.89,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_019394699.1,28975,Crocodylia,Crocodylia,Crocodylus porosus,Australian saltwater crocodile,PREDICTED: adenosine receptor A2a,512.3,N,114,26.53,60.84,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_009641437.1,29746,Aves,Aves,Egretta garzetta,Little egret,PREDICTED: adenosine receptor A2a,512.3,N,114,26.53,60.84,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,TFK01090.1,21661,Testudines,Testudines,Platysternon megacephalum,Big-headed turtle,Adenosine receptor A2a,511.92,N,114,26.53,60.8,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,TRZ20990.1,22656,Aves,Aves,Zosterops borbonicus,White-eyes,hypothetical protein HGM15179_006171,511.53,N,114,26.53,60.75,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010199222.1,26938,Aves,Aves,Colius striatus,Speckled mousebird,PREDICTED: adenosine receptor A2a,509.61,N,114,26.53,60.52,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010128542.1,26966,Aves,Aves,Chlamydotis macqueenii,Macqueen's bustard,"PREDICTED: adenosine receptor A2a-like, partial",509.22,N,114,26.53,60.48,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,GCF42378.1,26796,Lepidosauria,Lepidosauria,Paroedura picta,Geckos,hypothetical protein parPi_0002133,508.45,N,114,26.53,60.38,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_006640481.1,41861,Actinopteri,Actinopteri,Lepisosteus oculatus,Spotted gar,PREDICTED: adenosine receptor A2a,508.06,N,114,26.53,60.34,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_033899420.1,88734,Actinopteri,Actinopteri,Acipenser ruthenus,Sterlet,adenosine receptor A2a-like,502.29,N,114,26.53,59.65,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_031804966.1,46282,Mammalia,Mammalia,Sarcophilus harrisii,Tasmanian devil,adenosine receptor A2a,500.75,N,114,26.53,59.47,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_005987183.1,34488,Coelacanthimorpha,Coelacanthimorpha,Latimeria chalumnae,Coelacanth,PREDICTED: adenosine receptor A2a,496.89,N,114,26.53,59.01,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,OXB73296.1,17219,Aves,Aves,Colinus virginianus,Northern bobwhite,hypothetical protein H355_008272,495.35,N,114,26.53,58.83,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,GCB79509.1,27742,Chondrichthyes,Chondrichthyes,Scyliorhinus torazame,Cloudy catshark,hypothetical protein,493.81,N,114,26.53,58.65,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_033813356.1,50058,Amphibia,Amphibia,Geotrypetes seraphini,Gabon caecilian,adenosine receptor A2a,493.43,N,114,26.53,58.6,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_029427264.1,49320,Amphibia,Amphibia,Rhinatrema bivittatum,Two-lined caecilian,adenosine receptor A2a-like,493.04,N,114,26.53,58.55,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_020654830.1,38806,Lepidosauria,Lepidosauria,Pogona vitticeps,Central bearded dragon,adenosine receptor A2a,492.27,N,114,26.53,58.46,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,NP_001088336.1,129541,Amphibia,Amphibia,Xenopus laevis,African clawed frog,adenosine A2a receptor L homeolog,488.03,N,114,26.53,57.96,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_008333924.1,39993,Actinopteri,Actinopteri,Cynoglossus semilaevis,Tongue sole,adenosine receptor A2a isoform X1,480.71,N,114,26.53,57.09,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_030075283.1,37122,Amphibia,Amphibia,Microcaecilia unicolor,Caecilians,adenosine receptor A2a,479.94,N,114,26.53,57,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_018524902.1,45606,Actinopteri,Actinopteri,Lates calcarifer,Barramundi perch,PREDICTED: adenosine receptor A2a,479.94,N,114,26.53,57,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,NP_001106398.1,122817,Amphibia,Amphibia,Xenopus tropicalis,Tropical clawed frog,adenosine receptor A2a,478.4,N,114,26.53,56.82,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,NP_001034904.1,87478,Actinopteri,Actinopteri,Danio rerio,Zebrafish,adenosine A2a receptor a,478.02,N,114,26.53,56.77,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_026176807.1,42444,Actinopteri,Actinopteri,Mastacembelus armatus,Zig-zag eel,adenosine receptor A2a,476.48,N,114,26.53,56.59,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_022614935.1,32874,Actinopteri,Actinopteri,Seriola dumerili,Greater amberjack,adenosine receptor A2a-like,475.32,N,114,26.53,56.45,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,TRZ02205.1,35332,Actinopteri,Actinopteri,Danionella translucida,Carps and others,hypothetical protein DNTS_030435,475.32,N,114,26.53,56.45,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAA0713922.1,24328,Actinopteri,Actinopteri,Triplophysa tibetana,Plateau loaches,Adenosine receptor A2a,474.17,N,114,26.53,56.31,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF3696164.1,22726,Actinopteri,Actinopteri,Channa argus,Northern snakehead,Adenosine receptor A2a,473.4,N,114,26.53,56.22,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,RXN18407.1,37694,Actinopteri,Actinopteri,Labeo rohita,Rohu,adenosine receptor A2a,473.4,N,114,26.53,56.22,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_023253317.1,38822,Actinopteri,Actinopteri,Seriola lalandi dorsalis,Yellowtail amberjack,adenosine receptor A2a,473.4,N,114,26.53,56.22,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_031158036.1,47978,Actinopteri,Actinopteri,Sander lucioperca,Pike-perch,adenosine receptor A2a-like,472.24,N,114,26.53,56.08,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_019949197.1,37762,Actinopteri,Actinopteri,Paralichthys olivaceus,Japanese flounder,PREDICTED: adenosine receptor A2a,472.24,N,114,26.53,56.08,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_001379347.1,51248,Mammalia,Mammalia,Monodelphis domestica,Gray short-tailed opossum,PREDICTED: adenosine receptor A2a,472.24,N,114,26.53,56.08,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_028680614.1,35767,Cladistia,Cladistia,Erpetoichthys calabaricus,Reedfish,adenosine receptor A2a,472.24,N,114,26.53,56.08,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAE8291652.1,94424,Actinopteri,Actinopteri,Larimichthys crocea,Large yellow croaker,Adenosine receptor A2a,471.86,N,114,26.53,56.04,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032372336.1,64529,Actinopteri,Actinopteri,Etheostoma spectabile,Orangethroat darter,adenosine receptor A2a-like,471.47,N,114,26.53,55.99,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_030273278.1,54063,Actinopteri,Actinopteri,Sparus aurata,Gilthead seabream,adenosine receptor A2a,471.08,N,114,26.53,55.95,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_015827353.1,37068,Actinopteri,Actinopteri,Nothobranchius furzeri,Turquoise killifish,PREDICTED: adenosine receptor A2a,469.93,N,114,26.53,55.81,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_033475098.1,43071,Actinopteri,Actinopteri,Epinephelus lanceolatus,Giant grouper,adenosine A2a receptor a,469.54,N,114,26.53,55.76,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_004567371.1,46436,Actinopteri,Actinopteri,Maylandia zebra,Zebra mbuna,adenosine receptor A2a isoform X1,469.16,N,114,26.53,55.72,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_026044428.1,52755,Actinopteri,Actinopteri,Astatotilapia calliptera,Eastern happy,adenosine receptor A2a isoform X1,469.16,N,114,26.53,55.72,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AWP06663.1,53722,Actinopteri,Actinopteri,Scophthalmus maximus,Turbot,putative adenosine receptor A2a,469.16,N,114,26.53,55.72,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_008282370.1,31742,Actinopteri,Actinopteri,Stegastes partitus,Bicolor damselfish,PREDICTED: adenosine receptor A2a-like,466.46,N,114,26.53,55.4,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_029366859.1,38275,Actinopteri,Actinopteri,Echeneis naucrates,Live sharksucker,adenosine receptor A2a,466.46,N,114,26.53,55.4,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_029998655.1,42348,Actinopteri,Actinopteri,Sphaeramia orbicularis,Orbiculate cardinalfish,adenosine receptor A2a,465.69,N,114,26.53,55.31,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_031705589.1,41910,Actinopteri,Actinopteri,Anarrhichthys ocellatus,Wolf-eel,adenosine receptor A2a,465.69,N,114,26.53,55.31,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_005746153.1,38742,Actinopteri,Actinopteri,Pundamilia nyererei,Cichlids,PREDICTED: adenosine receptor A2a,465.31,N,114,26.53,55.26,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_014863581.1,47806,Actinopteri,Actinopteri,Poecilia mexicana,Shortfin molly,PREDICTED: adenosine receptor A2a,464.92,N,114,26.53,55.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,RVE68929.1,21529,Actinopteri,Actinopteri,Oryzias javanicus,Javanese ricefish,hypothetical protein OJAV_G00096210,464.92,N,114,26.53,55.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_005940601.1,45052,Actinopteri,Actinopteri,Haplochromis burtoni,Burton's mouthbrooder,PREDICTED: adenosine receptor A2a,464.54,N,114,26.53,55.17,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_004072925.1,47277,Actinopteri,Actinopteri,Oryzias latipes,Japanese medaka,adenosine receptor A2a,464.15,N,114,26.53,55.12,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_008415459.1,45397,Actinopteri,Actinopteri,Poecilia reticulata,Guppy,PREDICTED: adenosine receptor A2a,464.15,N,114,26.53,55.12,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_020784000.1,25367,Actinopteri,Actinopteri,Boleophthalmus pectinirostris,Great blue-spotted mudskipper,adenosine receptor A2a,464.15,N,114,26.53,55.12,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_031598637.1,34822,Actinopteri,Actinopteri,Oreochromis aureus,Blue tilapia,adenosine receptor A2a,463.77,N,114,26.53,55.08,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_007572899.1,49655,Actinopteri,Actinopteri,Poecilia formosa,Amazon molly,PREDICTED: adenosine receptor A2a,463.38,N,114,26.53,55.03,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_020454778.1,40888,Actinopteri,Actinopteri,Monopterus albus,Swamp eel,adenosine receptor A2a,463,N,114,26.53,54.99,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_014869781.1,47231,Actinopteri,Actinopteri,Poecilia latipinna,Sailfin molly,PREDICTED: adenosine receptor A2a,463,N,114,26.53,54.99,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_012737258.1,38839,Actinopteri,Actinopteri,Fundulus heteroclitus,Mummichog,adenosine receptor A2a,463,N,114,26.53,54.99,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_030214794.1,46937,Actinopteri,Actinopteri,Gadus morhua,Atlantic cod,adenosine receptor A2a,463,N,114,26.53,54.99,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_022070166.1,36647,Actinopteri,Actinopteri,Acanthochromis polyacanthus,Spiny chromis,adenosine receptor A2a,462.61,N,114,26.53,54.94,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_003448604.1,63355,Actinopteri,Actinopteri,Oreochromis niloticus,Nile tilapia,adenosine receptor A2a,461.84,N,114,26.53,54.85,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_029115394.1,72410,Actinopteri,Actinopteri,Scleropages formosus,Asian bonytongue,adenosine receptor A2a,461.84,N,114,26.53,54.85,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_033829284.1,27064,Actinopteri,Actinopteri,Periophthalmus magnuspinnatus,Gobies,adenosine A2a receptor a,461.07,N,114,26.53,54.76,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_028269906.1,41003,Actinopteri,Actinopteri,Parambassis ranga,Indian glassy fish,adenosine receptor A2a,461.07,N,114,26.53,54.76,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,TNM90000.1,20156,Actinopteri,Actinopteri,Takifugu bimaculatus,Puffers,hypothetical protein fugu_004234,459.53,N,114,26.53,54.57,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF4098755.1,24824,Actinopteri,Actinopteri,Onychostoma macrolepis,Carps and others,hypothetical protein G5714_020785,459.53,N,114,26.53,54.57,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_028313207.1,43562,Actinopteri,Actinopteri,Gouania willdenowi,Blunt-snouted clingfish,adenosine receptor A2a-like,459.14,N,114,26.53,54.53,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032991825.1,39483,Lepidosauria,Lepidosauria,Lacerta agilis,Sand lizard,adenosine receptor A2a,459.14,N,114,26.53,54.53,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_034548913.1,38814,Actinopteri,Actinopteri,Notolabrus celidotus,New Zealand spotty,adenosine A2a receptor a,458.76,N,114,26.53,54.48,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_028565974.1,51188,Lepidosauria,Lepidosauria,Podarcis muralis,Common wall lizard,adenosine receptor A2a,458.37,N,114,26.53,54.44,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_019740868.1,42020,Actinopteri,Actinopteri,Hippocampus comes,Tiger tail seahorse,PREDICTED: adenosine receptor A2a-like,458.37,N,114,26.53,54.44,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_034398381.1,38023,Actinopteri,Actinopteri,Cyclopterus lumpus,Lumpfish,adenosine A2a receptor a isoform X1,457.6,N,114,26.53,54.35,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_029018845.1,49247,Actinopteri,Actinopteri,Betta splendens,Siamese fighting fish,adenosine receptor A2a,457.22,N,114,26.53,54.3,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_029618410.1,88602,Actinopteri,Actinopteri,Salmo trutta,River trout,adenosine receptor A2a-like,457.22,N,114,26.53,54.3,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_016372436.1,68581,Actinopteri,Actinopteri,Sinocyclocheilus rhinocerous,Carps and others,PREDICTED: adenosine receptor A2b-like,456.06,N,114,26.53,54.16,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_016147299.1,67438,Actinopteri,Actinopteri,Sinocyclocheilus grahami,Carps and others,PREDICTED: adenosine receptor A2b-like,456.06,N,114,26.53,54.16,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_017574607.1,44448,Actinopteri,Actinopteri,Pygocentrus nattereri,Red-bellied piranha,PREDICTED: adenosine receptor A2a,455.68,N,114,26.53,54.12,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KTF76709.1,116951,Actinopteri,Actinopteri,Cyprinus carpio,Common carp,"hypothetical protein cypCar_00010412, partial",455.29,N,114,26.53,54.07,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_017270024.2,43259,Actinopteri,Actinopteri,Kryptolebias marmoratus,Mangrove rivulus,adenosine receptor A2a,455.29,N,114,26.53,54.07,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_029961400.1,39283,Actinopteri,Actinopteri,Salarias fasciatus,Jewelled blenny,adenosine receptor A2a,454.91,N,114,26.53,54.02,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,PIO26833.1,30189,Amphibia,Amphibia,Lithobates catesbeianus,American bullfrog,hypothetical protein AB205_0162180,454.14,N,114,26.53,53.93,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_005802215.1,43733,Actinopteri,Actinopteri,Xiphophorus maculatus,Southern platyfish,adenosine receptor A2a,453.37,N,114,26.53,53.84,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_023123863.1,39307,Actinopteri,Actinopteri,Amphiprion ocellaris,Clown anemonefish,adenosine receptor A2a,451.44,N,114,26.53,53.61,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_028852019.1,50097,Actinopteri,Actinopteri,Denticeps clupeoides,Denticle herring,adenosine receptor A2a,451.44,N,114,26.53,53.61,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032899310.1,38957,Chondrichthyes,Chondrichthyes,Amblyraja radiata,Thorny skate,adenosine receptor A2a,451.06,N,114,26.53,53.57,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010874558.2,59380,Actinopteri,Actinopteri,Esox lucius,Northern pike,adenosine A2a receptor a,450.67,N,114,26.53,53.52,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_014027165.1,111551,Actinopteri,Actinopteri,Salmo salar,Atlantic salmon,PREDICTED: adenosine receptor A2b-like,450.67,N,114,26.53,53.52,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_017347338.1,51421,Actinopteri,Actinopteri,Ictalurus punctatus,Channel catfish,PREDICTED: adenosine receptor A2b-like,449.9,N,114,26.53,53.43,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032435652.1,46432,Actinopteri,Actinopteri,Xiphophorus hellerii,Green swordtail,adenosine receptor A2a,449.9,N,114,26.53,53.43,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_027889623.1,47114,Actinopteri,Actinopteri,Xiphophorus couchianus,Monterrey platyfish,adenosine receptor A2a,449.51,N,114,26.53,53.38,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_007233964.1,42865,Actinopteri,Actinopteri,Astyanax mexicanus,Mexican tetra,adenosine receptor A2b,447.97,N,114,26.53,53.2,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_021461387.1,124308,Actinopteri,Actinopteri,Oncorhynchus mykiss,Rainbow trout,adenosine receptor A2b-like,447.2,N,114,26.53,53.11,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_029493422.1,69381,Actinopteri,Actinopteri,Oncorhynchus nerka,Sockeye salmon,adenosine receptor A2b-like,447.2,N,114,26.53,53.11,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_026538645.1,31322,Lepidosauria,Lepidosauria,Notechis scutatus,Mainland tiger snake,adenosine receptor A2a,446.82,N,114,26.53,53.06,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_024273063.1,73754,Actinopteri,Actinopteri,Oncorhynchus tshawytscha,Chinook salmon,adenosine receptor A2b-like,446.43,N,114,26.53,53.02,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_020318298.1,89411,Actinopteri,Actinopteri,Oncorhynchus kisutch,Coho salmon,adenosine receptor A2b-like,446.43,N,114,26.53,53.02,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_033989138.1,41268,Actinopteri,Actinopteri,Trematomus bernacchii,Emerald rockcod,adenosine A2a receptor a,446.05,N,114,26.53,52.97,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_033947298.1,37990,Actinopteri,Actinopteri,Pseudochaenichthys georgianus,South Georgia icefish,LOW QUALITY PROTEIN: adenosine A2a receptor a,445.66,N,114,26.53,52.93,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_026199628.1,40551,Actinopteri,Actinopteri,Anabas testudineus,Climbing perch,adenosine A2a receptor a,445.66,N,114,26.53,52.93,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_015678882.1,23979,Lepidosauria,Lepidosauria,Protobothrops mucrosquamatus,Chinese habu,adenosine receptor A2a-like,444.51,N,114,26.53,52.79,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_023834032.1,60777,Actinopteri,Actinopteri,Salvelinus alpinus,Arctic char,adenosine receptor A2b,444.12,N,114,26.53,52.74,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_026572845.1,31817,Lepidosauria,Lepidosauria,Pseudonaja textilis,Eastern brown snake,adenosine receptor A2a,442.58,N,114,26.53,52.56,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,CAG02468.1,28632,Actinopteri,Actinopteri,Tetraodon nigroviridis,Spotted green pufferfish,"unnamed protein product, partial",441.04,N,114,26.53,52.38,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_015252103.1,36660,Actinopteri,Actinopteri,Cyprinodon variegatus,Sheepshead minnow,PREDICTED: LOW QUALITY PROTEIN: adenosine receptor A2a,440.27,N,114,26.53,52.29,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_026859531.1,37845,Actinopteri,Actinopteri,Electrophorus electricus,Electric eel,adenosine receptor A2a,438.73,N,114,26.53,52.1,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,TSL04212.1,17264,Actinopteri,Actinopteri,Bagarius yarrelli,Goonch,Adenosine receptor A2a,438.34,N,114,26.53,52.06,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_013877836.1,35358,Actinopteri,Actinopteri,Austrofundulus limnaeus,New World rivulines,PREDICTED: adenosine receptor A2a-like,437.57,N,114,26.53,51.97,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032085917.1,30930,Lepidosauria,Lepidosauria,Thamnophis elegans,Western terrestrial garter snake,adenosine receptor A2a,437.19,N,114,26.53,51.92,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_013923443.1,25639,Lepidosauria,Lepidosauria,Thamnophis sirtalis,Colubrid snakes,PREDICTED: adenosine receptor A2a-like,436.03,N,114,26.53,51.78,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_034027174.1,36362,Actinopteri,Actinopteri,Thalassophryne amazonica,Poison toadfishes,adenosine A2a receptor a,433.33,N,114,26.53,51.46,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,CAB1332662.1,41735,Actinopteri,Actinopteri,Coregonus sp. 'balchen',Whitefishes,"unnamed protein product, partial",432.18,N,114,26.53,51.33,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_026995865.1,47806,Actinopteri,Actinopteri,Tachysurus fulvidraco,Yellow catfish,adenosine receptor A2a,419.47,N,114,26.53,49.82,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_029301178.1,37868,Actinopteri,Actinopteri,Cottoperca gobio,Thornfishes,adenosine receptor A2a-like isoform X3,414.85,N,114,26.53,49.27,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,TNN70760.1,68294,Actinopteri,Actinopteri,Liparis tanakae,Tanaka's snailfish,Adenosine receptor A2a,411.76,N,114,26.53,48.9,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF3848923.1,29423,Actinopteri,Actinopteri,Dissostichus mawsoni,Antarctic toothfish,"hypothetical protein F7725_015420, partial",410.61,N,114,26.53,48.76,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010769369.1,32357,Actinopteri,Actinopteri,Notothenia coriiceps,Black rockcod,PREDICTED: adenosine receptor A2b-like,409.84,N,114,26.53,48.67,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032563789.1,35608,Aves,Aves,Chiroxiphia lanceolata,Lance-tailed manakin,adenosine receptor A2b,403.68,N,114,26.53,47.94,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,POI34001.1,18020,Aves,Aves,Bambusicola thoracicus,Chinese bamboo-partridge,"hypothetical protein CIB84_002247, partial",400.59,N,114,26.53,47.57,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032823932.1,40468,Hyperoartia,Hyperoartia,Petromyzon marinus,Sea lamprey,adenosine receptor A2b-like,392.12,N,114,26.53,46.57,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KFZ59131.1,11722,Aves,Aves,Podiceps cristatus,Great crested grebe,"Adenosine receptor A2a, partial",389.42,N,114,26.53,46.25,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KFQ84088.1,12119,Aves,Aves,Phoenicopterus ruber ruber,American flamingo,"Adenosine receptor A2a, partial",389.42,N,114,26.53,46.25,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KFP59346.1,11453,Aves,Aves,Cathartes aura,Turkey vulture,"Adenosine receptor A2a, partial",387.5,N,114,26.53,46.02,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF4073167.1,24479,Actinopteri,Actinopteri,Ameiurus melas,Black bullhead,hypothetical protein AMELA_G00255800,379.02,N,114,26.53,45.01,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,OWK15094.1,19267,Mammalia,Mammalia,Cervus elaphus hippelaphus,Red deer,ADORA2B,366.31,N,114,26.53,43.5,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,GCC21256.1,33620,Chondrichthyes,Chondrichthyes,Chiloscyllium punctatum,Brownbanded bambooshark,hypothetical protein,360.92,N,114,26.53,42.86,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_010841245.1,35574,Mammalia,Mammalia,Bison bison bison,American bison,PREDICTED: adenosine receptor A2b,359.76,N,114,26.53,42.73,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,TWW74391.1,29416,Actinopteri,Actinopteri,Takifugu flavidus,Sansaifugu,Adenosine receptor A2b,355.14,N,114,26.53,42.18,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ETE70438.1,18686,Lepidosauria,Lepidosauria,Ophiophagus hannah,King cobra,"Adenosine receptor A2a, partial",350.13,N,114,26.53,41.58,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,CBN80743.1,2683,Actinopteri,Actinopteri,Dicentrarchus labrax,European seabass,Adenosine receptor A1,298.9,N,114,26.53,35.5,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_020370648.1,27961,Chondrichthyes,Chondrichthyes,Rhincodon typus,Whale shark,adenosine receptor A1,295.82,N,114,26.53,35.13,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_019616217.1,35240,Leptocardii,Leptocardii,Branchiostoma belcheri,Belcher's lancelet,PREDICTED: adenosine receptor A2b-like,280.8,N,114,26.53,33.35,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_002734583.1,22970,Enteropneusta,Enteropneusta,Saccoglossus kowalevskii,Acorn worms,PREDICTED: adenosine receptor A2a-like,273.09,N,114,26.53,32.43,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_022085743.1,33296,Asteroidea,Asteroidea,Acanthaster planci,Crown-of-thorns starfish,adenosine receptor A1-like,271.17,N,114,26.53,32.2,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,CAD88592.1,2813,Mammalia,Mammalia,Mus musculus domesticus,Western European house mouse,adenosine A1 receptor,268.47,N,114,26.53,31.88,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AAN33001.1,225,Asteroidea,Asteroidea,Patiria miniata,Bat star,adenosine-like receptor,266.16,N,114,26.53,31.61,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_002595215.1,29682,Leptocardii,Leptocardii,Branchiostoma floridae,Florida lancelet,"hypothetical protein BRAFLDRAFT_139336, partial",265,N,114,26.53,31.47,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_033628090.1,24292,Asteroidea,Asteroidea,Asterias rubens,European starfish,adenosine receptor A1-like,263.85,N,114,26.53,31.33,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_033101030.1,32797,Crinoidea,Crinoidea,Anneissia japonica,Crinoids,adenosine receptor A1-like,263.85,N,114,26.53,31.33,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,PIK49275.1,30778,Holothuroidea,Holothuroidea,Apostichopus japonicus,Japanese sea cucumber,hypothetical protein BSL78_13840,255.76,N,114,26.53,30.37,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF2979041.1,15084,Aves,Aves,Melospiza melodia maxima,Song sparrow,hypothetical protein EK904_000136,250.75,N,114,26.53,29.78,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,NIG57923.1,4395,Mammalia,Mammalia,Pontoporia blainvillei,Franciscana,adenosine receptor A3-like,247.67,N,114,26.53,29.41,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_011674514.1,40378,Echinoidea,Echinoidea,Strongylocentrotus purpuratus,Purple sea urchin,adenosine receptor A2b-like,241.89,N,114,26.53,28.73,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_013390414.1,41479,Lingulata,Lingulata,Lingula anatina,Lampshells,adenosine receptor A1,238.42,N,114,26.53,28.32,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_021353687.1,64377,Bivalvia,Bivalvia,Mizuhopecten yessoensis,Yesso scallop,adenosine receptor A3-like,231.88,N,114,26.53,27.54,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_011416207.2,63743,Bivalvia,Bivalvia,Crassostrea gigas,Pacific oyster,adenosine receptor A2b,225.71,N,114,26.53,26.81,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_022332051.1,60512,Bivalvia,Bivalvia,Crassostrea virginica,Eastern oyster,LOW QUALITY PROTEIN: adenosine receptor A2b-like,224.17,N,114,26.53,26.62,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_025103774.1,62092,Gastropoda,Gastropoda,Pomacea canaliculata,Mesogastropoda,beta-2 adrenergic receptor-like,217.24,N,114,26.53,25.8,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_014775418.1,62924,Cephalopoda,Cephalopoda,Octopus bimaculoides,Cephalopods,PREDICTED: adenosine receptor A2b-like,215.7,N,114,26.53,25.62,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF0305494.1,28245,Hexanauplia,Hexanauplia,Amphibalanus amphitrite,Acorn barnacles,Adenosine receptor A2a,214.16,N,114,26.53,25.43,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_029638967.1,26163,Cephalopoda,Cephalopoda,Octopus vulgaris,Common octopus,adenosine receptor A2b-like,214.16,N,114,26.53,25.43,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_013093941.1,37571,Gastropoda,Gastropoda,Biomphalaria glabrata,Bloodfluke planorb,PREDICTED: somatostatin receptor type 3-like,210.31,N,114,26.53,24.98,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_001606786.2,33927,Insecta,Insecta,Nasonia vitripennis,Jewel wasp,adenosine receptor A2b,207.99,N,114,26.53,24.7,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,CAJ38814.1,786,Polychaeta,Polychaeta,Platynereis dumerilii,Dumeril's clam worm,putative adenosine receptor,207.99,N,114,26.53,24.7,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,OXU29687.1,16087,Insecta,Insecta,Trichomalopsis sarcophagae,"Wasps, ants, and bees",hypothetical protein TSAR_011716,207.99,N,114,26.53,24.7,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_026282689.1,40708,Insecta,Insecta,Frankliniella occidentalis,Western flower thrips,adenosine receptor A2b,206.84,N,114,26.53,24.56,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_021938885.1,44814,Insecta,Insecta,Zootermopsis nevadensis,Damp wood termites,uncharacterized protein LOC110839220,206.07,N,114,26.53,24.47,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_017076183.1,24307,Insecta,Insecta,Drosophila eugracilis,Fruit flies,PREDICTED: uncharacterized protein LOC108111300,205.3,N,114,26.53,24.38,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_012272428.1,19714,Insecta,Insecta,Orussus abietinus,Parasitic wood wasps,adenosine receptor A2b isoform X1,205.3,N,114,26.53,24.38,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_005113055.1,28801,Gastropoda,Gastropoda,Aplysia californica,California sea hare,PREDICTED: adenosine receptor A3-like,205.3,N,114,26.53,24.38,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_012262984.1,22153,Insecta,Insecta,Athalia rosae,Coleseed sawfly,adenosine receptor A2b-like,205.3,N,114,26.53,24.38,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_015603170.1,32236,Insecta,Insecta,Cephus cinctus,Wheat stem sawfly,adenosine receptor A2b,204.91,N,114,26.53,24.34,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_023296151.1,33825,Insecta,Insecta,Lucilia cuprina,Australian sheep blowfly,uncharacterized protein LOC111678925,204.14,N,114,26.53,24.24,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_031849727.1,25323,Insecta,Insecta,Nomia melanderi,Alkali bee,adenosine receptor A2b-like isoform X1,203.76,N,114,26.53,24.2,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_015049070.1,48506,Insecta,Insecta,Drosophila yakuba,Fruit flies,"uncharacterized protein Dyak_GE23411, isoform B",202.22,N,114,26.53,24.02,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,NP_001263101.1,112827,Insecta,Insecta,Drosophila melanogaster,Fruit fly,"adenosine receptor, isoform B",202.22,N,114,26.53,24.02,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_014203447.1,17495,Insecta,Insecta,Copidosoma floridanum,"Wasps, ants, and bees",adenosine receptor A2b-like,201.83,N,114,26.53,23.97,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_017091840.1,23646,Insecta,Insecta,Drosophila bipectinata,Fruit flies,PREDICTED: uncharacterized protein LOC108121979 isoform X2,201.83,N,114,26.53,23.97,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_015009176.1,42797,Insecta,Insecta,Drosophila erecta,Fruit flies,uncharacterized protein LOC6554220 isoform X2,201.44,N,114,26.53,23.92,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_017008663.1,24128,Insecta,Insecta,Drosophila takahashii,Fruit flies,PREDICTED: G-protein coupled receptor 161 isoform X1,201.44,N,114,26.53,23.92,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032593414.1,35106,Insecta,Insecta,Drosophila grimshawi,Fruit flies,uncharacterized protein LOC6563772 isoform X1,201.44,N,114,26.53,23.92,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_016938637.1,23394,Insecta,Insecta,Drosophila suzukii,Fruit flies,PREDICTED: uncharacterized protein LOC108016484 isoform X3,200.68,N,114,26.53,23.83,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_033329876.1,22393,Insecta,Insecta,Megalopta genalis,Sweat bees,adenosine receptor A2b-like isoform X1,200.68,N,114,26.53,23.83,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_014479840.1,22420,Insecta,Insecta,Dinoponera quadriceps,"Wasps, ants, and bees",PREDICTED: adenosine receptor A2b-like isoform X1,200.68,N,114,26.53,23.83,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_033167047.1,24100,Insecta,Insecta,Drosophila mauritiana,Fruit flies,G-protein coupled receptor 161 isoform X2,200.29,N,114,26.53,23.79,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_016951085.1,22747,Insecta,Insecta,Drosophila biarmipes,Fruit flies,PREDICTED: uncharacterized protein LOC108025245 isoform X2,200.29,N,114,26.53,23.79,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_003394193.1,22376,Insecta,Insecta,Bombus terrestris,Buff-tailed bumblebee,adenosine receptor A2b,200.29,N,114,26.53,23.79,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_016036939.1,69950,Insecta,Insecta,Drosophila simulans,Fruit flies,"uncharacterized protein Dsimw501_GD17311, isoform B",200.29,N,114,26.53,23.79,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_015431480.1,23639,Insecta,Insecta,Dufourea novaeangliae,Bees,PREDICTED: adenosine receptor A2b-like,200.29,N,114,26.53,23.79,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032577964.1,39995,Insecta,Insecta,Drosophila sechellia,Fruit flies,uncharacterized protein LOC6612822 isoform X2,200.29,N,114,26.53,23.79,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_017131842.1,24328,Insecta,Insecta,Drosophila elegans,Fruit flies,PREDICTED: uncharacterized protein LOC108149009 isoform X2,199.9,N,114,26.53,23.74,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_011308980.1,18958,Insecta,Insecta,Fopius arisanus,"Wasps, ants, and bees",PREDICTED: adenosine receptor A2b,199.52,N,114,26.53,23.69,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_029171231.1,24986,Insecta,Insecta,Nylanderia fulva,"Wasps, ants, and bees",adenosine receptor A2b-like isoform X1,199.52,N,114,26.53,23.69,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_033176582.1,24525,Insecta,Insecta,Bombus impatiens,Common eastern bumble bee,adenosine receptor A2b,198.75,N,114,26.53,23.6,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_004521079.1,23782,Insecta,Insecta,Ceratitis capitata,Mediterranean fruit fly,uncharacterized protein LOC101457663,198.75,N,114,26.53,23.6,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_033184037.1,24326,Insecta,Insecta,Bombus vancouverensis nearcticus,Bumble bees,adenosine receptor A2b-like,198.75,N,114,26.53,23.6,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_033353126.1,24081,Insecta,Insecta,Bombus vosnesenskii,Bumble bees,adenosine receptor A2b-like,198.75,N,114,26.53,23.6,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_033300514.1,24024,Insecta,Insecta,Bombus bifarius,Bumble bees,adenosine receptor A2b-like,198.75,N,114,26.53,23.6,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_033232997.1,29521,Insecta,Insecta,Drosophila pseudoobscura,Fruit flies,G-protein coupled receptor moody isoform X3,198.36,N,114,26.53,23.56,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ALC46245.1,31259,Insecta,Insecta,Drosophila busckii,Fruit flies,"AdoR, partial",198.36,N,114,26.53,23.56,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_011213832.1,23528,Insecta,Insecta,Bactrocera dorsalis,Oriental fruit fly,uncharacterized protein LOC105233440,198.36,N,114,26.53,23.56,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_017882495.1,23322,Insecta,Insecta,Ceratina calcarata,Carpenter bees,adenosine receptor A2b-like,198.36,N,114,26.53,23.56,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,EDW39382.1,37444,Insecta,Insecta,Drosophila persimilis,Fruit flies,GL14068,198.36,N,114,26.53,23.56,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_017142732.1,33734,Insecta,Insecta,Drosophila miranda,Fruit flies,G-protein coupled receptor moody isoform X2,198.36,N,114,26.53,23.56,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_017788857.1,25093,Insecta,Insecta,Habropoda laboriosa,Digger bees,PREDICTED: adenosine receptor A2b-like,198.36,N,114,26.53,23.56,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_015038767.1,7060,Insecta,Insecta,Drosophila pseudoobscura pseudoobscura,Fruit flies,"uncharacterized protein Dpse_GA22010, isoform D",198.36,N,114,26.53,23.56,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_018784133.1,22766,Insecta,Insecta,Bactrocera latifrons,Fruit flies,PREDICTED: uncharacterized protein LOC108965911,198.36,N,114,26.53,23.56,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,OAD53737.1,26943,Insecta,Insecta,Eufriesea mexicana,Orchid bees,Adenosine receptor A2b,197.98,N,114,26.53,23.51,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_022211070.1,26945,Insecta,Insecta,Drosophila obscura,Fruit flies,D(1C) dopamine receptor,197.98,N,114,26.53,23.51,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_014089633.1,19286,Insecta,Insecta,Bactrocera oleae,Olive fruit fly,PREDICTED: uncharacterized protein LOC106617144,197.98,N,114,26.53,23.51,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_011267061.1,38868,Insecta,Insecta,Camponotus floridanus,Florida carpenter ant,adenosine receptor A2b isoform X3,197.98,N,114,26.53,23.51,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_015116610.1,19520,Insecta,Insecta,Diachasma alloeum,"Wasps, ants, and bees",adenosine receptor A2b,197.98,N,114,26.53,23.51,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_001955541.1,45606,Insecta,Insecta,Drosophila ananassae,Fruit flies,uncharacterized protein LOC6498997 isoform X2,197.98,N,114,26.53,23.51,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_017480175.1,34625,Insecta,Insecta,Rhagoletis zephyria,Snowberry fruit fly,"PREDICTED: adenosine receptor A3, partial",197.21,N,114,26.53,23.42,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_003705802.1,26086,Insecta,Insecta,Megachile rotundata,Alfalfa leafcutting bee,PREDICTED: adenosine receptor A2b-like,197.21,N,114,26.53,23.42,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_034140615.1,40506,Insecta,Insecta,Drosophila guanche,Fruit flies,uncharacterized protein LOC117591455 isoform X1,197.21,N,114,26.53,23.42,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_003698754.1,18894,Insecta,Insecta,Apis florea,Little honeybee,LOW QUALITY PROTEIN: adenosine receptor A2b,196.82,N,114,26.53,23.37,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_028522253.1,21840,Insecta,Insecta,Apis cerana,Asiatic honeybee,adenosine receptor A2b,196.82,N,114,26.53,23.37,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_034182717.1,25969,Insecta,Insecta,Osmia lignaria,Orchard mason bee,adenosine receptor A2b-like,196.82,N,114,26.53,23.37,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_394893.3,26782,Insecta,Insecta,Apis mellifera,Honey bee,adenosine receptor A2b,196.82,N,114,26.53,23.37,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_024890139.1,27309,Insecta,Insecta,Temnothorax curvispinosus,"Wasps, ants, and bees",adenosine receptor A2b-like isoform X1,196.82,N,114,26.53,23.37,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_029037138.1,24844,Insecta,Insecta,Osmia bicornis bicornis,Red mason bee,adenosine receptor A2b-like isoform X1,196.82,N,114,26.53,23.37,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_022196009.1,26528,Insecta,Insecta,Nilaparvata lugens,Brown planthopper,uncharacterized protein LOC111053423,196.82,N,114,26.53,23.37,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_006609767.1,20390,Insecta,Insecta,Apis dorsata,Giant honeybee,adenosine receptor A2b-like,196.82,N,114,26.53,23.37,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,TGZ37270.1,13122,Insecta,Insecta,Temnothorax longispinosus,"Wasps, ants, and bees",Adenosine receptor A2b,196.44,N,114,26.53,23.33,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,CAB0035717.1,14108,Insecta,Insecta,Trichogramma brassicae,Trichogrammid wasps,unnamed protein product,196.44,N,114,26.53,23.33,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_011190530.1,24719,Insecta,Insecta,Zeugodacus cucurbitae,Melon fly,uncharacterized protein LOC105217295,196.44,N,114,26.53,23.33,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_014234261.1,21179,Insecta,Insecta,Trichogramma pretiosum,Trichogrammid wasps,adenosine receptor A2b-like,196.44,N,114,26.53,23.33,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_011493882.1,12848,Insecta,Insecta,Ceratosolen solmsi marchali,Fig wasps,PREDICTED: adenosine receptor A2b-like,196.05,N,114,26.53,23.28,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_009012740.1,46878,Clitellata,Clitellata,Helobdella robusta,Leeches,hypothetical protein HELRODRAFT_74348,196.05,N,114,26.53,23.28,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_030559006.1,20257,Insecta,Insecta,Drosophila novamexicana,Fruit flies,uncharacterized protein LOC115761391 isoform X1,196.05,N,114,26.53,23.28,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,RZF42628.1,18432,Insecta,Insecta,Laodelphax striatellus,Small brown planthopper,hypothetical protein LSTR_LSTR001423,196.05,N,114,26.53,23.28,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_012526408.1,23264,Insecta,Insecta,Monomorium pharaonis,Pharaoh ant,adenosine receptor A2b,196.05,N,114,26.53,23.28,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032289586.1,44776,Insecta,Insecta,Drosophila virilis,Fruit flies,uncharacterized protein LOC6633177 isoform X2,196.05,N,114,26.53,23.28,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_012220247.1,21807,Insecta,Insecta,Linepithema humile,Argentine ant,PREDICTED: LOW QUALITY PROTEIN: adenosine receptor A2b-like,196.05,N,114,26.53,23.28,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_013108215.1,22827,Insecta,Insecta,Stomoxys calcitrans,Stable fly,PREDICTED: uncharacterized protein LOC106087647,196.05,N,114,26.53,23.28,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_022912672.1,21694,Insecta,Insecta,Onthophagus taurus,Dung beetles & tumblebugs,histamine H2 receptor,196.05,N,114,26.53,23.28,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_013776503.1,39087,Merostomata,Merostomata,Limulus polyphemus,Atlantic horseshoe crab,adenosine receptor A2b-like,195.67,N,114,26.53,23.24,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_034486877.1,19612,Insecta,Insecta,Drosophila innubila,Fruit flies,LOW QUALITY PROTEIN: uncharacterized protein LOC117791279,195.28,N,114,26.53,23.19,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_029664287.1,22522,Insecta,Insecta,Formica exsecta,"Wasps, ants, and bees",adenosine receptor A2b-like isoform X1,195.28,N,114,26.53,23.19,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_034114762.1,23268,Insecta,Insecta,Drosophila albomicans,Fruit flies,adenosine receptor A1 isoform X3,195.28,N,114,26.53,23.19,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_011167438.1,25598,Insecta,Insecta,Solenopsis invicta,Red fire ant,adenosine receptor A2b,194.9,N,114,26.53,23.15,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KOX68503.1,14307,Insecta,Insecta,Melipona quadrifasciata,Stingless bees,Adenosine receptor A2b,194.9,N,114,26.53,23.15,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_017055812.1,23940,Insecta,Insecta,Drosophila ficusphila,Fruit flies,PREDICTED: uncharacterized protein LOC108097792,194.51,N,114,26.53,23.1,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_310647.1,28139,Insecta,Insecta,Anopheles gambiae str. PEST,African malaria mosquito,AGAP000445-PA,194.51,N,114,26.53,23.1,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_028162151.1,24619,Insecta,Insecta,Ostrinia furnacalis,Asian corn borer,adenosine receptor A2b-like,194.51,N,114,26.53,23.1,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_023230511.1,35601,Arachnida,Arachnida,Centruroides sculpturatus,Bark scorpion,adenosine receptor A1-like,194.51,N,114,26.53,23.1,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_017038088.1,22493,Insecta,Insecta,Drosophila kikkawai,Fruit flies,PREDICTED: uncharacterized protein LOC108085842 isoform X1,194.13,N,114,26.53,23.05,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_011867074.1,26316,Insecta,Insecta,Vollenhovia emeryi,"Wasps, ants, and bees",PREDICTED: adenosine receptor A2b-like isoform X1,194.13,N,114,26.53,23.05,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_002073434.1,34285,Insecta,Insecta,Drosophila willistoni,Fruit flies,uncharacterized protein LOC6650145 isoform X2,194.13,N,114,26.53,23.05,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_011340161.1,53796,Insecta,Insecta,Ooceraea biroi,Clonal raider ant,adenosine receptor A2b isoform X1,193.74,N,114,26.53,23.01,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_030370969.1,19868,Insecta,Insecta,Scaptodrosophila lebanonensis,Pomace flies,uncharacterized protein LOC115621454 isoform X2,193.74,N,114,26.53,23.01,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_022163605.1,24372,Insecta,Insecta,Myzus persicae,Green peach aphid,adenosine receptor A2b-like,193.36,N,114,26.53,22.96,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_020811427.1,20997,Insecta,Insecta,Drosophila serrata,Fruit flies,uncharacterized protein LOC110186564 isoform X1,192.97,N,114,26.53,22.92,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_023163605.2,21595,Insecta,Insecta,Drosophila hydei,Fruit flies,uncharacterized protein LOC111594513 isoform X2,192.59,N,114,26.53,22.87,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_015365083.1,17635,Insecta,Insecta,Diuraphis noxia,Russian wheat aphid,PREDICTED: adenosine receptor A2b,192.59,N,114,26.53,22.87,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_001998889.1,42659,Insecta,Insecta,Drosophila mojavensis,Fruit flies,uncharacterized protein LOC6572783 isoform X2,192.59,N,114,26.53,22.87,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_017871546.1,20062,Insecta,Insecta,Drosophila arizonae,Fruit flies,PREDICTED: uncharacterized protein LOC108619450 isoform X3,192.59,N,114,26.53,22.87,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_033230444.1,25334,Insecta,Insecta,Belonocnema treatae,Oak gall wasps,adenosine receptor A2b-like isoform X2,192.59,N,114,26.53,22.87,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,VVC40411.1,22242,Insecta,Insecta,Cinara cedri,Aphids,"G protein-coupled receptor, rhodopsin-like,GPCR, rhodopsin-like, 7TM",191.81,N,114,26.53,22.78,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_011708210.1,24351,Insecta,Insecta,Wasmannia auropunctata,Little fire ant,PREDICTED: adenosine receptor A2b-like isoform X1,191.81,N,114,26.53,22.78,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_017967281.1,35897,Insecta,Insecta,Drosophila navojoa,Fruit flies,uncharacterized protein LOC108659061 isoform X1,191.43,N,114,26.53,22.73,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_020299382.1,23521,Insecta,Insecta,Pseudomyrmex gracilis,"Wasps, ants, and bees",adenosine receptor A2b isoform X1,191.43,N,114,26.53,22.73,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_018017439.1,32118,Malacostraca,Malacostraca,Hyalella azteca,"Beach hoppers, scuds and well shrimps",PREDICTED: octopamine receptor beta-1R-like,191.04,N,114,26.53,22.69,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_026329861.1,20440,Insecta,Insecta,Hyposmocoma kahamanoa,Cosmet moths,adenosine receptor A2b,191.04,N,114,26.53,22.69,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_029344486.1,31402,Insecta,Insecta,Acyrthosiphon pisum,Pea aphid,adenosine receptor A2b-like,191.04,N,114,26.53,22.69,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_018404998.1,31479,Insecta,Insecta,Cyphomyrmex costatus,"Wasps, ants, and bees",PREDICTED: adenosine receptor A2b-like,190.66,N,114,26.53,22.64,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KFB42561.1,19894,Insecta,Insecta,Anopheles sinensis,Mosquitos,AGAP000445-PA-like protein,190.66,N,114,26.53,22.64,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_011141524.1,41890,Insecta,Insecta,Harpegnathos saltator,Jerdon's jumping ant,adenosine receptor A2b isoform X1,190.66,N,114,26.53,22.64,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_026724636.1,24061,Insecta,Insecta,Trichoplusia ni,Cabbage looper,adenosine receptor A2b,190.27,N,114,26.53,22.6,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_034231610.1,27539,Insecta,Insecta,Thrips palmi,True thrips,adenosine receptor A2a,190.27,N,114,26.53,22.6,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_012063774.1,10762,Insecta,Insecta,Atta cephalotes,Leaf cutting ants,PREDICTED: adenosine receptor A2b-like,189.89,N,114,26.53,22.55,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_018057003.1,31131,Insecta,Insecta,Atta colombica,Leaf cutting ants,PREDICTED: adenosine receptor A2b-like,189.89,N,114,26.53,22.55,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ELU09324.1,32034,Polychaeta,Polychaeta,Capitella teleta,Capitella sp. MKJ-2016,hypothetical protein CAPTEDRAFT_113294,189.89,N,114,26.53,22.55,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_018355317.1,35683,Insecta,Insecta,Trachymyrmex septentrionalis,"Wasps, ants, and bees",PREDICTED: adenosine receptor A2b-like isoform X1,189.5,N,114,26.53,22.51,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_018370762.1,40046,Insecta,Insecta,Trachymyrmex cornetzi,"Wasps, ants, and bees",PREDICTED: adenosine receptor A2b-like isoform X1,189.5,N,114,26.53,22.51,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_004930414.1,28455,Insecta,Insecta,Bombyx mori,Domestic silkworm,adenosine receptor A2b,189.12,N,114,26.53,22.46,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_026811509.1,19570,Insecta,Insecta,Rhopalosiphum maidis,Corn leaf aphid,adenosine receptor A2b-like,189.12,N,114,26.53,22.46,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_026757815.1,20703,Insecta,Insecta,Galleria mellonella,Greater wax moth,adenosine receptor A3-like,189.12,N,114,26.53,22.46,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KYQ49625.1,33373,Insecta,Insecta,Trachymyrmex zeteki,"Wasps, ants, and bees",Adenosine receptor A2b,189.12,N,114,26.53,22.46,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_021700696.1,49405,Insecta,Insecta,Aedes aegypti,Yellow fever mosquito,5-hydroxytryptamine receptor 2B,188.73,N,114,26.53,22.41,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_030761547.1,23713,Insecta,Insecta,Sitophilus oryzae,Rice weevil,5-hydroxytryptamine receptor 4,188.73,N,114,26.53,22.41,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_011637967.1,19250,Insecta,Insecta,Pogonomyrmex barbatus,Red harvester ant,adenosine receptor A2b-like isoform X1,188.35,N,114,26.53,22.37,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_029717438.1,59061,Insecta,Insecta,Aedes albopictus,Asian tiger mosquito,probable glycoprotein hormone G-protein coupled receptor,188.35,N,114,26.53,22.37,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_027207104.1,59967,Malacostraca,Malacostraca,Penaeus vannamei,Pacific white shrimp,uncharacterized protein LOC113800524,188.35,N,114,26.53,22.37,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_019763059.1,49511,Insecta,Insecta,Dendroctonus ponderosae,Mountain pine beetle,PREDICTED: adenosine receptor A2b isoform X1,187.96,N,114,26.53,22.32,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF0760544.1,32310,Insecta,Insecta,Aphis craccivora,Cowpea aphid,adenosine receptor A2b-like,187.96,N,114,26.53,22.32,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_018579869.1,20920,Insecta,Insecta,Anoplophora glabripennis,Asian longhorned beetle,"histamine H2 receptor, partial",187.96,N,114,26.53,22.32,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_021185049.1,40199,Insecta,Insecta,Helicoverpa armigera,Cotton bollworm,adenosine receptor A2b,186.42,N,114,26.53,22.14,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_013195643.1,18524,Insecta,Insecta,Amyelois transitella,Snout moths,PREDICTED: adenosine receptor A3,186.04,N,114,26.53,22.09,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_022820316.1,25340,Insecta,Insecta,Spodoptera litura,Owlet moths,adenosine receptor A2b,186.04,N,114,26.53,22.09,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032513242.1,34980,Insecta,Insecta,Danaus plexippus plexippus,Monarch butterfly,adenosine receptor A3,185.27,N,114,26.53,22,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_030023221.1,23019,Insecta,Insecta,Manduca sexta,Tobacco hornworm,adenosine receptor A3,185.27,N,114,26.53,22,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_021961251.1,54770,Collembola,Collembola,Folsomia candida,Smooth springtails,dopamine receptor 2-like,184.11,N,114,26.53,21.87,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_013180538.1,39488,Insecta,Insecta,Papilio xuthus,Asian swallowtail,PREDICTED: adenosine receptor A2b-like,183.34,N,114,26.53,21.77,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_019866610.1,17651,Insecta,Insecta,Aethina tumida,Small hive beetle,PREDICTED: adenosine receptor A2b-like isoform X2,182.96,N,114,26.53,21.73,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ETN65636.1,10783,Insecta,Insecta,Anopheles darlingi,American malaria mosquito,Adenosine receptor,182.96,N,114,26.53,21.73,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,NP_001308587.1,42295,Insecta,Insecta,Tribolium castaneum,Red flour beetle,uncharacterized LOC103314255,181.41,N,114,26.53,21.54,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_025195941.1,19134,Insecta,Insecta,Melanaphis sacchari,Aphids,adenosine receptor A2b-like,181.41,N,114,26.53,21.54,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAE9429296.1,22833,Insecta,Insecta,Apolygus lucorum,Plant bugs,hypothetical protein GE061_06485,181.41,N,114,26.53,21.54,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_014370426.1,33325,Insecta,Insecta,Papilio machaon,Common yellow swallowtail,PREDICTED: adenosine receptor A2b-like,181.03,N,114,26.53,21.5,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AON96610.1,21983,Insecta,Insecta,Bicyclus anynana,Squinting bush brown,adenosine receptor A2,180.64,N,114,26.53,21.45,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_014245551.1,24331,Insecta,Insecta,Cimex lectularius,Bed bug,adenosine receptor A3,179.87,N,114,26.53,21.36,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,TMW42233.1,15898,Insecta,Insecta,Sarcophaga bullata,Grey fleshfly,"hypothetical protein DOY81_012687, partial",179.1,N,114,26.53,21.27,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AMT84571.1,23000,Insecta,Insecta,Plutella xylostella,Diamondback moth,adenosine receptor,177.56,N,114,26.53,21.09,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_022124197.1,19658,Insecta,Insecta,Pieris rapae,Cabbage white,adenosine receptor A2b,177.18,N,114,26.53,21.04,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_015903459.1,27786,Arachnida,Arachnida,Parasteatoda tepidariorum,Common house spider,octopamine receptor 1,174.87,N,114,26.53,20.77,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_026494874.1,18776,Insecta,Insecta,Vanessa tameamea,"Tortoiseshells, admirals &c.",adenosine receptor A3,174.48,N,114,26.53,20.72,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,PBC31910.1,10309,Insecta,Insecta,Apis cerana cerana,Asiatic honeybee,elongator complex protein,172.94,N,114,26.53,20.54,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_011060134.1,34244,Insecta,Insecta,Acromyrmex echinatior,Panamanian leafcutter ant,PREDICTED: adenosine receptor A2b-like,163.7,N,114,26.53,19.44,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ACO08932.1,1487,Actinopteri,Actinopteri,Osmerus mordax,Rainbow smelt,Adenosine A2b receptor,152.91,N,114,26.53,18.16,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_015780793.1,34225,Anthozoa,Anthozoa,Acropora digitifera,Staghorn corals,PREDICTED: octopamine receptor-like,150.6,N,114,26.53,17.89,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AXM42355.1,216,Clitellata,Clitellata,Hirudo verbana,Leeches,A2,149.83,N,114,26.53,17.79,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_029190630.1,35597,Anthozoa,Anthozoa,Acropora millepora,Staghorn corals,octopamine receptor-like,149.06,N,114,26.53,17.7,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,CAA06536.1,613,Leptocardii,Leptocardii,Branchiostoma lanceolatum,Amphioxus,dopamine D1/beta receptor,148.29,N,114,26.53,17.61,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_002124676.1,23440,Ascidiacea,Ascidiacea,Ciona intestinalis,Vase tunicate,adenosine receptor A2a,146.75,N,114,26.53,17.43,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_009050882.1,47713,Gastropoda,Gastropoda,Lottia gigantea,Owl limpet,"hypothetical protein LOTGIDRAFT_94741, partial",144.82,N,114,26.53,17.2,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_003743414.1,11978,Arachnida,Arachnida,Galendromus occidentalis,Western predatory mite,dopamine receptor 1-like,144.44,N,114,26.53,17.15,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_022692218.1,26233,Arachnida,Arachnida,Varroa jacobsoni,Mites and ticks,alpha-1A adrenergic receptor-like,144.05,N,114,26.53,17.11,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032232665.1,60011,Anthozoa,Anthozoa,Nematostella vectensis,Starlet sea anemone,histamine H2 receptor,144.05,N,114,26.53,17.11,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_022661983.1,30441,Arachnida,Arachnida,Varroa destructor,Honeybee mite,alpha-1A adrenergic receptor-like isoform X2,144.05,N,114,26.53,17.11,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,CAB3220197.1,9702,Ascidiacea,Ascidiacea,Phallusia mammillata,Warty sea squirt,adenosine receptor A2a,142.12,N,114,26.53,16.88,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_031569468.1,27085,Anthozoa,Anthozoa,Actinia tenebrosa,Australian red waratah sea anemone,octopamine receptor 1-like,141.74,N,114,26.53,16.83,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AAC60068.1,802,Actinopteri,Actinopteri,Anguilla anguilla,European eel,dopamine D1C receptor,140.2,N,114,26.53,16.65,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AAF28802.1,94,Gastropoda,Gastropoda,Aplysia kurodai,Kuroda's sea hare,octopamine receptor,139.81,N,114,26.53,16.6,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_020628182.1,32639,Anthozoa,Anthozoa,Orbicella faveolata,Stony corals,alpha-2B adrenergic receptor-like,139.81,N,114,26.53,16.6,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_022797744.1,57612,Anthozoa,Anthozoa,Stylophora pistillata,Stony corals,octopamine receptor Oamb-like,139.43,N,114,26.53,16.56,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_002408737.2,54103,Arachnida,Arachnida,Ixodes scapularis,Black-legged tick,tyramine receptor 1,139.04,N,114,26.53,16.51,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,CRK98611.1,22648,Insecta,Insecta,Clunio marinus,Nonbiting midges,"CLUMA_CG012025, isoform A",138.66,N,114,26.53,16.47,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,EYC46233.1,81567,Chromadorea,Chromadorea,Ancylostoma ceylanicum,Roundworms,hypothetical protein Y032_0404g854,138.27,N,114,26.53,16.42,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_020892709.1,53890,Anthozoa,Anthozoa,Exaiptasia pallida,Sea anemones,octopamine receptor beta-2R,138.27,N,114,26.53,16.42,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_014666036.1,20794,Priapulimorpha,Priapulimorpha,Priapulus caudatus,Priapulids,PREDICTED: dopamine receptor 1-like,137.5,N,114,26.53,16.33,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_027055770.1,51030,Anthozoa,Anthozoa,Pocillopora damicornis,Cauliflower coral,octopamine receptor-like,137.12,N,114,26.53,16.28,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AAL23575.1,32,Bivalvia,Bivalvia,Spisula solidissima,Atlantic surf clam,putative G-protein coupled receptor,136.73,N,114,26.53,16.24,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAE9416336.1,10796,Chromadorea,Chromadorea,Angiostrongylus cantonensis,Rat lungworm,hypothetical protein Angca_006495,136.73,N,114,26.53,16.24,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_014289429.1,26429,Insecta,Insecta,Halyomorpha halys,Brown marmorated stink bug,adenosine receptor A2a,135.58,N,114,26.53,16.1,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,QBA29916.1,398,Hexanauplia,Hexanauplia,Sacculina yatsui,Crustaceans,"dopamine_receptor_1-like protein, partial",135.19,N,114,26.53,16.06,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,PSN42062.1,30150,Insecta,Insecta,Blattella germanica,German cockroach,"Dopamine receptor 1, partial",134.42,N,114,26.53,15.96,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_015174375.1,20990,Insecta,Insecta,Polistes dominula,European paper wasp,PREDICTED: 5-hydroxytryptamine receptor 1D-like,134.42,N,114,26.53,15.96,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_014609196.1,19304,Insecta,Insecta,Polistes canadensis,Paper wasps,PREDICTED: 5-hydroxytryptamine receptor 1D-like,134.03,N,114,26.53,15.92,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AKD41292.1,1563,Insecta,Insecta,Locusta migratoria,Migratory locust,dopamine receptor 1,133.65,N,114,26.53,15.87,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF2368138.1,25903,Malacostraca,Malacostraca,Trinorchestia longiramus,"Beach hoppers, scuds and well shrimps",G protein-coupled receptor rhodopsin-like,133.26,N,114,26.53,15.83,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ABS19481.1,1088,Arachnida,Arachnida,Rhipicephalus microplus,Southern cattle tick,putative octopamine receptor,133.26,N,114,26.53,15.83,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ODN06613.1,20400,Collembola,Collembola,Orchesella cincta,Slender springtails,Dopamine receptor 1,132.88,N,114,26.53,15.78,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,BBM89998.1,44,Aves,Aves,Phasianus versicolor,Green pheasant,beta-2 adrenergic receptor,132.88,N,114,26.53,15.78,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,QCO96382.1,230,Echinoidea,Echinoidea,Lytechinus variegatus,Green sea urchin,"dopamine receptor D1, partial",132.49,N,114,26.53,15.74,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,VDN51483.1,11204,Chromadorea,Chromadorea,Dracunculus medinensis,Guinea worm,unnamed protein product,132.49,N,114,26.53,15.74,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,BBM89999.1,53,Aves,Aves,Pavo muticus,Green peafowl,beta-2 adrenergic receptor,132.49,N,114,26.53,15.74,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,VDM57014.1,13409,Chromadorea,Chromadorea,Angiostrongylus costaricensis,American rat lungworm,unnamed protein product,131.72,N,114,26.53,15.64,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF3422130.1,11133,Insecta,Insecta,Frieseomelitta varia,Stingless bees,hypothetical protein E2986_04334,131.34,N,114,26.53,15.6,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,PAA83935.1,49034,Rhabditophora,Rhabditophora,Macrostomum lignano,Flatworms,hypothetical protein BOX15_Mlig005906g3,130.57,N,114,26.53,15.51,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,BAM15634.1,339,Insecta,Insecta,Gryllus bimaculatus,Two-spotted cricket,dopamine receptor 1,130.57,N,114,26.53,15.51,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_028391597.1,28760,Anthozoa,Anthozoa,Dendronephthya gigantea,Soft corals,5-hydroxytryptamine receptor 1A-alpha-like,130.18,N,114,26.53,15.46,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,BAF36279.1,17,Mammalia,Mammalia,Sus scrofa leucomystax,Pig,beta 3 adrenergic receptor,129.8,N,114,26.53,15.41,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,BAF36280.1,16,Mammalia,Mammalia,Sus scrofa riukiuanus,Pig,beta 3 adrenergic receptor,129.8,N,114,26.53,15.41,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,TMS35986.1,36673,Chromadorea,Chromadorea,Steinernema carpocapsae,Steinernema sp. LE-2017,hypothetical protein L596_003261,129.8,N,114,26.53,15.41,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_017301941.2,25809,Insecta,Insecta,Diaphorina citri,Asian citrus psyllid,dopamine receptor 1-like,129.03,N,114,26.53,15.32,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_018917716.1,29011,Insecta,Insecta,Bemisia tabaci,Sweet potato whitefly,PREDICTED: dopamine receptor 1-like isoform X2,129.03,N,114,26.53,15.32,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AOG12990.1,382,Malacostraca,Malacostraca,Homarus americanus,American lobster,dopamine receptor subtype beta-1R,129.03,N,114,26.53,15.32,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,CAB3384203.1,31082,Insecta,Insecta,Cloeon dipterum,Small minnow mayflies,Hypothetical predicted protein,128.64,N,114,26.53,15.28,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,pir|QRHYB2|,104,Mammalia,Mammalia,Cricetinae gen. sp.,Hamsters,beta-2-adrenergic receptor - hamster,128.64,N,114,26.53,15.28,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_017775810.1,19616,Insecta,Insecta,Nicrophorus vespilloides,Sexton beetles,PREDICTED: dopamine receptor 1,128.26,N,114,26.53,15.23,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAE9549706.1,10997,Chromadorea,Chromadorea,Halicephalobus sp. NKZ332,Roundworms,hypothetical protein FO519_007082,128.26,N,114,26.53,15.23,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AEW67331.1,230,Hyperoartia,Hyperoartia,Lampetra fluviatilis,European river lamprey,dopamine D1-like receptor,128.26,N,114,26.53,15.23,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ACX46712.1,332,Actinopteri,Actinopteri,Pimephales promelas,Fathead minnow,beta-1-adrenergic receptor,128.26,N,114,26.53,15.23,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,EFX64650.1,33742,Branchiopoda,Branchiopoda,Daphnia pulex,Common water flea,hypothetical protein DAPPUDRAFT_66063,127.87,N,114,26.53,15.19,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,CAB3404309.1,15165,Chromadorea,Chromadorea,Caenorhabditis bovis,Roundworms,unnamed protein product,127.49,N,114,26.53,15.14,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AFX71574.1,952,Malacostraca,Malacostraca,Penaeus monodon,Black tiger shrimp,dopamine receptor type 1,127.49,N,114,26.53,15.14,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_027838917.1,19374,Insecta,Insecta,Aphis gossypii,Cotton aphid,LOW QUALITY PROTEIN: octopamine receptor-like,127.1,N,114,26.53,15.09,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AAL25619.1,8,Anthozoa,Anthozoa,Renilla koellikeri,Koelliker's sea pansy,orphan G protein-coupled receptor Ren 1,127.1,N,114,26.53,15.09,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_025834525.1,22237,Insecta,Insecta,Agrilus planipennis,Emerald ash borer,dopamine receptor 1,127.1,N,114,26.53,15.09,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,PRD30708.1,22873,Arachnida,Arachnida,Trichonephila clavipes,Eight-eyed spiders,Octbeta2R,127.1,N,114,26.53,15.09,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,Q4KWL2.1,89,Mammalia,Mammalia,Tscherskia triton,Greater long-tailed hamster,RecName: Full=Beta-2 adrenergic receptor; AltName: Full=Beta-2 adrenoreceptor; Short=Beta-2 adrenoceptor,126.72,N,114,26.53,15.05,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032680048.1,29187,Insecta,Insecta,Odontomachus brunneus,"Wasps, ants, and bees",dopamine receptor 1 isoform X3,126.72,N,114,26.53,15.05,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_002429478.1,21849,Insecta,Insecta,Pediculus humanus corporis,Human body louse,"class A rhodopsin-like G-protein coupled receptor GPRdop1, putative",126.72,N,114,26.53,15.05,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,OQR78833.1,14365,Arachnida,Arachnida,Tropilaelaps mercedesae,Mites and ticks,G-protein coupled receptor-like,126.72,N,114,26.53,15.05,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,NP_001040809.1,70847,Chromadorea,Chromadorea,Caenorhabditis elegans,Roundworm,G_PROTEIN_RECEP_F1_2 domain-containing protein,126.33,N,114,26.53,15,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,VDM94838.1,11025,Chromadorea,Chromadorea,Thelazia callipaeda,Thelaziosis nematode,unnamed protein product,126.33,N,114,26.53,15,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ABL09835.1,286,Mammalia,Mammalia,Vulpes lagopus,Arctic fox,"dopamine D1 receptor, partial",126.33,N,114,26.53,15,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AAM76554.1,1692,Mammalia,Mammalia,Gorilla gorilla,Western gorilla,"adrenergic receptor beta-2, partial",125.95,N,114,26.53,14.96,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AEO12685.1,218,Bivalvia,Bivalvia,Crassostrea angulata,Portugese oyster,dopamine receptor protein,125.95,N,114,26.53,14.96,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_025421268.1,21321,Insecta,Insecta,Sipha flava,Yellow sugarcane aphid,tyramine receptor 1-like isoform X1,125.56,N,114,26.53,14.91,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_008552373.1,18603,Insecta,Insecta,Microplitis demolitor,"Wasps, ants, and bees",PREDICTED: dopamine receptor 1,125.18,N,114,26.53,14.87,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_003103884.1,141982,Chromadorea,Chromadorea,Caenorhabditis remanei,Roundworms,hypothetical protein CRE_09495,124.79,N,114,26.53,14.82,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_024499975.1,24982,Chromadorea,Chromadorea,Strongyloides ratti,Roundworms,Adenosine receptor,124.79,N,114,26.53,14.82,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,VDM24729.1,38973,Chromadorea,Chromadorea,Toxocara canis,Dog roundworm,unnamed protein product,124.41,N,114,26.53,14.77,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AAM76556.1,467,Mammalia,Mammalia,Saguinus oedipus,Cotton-top tamarin,"adrenergic receptor beta-2, partial",124.41,N,114,26.53,14.77,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,QIH44912.1,336,Actinopteri,Actinopteri,Plecoglossus altivelis,Ayu,ayu beta-1 adrenergic receptor-like protein,124.02,N,114,26.53,14.73,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,QGJ83340.1,277,Insecta,Insecta,Agrotis ipsilon,Black cutworm moth,dopamine receptor 1,124.02,N,114,26.53,14.73,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,P61752.1,1611,Mammalia,Mammalia,Pongo pygmaeus,Bornean orangutan,RecName: Full=Histamine H2 receptor; Short=H2R; Short=HH2R; AltName: Full=Gastric receptor I,123.64,N,114,26.53,14.68,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,CAB3227577.1,38602,Insecta,Insecta,Arctia plantaginis,Tiger moths,unnamed protein product,123.25,N,114,26.53,14.64,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_028040580.1,19920,Insecta,Insecta,Bombyx mandarina,Wild silkworm,dopamine receptor 1-like,122.86,N,114,26.53,14.59,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_015791996.1,16232,Arachnida,Arachnida,Tetranychus urticae,Two-spotted spider mite,adenosine receptor A2b-like,122.86,N,114,26.53,14.59,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,P47800.1,531,Actinopteri,Actinopteri,Oreochromis mossambicus,Mozambique tilapia,RecName: Full=D(1)-like dopamine receptor,122.09,N,114,26.53,14.5,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,GBM88251.1,279008,Arachnida,Arachnida,Araneus ventricosus,Orb weavers,"Octopamine receptor beta-2R, partial",122.09,N,114,26.53,14.5,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,prf||2108259A,1008,Mammalia,Mammalia,Sus scrofa domesticus,Domestic pig,dopamine receptor D1A,121.32,N,114,26.53,14.41,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_013145981.1,17824,Insecta,Insecta,Papilio polytes,Common Mormon,PREDICTED: adenosine receptor A2b-like,120.94,N,114,26.53,14.36,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_027202528.1,13039,Arachnida,Arachnida,Dermatophagoides pteronyssinus,European house dust mite,5-hydroxytryptamine receptor 1-like,120.94,N,114,26.53,14.36,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AKR18178.1,16608,Insecta,Insecta,Chilo suppressalis,Striped riceborer,dopamine receptor 1,120.55,N,114,26.53,14.32,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AJP70561.1,68,Actinopteri,Actinopteri,Amphiprion sebae,Sebae anemonefish,dopamine receptor D1,120.55,N,114,26.53,14.32,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,OQV17393.1,20953,Eutardigrada,Eutardigrada,Hypsibius dujardini,Water bears,Histamine H2 receptor,120.55,N,114,26.53,14.32,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ADI56274.1,87,Hexanauplia,Hexanauplia,Amphibalanus improvisus,Acorn barnacles,beta-like octopamine receptor R3,119.4,N,114,26.53,14.18,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_001866063.1,38591,Insecta,Insecta,Culex quinquefasciatus,Southern house mosquito,5-hydroxytryptamine receptor 1,119.01,N,114,26.53,14.13,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,RXG55316.1,19212,Malacostraca,Malacostraca,Armadillidium vulgare,Common pillbug,Octopamine receptor beta-1R,118.24,N,114,26.53,14.04,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_016979056.1,23499,Insecta,Insecta,Drosophila rhopaloa,Fruit flies,PREDICTED: octopamine receptor beta-1R isoform X1,117.86,N,114,26.53,14,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,P42288.1,260,Mammalia,Mammalia,Didelphis virginiana,North American opossum,RecName: Full=D(1A) dopamine receptor; AltName: Full=Dopamine D1 receptor,117.09,N,114,26.53,13.91,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,QEZ90773.1,279,Gastropoda,Gastropoda,Haliotis discus hannai,Japanese disc abalone,5-hydroxytryptamine receptor 4A-like protein,116.32,N,114,26.53,13.81,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,GAV03327.1,23050,Eutardigrada,Eutardigrada,Ramazzottius varieornatus,Water bears,hypothetical protein RvY_13769,115.93,N,114,26.53,13.77,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AAA85637.1,27,Mammalia,Mammalia,Canis sp.,"Dog, coyote, wolf, fox",histamine H2 receptor,115.93,N,114,26.53,13.77,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ABQ81650.1,2012,Actinopteri,Actinopteri,Ctenopharyngodon idella,Grass carp,dopamine D1A receptor,115.55,N,114,26.53,13.72,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAE9524927.1,18677,Insecta,Insecta,Aphis glycines,Soybean aphid,hypothetical protein AGLY_014977,115.55,N,114,26.53,13.72,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KMQ97680.1,18322,Insecta,Insecta,Lasius niger,"Wasps, ants, and bees",g-protein coupled receptor,115.55,N,114,26.53,13.72,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_031628306.1,24972,Insecta,Insecta,Contarinia nasturtii,Swede midge,dopamine receptor 1,115.55,N,114,26.53,13.72,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,RUS88591.1,23933,Gastropoda,Gastropoda,Elysia chlorotica,Eastern emerald elysia,hypothetical protein EGW08_003617,114.78,N,114,26.53,13.63,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ADI40744.1,43,Actinopteri,Actinopteri,Xiphophorus nigrensis,Panuco swordtail,"alpha-1B adrenergic receptor, partial",114.39,N,114,26.53,13.58,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,QBL02595.1,98,Cubozoa,Cubozoa,Tripedalia cystophora,Sea wasps,biogenic amine-like GPCR,114,N,114,26.53,13.54,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_028144772.1,28182,Insecta,Insecta,Diabrotica virgifera virgifera,Western corn rootworm,5-hydroxytryptamine receptor 1A-like,113.62,N,114,26.53,13.49,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,RWS04936.1,19015,Arachnida,Arachnida,Dinothrombium tinctorium,Velvet mites,dopamine receptor 1-like protein,113.62,N,114,26.53,13.49,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KPM06183.1,10855,Arachnida,Arachnida,Sarcoptes scabiei,Mites and ticks,7 transmembrane receptor (rhodopsin family)-like protein 8,112.85,N,114,26.53,13.4,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,VEN64435.1,31374,Insecta,Insecta,Callosobruchus maculatus,Cowpea weevil,unnamed protein product,112.85,N,114,26.53,13.4,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ABB87183.1,93,Malacostraca,Malacostraca,Panulirus interruptus,California spiny lobster,type 1 dopamine receptor,112.08,N,114,26.53,13.31,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ANO39129.1,1629,Rhabditophora,Rhabditophora,Schmidtea mediterranea,Freshwater planarian,GCR484,112.08,N,114,26.53,13.31,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ACA60972.1,374,Mammalia,Mammalia,Neovison vison,American mink,"DRD1, partial",111.69,N,114,26.53,13.26,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KFM63867.1,27105,Arachnida,Arachnida,Stegodyphus mimosarum,Eight-eyed spiders,"Dopamine receptor 1, partial",111.69,N,114,26.53,13.26,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_018648482.1,26445,Trematoda,Trematoda,Schistosoma mansoni,Blood flukes,putative biogenic amine (5HT) receptor,111.69,N,114,26.53,13.26,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KRZ32838.1,81560,Enoplea,Enoplea,Trichinella pseudospiralis,Roundworms,5-hydroxytryptamine receptor 1D,111.69,N,114,26.53,13.26,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,VDK46747.1,27183,Chromadorea,Chromadorea,Gongylonema pulchrum,Roundworms,unnamed protein product,111.69,N,114,26.53,13.26,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_026475769.1,22186,Insecta,Insecta,Ctenocephalides felis,Cat flea,octopamine receptor beta-1R-like,111.31,N,114,26.53,13.22,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ACM51386.2,79,Actinopteri,Actinopteri,Opsanus beta,Gulf toadfish,5-hydroxytryptamine receptor 2A,110.92,N,114,26.53,13.17,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AAB47042.1,1523,Mammalia,Mammalia,Mus sp.,Mice,alpha 1d-adrenergic receptor,110.92,N,114,26.53,13.17,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_012555625.1,23139,Hydrozoa,Hydrozoa,Hydra vulgaris,Hydras,PREDICTED: alpha-1A adrenergic receptor-like,110.54,N,114,26.53,13.13,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AHN58229.1,372,Aves,Aves,Anser cygnoides,Swan goose,dopamine D1 receptor,110.15,N,114,26.53,13.08,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,PCG67140.1,19089,Insecta,Insecta,Heliothis virescens,Tobacco budworm,hypothetical protein B5V51_6755,110.15,N,114,26.53,13.08,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,CAA06542.1,158,Myxini,Myxini,Myxine glutinosa,Atlantic hagfish,dopamine D1x receptor,110.15,N,114,26.53,13.08,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_015510943.1,16016,Insecta,Insecta,Neodiprion lecontei,Redheaded pine sawfly,PREDICTED: D(2)-like dopamine receptor,110.15,N,114,26.53,13.08,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,OZG11133.1,25622,Chromadorea,Chromadorea,Caenorhabditis latens,Caenorhabditis sp. 23 KK-2011,"hypothetical protein FL83_14472, partial",109.77,N,114,26.53,13.04,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_023028428.1,20099,Insecta,Insecta,Leptinotarsa decemlineata,Colorado potato beetle,"adenosine receptor A2b-like, partial",109.38,N,114,26.53,12.99,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ACP18782.1,255,Mammalia,Mammalia,Erythrocebus patas,Red guenon,"trace amine-associated receptor 3, partial",109,N,114,26.53,12.94,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,RDD42730.1,12174,Trichoplacidae,Trichoplacidae,Trichoplax sp. H2,Placozoans,Melanopsin-B,108.23,N,114,26.53,12.85,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,VVC99498.1,20058,Insecta,Insecta,Leptidea sinapis,"White, yellow and sulphur butterflies",unnamed protein product,108.23,N,114,26.53,12.85,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_011295308.1,22176,Insecta,Insecta,Musca domestica,House fly,PREDICTED: histamine H2 receptor isoform X1,107.46,N,114,26.53,12.76,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_002114760.1,23209,Trichoplacidae,Trichoplacidae,Trichoplax adhaerens,Placozoans,hypothetical protein TRIADDRAFT_58576,105.92,N,114,26.53,12.58,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_032789037.1,55132,Branchiopoda,Branchiopoda,Daphnia magna,Common water fleas,probable G-protein coupled receptor No9,105.92,N,114,26.53,12.58,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,QGA72503.1,493,Insecta,Insecta,Rhynchophorus ferrugineus,Red palm weevil,octopamine receptor oamb,105.53,N,114,26.53,12.53,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ACP18780.1,341,Mammalia,Mammalia,Symphalangus syndactylus,Siamang,"trace amine-associated receptor 3, partial",105.53,N,114,26.53,12.53,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,PIC20755.1,44576,Chromadorea,Chromadorea,Caenorhabditis nigoni,Caenorhabditis sp. 9 JU1325,hypothetical protein B9Z55_025838,105.53,N,114,26.53,12.53,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AOY33881.1,507,Mammalia,Mammalia,Castor fiber,Eurasian beaver,orexin receptor type 1,105.14,N,114,26.53,12.49,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ALH06531.1,226,Actinopteri,Actinopteri,Coilia nasus,Japanese grenadier anchovy,trace amine-associated receptor,105.14,N,114,26.53,12.49,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,VDP63219.1,22260,Trematoda,Trematoda,Schistosoma mattheei,Blood flukes,unnamed protein product,105.14,N,114,26.53,12.49,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_023342701.1,30614,Hexanauplia,Hexanauplia,Eurytemora affinis,Copepods,tachykinin-like peptides receptor 99D,104.76,N,114,26.53,12.44,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AFH53996.1,554,Insecta,Insecta,Periplaneta americana,American cockroach,D2-like dopamine receptor,104.38,N,114,26.53,12.4,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,VDP63765.1,22711,Trematoda,Trematoda,Schistosoma curassoni,Blood flukes,unnamed protein product,103.99,N,114,26.53,12.35,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AGN73481.1,231,Mammalia,Mammalia,Macaca fuscata,Japanese macaque,serotonin receptor type 1A,103.99,N,114,26.53,12.35,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,EGT40715.1,31595,Chromadorea,Chromadorea,Caenorhabditis brenneri,Caenorhabditis n. sp. CB5161,CBN-SER-2 protein,103.99,N,114,26.53,12.35,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,VDP23101.1,25608,Trematoda,Trematoda,Schistosoma margrebowiei,Blood flukes,unnamed protein product,103.99,N,114,26.53,12.35,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AGN73536.1,54,Mammalia,Mammalia,Macaca maura,Moor macaque,serotonin receptor type 1A,103.61,N,114,26.53,12.3,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AGN73531.1,944,Mammalia,Mammalia,Chlorocebus aethiops,Grivet,serotonin receptor type 1A,103.61,N,114,26.53,12.3,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AGN73532.1,150,Mammalia,Mammalia,Macaca assamensis,Assam macaque,serotonin receptor type 1A,103.61,N,114,26.53,12.3,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AGN73537.1,122,Mammalia,Mammalia,Macaca nigra,Celebes crested macaque,serotonin receptor type 1A,103.61,N,114,26.53,12.3,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AGN73533.1,63,Mammalia,Mammalia,Macaca cyclopis,Taiwan macaque,serotonin receptor type 1A,103.61,N,114,26.53,12.3,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AGN73535.1,114,Mammalia,Mammalia,Macaca silenus,Liontail macaque,serotonin receptor type 1A,103.61,N,114,26.53,12.3,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AGN73539.1,129,Mammalia,Mammalia,Macaca tonkeana,Tonkean macaque,serotonin receptor type 1A,103.61,N,114,26.53,12.3,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AGN73527.1,126,Mammalia,Mammalia,Macaca sylvanus,Barbary ape,serotonin receptor type 1A,103.61,N,114,26.53,12.3,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,XP_013299557.1,38484,Chromadorea,Chromadorea,Necator americanus,Roundworms,7 transmembrane receptor,103.22,N,114,26.53,12.26,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AZJ17878.1,195,Mammalia,Mammalia,Cricetulus barabensis,Striped dwarf hamster,5-hydroxytryptamine 1A receptor,103.22,N,114,26.53,12.26,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,CAL39151.1,314,Actinopteri,Actinopteri,Platichthys flesus,European flounder,"serotonin receptor, partial",103.22,N,114,26.53,12.26,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,GBP69514.1,96442,Insecta,Insecta,Eumeta japonica,Bagworm moths,Histamine H2 receptor,102.83,N,114,26.53,12.21,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,OTF84094.1,15267,Arachnida,Arachnida,Euroglyphus maynei,House-dust mites,7 transmembrane receptor (rhodopsin family)-like protein,102.45,N,114,26.53,12.17,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ADB27909.1,380,Mammalia,Mammalia,Ateles geoffroyi,Black-handed spider monkey,"trace amine-associated receptor 3, partial",102.06,N,114,26.53,12.12,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ALF99997.1,2292,Actinopteri,Actinopteri,Gasterosteus aculeatus,Three-spined stickleback,"melanocortin 5 receptor, partial",102.06,N,114,26.53,12.12,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ADB27907.1,138,Mammalia,Mammalia,Aotus azarai,Azara's night monkey,"trace amine-associated receptor 3, partial",102.06,N,114,26.53,12.12,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,PAV90071.1,38237,Chromadorea,Chromadorea,Diploscapter pachys,Roundworms,hypothetical protein WR25_14883,102.06,N,114,26.53,12.12,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ADO60279.1,84,Actinopteri,Actinopteri,Xiphophorus multilineatus,Livebearers,"melanocortin 4 receptor, partial",102.06,N,114,26.53,12.12,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ABY71758.1,615,Malacostraca,Malacostraca,Macrobrachium rosenbergii,Giant freshwater prawn,tyramine/octopamine receptor,101.68,N,114,26.53,12.08,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AAV74272.1,181,Mammalia,Mammalia,Saimiri boliviensis,Bolivian squirrel monkey,"dopamine receptor D2, partial",101.68,N,114,26.53,12.08,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ACP18773.1,575,Mammalia,Mammalia,Papio hamadryas,Hamadryas baboon,"trace amine-associated receptor 3, partial",101.29,N,114,26.53,12.03,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AFH58734.1,66,Mammalia,Mammalia,Oryx gazella,Gemsbok,melanocortin-3-receptor,100.91,N,114,26.53,11.98,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,BAI66445.1,84,Actinopteri,Actinopteri,Verasper moseri,Barfin flounder,melanocortin-5 receptor,100.91,N,114,26.53,11.98,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,BAU98233.1,67,Chondrichthyes,Chondrichthyes,Hemitrygon akajei,Red stingray,melanocortin 4 receptor,100.91,N,114,26.53,11.98,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AAK01977.1,48,Mammalia,Mammalia,Erethizon dorsatum,North American porcupine,"EDG1, partial",100.52,N,114,26.53,11.94,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ACE88680.1,66,Lepidosauria,Lepidosauria,Aspidoscelis inornatus,Little striped whiptail,serotonin receptor 2A,100.52,N,114,26.53,11.94,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AFH58733.1,108,Mammalia,Mammalia,Antidorcas marsupialis,Springbok,melanocortin-3-receptor,100.52,N,114,26.53,11.94,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,CDJ84191.1,19605,Chromadorea,Chromadorea,Haemonchus contortus,Barber pole worm,7TM GPCR domain containing protein,100.52,N,114,26.53,11.94,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AAO39833.1,521,Chondrichthyes,Chondrichthyes,Squalus acanthias,Spiny dogfish,melanocortin 4 receptor,100.52,N,114,26.53,11.94,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,VDN92421.1,14700,Chromadorea,Chromadorea,Brugia pahangi,Roundworms,"unnamed protein product, partial",100.52,N,114,26.53,11.94,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AFH58731.1,50,Mammalia,Mammalia,Tragelaphus imberbis,Lesser kudu,melanocortin-3-receptor,100.52,N,114,26.53,11.94,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AFH58732.1,70,Mammalia,Mammalia,Connochaetes taurinus,Brindled gnu,melanocortin-3-receptor,100.52,N,114,26.53,11.94,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AFH58730.1,72,Mammalia,Mammalia,Tragelaphus oryx,Eland,melanocortin-3-receptor,100.52,N,114,26.53,11.94,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AAB33553.1,46,Mammalia,Mammalia,Cavia,Guinea pigs,neurokinin 2 receptor,100.52,N,114,26.53,11.94,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AAK01976.1,33,Mammalia,Mammalia,Hystrix brachyura,Old World porcupines,"EDG1, partial",100.14,N,114,26.53,11.89,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,BAX02590.1,147,Actinopteri,Actinopteri,Trichiurus lepturus,Atlantic cutlassfish,melanopsin,100.14,N,114,26.53,11.89,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AFH58729.1,296,Mammalia,Mammalia,Syncerus caffer,African buffalo,melanocortin-3-receptor,100.14,N,114,26.53,11.89,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ABU96501.1,570,Amphibia,Amphibia,Rana temporaria,Common frog,"melanocortin 1 receptor, partial",99.75,N,114,26.53,11.85,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,VZI08433.1,22428,Cestoda,Cestoda,Sparganum proliferum,Tapeworms,unnamed protein product,98.98,N,114,26.53,11.76,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ABG37016.1,357,Mammalia,Mammalia,Elephas maximus,Asiatic elephant,melanocortin-3 receptor,98.98,N,114,26.53,11.76,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,BAT47031.1,53,Actinopteri,Actinopteri,Halichoeres tenuispinis,Chinese wrasse,dopamine receptor type 2,98.98,N,114,26.53,11.76,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,BAL72847.1,247,Insecta,Insecta,Phormia regina,Black blowfly,octopamine/tyramine receptor,98.98,N,114,26.53,11.76,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,RZC42666.1,15282,Insecta,Insecta,Asbolus verrucosus,Darkling ground beetles,7tm 1 domain containing protein,98.6,N,114,26.53,11.71,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AAK01980.1,28,Mammalia,Mammalia,Cavia tschudii,Montane guinea pig,"EDG1, partial",98.6,N,114,26.53,11.71,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AFH58735.1,52,Mammalia,Mammalia,Kobus leche,Lechwe,melanocortin-3-receptor,98.6,N,114,26.53,11.71,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AAU87970.1,664,Actinopteri,Actinopteri,Mugil cephalus,Flathead mullet,dopamine receptor D2,98.6,N,114,26.53,11.71,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,BAL73221.1,80,Actinopteri,Actinopteri,Halichoeres trimaculatus,Threespot wrasse,dopamine receptor D2,98.6,N,114,26.53,11.71,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AAK01997.1,361,Mammalia,Mammalia,Megaptera novaeangliae,Humpback whale,"EDG1, partial",98.6,N,114,26.53,11.71,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ABU96491.1,253,Amphibia,Amphibia,Rana arvalis,Moor frog,"melanocortin 1 receptor, partial",98.6,N,114,26.53,11.71,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ADX33286.1,423,Amphibia,Amphibia,Notophthalmus viridescens,Eastern newt,dopamine receptor 2,98.6,N,114,26.53,11.71,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AEO94902.1,45,Mammalia,Mammalia,Aepyprymnus rufescens,Rufous rat-kangaroo,"sphingosine-1-phosphate receptor 1, partial",98.6,N,114,26.53,11.71,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AXH38066.1,395,Arachnida,Arachnida,Cupiennius salei,Wandering spiders,putative dopamine receptor D2,98.6,N,114,26.53,11.71,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AKH66526.1,319,Mammalia,Mammalia,Phocoena phocoena,Harbor porpoise,melanocortin receptor 4,98.21,N,114,26.53,11.66,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KAF2883445.1,27570,Insecta,Insecta,Ignelater luminosus,Click beetles,hypothetical protein ILUMI_22730,98.21,N,114,26.53,11.66,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AOG14371.1,115,Malacostraca,Malacostraca,Cancer borealis,Jonah crab,"octopamine receptor alpha, partial",98.21,N,114,26.53,11.66,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,CAB0000006.1,24767,Insecta,Insecta,Nesidiocoris tenuis,Plant bugs,unnamed protein product,98.21,N,114,26.53,11.66,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AEP18431.1,230,Mammalia,Mammalia,Kogia breviceps,Pygmy sperm whale,"EDG1, partial",98.21,N,114,26.53,11.66,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ATU74796.1,9603,Insecta,Insecta,Anopheles gambiae,African malaria mosquito,allatostatin-A receptor 2,97.83,N,114,26.53,11.62,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AUM57515.1,66,Mammalia,Mammalia,Hexaprotodon liberiensis,Pygmy hippopotamus,melanocortin 5 receptor,97.83,N,114,26.53,11.62,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ADB23446.1,448,Mammalia,Mammalia,Saimiri sciureus,Common squirrel monkey,trace amine-associated receptor 3,97.83,N,114,26.53,11.62,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AJF39157.1,42,Insecta,Insecta,Polyrhachis vicina,Edible Chinese black ant,dopamine receptor D1,97.83,N,114,26.53,11.62,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,CAA49269.1,28,Insecta,Insecta,Locusta migratoria migratorioides,African migratory locust,G protein-coupled receptor,97.44,N,114,26.53,11.57,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,VDL88818.1,20287,Cestoda,Cestoda,Schistocephalus solidus,Tapeworms,unnamed protein product,97.44,N,114,26.53,11.57,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AFS30511.1,690,Actinopteri,Actinopteri,Anguilla japonica,Japanese eel,"dopamine receptor D2B, partial",97.44,N,114,26.53,11.57,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AOE48689.1,64,Insecta,Insecta,Helicoverpa armigera armigera,Cotton bollworm,tachykinin receptor A24,97.44,N,114,26.53,11.57,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KRX18992.1,17020,Enoplea,Enoplea,Trichinella nelsoni,Roundworms,Tachykinin-like peptides receptor 99D,97.44,N,114,26.53,11.57,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AFH58739.1,40,Mammalia,Mammalia,Equus burchellii quagga,Quagga,"melanocortin-3-receptor, partial",97.44,N,114,26.53,11.57,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AAK01968.1,80,Mammalia,Mammalia,Macroscelides proboscideus,Short-eared elephant shrew,"EDG1, partial",97.44,N,114,26.53,11.57,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AAK01965.1,168,Mammalia,Mammalia,Trichechus manatus,West Indian manatee,"EDG1, partial",97.06,N,114,26.53,11.53,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,OAF65914.1,8724,Rhopaluridae,Rhopaluridae,Intoshia linei,Metazoans,TaR-4,97.06,N,114,26.53,11.53,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,BAI39598.1,121,Actinopteri,Actinopteri,Takifugu alboplumbeus,Komon-damashi,melatonin receptor 1a 1.7,97.06,N,114,26.53,11.53,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ADD91574.1,420,Insecta,Insecta,Schistocerca gregaria,Desert locust,"putative GPCR-type octopamine alpha receptor, partial",97.06,N,114,26.53,11.53,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AEO94899.1,393,Mammalia,Mammalia,Petaurus breviceps,Sugar glider,"sphingosine-1-phosphate receptor 1, partial",97.06,N,114,26.53,11.53,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,TGZ70966.1,20942,Trematoda,Trematoda,Opisthorchis felineus,Cat liver fluke,hypothetical protein CRM22_002893,97.06,N,114,26.53,11.53,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AEO94931.1,94,Mammalia,Mammalia,Genetta genetta,Small-spotted genet,"sphingosine-1-phosphate receptor 1, partial",96.67,N,114,26.53,11.48,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,VDM75219.1,20957,Chromadorea,Chromadorea,Strongylus vulgaris,Bloodworm,unnamed protein product,96.67,N,114,26.53,11.48,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AHN92036.1,772,Actinopteri,Actinopteri,Megalobrama amblycephala,Wuchang bream,melanocortin receptor 5,96.67,N,114,26.53,11.48,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ACP18740.1,97,Mammalia,Mammalia,Nycticebus bengalensis,Bengal slow loris,"trace amine-associated receptor 4, partial",96.67,N,114,26.53,11.48,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,RJW71577.1,28618,Trematoda,Trematoda,Clonorchis sinensis,Oriental liver fluke,5-hydroxytryptamine receptor 1A,96.67,N,114,26.53,11.48,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AEO94941.1,63,Mammalia,Mammalia,Anomalurus beecrofti,Beecroft's scaly-tailed squirrel,"sphingosine-1-phosphate receptor 1, partial",96.67,N,114,26.53,11.48,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AEO94905.1,83,Mammalia,Mammalia,Tarsipes rostratus,Honey possum,"sphingosine-1-phosphate receptor 1, partial",96.29,N,114,26.53,11.43,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AXQ00024.1,20500,Trematoda,Trematoda,Schistosoma haematobium,Blood flukes,serotonergic GPCR,96.29,N,114,26.53,11.43,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,OON13863.1,43605,Trematoda,Trematoda,Opisthorchis viverrini,Southeast Asian liver fluke,7 transmembrane receptor,96.29,N,114,26.53,11.43,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KRZ17861.1,19285,Enoplea,Enoplea,Trichinella zimbabwensis,Roundworms,Tachykinin-like peptides receptor 99D,96.29,N,114,26.53,11.43,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,P49217.2,232,Mammalia,Mammalia,Phodopus sungorus,Djungarian hamster,RecName: Full=Melatonin receptor type 1A; Short=Mel-1A-R; Short=Mel1a receptor,95.9,N,114,26.53,11.39,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AFH58736.1,99,Mammalia,Mammalia,Dama dama,Fallow deer,melanocortin-3-receptor,95.9,N,114,26.53,11.39,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KRY37383.1,35911,Enoplea,Enoplea,Trichinella spiralis,Roundworms,Tachykinin-like peptides receptor 99D,95.9,N,114,26.53,11.39,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AEO94895.1,70,Mammalia,Mammalia,Rhyncholestes raphanurus,Chilean shrew opossum,"sphingosine-1-phosphate receptor 1, partial",95.9,N,114,26.53,11.39,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,VDO33521.1,21560,Chromadorea,Chromadorea,Haemonchus placei,Roundworms,unnamed protein product,95.9,N,114,26.53,11.39,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AEO94936.1,15,Mammalia,Mammalia,Ptilocercus lowii,Pen-tailed tree shrew,"sphingosine-1-phosphate receptor 1, partial",95.9,N,114,26.53,11.39,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KRX44731.1,18644,Enoplea,Enoplea,Trichinella murrelli,Trichinella sp. T5,Tachykinin-like peptides receptor 99D,95.9,N,114,26.53,11.39,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KRX81138.1,19492,Enoplea,Enoplea,Trichinella sp. T6,Roundworms,Tachykinin-like peptides receptor 99D,95.9,N,114,26.53,11.39,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AGO03817.1,1758,Actinopteri,Actinopteri,Epinephelus coioides,Orange-spotted grouper,melatonin receptor MT1,95.9,N,114,26.53,11.39,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KRZ75733.1,16253,Enoplea,Enoplea,Trichinella papuae,Roundworms,Tachykinin-like peptides receptor 99D,95.9,N,114,26.53,11.39,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,KRY52032.1,20888,Enoplea,Enoplea,Trichinella britovi,Roundworms,Tachykinin-like peptides receptor 99D,95.52,N,114,26.53,11.34,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,BAB87199.1,105,Polychaeta,Polychaeta,Urechis unicinctus,Spoonworms,urechistachykinin receptor,95.52,N,114,26.53,11.34,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AEO94904.1,33,Mammalia,Mammalia,Pseudochirops cupreus,Coppery ringtail possum,"sphingosine-1-phosphate receptor 1, partial",95.52,N,114,26.53,11.34,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,VDK87749.1,20032,Cestoda,Cestoda,Dibothriocephalus latus,Broad fish tapeworm,"unnamed protein product, partial",95.13,N,114,26.53,11.3,N,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ACT88171.1,13,Mammalia,Mammalia,Cercopithecus petaurista,Lesser white-nosed monkey,"EDG1, partial",94.74,N,114,26.53,11.25,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AAM97773.1,21,Mammalia,Mammalia,Arvicanthis ansorgei,Mice and others,"melatonin receptor MT1, partial",94.74,N,114,26.53,11.25,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ACP18728.1,213,Mammalia,Mammalia,Lutra lutra,Eurasian river otter,"trace amine-associated receptor 4, partial",94.74,N,114,26.53,11.25,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,AEO94903.1,46,Mammalia,Mammalia,Hypsiprymnodon moschatus,Musky rat kangaroo,"sphingosine-1-phosphate receptor 1, partial",94.74,N,114,26.53,11.25,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ABG77572.1,88,Actinopteri,Actinopteri,Siganus guttatus,Goldlined spinefoot,melatonin receptor 1A,94.36,N,114,26.53,11.21,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ACP18770.1,170,Mammalia,Mammalia,Varecia variegata,Ruffed lemur,"trace amine-associated receptor 4, partial",93.97,N,114,26.53,11.16,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
+5,ACP18733.1,123,Mammalia,Mammalia,Martes foina,Beach marten,"trace amine-associated receptor 4, partial",93.97,N,114,26.53,11.16,Y,2021 04 05 18:28:12,Y,Explore in ECOTOX
